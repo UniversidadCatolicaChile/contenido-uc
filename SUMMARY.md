@@ -74,7 +74,6 @@
 ## Extensión
 
 * [Vinculación con el territorio](extension/untitled.md)
-* [Untitled](extension/untitled-1.md)
 * [Guía de expertos](extension/guia-de-expertos.md)
 * [Más encuestas y estudios](extension/mas-encuestas-y-estudios.md)
 * [Servicios profesionales UC](extension/servicios-profesionales-uc.md)
@@ -124,15 +123,14 @@
 
 ## Footer
 
-* [Emergencias](footer/untitled/README.md)
-  * [Soy académico ¿qué debo hacer en caso de emergencia?](footer/untitled/soy-academico-que-debo-hacer-en-caso-de-emergencia.md)
-* [Untitled](footer/untitled-1.md)
+* [Emergencias](footer/emergencias/README.md)
+  * [Soy académico ¿qué debo hacer en caso de emergencia?](footer/emergencias/soy-academico-que-debo-hacer-en-caso-de-emergencia.md)
 * [Teléfonos UC](footer/telefonos-uc.md)
 
 ## Error 404
 
-* [Error 404](error-404/untitled.md)
-* [Untitled](error-404/untitled-1.md)
+* [Error 404](error-404/error-404.md)
+* [Untitled](error-404/untitled.md)
 
 ## UC Dialoga
 
