@@ -2,7 +2,7 @@
 
 ### Error 404
 
-**LO SENTIMOS, NO PUDIMOS LLEVARTE LA PÁGINA QUE QUERÍAS.**  
+**Lo sentimos, no pudimos llevarte a la página que querías.**  
 Puede que esta página no exista más o que hayas cometido un error al escribir.  
 Por favor, intenta de nuevo usando nuestro buscador.  
 \(caja de buscador\)
