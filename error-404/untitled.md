@@ -1,7 +1,3 @@
----
-description: Este contenido debe aparecer cada vez que una url no funcione.
----
-
 # Error 404
 
 **LO SENTIMOS, NO PUDIMOS LLEVARTE LA PÁGINA QUE QUERÍAS.**  

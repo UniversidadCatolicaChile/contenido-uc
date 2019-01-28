@@ -1,9 +1,3 @@
----
-description: >-
-  Los textos en italica son comentarios internos. Hay que borrarlos antes de
-  publicar.
----
-
 # Pregrado
 
 ## **Pregrado**

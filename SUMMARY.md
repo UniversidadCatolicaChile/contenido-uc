@@ -148,9 +148,7 @@
 
 ## Laudato sí
 
-* [Presentación](laudato-si/untitled.md)
-* [Untitled](laudato-si/untitled-1.md)
+* [Presentación](laudato-si/presentacion.md)
 * [Conoce la Encíclica](laudato-si/conoce-la-enciclica.md)
 * [Material para compartir](laudato-si/material-para-compartir.md)
-* [Untitled](laudato-si/untitled-2.md)
 
