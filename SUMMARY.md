@@ -41,7 +41,8 @@
 ## Programas de estudio
 
 * [Pregrado](programas-de-estudio/pregrado.md)
-* [Postgrado](programas-de-estudio/postgrado.md)
+* [Postgrado](programas-de-estudio/postgrado/README.md)
+  * [Listado de magísteres](programas-de-estudio/postgrado/listado-de-magisteres.md)
 * [Programa destacado 1](programas-de-estudio/programa-destacado-1.md)
 * [Programa destacado 2](programas-de-estudio/programa-destacado-2.md)
 * [Yo estudio en la UC \(testimonio\)](programas-de-estudio/yo-estudio-en-la-uc.md)
