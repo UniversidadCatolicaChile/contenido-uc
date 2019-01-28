@@ -1,2 +1,0 @@
-# Destacados header 3
-
