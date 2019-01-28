@@ -1,5 +1,7 @@
 # Error 404
 
+## Error 404
+
 **LO SENTIMOS, NO PUDIMOS LLEVARTE LA PÁGINA QUE QUERÍAS.**  
 Puede que esta página no exista más o que hayas cometido un error al escribir.  
 Por favor, intenta de nuevo usando nuestro buscador.  
