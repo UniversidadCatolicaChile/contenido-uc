@@ -1,5 +1,7 @@
 # Presentación
 
+## Presentación
+
 La **Encíclica Laudato sí**, fue presentada por el Papa Francisco el año 2015. En ella aborda:
 
 * La relación del ser humano con la naturaleza.
