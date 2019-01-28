@@ -20,6 +20,15 @@
 3. Inmediatamente después de llamar, **el jefe directo debe completar y enviar el** [**Reporte de Accidente**](http://personal.uc.cl/seguridad-y-salud-en-el-trabajo/prevencion-de-riesgos/reporte-de-accidente-del-trabajo-o-enfermedad-profesional) \(on-line\). El reporte de accidente es enviado en forma automática a ADLAT y al Departamento de Prevención de Riesgos.
 4. Una vez recibido el reporte de accidente, el Departamento de **Prevención de Riesgos iniciará el procedimiento para la investigación** del accidente laboral.
 
+Paralelamente,  **puede llamar al número destinado para emergencias:**
+
+* desde teléfonos fijos en la UC al anexo **5000**
+* desde celulares al [**22 345 5000**](tel:+56223545000) 
+* desde teléfonos fijos fuera de la UC al [**22 345 5000**](tel:+56223545000)
+* avisar al guardia más cercano. 
+
+**Quédese donde está y espere que la enfermera y el encargado de vigilancia lleguen al lugar.**
+
 ### Importante
 
 * El reporte de accidente debe ser completado y enviado solo por el jefe directo. 

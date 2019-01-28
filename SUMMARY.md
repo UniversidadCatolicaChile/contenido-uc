@@ -126,6 +126,7 @@
 * [Emergencias](footer/emergencias/README.md)
   * [Soy académico ¿qué debo hacer en caso de emergencia?](footer/emergencias/soy-academico-que-debo-hacer-en-caso-de-emergencia.md)
   * [Soy estudiante ¿qué debo hacer en caso de emergencia?](footer/emergencias/soy-estudiante-que-debo-hacer-en-caso-de-emergencia.md)
+  * [Soy funcionario ¿qué debo hacer en caso de emergencia?](footer/emergencias/soy-funcionario-que-debo-hacer-en-caso-de-emergencia.md)
 * [Teléfonos UC](footer/telefonos-uc.md)
 
 ## Error 404
