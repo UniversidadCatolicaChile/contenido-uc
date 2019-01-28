@@ -18,8 +18,8 @@
 * [UC en los medios](home/uc-en-los-medios.md)
 * [Medios de prensa](home/medios-de-prensa.md)
 * [Visión UC](home/vision-uc.md)
-* [Medios de prensa](home/medios-de-prensa-1.md)
 * [Listado de redes sociales](home/listado-de-redes-sociales.md)
+* [Medios de prensa](home/medios-de-prensa-1.md)
 * [Te invitamos](home/te-invitamos/README.md)
   * [evento 1](home/te-invitamos/evento-1.md)
   * [evento 2](home/te-invitamos/evento-2.md)
@@ -54,11 +54,11 @@
 ## Investigación
 
 * [Historia de una investigación](investigacion/untitled.md)
-* [Untitled](investigacion/untitled-1.md)
 * [Yo investigo en la UC](investigacion/yo-investigo-en-la-uc/README.md)
   * [Investigador 1](investigacion/yo-investigo-en-la-uc/investigador-1-1.md)
   * [Investigador 2](investigacion/yo-investigo-en-la-uc/investigador-2.md)
   * [Investigador 3](investigacion/yo-investigo-en-la-uc/investigador-3.md)
+* [Untitled](investigacion/untitled-1.md)
 
 ## Facultades, escuelas e institutos
 
@@ -68,8 +68,8 @@
   * [noticia 3](facultades-escuelas-e-institutos/untitled/noticia-3.md)
   * [noticia 4](facultades-escuelas-e-institutos/untitled/noticia-4.md)
   * [noticia 5](facultades-escuelas-e-institutos/untitled/noticia-5.md)
-* [Untitled](facultades-escuelas-e-institutos/untitled-1.md)
 * [Escuelas: sigue explorando](facultades-escuelas-e-institutos/escuelas-sigue-explorando.md)
+* [Untitled](facultades-escuelas-e-institutos/untitled-1.md)
 
 ## Extensión
 
@@ -82,8 +82,8 @@
 ## Universidad
 
 * [Hechos y cifras](universidad/untitled.md)
-* [Untitled](universidad/untitled-1.md)
 * [Historia](universidad/historia.md)
+* [Untitled](universidad/untitled-1.md)
 
 ## Información para FUTUROS ALUMNOS
 
@@ -97,8 +97,8 @@
 ## Información para Académicos
 
 * [Profesores titulares](informacion-para-academicos/untitled.md)
-* [Untitled](informacion-para-academicos/untitled-1.md)
 * [Profesores eméritos](informacion-para-academicos/profesores-emeritos.md)
+* [Untitled](informacion-para-academicos/untitled-1.md)
 
 ## Información para Alumni
 
