@@ -14,11 +14,17 @@ Cuando entras a la UC, no sólo te desafiamos intelectualmente, sino que tambié
 * \*\*\*\*[**1ª universidad en Latinoamerica**](https://www.topuniversities.com/universities/pontificia-universidad-catolica-de-chile-uc/undergrad)\*\*\*\*
 * \*\*\*\*[**132ª a nivel mundial**](https://www.topuniversities.com/universities/pontificia-universidad-catolica-de-chile-uc/undergrad)\*\*\*\*
 * [**387 convenios de intercambio**](http://relacionesinternacionales.uc.cl/)\*\*\*\*
+* \*\*\*\*[**57 carreras de pregrado**](http://admisionyregistros.uc.cl/alumnos/programas-estudio/carreras-y-programas2/fichas-carreras)\*\*\*\*
+* \*\*\*\*[**87% de retención en primer año**](http://uctransparente.uc.cl/index.php?option=com_content&view=article&id=197&Itemid=1373)\*\*\*\*
 * 26.197 alumnos regulares
 * 53,5% de los puntajes nacionales postulan a la UC
 * 5 campus: 4 en Santiago y 1 en Villarrica
 * 121 mil m2 de parques
 * 82.800 m2 de infraestructura deportiva
+
+[Carreras de pregrado](http://admisionyregistros.uc.cl/alumnos/programas-estudio/carreras-y-programas2/fichas-carreras)
+
+[Nivel del empleabilidad de las carreras de pregrado](http://uctransparente.uc.cl/index.php?option=com_content&view=article&id=197&Itemid=1373)
 
 ### **Financiamiento:**
 
