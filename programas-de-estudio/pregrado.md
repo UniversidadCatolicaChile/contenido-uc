@@ -1,3 +1,9 @@
+---
+description: >-
+  Tratamos de responder la pregunta ¿por qué estudiar un pregrado en la UC? Foco
+  principal: Futuros alumnos.
+---
+
 # Pregrado
 
 ## **Pregrado**
@@ -24,7 +30,7 @@ Cuando entras a la UC, no sólo te desafiamos intelectualmente, sino que tambié
 
 [Carreras de pregrado](http://admisionyregistros.uc.cl/alumnos/programas-estudio/carreras-y-programas2/fichas-carreras)
 
-[Nivel del empleabilidad de las carreras de pregrado](http://uctransparente.uc.cl/index.php?option=com_content&view=article&id=197&Itemid=1373)
+[Nivel de empleabilidad de las carreras de pregrado](http://uctransparente.uc.cl/index.php?option=com_content&view=article&id=197&Itemid=1373)
 
 ### **Financiamiento:**
 
