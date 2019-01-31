@@ -83,6 +83,17 @@
 
 * [Hechos y cifras](universidad/hechos-y-cifras.md)
 * [Historia](universidad/historia.md)
+* [Campus](universidad/campus.md)
+* [Campus Oriente](universidad/campus-oriente.md)
+* [Campus San Joaquín](universidad/campus-san-joaquin.md)
+* [Campus Casa Central](universidad/campus-casa-central.md)
+* [Campus Lo Contador](universidad/campus-lo-contador.md)
+* [Campus Villarrica](universidad/campus-villarrica.md)
+* [Símbolos Identitarios](universidad/simbolos-identitarios.md)
+* [Código de Honor](universidad/codigo-de-honor.md)
+* [Plan de Desarrollo](universidad/plan-de-desarrollo.md)
+* [Listado de Premios Nacionales](universidad/listado-de-premios-nacionales.md)
+* [Untitled](universidad/untitled.md)
 
 ## Información para FUTUROS ALUMNOS
 
