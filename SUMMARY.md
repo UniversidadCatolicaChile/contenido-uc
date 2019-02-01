@@ -251,6 +251,7 @@
 
 ## Laudato sí
 
+* [Inicio](laudato-si/inicio.md)
 * [Presentación](laudato-si/presentacion.md)
 * [Conoce la Encíclica](laudato-si/conoce-la-enciclica.md)
 * [Material para compartir](laudato-si/material-para-compartir.md)
