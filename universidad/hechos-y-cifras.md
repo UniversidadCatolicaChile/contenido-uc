@@ -1,6 +1,6 @@
 # Hechos y cifras
 
-## Nuestras Cifras
+## Nuestras cifras
 
 _\(Falta un texto introductorio\)_
 
