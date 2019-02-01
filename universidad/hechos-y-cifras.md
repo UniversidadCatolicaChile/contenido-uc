@@ -2,6 +2,8 @@
 
 ## Nuestras Cifras
 
+_\(Falta un texto introductorio\)_
+
 ### Medidas de nuestra excelencia
 
 [Nº 1 en Latinoamérica. Ranking QS 2019](https://www.topuniversities.com/universities/pontificia-universidad-catolica-de-chile-uc/undergrad)
