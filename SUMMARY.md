@@ -30,7 +30,7 @@
   * [evento 8](home/te-invitamos/evento-8.md)
   * [evento 9](home/te-invitamos/evento-9.md)
   * [evento 10](home/te-invitamos/evento-10.md)
-* [Listado de Magíster](home/listado-de-magister.md)
+* [Listado de magíster](home/listado-de-magister.md)
 * [Listado de postítulo](home/listado-de-postitulo.md)
 * [Programas interdisciplinarios](home/programas-interdisciplinarios.md)
 * [Vida universitaria](home/vida-universitara/README.md)
