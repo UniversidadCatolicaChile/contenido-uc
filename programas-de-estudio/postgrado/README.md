@@ -27,6 +27,8 @@ Puedes postular a **becas** que cubran tu arancel en parte o por completo.
 
 La UC te ofrece una serie de **beneficios de salud** cuando eres alumno de postgrado. [Revísalos aquí](http://doctorados.uc.cl/es/estudiantes/seguro-y-salud).
 
+El sistema de [Salud Estudiantil ](http://saludestudiantil.uc.cl/)también ofrece atención médica, dental y psicológica.
+
 #### Pase escolar
 
 También puedes acceder a la **Tarjeta nacional estudiantil**. [Revisa los pasos que debes seguir.](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/pase-escolar#alumnos-postgrado)
