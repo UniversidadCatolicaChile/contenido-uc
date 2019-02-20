@@ -2,7 +2,11 @@
 
 ## Nuestras cifras
 
-_\(Falta un texto introductorio\)_
+Presentamos algunas de las cifras que dan cuenta del quehacer de la Universidad Católica en distintos ámbitos: la comunidad que la compone, qué estudiantes optan por estudiar aquí, de qué forma son apoyados, los reconocimientos que ha recibido la institución, entre otros.
+
+Si buscas antecedentes más detallados, puedes revisar el [Anuario institucional](http://acreditacion.uc.cl/documentos/informes-y-estudios/doc_download/123-anuario-institucional-20162017.html).
+
+También puedes visitar otras instancias que dan cuenta de nuestra identidad, como \[nuestra historia\], los \[símbolos identitatarios\] o el \[código de honor\].
 
 ### Medidas de nuestra excelencia
 
