@@ -5,19 +5,19 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Avisa al guardia más cercano</th>
-      <th style="text-align:left">Llama al número de emergencias</th>
+      <th style="text-align:left">Avisa al guardia m&#xE1;s cercano</th>
+      <th style="text-align:left">Llama al n&#xFA;mero de emergencias</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Úbicalos en las entradas de nuestros campus.</td>
+      <td style="text-align:left">&#xDA;bicalos en las entradas de nuestros campus.</td>
       <td style="text-align:left">
         <p></p>
         <ul>
-          <li>Anexo 5000: desde teléfonos fijos en la UC</li>
+          <li>Anexo 5000: desde tel&#xE9;fonos fijos en la UC</li>
           <li>+ 56 22 354 50 00: desde celulares</li>
-          <li>+ 22 354 50 00: desde teléfonos fijos fuera de la UC</li>
+          <li>+ 22 354 50 00: desde tel&#xE9;fonos fijos fuera de la UC</li>
         </ul>
       </td>
     </tr>
