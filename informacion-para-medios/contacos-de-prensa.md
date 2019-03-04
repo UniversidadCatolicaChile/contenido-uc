@@ -22,7 +22,7 @@ _Ejemplo de Card:_
 
 Contacto:
 
-Teléfono: +56 22 3542384
+Teléfono: `<a href="tel:%56223542384">+56223542384 </a>`
 
 Correo electrónico: msotoagu@uc.cl
 

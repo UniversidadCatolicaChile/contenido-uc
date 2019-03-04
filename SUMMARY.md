@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introducción](README.md)
-* [Untitled](untitled.md)
 
 ## Home
 

@@ -1,5 +1,5 @@
 ---
-description: Este es solo un experimento de linkear los teléfonp
+description: Este es solo un experimento de linkear los teléfonos
 ---
 
 # Teléfonos UC
