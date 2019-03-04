@@ -81,7 +81,7 @@
 
 ## Universidad
 
-* [Hechos y cifras](universidad/hechos-y-cifras.md)
+* [Nuestras cifras\*](universidad/hechos-y-cifras.md)
 * [Organización](universidad/organizacion/README.md)
   * [Gran Cancillería](universidad/organizacion/gran-cancilleria/README.md)
     * [Gran Canciller](universidad/organizacion/gran-cancilleria/gran-canciller.md)
@@ -226,16 +226,19 @@
 ## Footer
 
 * [Emergencias](footer/emergencias/README.md)
+  * [Mensaje en caso de emergencia](footer/emergencias/mensaje-en-caso-de-emergencia.md)
+  * [Mensaje en caso de NO emergencia](footer/emergencias/mensaje-en-caso-de-no-emergencia.md)
   * [Soy académico ¿qué debo hacer en caso de emergencia?](footer/emergencias/soy-academico-que-debo-hacer-en-caso-de-emergencia.md)
   * [Soy estudiante ¿qué debo hacer en caso de emergencia?](footer/emergencias/soy-estudiante-que-debo-hacer-en-caso-de-emergencia.md)
   * [Soy funcionario ¿qué debo hacer en caso de emergencia?](footer/emergencias/soy-funcionario-que-debo-hacer-en-caso-de-emergencia.md)
   * [Manuales](footer/emergencias/manuales.md)
-* [Teléfonos UC](footer/telefonos-uc.md)
+* [Teléfonos UC](footer/telefonos-uc/README.md)
+  * [Teléfonos UC](footer/telefonos-uc/telefonos-uc.md)
+* [Untitled](footer/untitled.md)
 
 ## Error 404
 
 * [Error 404](error-404/error-404.md)
-* [Untitled](error-404/untitled.md)
 
 ## UC Dialoga
 

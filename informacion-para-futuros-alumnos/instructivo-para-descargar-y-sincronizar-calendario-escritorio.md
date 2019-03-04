@@ -12,6 +12,8 @@ Esta opción también está disponible para **dispositivos móviles**. [Las inst
 
 ### ¿Qué calendario utilizas?
 
+A continuación te explicamos cómo sincronizar el calendario para los distintos tipos de plataforma.
+
 #### Google Calendar
 
 Si utilizas [**Google Calendar**](http://www.google.com/calendar) sigue los siguientes pasos:

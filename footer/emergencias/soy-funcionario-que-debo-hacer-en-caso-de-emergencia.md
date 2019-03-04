@@ -1,6 +1,6 @@
 # Soy funcionario ¿qué debo hacer en caso de emergencia?
 
-## Soy funcionario ¿qué debo hacer en caso de emergencia?
+## Soy funcionario. Lo que debo saber en caso de emergencia
 
 ### ¿Qué hacer en caso de accidente del trabajo y/o enfermedad profesional?
 

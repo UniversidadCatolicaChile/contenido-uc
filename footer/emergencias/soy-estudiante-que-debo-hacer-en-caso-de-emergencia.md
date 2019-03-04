@@ -1,6 +1,6 @@
 # Soy estudiante ¿qué debo hacer en caso de emergencia?
 
-## Soy estudiante ¿qué debo hacer en caso de emergencia?
+## Soy estudiante. Lo que debo saber en caso de emergencia
 
 ### **¿Qué debo hacer si tengo una emergencia de salud en mi campus?**
 

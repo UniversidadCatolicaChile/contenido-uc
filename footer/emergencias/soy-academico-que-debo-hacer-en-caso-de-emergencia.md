@@ -1,6 +1,6 @@
 # Soy académico ¿qué debo hacer en caso de emergencia?
 
-## Soy académico ¿qué debo hacer en caso de emergencia?
+## Soy académico. Lo que debo saber en caso de emergencia
 
 ### ¿Qué hacer si un estudiante sufre una emergencia en mi clase?
 

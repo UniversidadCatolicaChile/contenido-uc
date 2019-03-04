@@ -1,4 +1,4 @@
-# Hechos y cifras
+# Nuestras cifras\*
 
 ## Nuestras cifras
 
@@ -7,6 +7,10 @@ Presentamos algunas de las cifras que dan cuenta del quehacer de la Universidad 
 Si buscas antecedentes más detallados, puedes revisar el [Anuario institucional](http://acreditacion.uc.cl/documentos/informes-y-estudios/doc_download/123-anuario-institucional-20162017.html).
 
 También puedes visitar otras instancias que dan cuenta de nuestra identidad, como \[nuestra historia\], los \[símbolos identitatarios\] o el \[código de honor\].
+
+Si buscas antecedentes más detallados, puedes revisar el [Anuario institucional](http://acreditacion.uc.cl/documentos/informes-y-estudios/doc_download/123-anuario-institucional-20162017.html).
+
+También puedes visitar otras instancias que dan cuenta de nuestra identidad, como, nuestra historia, los [símbolos identitatarios](https://www.uc.cl/es/la-universidad/simbolos-identitarios) o el [código de honor](https://www.uc.cl/codigodehonor) de [nuestra Universidad](https://www.uc.cl/es/la-universidad/historia).
 
 ### Medidas de nuestra excelencia
 
@@ -24,7 +28,7 @@ También puedes visitar otras instancias que dan cuenta de nuestra identidad, co
 
 #### [Otras cifras interesantes ](https://docs.google.com/spreadsheets/d/1cVsPqB04ykTrV-uLlvOeSeDbD4IqwJf5XGnD_lH5RkU/edit#gid=1116960644)
 
-### Admisión y egreso: Los que entran y los que salen
+### Admisión y egreso
 
 [¿Cuántos alumnos se matricularon en primer año?](https://docs.google.com/spreadsheets/d/1cVsPqB04ykTrV-uLlvOeSeDbD4IqwJf5XGnD_lH5RkU/edit#gid=1279431747)
 
@@ -84,9 +88,9 @@ Si quieres saber cuáles son los [programas de magíster, doctorado y especialid
 
 ### Inclusión: ampliamos oportunidades
 
-[¿Cuántos alumnos participan de los programas de inclusión que tiene la universidad?](https://docs.google.com/spreadsheets/d/1cVsPqB04ykTrV-uLlvOeSeDbD4IqwJf5XGnD_lH5RkU/edit#gid=288772115)
+[Alumnos que han ingresado según programa](https://docs.google.com/spreadsheets/d/1cVsPqB04ykTrV-uLlvOeSeDbD4IqwJf5XGnD_lH5RkU/edit#gid=288772115)
 
-_\(En este punto falta más información\)_
+_\(En este punto falta más información: se debe agregar info de Piane o de otras formas de admisión como la intercultural o de NEE\)_
 
 
 
