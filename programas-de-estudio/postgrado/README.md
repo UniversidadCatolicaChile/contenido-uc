@@ -67,7 +67,10 @@ Porque estamos comprometidos con la creación de nuevo conocimiento de frontera,
 
 La Escuela de Odontología UC ofrece cinco especialidades para formar especialistas con sólidos fundamentos científicos y alto nivel de competencias clínicas. [Revisa las especialidades odontológicas aquí. ](https://odontologia.uc.cl/postgrado/especialidades/)
 
-
+{% hint style="info" %}
+Enlace al wireframe de UXPin:  
+[https://preview.uxpin.com/34b6fc1ebc1db9b8fb699e7b2c283d8e889c3b5a\#/pages/104215723/simulate/no-panels?mode=i](https://preview.uxpin.com/34b6fc1ebc1db9b8fb699e7b2c283d8e889c3b5a#/pages/104215723/simulate/no-panels?mode=i)
+{% endhint %}
 
 
 
