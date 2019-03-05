@@ -6,7 +6,7 @@ Historiadora chilena de gran trayectoria.
 
 #### Carrera académica
 
-**Se licenció en Historia en 1977, en la Pontificia Universidad Católica. Luego cursó un Master of Arts en la Universidad de Yale \(198**2\). 
+**Se licenció en Historia en 1977, en la Pontificia Universidad Católica. Luego cursó un Master of Arts en la Universidad de Yale \(1982\)**. 
 
 En 1993 obtuvo su doctorado en Historia en la UC, institución donde también ha trabajado como profesora e investigadora.
 
