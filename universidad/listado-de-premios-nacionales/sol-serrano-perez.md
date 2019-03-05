@@ -28,7 +28,7 @@ Sol Serrano también cuenta con obras colectivas, como "Chile en el siglo XX” 
 
 #### Participación en espacios públicos:
 
-Además de su trayectoria académica y como investigadora, el veredicto del Premio Nacional de Historia consideró su aporte en distintos espacios públicos. Algunos de ellos fueron:
+Además de su trayectoria académica y como investigadora, el veredicto del Premio Nacional de Historia consideró su aporte en distintos espacios públicos. Algunos de ellos han sido:
 
 * la Mesa de Diálogo en Derechos Humanos
 * el Consejo Asesor Presidencial para la Educación
