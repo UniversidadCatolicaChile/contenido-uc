@@ -48,3 +48,5 @@ Ha sido miembro asociado de las siguientes instituciones:
 * Universidad de la Sorbona
 * David Rockefeller Center For Latin American Studies de Harvard University. 
 
+Es posible conocer sobre [Sol Serrano, su historia personal y sus opiniones, en este artículo de Revista Caras.](http://www.caras.cl/sociedad/sol-serrano-hace-memoria/)
+
