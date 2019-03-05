@@ -1,5 +1,7 @@
 # Sol Serrano Pérez
 
+![Sol Serrano, Premio Nacional de Historia 2018](../../.gitbook/assets/_mg_8520.jpg)
+
 ### Sol Serrano Pérez
 
 Historiadora chilena de gran trayectoria. 
