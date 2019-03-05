@@ -26,6 +26,8 @@ Una de las publicaciones más renombradas de la historiadora es "Universidad y N
 
 Sol Serrano también cuenta con obras colectivas, como "Chile en el siglo XX” \(1985\), escrita junto a Cristián Gazmuri y Mariana Aylwin. E “Historia de la Educación en Chile, tomo 1, 2 y 3” editados junto a Macarena Ponce de León y Francisca Rengifo.
 
+En el sitio de Memoria Chilena se pueden encontrar [más publicaciones de Sol Serrano.](http://www.memoriachilena.gob.cl/602/w3-propertyvalue-127431.html)
+
 #### Participación en espacios públicos:
 
 Además de su trayectoria académica y como investigadora, el veredicto del Premio Nacional de Historia consideró su aporte en distintos espacios públicos. Algunos de ellos han sido:
