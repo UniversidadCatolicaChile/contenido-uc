@@ -61,12 +61,12 @@ Miryam Singer
 
 ![](../../../.gitbook/assets/myriam-singer-directora-artes-ycultura.jpg)
 
-#### Director Centro de Innovación UC Anacleto Angelini
+#### Director Ejecutivo del Centro de Innovación UC Anacleto Angelini
 
-Alfonso Gómez
+Conrad von Igel  
 
-\[Foto\]  
 
+![Conrad Von Iguel, Director del Centro de Innovaci&#xF3;n UC](../../../.gitbook/assets/conrad-von-igel-director-centro-innovacion-uc.jpg)
 
 #### Directora Ética UC para la investigación
 
