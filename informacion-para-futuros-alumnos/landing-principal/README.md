@@ -48,7 +48,13 @@ En esta sección:
 
 [Evento 10](toma-nota-de-estas-fechas/evento-10.md)
 
+#### Descarga los calendarios
 
+* [Postulante](https://calendar.google.com/calendar/ical/uc.cl_3ri0ouia11aqeobsp4d5tu4f44%40group.calendar.google.com/public/basic.ics)
+* [Postulante de intercambio](https://calendar.google.com/calendar/ical/uc.cl_ub2afrt81huul3s52aff6sb664%40group.calendar.google.com/public/basic.ics)
+* [Alumno internacional](https://calendar.google.com/calendar/ical/uc.cl_c51rrqpdsriq5fdib5307u3lk8%40group.calendar.google.com/public/basic.ics)
+* [Calendario académico](https://calendar.google.com/calendar/ical/uc.cl_6kvactld6hhehsg57rbl9kq64k%40group.calendar.google.com/public/basic.ics)
+* [Instructivo calendario académico](../instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
 
 
 
