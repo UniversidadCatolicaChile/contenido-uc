@@ -84,6 +84,15 @@ En esta sección:
 5. **¿Dónde puedo ver la oferta de cursos de capacitación?** Infórmate sobre la oferta de cursos \(link\) y diplomados \(link\) que ofrece la UC.
 6. **Estoy interesado/a en un programa de doctorado. ¿Qué requisitos debo cumplir para postular?** Para postular a un Programa de Doctorado, se requiere estar en posesión de los grados académicos de Licenciado \(o equivalente\) y/o Magíster. Cada programa de doctorado cuenta con su propio sistema de admisión y calendario de postulaciones, los que se pueden consultar directamente en el sitio web de cada programa. Revisa más detalles [en este enlace](http://doctorados.uc.cl/es/admision/requisitos-y-procedimientos).
 
+#### Becas y beneficios:
+
+1. **¿Cómo puedo ver si el programa de estudio que me interesa está acreditado?** Puedes revisar el estado de acreditación de los programas de [pregrado](http://uctransparente.uc.cl/index.php?option=com_content&view=article&id=171%3Aacreditacion-nacional&catid=197%3Aacreditacion&Itemid=1269), de [magíster](http://uctransparente.uc.cl/index.php?option=com_content&view=article&id=169%3Aacreditacion-nacional&catid=197%3Aacreditacion&Itemid=1269), de [doctorado](http://uctransparente.uc.cl/index.php?option=com_content&view=article&id=145%3Aacreditacion-nacional-doctorado&catid=197%3Aacreditacion&Itemid=1269) y de [especialidades médicas](http://uctransparente.uc.cl/index.php?option=com_content&view=article&id=153%3Aacreditacion-nacional&catid=197%3Aacreditacion&Itemid=1269). 
+2. **Quiero estudiar un programa de pregrado. ¿A qué tipo de becas puedo postular en la UC?** Si piensas estudiar una carrera de pregrado, en la UC te ofrecemos distintos beneficios a los que puedes optar: [premios UC](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel#premios-uc), [becas de arancel](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel#becas-de-arancel-uc), [becas del Ministerio de Educación](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel#becas-ministerio-de-educacion) y [becas entregadas por organismos externos](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel#becas-externas). 
+3. Quiero postular un programa de postgrado y/o postítulo. ¿A qué tipo de becas puedo postular en la UC?
+4. ¿Cómo puedo postular a la Beca de Excelencia Académica? 
+5.  ¿Hay becas para extranjeros en la UC? 
+6. ¿Los cursos en la UC tienen código SENCE?
+
 
 
 
