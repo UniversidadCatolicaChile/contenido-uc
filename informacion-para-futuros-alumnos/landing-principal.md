@@ -12,7 +12,12 @@ Buscamos personas **talentosas, inquietas, con orientación social e interés po
 
 En esta sección:
 
-
+* Lo más consultado
+* Toma nota de estas fechas
+* Preguntas frecuentes
+* Lo que todo futuro alumno debe saber
+* Más información para ti
+* ¿Tienes dudas? Contáctanos
 
 
 
