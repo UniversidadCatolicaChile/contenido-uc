@@ -56,6 +56,24 @@ En esta sección:
 * [Calendario académico](https://calendar.google.com/calendar/ical/uc.cl_6kvactld6hhehsg57rbl9kq64k%40group.calendar.google.com/public/basic.ics)
 * [Instructivo calendario académico](../instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
 
+### Preguntas frecuentes \[ver más\]
+
+#### Situación académica
+
+1. **Soy de otra universidad y quiero estudiar en la UC, ¿cuáles son los pasos a seguir?** En [este enlace](http://admisionyregistros.uc.cl/futuros-alumnos/admision-especial/casos-de-postulacion/cambio-de-carrera-y-universidad) podrás encontrar los requisitos y pasos a seguir para continuar sus estudios en la UC.
+2. **Soy extranjero y quiero estudiar en la UC. ¿Cómo lo puedo hacer?** Revisa todos los casos de postulación de alumno internacional [aquí](http://admisionyregistros.uc.cl/futuros-alumnos/alumno-internacional).
+3. **Estoy finalizando mis estudios en el instituto Duoc UC, ¿cómo puedo seguir mis estudios en la universidad?** La UC mantiene vigente un convenio con el Instituto Profesional Duoc UC, en el cual los titulados de carreras profesionales de esta institución pueden postular, vía admisión especial, a cualquiera de las carreras que imparte nuestra casa de estudios. Para obtener mayor información sobre esta vía de postulación, ingresa [aquí](http://admisionyregistros.uc.cl/futuros-alumnos/admision-especial/casos-de-postulacion/egresados-o-titulados). 
+4. **Hice mi enseñanza media en el extranjero, ¿puedo estudiar en la UC?** Si realizaste tus estudios de enseñanza media en el extranjero y quieres postular a la UC, revisa los requisitos de postulación en [este enlace](http://admisionyregistros.uc.cl/futuros-alumnos/admision-especial/casos-de-postulacion/ensenanza-media-en-el-extranjero).
+5. **Quiero hacer mi intercambio en la UC, ¿cómo puedo postular?** Encuentra [aquí](http://relacionesinternacionales.uc.cl/alumnos-internacionales/programas-de-intercambio-y-movilidad) toda la información para participar en algún programa de movilidad para estudiar en la UC.
+
+#### Programas de estudios
+
+1. **¿Dónde puedo revisar el listado de programas de estudio de la UC?** En esta sección _\(enlace a sección programas de estudio\)_ podrás conocer los distintos programas de pregrado, postgrado, postítulo y educación continua que ofrece la universidad. 
+2. **¿Cómo puedo estudiar en un programa interdisciplinario de la UC?** Cada uno de los programas interdisciplinarios tiene un proceso de admisión y postulación diferentes. Te invitamos a conocer [nuestros programas](../../home/programas-interdisciplinarios.md) y a revisar cuál es su proceso de postulación. 
+3. **¿Puedo estudiar idiomas en la UC?** Sí, existen cursos de idiomas en la UC. Puedes estudiar inglés, chino mandarín o alguno de los distintos cursos que ofrece la Facultad de Letras. 
+
+
+
 
 
 
