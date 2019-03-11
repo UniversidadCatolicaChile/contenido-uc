@@ -93,6 +93,14 @@ En esta sección:
 5.  **¿Hay becas para extranjeros en la UC?** Si eres estudiante de intercambio, la UC tiene becas de matrícula para Universidades Católicas de América Latina, red CINDA y Universidades Católicas de Chile. Si estás interesado en este beneficio, visita [este enlace](http://relacionesinternacionales.uc.cl/alumnos-internacionales/redes-y-universidades-con-convenio/redes). Para más consultas, puedes escribir a [exchange@uc.cl](mailto:exchange@uc.cl).
 6. **¿Los cursos en la UC tienen código SENCE?** La mayoría de los cursos están reconocidos por Sence y permiten franquicia tributaria. Revísalo en el detalle de cada curso, [en este enlace](http://www.diplomados.uc.cl/). 
 
+#### Explora la UC
+
+1. **¿Cuáles son los campus UC?** En [este enlace](../../universidad/campus/) conoce la historia y detalles de los cinco campus de la UC: [Casa Central](../../universidad/campus/campus-casa-central.md), [Lo Contador](../../universidad/campus/campus-lo-contador.md), [Oriente](../../universidad/campus/campus-oriente.md), [San Joaquín](../../universidad/campus/campus-san-joaquin.md) y [Villarrica](../../universidad/campus/campus-villarrica.md). 
+2. **¿En qué campus queda la carrera que estudiaré?** En [este enlace](../../universidad/campus/) puedes revisar qué facultades encontrarás en cada uno de los campus UC. 
+3. Quiero visitar la UC con mi colegio, ¿cómo lo puedo hacer?
+4. Quiero que la UC visite la feria estudiantil de mi colegio, ¿es posible? 
+5. ¿Qué actividades para futuros estudiantes puedo encontrar en la UC?
+
 
 
 
