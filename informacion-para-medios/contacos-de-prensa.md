@@ -26,3 +26,33 @@ Teléfono: `<a href="tel:%56223542384">+56223542384 </a>`
 
 Correo electrónico: msotoagu@uc.cl
 
+#### Rafael Zanetta
+
+Áreas que cubre:
+
+* Instagram UC
+* Vicerrectoría Académica
+  * Talento e inclusión
+  * Penta UC
+  * Pace UC
+  * Dara
+  * Dase
+  * Admisión
+* Facultad de Ciencias Económicas y Administrativas
+* Facultad de Arquitectura, Diseño y Estudios Urbanos
+* Relaciones académicas internacionales
+  * Instituto Confucio
+  * Centro de Estudios Asiáticos
+* Pastoral
+* Fundación de Vida Rural
+* Bibliotecas UC
+* Vicerrectoría Económica
+  * Departamento de Personal
+
+Contacto:
+
+ Teléfono: 2354 2476  
+Correo electrónico: rzanetta@uc.cl
+
+#### 
+

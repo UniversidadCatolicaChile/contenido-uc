@@ -19,5 +19,18 @@ En esta sección:
 * Más información para ti
 * ¿Tienes dudas? Contáctanos
 
+### Lo más consultado
+
+* [Programas de magíster ](../home/listado-de-magister.md)\(falta ícono\)
+* [Carreras de pregrado](http://admisionyregistros.uc.cl/futuros-alumnos/admision-via-psu/carreras) \(falta ícono\)
+* [Capacitación y Desarrollo](http://capacitacion.uc.cl) \(falta ícono\)
+* [Preuniversitario UC](http://preuniversitario.uc.cl%20) \(falta ícono\)
+
+### Toma nota de estas fechas
+
+
+
+
+
 
 
