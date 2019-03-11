@@ -70,7 +70,15 @@ En esta sección:
 
 1. **¿Dónde puedo revisar el listado de programas de estudio de la UC?** En esta sección _\(enlace a sección programas de estudio\)_ podrás conocer los distintos programas de pregrado, postgrado, postítulo y educación continua que ofrece la universidad. 
 2. **¿Cómo puedo estudiar en un programa interdisciplinario de la UC?** Cada uno de los programas interdisciplinarios tiene un proceso de admisión y postulación diferentes. Te invitamos a conocer [nuestros programas](../../home/programas-interdisciplinarios.md) y a revisar cuál es su proceso de postulación. 
-3. **¿Puedo estudiar idiomas en la UC?** Sí, existen cursos de idiomas en la UC. Puedes estudiar inglés, chino mandarín o alguno de los distintos cursos que ofrece la Facultad de Letras. 
+3. **¿Puedo estudiar idiomas en la UC?** Sí, existen cursos de idiomas en la UC. Puedes estudiar [inglés](http://english.uc.cl/), [chino mandarín](http://confucio.uc.cl/) o alguno de los [distintos cursos](http://extension.letras.uc.cl/index.php/cursos-de-idiomas) que ofrece la Facultad de Letras. 
+4. **¿La UC tiene oferta de cursos online?** Sí, te invitamos a conocer [UC online](http://uconline.uc.cl/), donde podrás encontrar una variada oferta de diplomados y cursos online y semipresenciales de la universidad. 
+5. **¿Qué carreras de la UC participan en el programa Talento e inclusión?** El programa Talento e Inclusión es una vía de admisión de equidad para **todas las carreras de pregrado**, destinada a estudiantes del 10% superior de su generación -según ranking de notas de 1° a 3° Medio- provenientes de establecimientos educacionales municipales o subvencionados. Conócelo en [este enlace](http://talento.uc.cl). }
+6. **¿Dónde puedo revisar la oferta de programas de doctorados?** La UC ofrece 36 programas de doctorado, que puedes conocer [en este enlace](http://doctorados.uc.cl/es/programas/nuestros-programas). 
+
+#### Postulación
+
+1. **¿Cuáles son las vías de admisión que tiene la UC?** Encuentra toda la información sobre las vías de admisión a la UC: [PSU](http://admisionyregistros.uc.cl/futuros-alumnos/admision-via-psu/descripcion-admision-via-psu), [Especial](http://admisionyregistros.uc.cl/futuros-alumnos/admision-especial?id=65), [Postgrado](http://admisionyregistros.uc.cl/futuros-alumnos/admision-postgrado/descripcion), [Equidad](http://admisionyregistros.uc.cl/futuros-alumnos/admision-equidad), [Provisional](http://admisionyregistros.uc.cl/futuros-alumnos/alumno-provisional/descripcion-alumno-provisional) y [Alumno internacional](http://admisionyregistros.uc.cl/futuros-alumnos/alumno-internacional/admision-pregrado).
+2. **¿Cuáles son los requisitos de postulación?** Revisa los requisitos de postulación para cada vía de admisión a la UC: [PSU](http://admisionyregistros.uc.cl/futuros-alumnos/admision-via-psu), [Especial](http://admisionyregistros.uc.cl/futuros-alumnos/admision-especial/requisitos-admision-especial), [Postgrado](http://admisionyregistros.uc.cl/futuros-alumnos/admision-postgrado/requisitos), [Equidad](http://admisionyregistros.uc.cl/futuros-alumnos/admision-equidad/programas-y-vias-de-admision), [Provisional](http://admisionyregistros.uc.cl/futuros-alumnos/alumno-provisional/postulacion) y [Alumno internacional](http://admisionyregistros.uc.cl/futuros-alumnos/alumno-internacional/admision-pregrado).
 
 
 
