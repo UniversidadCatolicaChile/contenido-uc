@@ -99,7 +99,21 @@ En esta sección:
 2. **¿En qué campus queda la carrera que estudiaré?** En [este enlace](../../universidad/campus/) puedes revisar qué facultades encontrarás en cada uno de los campus UC. 
 3. **Quiero visitar la UC con mi colegio, ¿cómo lo puedo hacer?** [En este enlace](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/los-colegios-en-la-uc) podrás revisar las distintas actividades que podrás hacer con tu colegio en la UC. 
 4. **Quiero que la UC visite la feria estudiantil de mi colegio, ¿es posible?** Todos los años el equipo de [Admisión UC](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/la-uc-en-los-colegios) visita cientos de establecimientos educacionales del país para participar en forma directa del Programa de Difusión Institucional. Si tienes dudas o quieres que la UC vaya a tu colegio, escribe a [difusion@uc.cl](mailto:difusion@uc.cl).
-5. **¿Qué actividades para futuros estudiantes puedo encontrar en la UC?** Conoce las [distintas actividades](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc) preparadas durante el año por Admisión UC, para que no te pierdas ningún detalle de la Universidad.  
+5. **¿Qué actividades para futuros estudiantes puedo encontrar en la UC?** Conoce las [distintas actividades](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc) preparadas durante el año por Admisión UC, para que no te pierdas ningún detalle de la Universidad. 
+
+### Lo que todo futuro alumno debe saber
+
+Noticia 1: Proyecto Educativo
+
+Noticia 2:  Programas de estudio
+
+Noticia 3: Aranceles y beneficios
+
+Noticia 4: Conoce la UC
+
+Noticia 5: Inclusión
+
+Noticia 6: Intercambio UC
 
 
 
