@@ -103,17 +103,21 @@ En esta sección:
 
 ### Lo que todo futuro alumno debe saber
 
-Noticia 1: Proyecto Educativo
+[Noticia 1: Proyecto Educativo](introduccion/noticia-1-proyecto-educativo.md)
 
-Noticia 2:  Programas de estudio
+[Noticia 2:  Programas de estudio](introduccion/noticia-2-programas-de-estudio.md)
 
-Noticia 3: Aranceles y beneficios
+[Noticia 3: Aranceles y beneficios](introduccion/noticia-3-aranceles-y-beneficios.md)
 
-Noticia 4: Conoce la UC
+[Noticia 4: Conoce la UC](introduccion/noticia-4-conoce-la-uc.md)
 
-Noticia 5: Inclusión
+[Noticia 5: Inclusión](introduccion/noticia-5-inclusion.md)
 
-Noticia 6: Intercambio UC
+[Noticia 6: Intercambio UC](introduccion/noticia-6-intercambio-uc.md)
+
+[Noticia 7: Estudia en la UC](introduccion/noticia-7-estudia-en-la-uc.md)
+
+[Noticia 8: Postula a la UC](introduccion/noticia-8-postula-a-la-uc.md)
 
 
 
