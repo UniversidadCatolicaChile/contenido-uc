@@ -191,7 +191,9 @@
 * [Instructivo para descargar y sincronizar calendario \(móviles\)](informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
 * [Instructivo para descargar y sincronizar calendario \(escritorio\)](informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-escritorio.md)
 * [Instructivo para descargar y sincronizar calendario \(escritorio\)](informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-escritorio-1.md)
-* [Landing principal](informacion-para-futuros-alumnos/landing-principal.md)
+* [Landing principal](informacion-para-futuros-alumnos/landing-principal/README.md)
+  * [Toma nota de estas fechas](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/README.md)
+    * [Evento 1](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-1.md)
 
 ## Información para Alumnos
 
