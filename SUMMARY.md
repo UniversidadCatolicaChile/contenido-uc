@@ -211,6 +211,8 @@
     * [Noticia 4: Conoce la UC](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-4-conoce-la-uc.md)
     * [Noticia 5: Inclusión](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-5-inclusion.md)
     * [Noticia 6: Intercambio UC](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-6-intercambio-uc.md)
+    * [Noticia 7: Estudia en la UC](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-7-estudia-en-la-uc.md)
+    * [Noticia 8: Postula a la UC](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-8-postula-a-la-uc.md)
 
 ## Información para Alumnos
 
