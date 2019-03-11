@@ -38,20 +38,28 @@ Pamela Fernández
 Álvaro Ossa  
 
 
+![](../../../.gitbook/assets/alvaro-ossa-director-transferencia-y-desarrollo.jpg)
+
 #### Directora de Investigación
 
 María Elena Boisier  
 
+
+![](../../../.gitbook/assets/maria-elena-boisier-directora-investigacion.jpg)
 
 #### Director de Doctorado y Escuela de Graduados
 
 Diego Cosmelli  
 
 
+![](../../../.gitbook/assets/diego-cosmelli-director-escuela-de-graduados.gif)
+
 #### Directora de Artes y Cultura
 
 Miryam Singer  
 
+
+![](../../../.gitbook/assets/myriam-singer-directora-artes-ycultura.jpg)
 
 #### Director Centro de Innovación UC Anacleto Angelini
 
