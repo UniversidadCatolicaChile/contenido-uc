@@ -191,6 +191,7 @@
 * [Instructivo para descargar y sincronizar calendario \(móviles\)](informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
 * [Instructivo para descargar y sincronizar calendario \(escritorio\)](informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-escritorio.md)
 * [Instructivo para descargar y sincronizar calendario \(escritorio\)](informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-escritorio-1.md)
+* [Landing principal](informacion-para-futuros-alumnos/landing-principal.md)
 
 ## Información para Alumnos
 
