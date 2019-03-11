@@ -97,9 +97,9 @@ En esta sección:
 
 1. **¿Cuáles son los campus UC?** En [este enlace](../../universidad/campus/) conoce la historia y detalles de los cinco campus de la UC: [Casa Central](../../universidad/campus/campus-casa-central.md), [Lo Contador](../../universidad/campus/campus-lo-contador.md), [Oriente](../../universidad/campus/campus-oriente.md), [San Joaquín](../../universidad/campus/campus-san-joaquin.md) y [Villarrica](../../universidad/campus/campus-villarrica.md). 
 2. **¿En qué campus queda la carrera que estudiaré?** En [este enlace](../../universidad/campus/) puedes revisar qué facultades encontrarás en cada uno de los campus UC. 
-3. Quiero visitar la UC con mi colegio, ¿cómo lo puedo hacer?
-4. Quiero que la UC visite la feria estudiantil de mi colegio, ¿es posible? 
-5. ¿Qué actividades para futuros estudiantes puedo encontrar en la UC?
+3. **Quiero visitar la UC con mi colegio, ¿cómo lo puedo hacer?** [En este enlace](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/los-colegios-en-la-uc) podrás revisar las distintas actividades que podrás hacer con tu colegio en la UC. 
+4. **Quiero que la UC visite la feria estudiantil de mi colegio, ¿es posible?** Todos los años el equipo de [Admisión UC](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/la-uc-en-los-colegios) visita cientos de establecimientos educacionales del país para participar en forma directa del Programa de Difusión Institucional. Si tienes dudas o quieres que la UC vaya a tu colegio, escribe a [difusion@uc.cl](mailto:difusion@uc.cl).
+5. **¿Qué actividades para futuros estudiantes puedo encontrar en la UC?** Conoce las [distintas actividades](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc) preparadas durante el año por Admisión UC, para que no te pierdas ningún detalle de la Universidad.  
 
 
 
