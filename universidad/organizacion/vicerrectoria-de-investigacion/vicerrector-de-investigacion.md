@@ -72,5 +72,5 @@ Conrad von Igel
 
 Andrea Leisewitz
 
-\[Foto\]
+![](../../../.gitbook/assets/andrea-leisewitz-directora-etica-para-la-investigacion.jpg)
 
