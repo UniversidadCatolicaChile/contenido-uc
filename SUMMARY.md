@@ -204,7 +204,8 @@
     * [Evento 8](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-8.md)
     * [Evento 9](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-9.md)
     * [Evento 10](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-10.md)
-  * [Introducción](informacion-para-futuros-alumnos/landing-principal/introduccion.md)
+  * [Lo que todo futuro alumno debe saber](informacion-para-futuros-alumnos/landing-principal/introduccion/README.md)
+    * [Noticia 1: Proyecto educativo](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-1-proyecto-educativo.md)
 
 ## Información para Alumnos
 
