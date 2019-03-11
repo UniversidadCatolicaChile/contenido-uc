@@ -119,6 +119,39 @@ En esta sección:
 
 [Noticia 8: Postula a la UC](introduccion/noticia-8-postula-a-la-uc.md)
 
+### Más información para ti
+
+#### Pregrado
+
+#### Postgrado
+
+#### Doctorado
+
+#### Educación Continua
+
+
+
+### Accesos directos \(sin título\)
+
+* [Ediciones UC](http://ediciones.uc.cl)
+* [Preuniversitario UC](http://preuniversitario.uc.cl)
+* [Programa Vocacional UC](http://programavocacional.uc.cl/)
+* [Confucio UC](http://confucio.uc.cl/es/)
+* [Teleduc](http://teleduc.uc.cl/)
+* [Material PSU](https://ediciones.uc.cl/textosuniversitarios/textos-psu.html)
+
+### ¿Aún no encuentras lo que buscas?
+
+* Ir al Directorio de Sitios UC \(enlace interno\)
+
+### Footer
+
+
+
+
+
+
+
 
 
 
