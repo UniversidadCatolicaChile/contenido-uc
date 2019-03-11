@@ -82,7 +82,7 @@ En esta sección:
 3. **¿Cuál es el puntaje ponderado mínimo de postulación?** El puntaje ponderado mínimo para postular a la Pontificia Universidad Católica de Chile es de 600 puntos. Revisa las excepciones [aquí](http://admisionyregistros.uc.cl/futuros-alumnos/admision-via-psu/requisitos-postulacion-via-psu#puntaje-ponderado-m%C3%ADnimo-de-postulaci%C3%B3n).
 4. **¿Puedo revisar el puntaje del último matriculado de la carrera de pregrado que me interesa?** Sí, [en este enlace](http://admisionyregistros.uc.cl/futuros-alumnos/admision-via-psu/requisitos-postulacion-via-psu/puntaje-ultimo-matriculado-admisiones-anteriores) podrás revisar el puntaje del último matriculado. Estos varían en las diferentes admisiones, pudiendo aumentar o disminuir.
 5. **¿Dónde puedo ver la oferta de cursos de capacitación?** Infórmate sobre la oferta de cursos \(link\) y diplomados \(link\) que ofrece la UC.
-6. Pregunta de doctorado
+6. **Estoy interesado/a en un programa de doctorado. ¿Qué requisitos debo cumplir para postular?** Para postular a un Programa de Doctorado, se requiere estar en posesión de los grados académicos de Licenciado \(o equivalente\) y/o Magíster. Cada programa de doctorado cuenta con su propio sistema de admisión y calendario de postulaciones, los que se pueden consultar directamente en el sitio web de cada programa. Revisa más detalles [en este enlace](http://doctorados.uc.cl/es/admision/requisitos-y-procedimientos).
 
 
 
