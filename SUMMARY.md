@@ -72,6 +72,7 @@
 
 ## Extensión
 
+* [Landing Extensión](extension/landing-extension.md)
 * [Vinculación con el territorio](extension/vinculacion-con-el-territorio.md)
 * [Guía de expertos](extension/guia-de-expertos.md)
 * [Más encuestas y estudios](extension/mas-encuestas-y-estudios.md)
@@ -193,15 +194,16 @@
 * [Instructivo para descargar y sincronizar calendario \(escritorio\)](informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-escritorio-1.md)
 * [Landing principal](informacion-para-futuros-alumnos/landing-principal/README.md)
   * [Toma nota de estas fechas](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/README.md)
-    * [Evento 9](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-9.md)
-    * [Evento 8](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-8.md)
-    * [Evento 7](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-7.md)
-    * [Evento 6](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-6.md)
-    * [Evento 5](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-5.md)
     * [Evento 1](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-1.md)
     * [Evento 2](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-2-1.md)
     * [Evento 3](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-3-1.md)
     * [Evento 4](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-3.md)
+    * [Evento 5](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-5.md)
+    * [Evento 6](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-6.md)
+    * [Evento 7](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-7.md)
+    * [Evento 8](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-8.md)
+    * [Evento 9](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-9.md)
+    * [Evento 10](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-10.md)
   * [Introducción](informacion-para-futuros-alumnos/landing-principal/introduccion.md)
 
 ## Información para Alumnos
