@@ -31,6 +31,8 @@ El actual vicerrector de investigación es el ingeniero Pedro Bouchon.
 Pamela Fernández  
 
 
+![](../../../.gitbook/assets/pamela_fernandez-directora-ejecutiva-vicerrectoria-investigacion.jpg)
+
 #### Director de Transferencia y Desarrollo
 
 Álvaro Ossa  
