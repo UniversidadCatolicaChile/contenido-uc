@@ -193,6 +193,7 @@
 * [Instructivo para descargar y sincronizar calendario \(escritorio\)](informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-escritorio-1.md)
 * [Landing principal](informacion-para-futuros-alumnos/landing-principal/README.md)
   * [Toma nota de estas fechas](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/README.md)
+    * [Evento 7](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-7.md)
     * [Evento 6](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-6.md)
     * [Evento 5](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-5.md)
     * [Evento 1](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-1.md)

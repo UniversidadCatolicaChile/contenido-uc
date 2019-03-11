@@ -21,10 +21,9 @@ El vicerrector de Investigación es la autoridad a quien corresponde la direcci�
 El actual vicerrector de investigación es el ingeniero Pedro Bouchon.  
 
 
-[**Revisa su currículum.**](https://www.ing.uc.cl/academicos-e-investigadores/pedro-alejandro-bouchon-aguirre/)  
+[**Revisa su currículum.**](https://www.ing.uc.cl/academicos-e-investigadores/pedro-alejandro-bouchon-aguirre/)
 
-
-### Su equipo 
+### Su equipo
 
 #### Directora ejecutiva VRI
 
@@ -52,14 +51,14 @@ María Elena Boisier
 Diego Cosmelli  
 
 
-![](../../../.gitbook/assets/diego-cosmelli-director-escuela-de-graduados.gif)
+![Diego Cosmelli, Director de Doctorado](../../../.gitbook/assets/diego-cosmelli-director-escuela-de-graduados.gif)
 
 #### Directora de Artes y Cultura
 
 Miryam Singer  
 
 
-![](../../../.gitbook/assets/myriam-singer-directora-artes-ycultura.jpg)
+![Myriam Singer, Directora de Artes y Cultura](../../../.gitbook/assets/myriam-singer-directora-artes-ycultura.jpg)
 
 #### Director Ejecutivo del Centro de Innovación UC Anacleto Angelini
 
@@ -72,5 +71,5 @@ Conrad von Igel
 
 Andrea Leisewitz
 
-![](../../../.gitbook/assets/andrea-leisewitz-directora-etica-para-la-investigacion.jpg)
+![Andrea Leisewitz, Directora de &#xC9;tica para la Inviestigaci&#xF3;n](../../../.gitbook/assets/andrea-leisewitz-directora-etica-para-la-investigacion.jpg)
 
