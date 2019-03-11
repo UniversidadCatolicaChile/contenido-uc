@@ -206,6 +206,11 @@
     * [Evento 10](informacion-para-futuros-alumnos/landing-principal/toma-nota-de-estas-fechas/evento-10.md)
   * [Lo que todo futuro alumno debe saber](informacion-para-futuros-alumnos/landing-principal/introduccion/README.md)
     * [Noticia 1: Proyecto educativo](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-1-proyecto-educativo.md)
+    * [Noticia 2: Programas de estudio](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-2-programas-de-estudio.md)
+    * [Noticia 3: Aranceles y beneficios](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-3-aranceles-y-beneficios.md)
+    * [Noticia 4: Conoce la UC](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-4-conoce-la-uc.md)
+    * [Noticia 5: Inclusión](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-5-inclusion.md)
+    * [Noticia 6: Intercambio UC](informacion-para-futuros-alumnos/landing-principal/introduccion/noticia-6-intercambio-uc.md)
 
 ## Información para Alumnos
 
