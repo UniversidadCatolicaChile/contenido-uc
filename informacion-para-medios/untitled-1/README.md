@@ -90,7 +90,7 @@ Quiero acreditarme para un evento. ¿Cómo lo puedo hacer?
 
 [Noticia 1 ](temas-para-cubrir/noticia-1-info-para-medios.md)
 
-Noticia 2
+[Noticia 2](temas-para-cubrir/noticia-2-info-para-medios.md)
 
 Noticia 3
 
@@ -102,5 +102,17 @@ Noticia 5
 
 ### ¿Aún no encuentras lo que buscas?
 
-Ir al 
+Ir al Directorio de Sitios
+
+### ¿Tienes dudas? Contáctanos
+
+* Dirección de Comunicaciones: dcomunicaciones@uc.cl \(Ícono correo\)
+* Prensa UC: prensa@uc.cl \(Ícono correo\)
+* Redes Sociales: careyes4@uc.cl \(Ícono correo\)
+* Dirección: Casa Central. Av. Libertador Bernardo O'Higgins 340, piso 3. \(Ícono mapa\)
+* [Ícono Facebook](http://facebook.com/ucatolica)
+* [Ícono Twitter](http://twitter.com/ucatolica)
+* [Ícono Instagram](http://instagram.com/ucatolicaoficial)
+* [Ícono Linkedin](https://linkedin.com/school/pontificia-universidad-cat-lica-de-chile/)
+* [Ícono YouTube](http://youtube.com/pucatolica)
 
