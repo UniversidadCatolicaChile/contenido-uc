@@ -15,3 +15,30 @@ Sabemos que la vida universitaria puede ser confusa, pero también llena de opor
 
 ### Lo más consultado
 
+* [Correo UC](http://correo.uc.cl) \(ícono en diseño\)
+* [Mi Portal UC](http://portal.uc.cl) \(ícono en diseño\)
+* [Bibliotecas UC](http://bibliotecas.uc.cl) \(ícono en diseño\)
+* [Inscripción de cursos](http://inscripciondecursos.uc.cl/) \(ícono en diseño\)
+
+### Toma nota de estas fechas
+
+Evento 1
+
+Evento 2
+
+Evento 3
+
+Evento 4
+
+Evento 5
+
+Evento 6
+
+Evento 7
+
+Evento 8
+
+Evento 9
+
+Evento 10
+
