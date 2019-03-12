@@ -88,7 +88,7 @@ Quiero acreditarme para un evento. ¿Cómo lo puedo hacer?
 
 ### Temas para cubrir:
 
-Noticia 1 
+[Noticia 1 ](temas-para-cubrir/noticia-1-info-para-medios.md)
 
 Noticia 2
 
