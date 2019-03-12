@@ -216,7 +216,10 @@
 
 ## Información para Alumnos
 
-* [Landing principal](informacion-para-alumnos/untitled.md)
+* [Landing principal](informacion-para-alumnos/untitled/README.md)
+  * [Toma nota de estas fechas](informacion-para-alumnos/untitled/toma-nota-de-estas-fechas/README.md)
+    * [Evento 2 info para alumnos](informacion-para-alumnos/untitled/toma-nota-de-estas-fechas/evento-2-info-para-alumnos.md)
+    * [Evento 1 info para alumnos](informacion-para-alumnos/untitled/toma-nota-de-estas-fechas/evento-1.md)
 
 ## Información para Académicos
 
