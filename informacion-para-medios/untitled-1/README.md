@@ -20,9 +20,9 @@ Imagen superior \(falta\)
 ### Lo más consultado
 
 * Noticias de la UC \(enlace a noticias UC\)
-* [Contactos de prensa](contacos-de-prensa.md)
+* [Contactos de prensa](../contacos-de-prensa.md)
 * Pauta de prensa \(enlace a drive Pauta de prensa, por definir\)
-* [Suscríbete a la UC en los medios](../home/uc-en-los-medios.md)
+* [Suscríbete a la UC en los medios](../../home/uc-en-los-medios.md)
 
 ### Toma nota de estas fechas
 
