@@ -1,3 +1,7 @@
+---
+description: Contenido del landing principal de Información para alumnos.
+---
+
 # Landing principal
 
 ![](../../.gitbook/assets/foto_inicio3.JPG)

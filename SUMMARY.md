@@ -246,7 +246,7 @@
 ## Información para Medios
 
 * [Contactos de prensa](informacion-para-medios/contacos-de-prensa.md)
-* [Untitled](informacion-para-medios/untitled-1.md)
+* [Landing principal](informacion-para-medios/untitled-1.md)
 
 ## Footer
 
