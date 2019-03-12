@@ -216,7 +216,7 @@
 
 ## Información para Alumnos
 
-* [Untitled](informacion-para-alumnos/untitled.md)
+* [Landing principal](informacion-para-alumnos/untitled.md)
 
 ## Información para Académicos
 
