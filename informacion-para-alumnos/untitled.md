@@ -4,7 +4,7 @@
 
 Sabemos que la vida universitaria puede ser confusa, pero también llena de oportunidades. En esta página te entregamos toda la información y los enlaces directos que necesitas para no perderte en el camino. 
 
-En esta sección:
+#### En esta sección:
 
 * Lo más consultado
 * Toma nota de estas fechas
@@ -12,4 +12,6 @@ En esta sección:
 * Lo que todo alumno debe saber
 * Más información para ti
 * ¿Tienes dudas? Contáctanos
+
+### Lo más consultado
 
