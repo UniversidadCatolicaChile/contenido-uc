@@ -52,3 +52,31 @@ Más actividades:
 * Accede a la Pauta de prensa \(enlace a Pauta de prensa\)
 * [Revisa la agenda de la UC](http://agenda.uc.cl)
 
+### Preguntas frecuentes \[Ver más\]
+
+#### Gestión de medios:
+
+Pregunta 1
+
+Respuesta 1
+
+Pregunta 2
+
+Respuesta 2
+
+Pregunta 3
+
+Respuesta 3
+
+Pregunta 4
+
+Respuesta 4
+
+#### Pauta
+
+#### Contactos de prensa
+
+#### Actividades
+
+### Temas para cubrir:
+
