@@ -56,27 +56,35 @@ Más actividades:
 
 #### Gestión de medios:
 
-Pregunta 1
+Quiero entrevistar a un profesor de la UC. ¿Cuáles son los pasos a seguir? 
 
-Respuesta 1
+Quiero hacer una invitación a integrantes de la universidad. ¿Cómo lo puedo hacer? 
 
-Pregunta 2
+Quiero acreditarme para un evento. ¿Cómo lo puedo hacer?
 
-Respuesta 2
+#### Pauta:
 
-Pregunta 3
+¿Dónde consigo el documento de la pauta a la que asistí? 
 
-Respuesta 3
+¿En qué campus queda el lugar de mi pauta? 
 
-Pregunta 4
+¿Dónde puedo descargar los últimos discursos del rector Ignacio Sánchez? 
 
-Respuesta 4
+¿Dónde puedo revisar los medios UC?
 
-#### Pauta
+#### Contactos de prensa:
 
-#### Contactos de prensa
+¿Dónde consigo el contacto del periodista que cubre el área en el que trabajo? 
 
-#### Actividades
+¿Dónde puedo enviar un comunicado? 
+
+¿Cuáles son las redes sociales oficiales de la UC?
+
+#### Actividades:
+
+¿Cómo puedo enterarme de las últimas novedades que ocurren en la UC?
+
+¿Dónde puedo revisar las actividades del día en la Universidad?
 
 ### Temas para cubrir:
 
