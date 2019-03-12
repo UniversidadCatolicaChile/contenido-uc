@@ -148,6 +148,17 @@ Revisa todos los casos de postulación de alumno internacional [aquí](http://ad
 
 * Ir al Directorio de Sitios UC \(enlace interno\)
 
+### ¿Tienes dudas? Contáctanos
+
+* Ícono correo: [admision@uc.cl](mailto:admision@uc.cl)
+* Ícono teléfono: Mesa central  `<a href="tel:%56223544000">+56223544000 </a>` \(+56\)2 2 3544000
+* Ícono consultas: [Consultas en línea](http://www3.puc.cl/consultasucweb/index.php?a=add)
+* Ícono [Facebook](http://facebook.com/ucatolica)
+* Ícono [Twitter](http://twitter.com/ucatolica)
+* Ícono [Instagram](http://instagram.com/ucatolicaoficial)
+* Ícono [Linkedin](https://www.linkedin.com/school/pontificia-universidad-cat-lica-de-chile/)
+* Ícono [YouTube](http://youtube.com/pucatolica)
+
 ### Footer
 
 
