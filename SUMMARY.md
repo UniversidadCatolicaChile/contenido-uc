@@ -248,6 +248,7 @@
 * [Contactos de prensa](informacion-para-medios/contacos-de-prensa.md)
 * [Landing principal](informacion-para-medios/untitled-1/README.md)
   * [Temas para cubrir](informacion-para-medios/untitled-1/temas-para-cubrir/README.md)
+    * [Noticia 6: info para medios](informacion-para-medios/untitled-1/temas-para-cubrir/noticia-6-info-para-medios.md)
     * [Noticia 1 info para medios](informacion-para-medios/untitled-1/temas-para-cubrir/noticia-1-info-para-medios.md)
     * [Noticia 2 info para medios](informacion-para-medios/untitled-1/temas-para-cubrir/noticia-2-info-para-medios.md)
     * [Noticia 3 info para medios](informacion-para-medios/untitled-1/temas-para-cubrir/noticia-3-info-para-medios.md)

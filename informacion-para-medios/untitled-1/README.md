@@ -98,6 +98,8 @@ Quiero acreditarme para un evento. ¿Cómo lo puedo hacer?
 
 [Noticia 5](temas-para-cubrir/noticia-5-info-para-medios.md)
 
+Noticia 6
+
 ### Más información para ti
 
 ### ¿Aún no encuentras lo que buscas?
