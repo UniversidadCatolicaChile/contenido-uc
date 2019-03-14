@@ -98,7 +98,7 @@ Quiero acreditarme para un evento. ¿Cómo lo puedo hacer?
 
 [Noticia 5](temas-para-cubrir/noticia-5-info-para-medios.md)
 
-Noticia 6
+[Noticia 6](temas-para-cubrir/noticia-6-info-para-medios.md)
 
 ### Más información para ti
 
