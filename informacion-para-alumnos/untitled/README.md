@@ -99,6 +99,16 @@ Puedes revisar toda la información sobre tus clases en el [Buscador de Cursos U
 
 En caso de enfermedad, debes evaluar tu situación con tu profesor y presentar tu licencia médica en la secretaría académica de tu facultad, escuela o instituto. 
 
+**5\) Necesito información relacionada con mi Campus ¿a dónde puedo dirigirme?**
+
+Para obtener información sobre algún campus en particular, puedes llamar a la mesa central de la universidad, al \(56\)2 2 3544000.  
+****
+
+**6\) ¿Existe alguna oficina de objetos perdidos?**
+
+En la actualidad no existen oficinas de objetos perdidos en los campus, pero puedes hacer las consultas pertinentes en las oficinas de administración de cada campus.  
+
+
 #### Pagos
 
 **1\) ¿Cómo se activa el CAE?**
@@ -213,25 +223,36 @@ Para cualquier problema relacionado con Mi Portal UC, puedes llamar a la Mesa de
 
 **3\) Tengo problemas para ingresar a Mi Correo UC, ¿a quién puedo dirigirme?** Para cualquier problema relacionado con Mi Portal UC, puedes llamar a la Mesa de Ayuda de la Dirección de Informática, al teléfono \(56\) 2 23545555, o escribir un correo a 5555@uc.cl.
 
-#### La universidad
+### Lo que todo alumno debe saber
 
+Noticia 1: Programas académicos
 
+Noticia 2: Investigación
 
- ****
+Noticia 3: Aranceles y beneficios
 
-\*\*\*\*
+Noticia 4: Internacionalización
 
+Noticia 5: Pastoral
 
+Noticia 6: Inclusión
 
+Noticia 7: Vida universitaria
 
+Noticia 8: Deportes UC
 
+Noticia 9: Salud estudiantil
 
+Noticia 10: Graduados de doctorado
 
+###  **Más información para ti**
 
+### **¿Aún no encuentras lo que buscas?**
+
+Ir al Directorio de Sitios de la UC \(enlace interno\)
 
 ### ¿Tienes dudas? Contáctanos
 
-* Ícono correo: [admision@uc.cl](mailto:admision@uc.cl)
 * Ícono teléfono: Mesa central  `<a href="tel:%56223544000">+56223544000 </a>` \(+56\)2 2 3544000
 * Ícono consultas: [Consultas en línea](http://www3.puc.cl/consultasucweb/index.php?a=add)
 * Ícono [Facebook](http://facebook.com/ucatolica)
