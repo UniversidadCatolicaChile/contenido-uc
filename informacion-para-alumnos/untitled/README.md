@@ -225,25 +225,25 @@ Para cualquier problema relacionado con Mi Portal UC, puedes llamar a la Mesa de
 
 ### Lo que todo alumno debe saber
 
-Noticia 1: Programas académicos
+[Noticia 1: Programas académicos](lo-que-todo-alumno-debe-saber/noticia-1-info-para-alumnos.md)
 
-Noticia 2: Investigación
+[Noticia 2: Investigación](lo-que-todo-alumno-debe-saber/noticia-2-info-para-alumnos.md)
 
-Noticia 3: Aranceles y beneficios
+[Noticia 3: Aranceles y beneficios](lo-que-todo-alumno-debe-saber/noticia-3-info-para-alumnos.md)
 
-Noticia 4: Internacionalización
+[Noticia 4: Internacionalización](lo-que-todo-alumno-debe-saber/noticia-4-info-para-alumnos.md)
 
-Noticia 5: Pastoral
+[Noticia 5: Pastoral](lo-que-todo-alumno-debe-saber/noticia-5-info-para-alumnos.md)
 
-Noticia 6: Inclusión
+[Noticia 6: Inclusión](lo-que-todo-alumno-debe-saber/noticia-6-info-para-alumnos.md)
 
-Noticia 7: Vida universitaria
+[Noticia 7: Vida universitaria](lo-que-todo-alumno-debe-saber/noticia-7-info-para-alumnos.md)
 
-Noticia 8: Deportes UC
+[Noticia 8: Deportes UC](lo-que-todo-alumno-debe-saber/noticia-8-info-para-alumnos.md)
 
-Noticia 9: Salud estudiantil
+[Noticia 9: Salud estudiantil](lo-que-todo-alumno-debe-saber/noticia-9-info-para-alumnos.md)
 
-Noticia 10: Graduados de doctorado
+[Noticia 10: Graduados de doctorado](lo-que-todo-alumno-debe-saber/noticia-10-info-para-alumnos.md)
 
 ###  **Más información para ti**
 
