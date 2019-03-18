@@ -57,7 +57,7 @@ Sabemos que la vida universitaria puede ser confusa, pero también llena de opor
 * [Calendario completo](http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario_academico_2019.pdf)
 * [Instructivo calendario académico](../../informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
 
-### Preguntas frecuentes
+### Preguntas frecuentes \[ver más\]
 
 #### Certificación estudiantil:
 
@@ -79,7 +79,19 @@ Existen dos oficinas de Hall Universitario, una en Casa Central y otra en San Jo
 
 **5\) ¿Qué certificados se extienden en inglés?**
 
-Revisa los certificados que la Universidad entrega en inglés en la siguiente [lista de certificados](http://admisionyregistros.uc.cl/images/pdf/alumnos/certificacion-estudiantil/lista-certificados-2019.pdf). 
+Revisa los certificados que la Universidad entrega en inglés en la siguiente [lista de certificados](http://admisionyregistros.uc.cl/images/pdf/alumnos/certificacion-estudiantil/lista-certificados-2019.pdf).
+
+#### Situaciones académicas
+
+**1\) ¿Dónde se dan los cursos de nivelación?**
+
+La información sobre los horarios de los cursos de nivelación le llega a cada alumno seleccionado a su correo UC. De todas maneras, te invitamos a revisar toda la información sobre los cursos de nivelación que ofrece la UC durante todo el año en el [fanpage oficial de Nivelación Académica UC](https://www.facebook.com/nivelacionacademicaUC/)**.**
+
+**2\) No sé en qué horario dictan una clase ¿dónde lo puedo ver?**
+
+Puedes revisar la programación académica del semestre en el [Buscador de Cursos UC](http://buscacursos.uc.cl/). También puedes encontrar la información de tus clases en [Mi Portal UC](http://portal.uc.cl)**.**
+
+####  
 
 
 
