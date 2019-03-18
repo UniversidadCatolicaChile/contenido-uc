@@ -30,19 +30,32 @@ Sabemos que la vida universitaria puede ser confusa, pero también llena de opor
 
 [Evento 2](toma-nota-de-estas-fechas/evento-2-info-para-alumnos.md)
 
-Evento 3
+[Evento 3](toma-nota-de-estas-fechas/evento-3-info-para-alumnos.md)
 
-Evento 4
+[Evento 4](toma-nota-de-estas-fechas/evento-4-info-para-alumnos.md)
 
-Evento 5
+[Evento 5](toma-nota-de-estas-fechas/evento-5-info-para-alumnos.md)
 
-Evento 6
+[Evento 6](toma-nota-de-estas-fechas/evento-6-info-para-alumnos.md)
 
-Evento 7
+[Evento 7](toma-nota-de-estas-fechas/evento-7-info-para-alumnos.md)
 
-Evento 8
+[Evento 8](toma-nota-de-estas-fechas/evento-8-info-para-alumnos.md)
 
-Evento 9
+[Evento 9](toma-nota-de-estas-fechas/evento-9-info-para-alumnos.md)
 
-Evento 10
+[Evento 10](toma-nota-de-estas-fechas/evento-10-info-para-alumnos.md)
+
+#### Descarga los calendarios:
+
+* [Alumnos](https://calendar.google.com/calendar/ical/uc.cl_qq0otahfbtlv616n02184c9hjo%40group.calendar.google.com/public/basic.ics)
+* [Novatos](https://calendar.google.com/calendar/ical/uc.cl_u4rkvdlj8sb3bghid0466lcur4%40group.calendar.google.com/public/basic.ics)
+* [Postulante a intercambio](https://calendar.google.com/calendar/ical/uc.cl_ub2afrt81huul3s52aff6sb664%40group.calendar.google.com/public/basic.ics)
+* [Alumno internacional](https://calendar.google.com/calendar/ical/uc.cl_c51rrqpdsriq5fdib5307u3lk8%40group.calendar.google.com/public/basic.ics)
+* [College](https://calendar.google.com/calendar/ical/uc.cl_0vb6d28tuh4748ft78e97rt7n0%40group.calendar.google.com/public/basic.ics)
+* [Facultad](https://calendar.google.com/calendar/ical/uc.cl_o7rrti3u6von41j58esmo5mmis%40group.calendar.google.com/public/basic.ics)
+* [Calendario completo](http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario_academico_2019.pdf)
+* [Instructivo calendario académico](../../informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
+
+### Preguntas frecuentes
 
