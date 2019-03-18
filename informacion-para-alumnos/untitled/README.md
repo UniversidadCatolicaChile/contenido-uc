@@ -91,7 +91,41 @@ La información sobre los horarios de los cursos de nivelación le llega a cada 
 
 Puedes revisar la programación académica del semestre en el [Buscador de Cursos UC](http://buscacursos.uc.cl/). También puedes encontrar la información de tus clases en [Mi Portal UC](http://portal.uc.cl)**.**
 
-####  
+**3\) No sé en qué sala dictan una clase ¿dónde lo puedo ver?**
+
+Puedes revisar toda la información sobre tus clases en el [Buscador de Cursos UC](http://buscacursos.uc.cl/)  y en [Mi Portal UC](http://portal.uc.cl)**.**
+
+####  4\) Si estuve enfermo para una evaluación ¿a dónde debo entregar mi licencia médica?
+
+En caso de enfermedad, debes evaluar tu situación con tu profesor y presentar tu licencia médica en la secretaría académica de tu facultad, escuela o instituto. 
+
+#### Pagos
+
+**1\) ¿Cómo se activa el CAE?**
+
+El Crédito con Aval del Estado se activa a partir del primer semestre en el que se te es otorgado. Revisa esta y otras consultas en el [sitio oficial del Ministerio de Educación](https://portal.ingresa.cl/preguntas-frecuentes/#pregunta_548).
+
+**2\) ¿Cómo se renueva el CAE?**
+
+El beneficio del Crédito con Aval del Estado se extiende por toda la carrera, sin necesidad de postular para el siguiente año académico. Sin embargo, como el financiamiento es anual, deberás renovar cada año el beneficio. En este [enlace del Ministerio de Educación](%20https://portal.ingresa.cl/preguntas-frecuentes/#pregunta_550) podrás revisar cómo hacerlo.
+
+**3\) ¿Cómo se postula al CAE?**
+
+En este [enlace del Ministerio de Educación](https://portal.ingresa.cl/preguntas-frecuentes/#pregunta_590) podrás revisar los requisitos y pasos de postulación al Crédito con Aval del Estado.
+
+**4\) ¿Cuándo se paga la Matrícula?**
+
+El derecho a matrícula debe ser cancelado en el período de matrícula de los alumnos de primer año. Este derecho se paga una sola vez. El arancel anual de matrícula para cada promoción que ingresa a las diferentes carreras se fija por Decreto de Rectoría y se distribuye, a contar de marzo, en diez cuotas mensuales, iguales y sucesivas. Revisa más detalles en [este enlace](http://arancelesybeneficios.uc.cl/aranceles/arancel-de-matricula) de Aranceles y Beneficios.
+
+**5\) ¿Cuánto vale el pago mensual de mi carrera?** 
+
+Revisa los valores del arancel mensual de matrícula de para los [alumnos de pregrado](http://arancelesybeneficios.uc.cl/aranceles/aranceles-pregrado), [postgrado](http://arancelesybeneficios.uc.cl/aranceles/postgrado), [postítulo](http://arancelesybeneficios.uc.cl/aranceles/postitulo) y [alumnos provisionales](http://arancelesybeneficios.uc.cl/aranceles/provisionales).
+
+#### Admisión
+
+
+
+
 
 
 
