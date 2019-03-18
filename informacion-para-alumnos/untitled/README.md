@@ -121,7 +121,43 @@ El derecho a matrícula debe ser cancelado en el período de matrícula de los a
 
 Revisa los valores del arancel mensual de matrícula de para los [alumnos de pregrado](http://arancelesybeneficios.uc.cl/aranceles/aranceles-pregrado), [postgrado](http://arancelesybeneficios.uc.cl/aranceles/postgrado), [postítulo](http://arancelesybeneficios.uc.cl/aranceles/postitulo) y [alumnos provisionales](http://arancelesybeneficios.uc.cl/aranceles/provisionales).
 
-#### Admisión
+**6\) Agregar preguntas de postgrado**
+
+#### Admisión de pregrado
+
+**1\) ¿Cuándo se paga la matrícula?**
+
+El derecho a matrícula debe ser cancelado en el período de matrícula de los alumnos de primer año. Revisa más detalles en [este enlace](http://arancelesybeneficios.uc.cl/aranceles/arancel-de-matricula) de Aranceles y Beneficios.
+
+**2\) ¿Dónde debo formalizar el proceso de matrícula de pregrado?**
+
+El primer paso para preparar la matrícula admisión PSU se inicia en Internet con la [Guía de Matrícula](http://admisionyregistros.uc.cl/images/pdf/futuros_alumnos/admision-psu/2019-18-12-13-instrucciones-matricula-p2019.pdf), una herramienta que la Universidad pone a disposición para que los postulantes seleccionados puedan actualizar sus antecedentes personales, informarse sobre los lugares de matrícula, subir su fotografía para la Credencial UC, entre otros. Una vez completado este documento, el proceso de formalización de matrícula debe realizarse en el campus donde se encuentra su carrera, en los horarios que Admisión publica [en este enlace](http://admisionyregistros.uc.cl/futuros-alumnos/admision-via-psu/matricula-admision-via-psu). 
+
+**3\) Quiero formalizar mi matrícula, pero no me encuentro en Santiago. ¿Cómo lo puedo hacer?**
+
+Si el postulante no puede concurrir personalmente, podrá ser representado por otra persona, autorizada mediante un poder notarial, otorgado por el postulante. El representante deberá traer toda la documentación exigida, incluida su cédula de identidad. ****
+
+Si el **postulante vive fuera de Santiago,** debe ingresar al Guía de Matrícula, descargar toda la documentación requerida para la matrícula y firmarla. Adicionalmente debe efectuar el pago del Derecho de Matrícula. Luego, preparar su set de documentos exigidos y enviarlos escaneados al correo electrónico admision@uc.cl, con copia a matricula@uc.cl. Incluir en el asunto del correo: Proceso PSU 2019, y en el cuerpo su nombre completo, RUT y carrera de selección. Paralelamente, debe despachar el set con los documentos originales vía Servicio Courier de confianza a: Pontificia Universidad Católica de Chile Hall Universitario - Departamento de Admisión Alameda 340, Santiago.
+
+**4\) ¿Qué pasa si no alcancé a matricularme en la fecha indicada?**
+
+La inasistencia o la nula acción de matrícula significa una renuncia inapelable al proceso. Para más información puedes escribir a admision@uc.cl
+
+**5\) Si pagué la matrícula y luego obtuve gratuidad ¿cuándo se devuelve lo pagado?**
+
+Debes acercarte al Hall Universitario, ubicado en los campus Casa Central y San Joaquín, quienes te orientarán en los pasos a seguir. También puedes escribir a dase@uc.cl
+
+**6\) ¿Se mantiene la gratuidad si me cambio a otra carrera dentro la UC?** 
+
+\*\*\*\*
+
+#### **Admisión de postgrado**
+
+**1\) Matrícula**
+
+\*\*\*\*
+
+\*\*\*\*
 
 
 
