@@ -197,7 +197,25 @@ Para postular al beneficio de la gratuidad, revisa los pasos a seguir [en este e
 
 Revisa los detalles para obtener tu Tarjeta Nacional Estudiantil \(TNE\) si eres [novato](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/pase-escolar#novatos), [estudiante de pregrado](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/pase-escolar#alumnos-antiguos), [estudiante de postgrado](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/pase-escolar#alumnos-postgrado) \(\) y si obtienes la [TNE por primera vez](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/pase-escolar#obtencion-de-tne-primera-vez).
 
-Falta pregunta postgrado
+**6\) Estudiaré un postgrado, ¿puedo optar a alguna beca y/o beneficio?**
+
+En la UC no hay becas de arancel de postgrado financiadas por la institución. Sin embargo, es posible optar a becas externas  y a créditos bancarios. Más información [en este enlace](http://arancelesybeneficios.uc.cl/beneficios/postgrado-y-postitulo).
+
+#### Portal y Correo UC
+
+**1\) Tengo problemas para ingresar a Mi Portal UC ¿a quién puedo dirigirme?** 
+
+Para cualquier problema relacionado con Mi Portal UC, puedes llamar a la Mesa de Ayuda de la Dirección de Informática, al teléfono \(56\) 2 23545555, o escribir un correo a 5555@uc.cl.
+
+**2\) Mi Portal UC no muestra la información que necesito ¿cómo puedo regularizar esta situación?** 
+
+Para cualquier problema relacionado con Mi Portal UC, puedes llamar a la Mesa de Ayuda de la Dirección de Informática, al teléfono \(56\) 2 23545555, o escribir un correo a 5555@uc.cl.
+
+**3\) Tengo problemas para ingresar a Mi Correo UC, ¿a quién puedo dirigirme?** Para cualquier problema relacionado con Mi Portal UC, puedes llamar a la Mesa de Ayuda de la Dirección de Informática, al teléfono \(56\) 2 23545555, o escribir un correo a 5555@uc.cl.
+
+#### La universidad
+
+
 
  ****
 
