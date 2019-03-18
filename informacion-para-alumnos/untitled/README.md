@@ -261,6 +261,8 @@ Ir al Directorio de Sitios de la UC \(enlace interno\)
 * Ícono [Linkedin](https://www.linkedin.com/school/pontificia-universidad-cat-lica-de-chile/)
 * Ícono [YouTube](http://youtube.com/pucatolica)
 
+### Footer
+
 \*\*\*\*
 
 
