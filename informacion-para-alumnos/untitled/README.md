@@ -26,9 +26,9 @@ Sabemos que la vida universitaria puede ser confusa, pero también llena de opor
 
 ### Toma nota de estas fechas
 
-Evento 1
+[Evento 1](toma-nota-de-estas-fechas/evento-1.md)
 
-Evento 2
+[Evento 2](toma-nota-de-estas-fechas/evento-2-info-para-alumnos.md)
 
 Evento 3
 
