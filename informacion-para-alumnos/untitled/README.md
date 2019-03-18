@@ -121,7 +121,9 @@ El derecho a matrícula debe ser cancelado en el período de matrícula de los a
 
 Revisa los valores del arancel mensual de matrícula de para los [alumnos de pregrado](http://arancelesybeneficios.uc.cl/aranceles/aranceles-pregrado), [postgrado](http://arancelesybeneficios.uc.cl/aranceles/postgrado), [postítulo](http://arancelesybeneficios.uc.cl/aranceles/postitulo) y [alumnos provisionales](http://arancelesybeneficios.uc.cl/aranceles/provisionales).
 
-**6\) Agregar preguntas de postgrado**
+**6\) ¿Dónde y cómo puedo realizar los pagos de mi arancel?**
+
+La Universidad, como una manera de mejorar la cobertura de servicios a sus alumnos y sustentadores, ha implementado múltiples medios para pagar los aranceles de matrícula. ****[Revísalos en este enlace](http://arancelesybeneficios.uc.cl/pagos/medios-de-pago). 
 
 #### Admisión de pregrado
 
@@ -149,13 +151,55 @@ Debes acercarte al Hall Universitario, ubicado en los campus Casa Central y San 
 
 **6\) ¿Se mantiene la gratuidad si me cambio a otra carrera dentro la UC?** 
 
-\*\*\*\*
+Es posible trasladar los beneficios de arancel estatales siempre que este sea el primer cambio de carrera y/o institución que realizas. Además algunos beneficios otorgados por la UC también son posibles de trasladar. Solicita [una hora de entrevista con la Asistente Social](http://arancelesybeneficios.uc.cl/acreditacion-socioeconomica/pasos-a-seguir) de tu Campus, para orientación frente a este tema.
+
+**7\) ¿Se mantiene la gratuidad si me cambié desde otra universidad?**
+
+Es posible que traslades tus beneficios desde otra institución a la UC el primer semestre, con las siguientes condiciones: No haber realizado un cambio de carrera y/o institución anteriormente, cumplir con los requisitos necesarios para la renovación de tu beneficio, que la institución a la cual te vas a cambiar cumpla con los requisitos exigidos para mantener el beneficio, y que la institución a la que te cambiarás informe a Mineduc tu avance académico histórico, durante los plazos establecidos para ello. No es posible solicitar traslado de beneficios para el segundo semestre.
 
 #### **Admisión de postgrado**
 
-**1\) Matrícula**
+**1\) ¿Dónde puedo ver el calendario del proceso de matrícula de postgrado?**
 
-\*\*\*\*
+En [este enlace](http://admisionyregistros.uc.cl/futuros-alumnos/admision-postgrado/matricula-admision-postgrado#calendario-primer-semestre-2019) encontrarás el calendario del proceso de matrícula de este semestre.
+
+**2\) ¿Cuáles son los pasos del proceso de matrícula?**
+
+Antes de iniciar el proceso de matrícula el postulante aceptado deberá pagar por Internet, o bien en cualquier sucursal del Banco Santander, Itaú o Servipag el valor de la cuota Nº 1, correspondiente al décimo del arancel de la carrera y firmar un pagaré y poder especial \(mayor información en su programa de postulación\). ****Revisa los siguientes pasos del proceso [en este enlace](http://admisionyregistros.uc.cl/futuros-alumnos/admision-postgrado/matricula-admision-postgrado#pasos-del-proceso-de-matr%C3%ADcula). 
+
+**3\) ¿Qué documentos debo llevar para formalizar mi matrícula?**
+
+En [este enlace](http://admisionyregistros.uc.cl/futuros-alumnos/admision-postgrado/matricula-admision-postgrado#documentos-que-debe-presentar-al-momento-de-efectuar-su-matr%C3%ADcula) encontrarás los documentos que debes presentar para formalizar tu matrícula de postgrado en la UC. 
+
+**4\) ¿Dónde realizo el proceso de matrícula?**
+
+El proceso de matrícula de postgrados de la UC \(magíster, doctorado y postítulo\) debes realizarlo el día, hora y lugar que aparece [en este enlace](http://admisionyregistros.uc.cl/futuros-alumnos/admision-postgrado/matricula-admision-postgrado#calendario-primer-semestre-2019). 
+
+#### Becas y beneficios 
+
+**1\) ¿Qué tipos de becas existen y cómo se postula?** 
+
+[En este enlace](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel) revisa en detalle el listado de premios y becas de arancel que ofrece la UC, el Ministerio de Educación e instituciones externas.
+
+**2\) ¿Necesito acreditar mi situación socioeconómica para postular a algún beneficio o beca?** 
+
+Sí, necesitas acreditar tu situación socioeconómica para postular a algún beneficio, solicitando una entrevista [en este enlace](http://arancelesybeneficios.uc.cl/acreditacion-socioeconomica/pasos-a-seguir#pasos-para-realizar-la-acreditacion-de-tu-situacion-socioeconomica). Además, revisa cuáles son los [pasos a seguir para poder acceder a los beneficios](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/postulacion-a-beneficios) que otorga el Estado \(Gratuidad, becas y/o créditos\), como también a los beneficios que otorga la Universidad \(beneficios complementarios a los otorgados por el Mineduc y otros\).
+
+**3\) ¿Qué tipos de créditos existen y cómo postulo?** 
+
+El crédito es un beneficio que se otorga a los estudiantes de las universidades del Consejo de Rectores para financiar parte o el total del arancel de referencia anual de la carrera. Puedes optar a créditos universitarios otorgados por el [Ministerio de Educación](http://arancelesybeneficios.uc.cl/beneficios/creditos-universitarios#creditos-universitarios-otorgados-por-el-ministerio-de-educacion) y créditos otorgados [por otras entidades](http://arancelesybeneficios.uc.cl/beneficios/creditos-universitarios#creditos-universitarios-otorgados-por-otras-entidades).
+
+**4\) ¿Cómo postulo o renuevo la gratuidad universitaria?** 
+
+Para postular al beneficio de la gratuidad, revisa los pasos a seguir [en este enlace del Ministerio de Educación](http://www.gratuidad.cl/guia-paso-a-paso/). Si obtienes la gratuidad, contarás con este derecho por todos los años formales de carrera. Para renovarlo año tras año, sólo debes matricularte en la misma institución, o en otra que también esté adscrita a este beneficio. No es necesario que vuelvas a completar el FUAS. Más información en [este enlace del Ministerio de Educación](http://www.gratuidad.cl/preguntas-frecuentes/).
+
+**5\) ¿Cómo obtengo mi Tarjeta Nacional Estudiantil \(TNE\)?** 
+
+Revisa los detalles para obtener tu Tarjeta Nacional Estudiantil \(TNE\) si eres [novato](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/pase-escolar#novatos), [estudiante de pregrado](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/pase-escolar#alumnos-antiguos), [estudiante de postgrado](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/pase-escolar#alumnos-postgrado) \(\) y si obtienes la [TNE por primera vez](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/pase-escolar#obtencion-de-tne-primera-vez).
+
+Falta pregunta postgrado
+
+ ****
 
 \*\*\*\*
 
