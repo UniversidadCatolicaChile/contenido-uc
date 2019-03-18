@@ -59,3 +59,46 @@ Sabemos que la vida universitaria puede ser confusa, pero también llena de opor
 
 ### Preguntas frecuentes
 
+#### Certificación estudiantil:
+
+**1\) Necesito un Certificado de Alumno Regular. ¿Dónde lo puedo conseguir?**
+
+Los certificados de alumno regular para asignación familiar y servicio militar se pueden descargar de forma gratuita en[ Mi Portal UC](http://portal.uc.cl). Revisa toda la información de certificados en [este enlace](http://admisionyregistros.uc.cl/alumnos/servicios-academicos/certificacion-estudiantil) de Registros Académicos.
+
+**2\) Necesito un certificado de concentración de notas. ¿Dónde lo puedo conseguir?**
+
+Los certificados de Calificaciones se piden directamente en el [Hall Universitario](http://admisionyregistros.uc.cl/alumnos/servicios-academicos/certificacion-estudiantil#oficinas-de-atenci%C3%B3n-de-p%C3%BAblico). Revisa toda la información de certificados [en este enlace](http://admisionyregistros.uc.cl/alumnos/servicios-academicos/certificacion-estudiantil) de Registros Académicos.
+
+**3\) ¿Qué tipos de certificados se pueden pedir?**
+
+Revisa todos los certificados que extiende la Universidad y sus valores en el siguiente [listado de certificados](http://admisionyregistros.uc.cl/images/pdf/alumnos/certificacion-estudiantil/lista-certificados-2019.pdf).
+
+**4\) ¿Dónde están las oficinas del Hall Universitario?**
+
+Existen dos oficinas de Hall Universitario, una en Casa Central y otra en San Joaquín. Revisa las direcciones exactas en [este enlace](http://admisionyregistros.uc.cl/alumnos/servicios-academicos/certificacion-estudiantil#oficinas-de-atención-de-público) ****de Registros Académicos. Los alumnos de los Campus Oriente y Lo Contador pueden solicitar certificados vía email en atencionintegrada@uc.cl
+
+**5\) ¿Qué certificados se extienden en inglés?**
+
+Revisa los certificados que la Universidad entrega en inglés en la siguiente [lista de certificados](http://admisionyregistros.uc.cl/images/pdf/alumnos/certificacion-estudiantil/lista-certificados-2019.pdf). 
+
+
+
+
+
+### ¿Tienes dudas? Contáctanos
+
+* Ícono correo: [admision@uc.cl](mailto:admision@uc.cl)
+* Ícono teléfono: Mesa central  `<a href="tel:%56223544000">+56223544000 </a>` \(+56\)2 2 3544000
+* Ícono consultas: [Consultas en línea](http://www3.puc.cl/consultasucweb/index.php?a=add)
+* Ícono [Facebook](http://facebook.com/ucatolica)
+* Ícono [Twitter](http://twitter.com/ucatolica)
+* Ícono [Instagram](http://instagram.com/ucatolicaoficial)
+* Ícono [Linkedin](https://www.linkedin.com/school/pontificia-universidad-cat-lica-de-chile/)
+* Ícono [YouTube](http://youtube.com/pucatolica)
+
+\*\*\*\*
+
+
+
+
+
