@@ -217,6 +217,9 @@
 ## Información para Alumnos
 
 * [Landing principal](informacion-para-alumnos/untitled/README.md)
+  * [Lo que todo alumno debe saber](informacion-para-alumnos/untitled/lo-que-todo-alumno-debe-saber/README.md)
+    * [Noticia 2 info para alumnos](informacion-para-alumnos/untitled/lo-que-todo-alumno-debe-saber/noticia-2-info-para-alumnos.md)
+    * [Noticia 1 info para alumnos](informacion-para-alumnos/untitled/lo-que-todo-alumno-debe-saber/noticia-1-info-para-alumnos.md)
   * [Toma nota de estas fechas](informacion-para-alumnos/untitled/toma-nota-de-estas-fechas/README.md)
     * [Evento 10 info para alumnos](informacion-para-alumnos/untitled/toma-nota-de-estas-fechas/evento-10-info-para-alumnos.md)
     * [Evento 9 info para alumnos](informacion-para-alumnos/untitled/toma-nota-de-estas-fechas/evento-9-info-para-alumnos.md)
