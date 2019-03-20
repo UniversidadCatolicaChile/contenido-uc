@@ -24,13 +24,13 @@ Unidad a cargo de la gestión administrativa, económica y financiera de la Pror
 
 #### Dirección de Desarrollo Patrimonial
 
-Director: Hans Muhr
+**Director:** Hans Muhr
 
 **Dirección de Proyectos y Filantropía**
 
 Unidad encargada de la preparación, actualización y análisis de información relevante para la gestión de Fundraising. También se encarga de la generación de bases de datos de las donaciones centrales, y mantiene el registro de fundaciones nacionales e internacionales de apoyo al desarrollo y sus áreas de interés.
 
-Directora: Mónica Arellano
+**Directora:** Mónica Arellano
 
 [Ir al sitio web](http://fundraising.uc.cl/)
 
