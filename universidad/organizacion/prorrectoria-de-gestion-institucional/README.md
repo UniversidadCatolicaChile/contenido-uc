@@ -2,6 +2,8 @@
 
 ## Prorrectoría de Gestión Institucional
 
+_Imagen: mismo fondo de la Universidad_
+
 La Prorrectoría de Gestión Institucional complementa la labor de la Prorrectoría, concentrándose en la **vinculación con las entidades relacionadas con la Universidad** y en **aspectos particulares de gestión y desarrollo institucional**. Junto a la Prorrectoría y la Vicerrectoría Económica debe velar por el avance y cumplimiento del plan de desarrollo.
 
 ### Equipo
