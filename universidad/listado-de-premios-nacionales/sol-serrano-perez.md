@@ -10,7 +10,7 @@ Historiadora chilena de gran trayectoria.
 
 **Se licenció en Historia en 1977, en la Pontificia Universidad Católica. Luego cursó un Master of Arts en la Universidad de Yale \(1982\)**. 
 
-En 1993 obtuvo su doctorado en Historia en la UC. Desde entonces es [**profesora del Instituo de Historia**](http://historia.uc.cl/Planta-Academica/serrano-sol.html), en donde ha desarrollado su labor docente e investigadora.
+En 1993 obtuvo su doctorado en Historia en la UC. Desde entonces es [**profesora del Instituto de Historia**](http://historia.uc.cl/Planta-Academica/serrano-sol.html), en donde ha desarrollado su labor docente e investigadora.
 
 Sol Serrano ha formado a muchas generaciones de  estudiantes de pre y posgrado que hoy tienen prominentes carreras. Ha dirigido veinte tesis de licenciatura, seis de magíster y ocho de doctorados. 
 
