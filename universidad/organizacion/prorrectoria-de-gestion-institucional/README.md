@@ -34,3 +34,11 @@ Unidad encargada de la preparación, actualización y análisis de información 
 
 [Ir al sitio web](http://fundraising.uc.cl/)
 
+#### UC online
+
+Falta descripción
+
+**Directora:** Luz Montero
+
+[Ir al sitio web](http://uconline.uc.cl)
+
