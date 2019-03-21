@@ -2,7 +2,7 @@
 
 ## Prorrector
 
-![](../../../.gitbook/assets/_mg_7223.jpg)
+![Guillermo Marshall, Prorrector.](../../../.gitbook/assets/_mg_7223.jpg)
 
 El prorrector es la autoridad a quien corresponde subrogar al Rector en caso de ausencia o impedimento temporal. Además, cumple las siguientes funciones:
 

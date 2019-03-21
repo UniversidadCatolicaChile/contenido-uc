@@ -8,7 +8,7 @@ description: >-
 
 ## Vicerrector de Investigación
 
-![](../../../.gitbook/assets/vicerrector-investigacion-pedro-bouchon.jpg)
+![Pedro Bouchon, vicerrector de Investigaci&#xF3;n.](../../../.gitbook/assets/vicerrector-investigacion-pedro-bouchon.jpg)
 
 El vicerrector de Investigación es la autoridad a quien corresponde la dirección de la Vicerrectoría. Su misión es llevar a la UC a la excelencia, aportando con una investigación de primera línea para ser un aporte al país y al mundo.  
 
