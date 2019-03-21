@@ -13,7 +13,7 @@ La vicerrectora económica es la autoridad encargada de elaborar y ejecutar la p
 * Administra los proyectos de arquitectura, construcción y bienes de la Universidad. 
 * Desarrolla y opera los sistemas de informática académica y administrativa.
 
-La actual vicerrectora económica es María Loreto Massanés.
+La actual vicerrectora económica es la ingeniera María Loreto Massanés.
 
 [Revisa su currículum](http://rectoria.uc.cl/equipo/maria-loreto-massanes)
 
