@@ -6,7 +6,7 @@ _Imagen: misma de La Universidad_
 
 Es la unidad encargada de **elaborar y ejecutar la política económica de la Universidad**. Es liderada por el Vicerrector o Vicerrectora Económica y debe proponer las políticas presupuestarias, financieras, económicas, de personal, infraestructura e informática. 
 
-[Ir al sitio web](http://vicerrectoriaeconomica.uc.cl/)
+[\[Ir al sitio\]](http://vicerrectoriaeconomica.uc.cl/)
 
 ### Equipo
 
