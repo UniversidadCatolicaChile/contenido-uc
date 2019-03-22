@@ -26,11 +26,29 @@ A través de esta página queremos responder al interés de los medios en los co
 
 ### Toma nota de estas fechas
 
-Evento 1
+#### Medios
 
-Evento 2
+29 marzo  / 9:00 hrs.
 
-Evento 3
+### [Ceremonia de inauguración del año académico 2019](http://agenda.uc.cl/2019/03/29/ceremonia-de-inauguracion-del-anio-academico-2019/)
+
+Casa Central, Aula Magna Manuel José Irarrázaval
+
+#### Medios
+
+26 abril - 30 abril  / 15:30 - 21:00 hrs
+
+### [Festival Inedit](http://agenda.uc.cl/2019/04/26/festival-inedit/)
+
+Centro de Extensión UC, Sala de Cine
+
+#### Medios
+
+9 de marzo al 28 de abril / 16:00 - 12:00 hrs
+
+### [Teatro infantil: Estela estelar](http://agenda.uc.cl/2019/03/09/teatro-infantil-estela-estelar/)
+
+Centro de Extensión UC, Sala de Cine
 
 Evento 4
 
