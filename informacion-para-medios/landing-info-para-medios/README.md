@@ -142,6 +142,16 @@ Quiero acreditarme para un evento. ¿Qué debo hacer?
 
 ![](../../.gitbook/assets/primer-museo-dedicado-a-las-vacunas.JPG)
 
+### Medios UC
+
+![](../../.gitbook/assets/icono-visionuc.gif)
+
+![](../../.gitbook/assets/icono-ru.jpg)
+
+![](../../.gitbook/assets/icono-radiouc.gif)
+
+![](../../.gitbook/assets/icono-extensionuc.gif)
+
 ### Más información para ti
 
 ### ¿Aún no encuentras lo que buscas?
