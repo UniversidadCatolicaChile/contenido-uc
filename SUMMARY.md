@@ -14,6 +14,7 @@
   * [noticia 3](home/te-contamos/noticia-3.md)
   * [noticia 4](home/te-contamos/noticia-4.md)
   * [noticia 5](home/te-contamos/noticia-5.md)
+* [Ver más noticias](home/ver-mas-noticias.md)
 * [UC en los medios](home/uc-en-los-medios.md)
 * [Medios de prensa](home/medios-de-prensa.md)
 * [Visión UC](home/vision-uc.md)
