@@ -2,7 +2,7 @@
 description: Contenido del landing principal de Información para medios.
 ---
 
-# Landing principal
+# Landing principal Info Para Medios
 
 Introducción \(falta\)
 

@@ -51,7 +51,7 @@ Correo electrónico: msotoagu@uc.cl
 
 Contacto:
 
- Teléfono: 2354 2476  
+ Teléfono: `<a href="tel:%56223542476">+56223542476 </a>`  
 Correo electrónico: rzanetta@uc.cl
 
 #### 

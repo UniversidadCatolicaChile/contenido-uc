@@ -120,3 +120,33 @@ Buscar
 
 ### Rector sostiene reuniones con autoridades eclesiásticas y diplomáticas durante viaje a Roma
 
+![](../.gitbook/assets/rector-sostiene-reniones.jpg)
+
+#### Derecho
+
+20 de marzo de 2019
+
+### Expertos internacionales se reunieron en coloquio sobre legalidad, no arbitrariedad y discrecionalidad en la aplicación judicial y ejecución de las penas
+
+![](../.gitbook/assets/expertos-internacionales-se-reunieron-en-coloquio-sobre-legalidad.jpg)
+
+#### Investigación
+
+19 de marzo de 2019
+
+#### Filosofía UC participa en investigación que obtuvo 1,3 millones de dólares
+
+![](../.gitbook/assets/filosofia-uc-participa-en-investigacion.jpg)
+
+#### Colección Gandarillas
+
+19 de marzo de 2019
+
+### Terremotos y Cristos milagrosos: testimonios de arte y devoción de los habitantes de los siglos XVII y XVIII
+
+![](../.gitbook/assets/terremotos-y-cristos-milagrosos.jpg)
+
+[Información para medios](../informacion-para-medios/landing-principal-info-para-medios/)
+
+[Contactos de prensa](../informacion-para-medios/contacos-de-prensa.md)
+
