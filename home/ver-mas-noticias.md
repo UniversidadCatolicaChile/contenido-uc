@@ -146,7 +146,7 @@ Buscar
 
 ![](../.gitbook/assets/terremotos-y-cristos-milagrosos.jpg)
 
-[Información para medios](../informacion-para-medios/landing-principal-info-para-medios/)
+[Información para medios](../informacion-para-medios/landing-info-para-medios/)
 
 [Contactos de prensa](../informacion-para-medios/contacos-de-prensa.md)
 

@@ -1,2 +1,0 @@
-# Temas para cubrir
-
