@@ -62,6 +62,8 @@
 
 ## Facultades, escuelas e institutos
 
+* [Listado por escuelas e institutos](facultades-escuelas-e-institutos/listado-por-escuelas-e-institutos.md)
+* [Listado de facultades](facultades-escuelas-e-institutos/listado-de-facultades.md)
 * [Facultades: sigue explorando](facultades-escuelas-e-institutos/facultades-sigue-explorando/README.md)
   * [noticia 1](facultades-escuelas-e-institutos/facultades-sigue-explorando/noticia-1.md)
   * [noticia 2](facultades-escuelas-e-institutos/facultades-sigue-explorando/noticia-2.md)
@@ -186,7 +188,7 @@
   * [Joaquín Luco Valenzuela](universidad/listado-de-premios-nacionales/joaquin-luco-valenzuela.md)
   * [Luis Emilio Filippi Murato](universidad/listado-de-premios-nacionales/luis-emilio-filippi-murato.md)
   * [Ana González Olea](universidad/listado-de-premios-nacionales/ana-gonzalez-olea.md)
-* [Untitled](universidad/untitled.md)
+* [Landing principal](universidad/untitled.md)
 
 ## Información para FUTUROS ALUMNOS
 
