@@ -57,13 +57,41 @@ María Angélica Zegers
 
 ![Mar&#xED;a Ang&#xE9;lica Zegers, directora de Ediciones UC.](../../../.gitbook/assets/_mg_1863.JPG)
 
+#### Directora de Educación Continua
+
+Margarita Guarello
+
+![Margarita Guarello, directora de Educaci&#xF3;n Continua.](../../../.gitbook/assets/_mg_1937.JPG)
+
+#### 
+
 #### Directora de Extensión Cultural
 
 Daniela Rosenfeld
 
 ![Daniela Rosenfeld, directora de Extensi&#xF3;n Cultural](../../../.gitbook/assets/_mg_1981.JPG)
 
-#### Directora de Educación Continua
+#### Directora de Marketing
+
+Magdalena del Río
+
+![Magdalena del R&#xED;o, directora de Marketing.](../../../.gitbook/assets/_mg_1838.JPG)
+
+#### Director de Capacitación y Desarrollo
+
+Jorge Herrera
+
+![Jorge Herrera, director de Capacitaci&#xF3;n y Desarrollo.](../../../.gitbook/assets/_mg_1487.JPG)
+
+#### Director de Preuniversitario UC
+
+Ariel Aguilar
+
+![Ariel Aguilar, director de Preuniversitario UC.](../../../.gitbook/assets/_mg_8067.JPG)
+
+### Footer
+
+
 
 
 
