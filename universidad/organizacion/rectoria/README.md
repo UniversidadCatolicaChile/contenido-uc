@@ -6,7 +6,7 @@ La Rectoría es el **órgano que gobierna la universidad** a través del Rector 
 
 * proponer las políticas de la Universidad, sus estatutos y reglamentos
 * presentar el presupuesto anual y presidir el Consejo Superior
-*  representar a la universidad ante cualquier autoridad nacional y extranjera
+* representar a la universidad ante cualquier autoridad nacional y extranjera
 * representar a la universidad judicial o extrajudicialmente.
 
 Dependen de la Rectoría el Prorrector, el Prorrector de Gestión Institucional y cuatro Vicerrectorías. Todas las autoridades permanecerán en sus cargos mientras cuenten con la confianza del Rector, no obstante cesarán en ellos cumplidos tres años desde su nombramiento, pudiendo ser designados para un nuevo período.  
