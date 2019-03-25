@@ -1,3 +1,7 @@
+---
+description: Falta agregar una breve introducción.
+---
+
 # Inicio
 
 ![](../.gitbook/assets/laudato-si-encabezado.jpg)

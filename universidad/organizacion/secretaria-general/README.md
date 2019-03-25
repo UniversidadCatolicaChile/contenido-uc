@@ -18,7 +18,7 @@ Es la ministro de Fe de la Universidad, autorizar los actos administrativos y ce
 
 #### Pro-Secretaria General
 
-Falta descripción
+Autoridad nombrada por el Rector a proposición de la Secretaría General, y le corresponde especialmente subrogar a la Secretaria General. 
 
 **Pro-secretaria general:** Marisol Urrutia
 
