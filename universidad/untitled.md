@@ -147,27 +147,45 @@ Compromiso público de la UC
 
 Para promover su acción más allá de las salas de clases, nuestra institución fomenta con sus colaboradores un diálogo permanente. En la riqueza de este intercambio se han ido gestando iniciativas que se han ido consolidando por su aporte a la comunidad. Las siguientes son algunas de las entidades relacionadas con la UC.
 
-Iglesia
+[Iglesia](http://www.iglesia.cl/)
 
 ![Logo de Iglesia.](../.gitbook/assets/logo_iglesia.jpg)
 
-Fundación Vida Rural
+[Fundación Vida Rural](http://www.fvrpuc.cl/)
 
-Club Deportivo Universidad Católica
+![Logo de la Fundaci&#xF3;n de Vida Rural.](../.gitbook/assets/fvr.jpg)
 
-Duoc UC
+[Club Deportivo Universidad Católica](http://www.lacatolica.cl/)
 
-DICTUC
+\[Imagen\]
 
-Fundación Copec UC
+[Duoc UC](http://www.duoc.cl/inicio)
 
-Instituto Catequístico Universidad Católica
+\[Imagen\]
 
-Red de Salud UC Christus
+[DICTUC](https://www.dictuc.cl/)
 
-Hospital Josefina Martínez
+\[Imagen\]
 
-Friends UC
+[Fundación Copec UC](http://www.fundcopec-uc.cl/)
+
+\[Imagen\]
+
+[Instituto Catequístico Universidad Católica](http://institutocatequistico.uc.cl/)
+
+\[Imagen\]
+
+[Red de Salud UC Christus](http://redsalud.uc.cl/ucchristus/)
+
+\[Imagen\]
+
+[Hospital Josefina Martínez](http://www.hospitaljosefinamartinez.cl/)
+
+![Logo del Hospital Josefina Mart&#xED;nez](../.gitbook/assets/logo-hospitaljosefinamartinez.jpg)
+
+[Friends UC](http://friends-uc.org/)
+
+![](../.gitbook/assets/logo-friends.jpg)
 
 ### Footer
 
