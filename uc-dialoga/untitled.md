@@ -81,6 +81,46 @@ Diálogos realizados para obtener visiones y aportes desde diversos grupos inter
 * [Registro fotográfico Mesas al Patio 2017](https://flic.kr/s/aHsm2BhsBT)
 * [Informe de Evaluación Interna - Acreditación, 2011](https://www.uc.cl/images/stories/La_UC_dialoga/2017/informe-de-evaluacion-interna-UC-2011.pdf)
 
+#### Versión 2016
+
+Registro audiovisual de la tercera etapa de La UC Dialoga 2016, Debate Público:
+
+* [Tema: Sentido y compromiso público ](http://multimedia.uc.cl/videos/vod/ucdialoga/UCD_CapII.mp4)
+* [Tema: Financiamiento ](http://multimedia.uc.cl/videos/vod/ucdialoga/UCD_CapI.mp4)
+* [Tema: Calidad ](http://multimedia.uc.cl/videos/vod/ucdialoga/UCD_CapIII.mp4)
+* [Tema: Institucionalidad](http://multimedia.uc.cl/videos/vod/ucdialoga/UCD_CapIV.mp4)
+
+
+
+* [Documento resumen de aportes de la UC Dialoga 2016 sobre la Reforma a la Educación Superior. 21.09.2016 ](https://www.uc.cl/images/pdf/ucdialoga/sintesis_uc_dialoga_2016.pdf)
+* [Visión UC. Edición con agradecimiento UC Dialoga, octubre de 2016](https://issuu.com/visionuniversitaria/docs/vu258/16) 
+* [Siete ejes para entender la Reforma de la Educación Superior. Visión UC, agosto de 2016 ](https://www.uc.cl/images/pdf/ucdialoga/siete-ejes-reforma-educacion-ucdialoga.pdf)
+* [Proyecto de Ley de Educación Superior 01.08.2016](https://www.uc.cl/images/pdf/ucdialoga/proyecto_de_ley_reforma_educacion_superior_4072016.pdf)
+* [Síntesis interna del proyecto de Ley de Educación Superior, 04.07.2016](https://www.uc.cl/images/pdf/ucdialoga/vrc_sintesis_reforma_educacion_superior.pdf)
+* [Comentarios de la Pontificia Universidad Católica de Chile a las Minutas del Ministerio de Educación sobre la Reforma a la Educación Superior, 11.04.2016 ](https://www.uc.cl/images/pdf/ucdialoga/aporte_de_la_uc_a_las_minutas_de_educacion_superior.pdf)
+* [Registro audiovisual de encuentros 2016](https://www.youtube.com/playlist?list=PLo5_6NdIy8XFT8l476W1wEQruMAW53wKd)
+* [Registro fotográfico jornadas 2016 ](https://www.flickr.com/photos/universidadcatolica/sets/72157670882823533)
+* [Otros aportes de la UC sobre Educación Superior ](https://www.uc.cl/es/la-uc-dialoga/ItemId=24643)
+
+#### Versión 2015
+
+* [Documento resumen de la UC Dialoga 2015 de aporte para el Plan de Desarrollo 2015-2020 ](https://www.uc.cl/es/component/docman/doc_download/81-sintesis-la-uc-dialoga-2015)
+* [Plan de desarrollo del periodo 2015-2020 donde se incorporan los aportes de la UC Dialoga 2015 ](https://www.uc.cl/es/plan-de-desarrollo)
+* [Registro fotográfico General ](https://www.flickr.com/photos/universidadcatolica/sets/72157654602975833)
+* [Registro fotográfico Campus San Joaquín](https://www.flickr.com/photos/universidadcatolica/sets/72157654937530195)
+* [Registro fotográfico Campus Casa Central](https://www.flickr.com/photos/universidadcatolica/sets/72157654704083915)  
+* [Registro fotográfico Campus Oriente ](https://www.flickr.com/photos/universidadcatolica/sets/72157654426119135)
+* [Registro fotográfico Lo Contador ](https://www.flickr.com/photos/universidadcatolica/sets/72157653935847489)
+
+#### Versión 2014
+
+* [Documento resumen con los resultados de La UC Dialoga 2014, de los diálogos acerca de sustentabilidad, ética profesional y docencia universitaria](https://www.uc.cl/images/stories/La_UC_dialoga/UCDialoga_resultados_2014.pdf)
+* [Registro fotográfico Campus Casa Central ](https://www.flickr.com/photos/universidadcatolica/sets/72157644714773007)
+* [Registro fotográfico Campus San Joaquín ](https://www.flickr.com/photos/universidadcatolica/sets/72157644484090508)
+* [Registro fotográfico Lo Contador ](https://www.flickr.com/photos/universidadcatolica/sets/72157644353476169)
+
+### Footer
+
 
 
 
