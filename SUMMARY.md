@@ -37,6 +37,7 @@
   * [Vida universitaria 1](home/vida-universitara/vida-universitaria-1.md)
   * [Vida universitaria 2](home/vida-universitara/vida-universitaria-2.md)
   * [Vida Universitaria 3](home/vida-universitara/vida-universitaria-3.md)
+* [Landing home](home/landing-home.md)
 
 ## Programas de estudio
 
@@ -50,6 +51,7 @@
   * [noticia 1](programas-de-estudio/sigue-explorando/noticia-1.md)
   * [noticia 2](programas-de-estudio/sigue-explorando/noticia-2.md)
   * [noticia 3](programas-de-estudio/sigue-explorando/noticia-3.md)
+* [Landing Programas de estudio](programas-de-estudio/landing-programas-de-estudio.md)
 
 ## Investigación
 
@@ -58,7 +60,7 @@
   * [Investigador 1](investigacion/yo-investigo-en-la-uc/investigador-1.md)
   * [Investigador 2](investigacion/yo-investigo-en-la-uc/investigador-2.md)
   * [Investigador 3](investigacion/yo-investigo-en-la-uc/investigador-3.md)
-* [Untitled](investigacion/untitled-1.md)
+* [Landing Investigación](investigacion/untitled-1.md)
 
 ## Facultades, escuelas e institutos
 
