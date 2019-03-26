@@ -26,3 +26,21 @@ El Pro-Gran Canciller es Monseñor Celestino Aós, administrador apostólico de 
 
 [Revisa su currículum. ](http://iglesia.cl/diocesis_detalle.php?diocesis=12)
 
+### Su equipo
+
+#### Vice Gran Canciller
+
+Presbítero Tomás Scherz
+
+![Presb&#xED;tero Tom&#xE1;s Scherz, Vice Gran Canciller.](../../../.gitbook/assets/_mg_3609.jpg)
+
+#### Dirección de Pastoral
+
+Francisco Elorrieta
+
+![Francisco Elorrieta, director de Pastoral.](../../../.gitbook/assets/img_7423.JPG)
+
+### Footer
+
+
+
