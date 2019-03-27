@@ -247,6 +247,7 @@
 
 ## Información para Académicos
 
+* [Premios Académicos](informacion-para-academicos/premios-academicos.md)
 * [Profesores titulares](informacion-para-academicos/profesores-titulares.md)
 * [Profesores eméritos](informacion-para-academicos/profesores-emeritos.md)
 * [Untitled](informacion-para-academicos/untitled-1.md)
