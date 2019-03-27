@@ -302,7 +302,7 @@
   * [Manuales](footer/emergencias/manuales.md)
 * [Teléfonos UC](footer/telefonos-uc/README.md)
   * [Teléfonos UC](footer/telefonos-uc/telefonos-uc.md)
-* [Untitled](footer/untitled.md)
+* [Glosario UC](footer/untitled.md)
 
 ## Error 404
 
