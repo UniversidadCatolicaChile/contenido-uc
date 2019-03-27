@@ -1,8 +1,10 @@
 # Glosario UC
 
+## Glosario UC
+
+Siglas y conceptos más importantes para entender y ser parte de la Comunidad UC.
+
 {% embed url="https://drive.google.com/open?id=14oQDpqyRBAxPy6Muv-twIMgb3sEWVKgNZ82FFSAwdUk" %}
 
-{% embed url="http://vidauniversitaria.uc.cl/vocabulario-uc" %}
-
-
+¿Te falta algún concepto? Mándanos tu sugerencia a direcciondigital@uc.cl
 
