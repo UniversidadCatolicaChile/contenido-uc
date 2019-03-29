@@ -122,7 +122,7 @@ Buscar
 
 ![](../.gitbook/assets/macarena_lizama.png)
 
-#### Ciencia
+#### Ciencias Sociales
 
 21 de Marzo de 2019
 
@@ -137,14 +137,6 @@ Buscar
 ### Comienza convocatoria al Premio Abdón Cifuentes 2019 por el aporte al desarrollo del país
 
 ![](../.gitbook/assets/premio-abdon-cifuentes-2019.jpg)
-
-#### Rector UC
-
-20 de marzo de 2019
-
-### Rector sostiene reuniones con autoridades eclesiásticas y diplomáticas durante viaje a Roma
-
-![](../.gitbook/assets/rector-sostiene-reniones.jpg)
 
 #### Colección Gandarillas
 
