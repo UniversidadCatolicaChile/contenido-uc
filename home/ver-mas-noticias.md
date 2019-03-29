@@ -74,6 +74,14 @@ Filtro:
 
 Buscar
 
+27 de marzo de 2019
+
+#### Campus Oriente
+
+### Se reiniciaron las actividades en Campus Oriente
+
+![](../.gitbook/assets/_mg_7911.JPG)
+
 #### Inclusión
 
 21 de Marzo de 2019
