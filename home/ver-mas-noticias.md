@@ -82,7 +82,15 @@ Buscar
 
 ![](../.gitbook/assets/_mg_7911.JPG)
 
-#### Investigación
+#### Humanidades
+
+26 de marzo de 2019
+
+### “Homo Dolens”, el libro que explora interpretaciones y dimensiones del dolor
+
+![](../.gitbook/assets/simple_bodily_pain.jpg)
+
+#### Ciencias Naturales
 
 25 de marzo de 2019
 
@@ -90,21 +98,13 @@ Buscar
 
 ![](../.gitbook/assets/bubbles-chemistry-close-up-220989.jpg)
 
-#### Aves de Chile
+#### Ornitología
 
 25 de marzo de 2019
 
 ### “Aves de las costas y mares de Chile”: nueva edición de la guía incluye aves oceánicas
 
 ![](../.gitbook/assets/animal-beach-beak-298314.jpg)
-
-#### Inclusión
-
-21 de Marzo de 2019
-
-### Directora del Centro del Síndrome de Down UC es reconocida mundialmente
-
-![](../.gitbook/assets/macarena_lizama.png)
 
 #### Deportes
 
@@ -114,6 +114,14 @@ Buscar
 
 ![](../.gitbook/assets/70deportistas-destacados-llegan-a-la-uc.JPG)
 
+#### Inclusión
+
+21 de Marzo de 2019
+
+### Directora del Centro del Síndrome de Down UC es reconocida mundialmente
+
+![](../.gitbook/assets/macarena_lizama.png)
+
 #### Ciencia
 
 21 de Marzo de 2019
@@ -121,14 +129,6 @@ Buscar
 ### Centro UC de Desarrollo Local del Campus Villarrica se adjudica PAR Explora Araucanía
 
 ![](../.gitbook/assets/centro-desarrollo-local-campus-villarrica-adjudica-explora-araucania.jpg)
-
-#### Redes sociales
-
-21 de  marzo de 2019
-
-### Instagram hoy: Nuevo ciclo de programas de magíster en Comunicaciones inició con charla sobre redes sociales
-
-![](../.gitbook/assets/instagram-hoy.jpg)
 
 #### Premio Abdón Cifuentes
 
@@ -145,22 +145,6 @@ Buscar
 ### Rector sostiene reuniones con autoridades eclesiásticas y diplomáticas durante viaje a Roma
 
 ![](../.gitbook/assets/rector-sostiene-reniones.jpg)
-
-#### Derecho
-
-20 de marzo de 2019
-
-### Expertos internacionales se reunieron en coloquio sobre legalidad, no arbitrariedad y discrecionalidad en la aplicación judicial y ejecución de las penas
-
-![](../.gitbook/assets/expertos-internacionales-se-reunieron-en-coloquio-sobre-legalidad.jpg)
-
-#### Investigación
-
-19 de marzo de 2019
-
-#### Filosofía UC participa en investigación que obtuvo 1,3 millones de dólares
-
-![](../.gitbook/assets/filosofia-uc-participa-en-investigacion.jpg)
 
 #### Colección Gandarillas
 
