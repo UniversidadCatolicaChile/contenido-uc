@@ -108,7 +108,7 @@ Buscar
 
 #### Deportes
 
-22 de Marzo de 2019
+22 de marzo de 2019
 
 ### Setenta deportistas destacados llegan a la UC para reforzar las distintas selecciones
 
@@ -116,7 +116,7 @@ Buscar
 
 #### Inclusión
 
-21 de Marzo de 2019
+21 de marzo de 2019
 
 ### Directora del Centro del Síndrome de Down UC es reconocida mundialmente
 
@@ -124,7 +124,7 @@ Buscar
 
 #### Ciencias Sociales
 
-21 de Marzo de 2019
+21 de marzo de 2019
 
 ### Centro UC de Desarrollo Local del Campus Villarrica se adjudica PAR Explora Araucanía
 
