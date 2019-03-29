@@ -74,13 +74,29 @@ Filtro:
 
 Buscar
 
-27 de marzo de 2019
-
 #### Campus Oriente
+
+27 de marzo de 2019
 
 ### Se reiniciaron las actividades en Campus Oriente
 
 ![](../.gitbook/assets/_mg_7911.JPG)
+
+#### Investigación
+
+25 de marzo de 2019
+
+### Nuevo Núcleo Milenio buscará generar alternativas al petróleo a partir de biomasa
+
+![](../.gitbook/assets/bubbles-chemistry-close-up-220989.jpg)
+
+#### Aves de Chile
+
+25 de marzo de 2019
+
+### “Aves de las costas y mares de Chile”: nueva edición de la guía incluye aves oceánicas
+
+![](../.gitbook/assets/animal-beach-beak-298314.jpg)
 
 #### Inclusión
 
@@ -92,7 +108,7 @@ Buscar
 
 #### Deportes
 
-21 de Marzo de 2019
+22 de Marzo de 2019
 
 ### Setenta deportistas destacados llegan a la UC para reforzar las distintas selecciones
 
