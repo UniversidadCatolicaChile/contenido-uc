@@ -6,7 +6,7 @@ description: 'Anita: hay que igualar el encabezado del WF al diseño de Info par
 
 Imagen superior
 
-A través de esta página queremos responder al interés de los medios en los contenidos que produce la Universidad. A través de la Dirección de Comunicaciones los medios pueden contactar a los expertos y líderes de opinión de cada una de las facultades y centros. La Dirección de Comunicaciones es la encarga de la [Revista Universitaria](https://www.uc.cl/es/revista-universitaria), la revista [Visión UC](https://www.uc.cl/es/vision-uc), la [Radio UC](http://www.radiouc.cl/) y el portal de [Extensión Cultural](http://extension.uc.cl/).
+A través de esta página queremos responder al interés de los medios en los contenidos que produce la Universidad. A través de la Dirección de Comunicaciones los medios pueden contactar a los expertos y líderes de opinión de cada una de las facultades y centros. La Dirección de Comunicaciones es la encargada de la [Revista Universitaria](https://www.uc.cl/es/revista-universitaria), la revista [Visión UC](https://www.uc.cl/es/vision-uc), la [Radio UC](http://www.radiouc.cl/) y el portal de [Extensión Cultural](http://extension.uc.cl/).
 
 #### En esta sección:
 

@@ -80,7 +80,7 @@ Buscar
 
 ### Directora del Centro del Síndrome de Down UC es reconocida mundialmente
 
-![](../.gitbook/assets/macarena-lizama-directora-centro-sindrome-down-uc.jpg)
+![](../.gitbook/assets/macarena_lizama.png)
 
 #### Deportes
 
