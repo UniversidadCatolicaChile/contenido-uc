@@ -110,18 +110,23 @@ Campus Oriente \(falta enlace a mapa\)
 Pertenece a: Facultad de Ciencias Sociales.  
 Campus San Joaquín \(falta enlace a mapa\)
 
+### Sigue explorando
+
+Caja 1  
+Campus UC  
+Conoce el campus Casa Central
+
+Caja 2  
+Investigación  
+Tour Virtual Observatorio Santa Martina
+
+Caja 3  
+Investigación  
+¿Sabías que la UC tiene una Estación Costera de Investigaciones Marinas?
+
+Caja 4  
+Exposición  
+Visita la muestra "Serie Autorretratos Sur", en Casa Central
 
 
-
-
-
-
-  
-  
-  
-
-
-
-
-Institutos
 
