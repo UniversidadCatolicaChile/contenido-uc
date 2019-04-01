@@ -338,3 +338,7 @@
 * [Menú Información Para](menus/menu-informacion-para.md)
 * [Menú Footer](menus/menu-footer.md)
 
+## Políticas de privacidad
+
+* [Políticas de privacidad](politicas-de-privacidad/politicas-de-privacidad.md)
+
