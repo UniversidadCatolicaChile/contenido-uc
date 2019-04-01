@@ -144,7 +144,11 @@ Quiero acreditarme para un evento. ¿Qué debo hacer?
 
 ![](../../.gitbook/assets/primer-museo-dedicado-a-las-vacunas.JPG)
 
-### Medios UC
+### Temas noticiosos
+
+\#RectorUC \#PremioEspírituUC \#UCSustentable \#Inclusión \#CampusOriente \#Vacunas \#AñoAcadémico \#Agua \#SíndromeDeDown \#SistemaÚnicoDeAdmisón
+
+### Medios de prensa
 
 ![](../../.gitbook/assets/icono-visionuc.gif)
 
