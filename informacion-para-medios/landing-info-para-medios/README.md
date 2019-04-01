@@ -4,7 +4,7 @@ description: 'Anita: hay que igualar el encabezado del WF al diseño de Info par
 
 # Landing Info Para Medios
 
-Imagen superior
+\(Ver opciones de Slack\)
 
 A través de esta página queremos responder al interés de los medios en los contenidos que produce la Universidad. A través de la Dirección de Comunicaciones los medios pueden contactar a los expertos y líderes de opinión de cada una de las facultades y centros. La Dirección de Comunicaciones es la encargada de la [Revista Universitaria](https://www.uc.cl/es/revista-universitaria), la revista [Visión UC](https://www.uc.cl/es/vision-uc), la [Radio UC](http://www.radiouc.cl/) y el portal de [Extensión Cultural](http://extension.uc.cl/).
 
@@ -50,19 +50,13 @@ Centro de Extensión UC, Sala de Cine
 
 Centro de Extensión UC, Sala de Cine
 
-Evento 4
+#### Medios
 
-Evento 5
+17 de abril al 31 de mayo
 
-Evento 6
+### [Exposición: Arte textil de China](http://agenda.uc.cl/2019/04/17/exposicion-arte-textil-de-china/)
 
-Evento 7
-
-Evento 8
-
-Evento 9
-
-Evento 10
+Centro de Extensión UC, Galería de Arte
 
 Más actividades:
 
@@ -106,17 +100,25 @@ Quiero acreditarme para un evento. ¿Qué debo hacer?
 
 ### Temas para cubrir:
 
-#### Investigación
+#### Humanidades
 
-### [Centro UC de Desarrollo Local del Campus Villarrica se adjudica PAR Explora Araucanía](https://www.uc.cl/es/la-universidad/noticias/33451-centro-uc-de-desarrollo-local-del-campus-villarrica-se-adjudica-par-explora-araucania)
+### “Homo Dolens”, el libro que explora interpretaciones y dimensiones del dolor
 
-![](../../.gitbook/assets/centro-desarrollo-local-campus-villarrica-adjudica-explora-araucania%20%281%29.jpg)
+![](../../.gitbook/assets/simple_bodily_pain.jpg)
 
-#### Investigación
+#### Ciencias Naturales <a id="ciencias-naturales"></a>
 
-### [¿Cuáles son los argumentos para la creencia en Dios?: nueva investigación internacional en la que participa Filosofía UC](https://www.uc.cl/es/la-universidad/noticias/33425-filosofia-uc-participa-en-investigacion-que-obtuvo-13-millones-de-dolares)
+### Nuevo Núcleo Milenio buscará generar alternativas al petróleo a partir de biomasa <a id="nuevo-nucleo-milenio-buscara-generar-alternativas-al-petroleo-a-partir-de-biomasa"></a>
 
-![](../../.gitbook/assets/filosofia-uc-participa-en-investigacion.jpg)
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LXFQbRoaEH2mm-3OCky%2F-Lb8gndnL8GSb3N00uBI%2F-Lb8idiZas62jFKQjbck%2Fbubbles-chemistry-close-up-220989.jpg?alt=media&token=3d2cf5a9-1a63-41cb-99cb-4e04973c4d9e)
+
+#### Ornitología <a id="ornitologia"></a>
+
+25 de marzo de 2019
+
+### “Aves de las costas y mares de Chile”: nueva edición de la guía incluye aves oceánicas <a id="aves-de-las-costas-y-mares-de-chile-nueva-edicion-de-la-guia-incluye-aves-oceanicas"></a>
+
+![](../../.gitbook/assets/avian-beach-bird-260757.jpg)
 
 #### Teatro familiar UC
 
@@ -124,11 +126,11 @@ Quiero acreditarme para un evento. ¿Qué debo hacer?
 
 ![](../../.gitbook/assets/estela-estelar.JPG)
 
-#### Medicina
+#### Inclusión
 
-### [La muerte, ese capítulo de la vida](https://www.uc.cl/es/la-universidad/noticias/33167-la-muerte-ese-capitulo-de-la-vida-)
+### Directora del Centro del Síndrome de Down UC es reconocida mundialmente <a id="directora-del-centro-del-sindrome-de-down-uc-es-reconocida-mundialmente"></a>
 
-![](../../.gitbook/assets/lamuerte-esecapitulo-delavida.jpg)
+![](../../.gitbook/assets/macarena_lizama.png)
 
 #### Innovación en docencia
 
