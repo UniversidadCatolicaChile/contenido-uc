@@ -64,7 +64,7 @@ Más actividades:
 * Accede a la Pauta de prensa \(enlace a Pauta de prensa\)
 * [Revisa la agenda de la UC](http://agenda.uc.cl)
 
-### Preguntas frecuentes \[Ver más\]
+### Preguntas frecuentes 
 
 #### Gestión de medios:
 
@@ -158,7 +158,32 @@ Quiero acreditarme para un evento. ¿Qué debo hacer?
 
 ![](../../.gitbook/assets/icono-extensionuc.gif)
 
+
+
 ### Más información para ti
+
+* ACTIVIDADES
+  * Agenda
+  * Calendario
+  * Pauta de prensa
+* MEDIOS DE PRENSA
+  * Km Cero
+  * Radio UC
+  * Revista Universitaria
+  * Visión UC
+* CONTACTOS DE PRENSA
+  * Listado de periodistas
+* REDES SOCIALES
+  * Instagram UC
+  * Facebook UC
+  * Flickr UC
+  * LinkedIn UC
+  * Twitter UC
+  * Youtube UC
+* MATERIAL DE CONSULTA Y DESCARGA
+  * Anuario institucional 2017-2018
+  * Discursos del Rector
+  * Plan de Desarrollo 2015-2020
 
 ### ¿Aún no encuentras lo que buscas?
 
