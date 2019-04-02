@@ -106,7 +106,33 @@ Las invenciones se pueden proteger a través de diversos mecanismos tales como p
 
 La Propiedad Intelectual agrupa a los derechos legales, entregados por un determinado Estado, que protegen las creaciones intelectuales humanas. Dentro de estas creaciones se encuentran las invenciones, obras literarias, científicas y artísticas, entre otras. La [Dirección de Transferencia](http://transferenciaydesarrollo.uc.cl/es/propiedad-intelectual) gestiona la protección de los resultados de investigación de la Universidad Católica, a través de diversos mecanismos tales como patentes, registros de derechos de autor, registro de variedades vegetales o secreto industrial.
 
-2\) 
+**2\) ¿En qué casos la titularidad de la propiedad intelectual le pertenece a la Universidad?**
+
+Los Derechos de Propiedad Intelectual son de la UC cuando \(i\) la invención es desarrollada por un académico contratado por la universidad, \(ii\) hay un acuerdo con terceros, \(iii\) hay un uso significativo de medios de la universidad \(equipos, materiales de investigación, nombre, insignia, marca, servicios de funcionarios; no equipos de oficina, no software general, no bibliotecas\), \(iv\) el programa computacional se ha desarrollado como desempeño de funciones laborales.
+
+3**\) ¿En qué casos la titularidad de la propiedad intelectual le pertenece al académico?**
+
+Los Derechos de Propiedad Intelectual son del académico, cuando se trata de material para enseñanza y el académico no ha sido contratado para desarrollarlo, o no lo ha realizado con uso significativo de medios de la universidad.
+
+**4\) ¿Existe algún reglamento asociado a la propiedad intelectual en la Universidad?**
+
+[En este enlace](http://transferenciaydesarrollo.uc.cl/images/dtyt/Reglamento_Propiedad_Intelectual_e_Industrial.pdf) encontrarás el Reglamento de Propiedad Intelectual e Industrial de la UC. 
+
+#### Concursos
+
+**1\) ¿Cuáles son los convenios de desempeño a los que puedo acceder?** 
+
+**2\) ¿Cómo puedo saber las fechas y estados asociados a concursos y becas?**
+
+**3\) ¿A qué concursos de investigación puedo postular?** 
+
+**4\) ¿A qué concursos de creación artística puedo postular?** 
+
+**5\) ¿A qué concursos de arte, tecnología y humanidades puedo postular?** 
+
+**6\) ¿Existen fondos para la internacionalización de la obra artística?**
+
+**7\) ¿Es posible postular a algún reconocimiento por la obra artística?**
 
 
 
