@@ -23,6 +23,8 @@ Tenemos un compromiso permanente con la calidad, como una forma de expresión de
 * 7 Años de acreditación en las 5 áreas evaluadas por la Comisión Nacional de Acreditación \(CNA\).
 * N°1 En Chile en solicitudes de patentes de invención.
 
+[Conoce nuestras cifras.](hechos-y-cifras.md)
+
 ### Organización
 
 A continuación te presentamos el organigrama de nuestra Universidad.
@@ -49,7 +51,7 @@ A continuación te presentamos el organigrama de nuestra Universidad.
 
 [Vicerrectoría de Comunicaciones](organizacion/vicerrectoria-de-comunicaciones/)
 
-
+### Cajas
 
 * Pastoral UC [\(ir al sitio\)](http://pastoral.uc.cl)
 * Ombudsman [\(ir al sitio\)](http://ombudsman.uc.cl/)
@@ -83,6 +85,8 @@ La Universidad Católica cuenta con cuatro campus en Santiago, Región Metropoli
 
 La Pontificia Universidad Católica de Chile está integrada por 18 facultades, constituidas por escuelas e institutos. Cuenta además con el programa College UC, el campus Villarrica y tres unidades interdisciplinarias. Juntos abarcan todas las áreas del conocimiento.
 
+Caja:
+
 [Conoce nuestras facultades](../facultades-escuelas-e-institutos/listado-de-facultades.md)
 
 ### Nuestra identidad
@@ -98,6 +102,8 @@ La UC nace con la misión de ofrecerle al país y a sus jóvenes una forma de ed
 ### Nuestra historia
 
 Desde nuestros fundadores -inspirados hombres de Iglesia que tuvieron la visión de crear la Universidad Católica- hasta el día de hoy, se ha ido forjando una historia de servicio y compromiso con el país que responde a nuestra misión de formar personas integrales, hacer crecer el conocimiento y aportar al desarrollo de la sociedad.
+
+Caja: 
 
 [Conoce nuestra historia](historia.md)
 
