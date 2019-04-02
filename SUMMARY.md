@@ -318,7 +318,12 @@
 
 ## Inclusión
 
-* [Untitled](inclusion/untitled.md)
+* [Admisión](inclusion/untitled.md)
+* [Financiamiento](inclusion/financiamiento.md)
+* [Talento e Inclusión](inclusion/talento-e-inclusion.md)
+* [Acompañamiento](inclusion/untitled-1.md)
+* [Glosario](inclusion/glosario.md)
+* [Ranking](inclusion/ranking.md)
 
 ## Laudato sí
 
