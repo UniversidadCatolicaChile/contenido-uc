@@ -68,8 +68,23 @@ Especialidades Odontológicas \(linkear a contenido interno\)
 UC Online \(linkear a contenido interno\)  
 Educación Continua \(linkear a contenido interno\)  
 Capacitación y Desarrollo \(linkear a contenido interno\)  
+
+
+###  Investigación
+
+\(Caja 1\)  
+Biotecnología Médica   
+[https://drive.google.com/file/d/1ePDP4lLaLZg352B6YzcGZCNZZZ8pMF-m/view](https://drive.google.com/file/d/1ePDP4lLaLZg352B6YzcGZCNZZZ8pMF-m/view)
+
+![](../.gitbook/assets/img_0172.JPG)
+
   
-Investigación   
+“Nuestra vacuna contra el virus sincicial pretende una protección que dure toda la vida”  
+  
+Alexis Kalergis, Director Instituto Milenio en Inmunología e Inmunoterapia  
+  
+[Ir a la sección](../investigacion/untitled-1.md)  
+  
   
 Academia  
   
