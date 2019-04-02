@@ -37,14 +37,39 @@ Foto:
 Adiós al músico Víctor Alarcón: su huella en los coros chilenos será inolvidable.  
 ****[![](https://lh6.googleusercontent.com/YUx45IV-SRJC6Rb5EnhZn4LY3yJ7d83C4NHleHPRk9eAKoMvGmGNYZh8OEEZa2MXFPWLvMsI-mHwFsdz-RGXhEsJgrV0FOfAcHERTp3FguwBvdytakqtGl-WTkFc_8wl2gUWDW3P)](https://drive.google.com/open?id=1hPIPiP-SZKAHG9fNk1lNrKByStIJTDcw)  
 [**Link a la foto**](https://drive.google.com/open?id=1hPIPiP-SZKAHG9fNk1lNrKByStIJTDcw)  
+
+
+###  **Mantente conectado con la UC**
+
+Módulo Twitter  
+Módulo Instagram  
+Módulo Facebook  
+
+
+###  **Te invitamos \(armar según componentes\)**
+
+* Fecha: rango o fecha fija
+* Etiqueta de tipo de evento
+* Título linkeado, máximo 80 caracteres.
+* Rango de fecha \(duración en el tiempo\)
+* Horario \(hora fija o rango\)
+* Lugar linkeado a mapa de ubicación por campus
+
+### Estudia con nosotros
+
+Carreras de pregrado \(linkear a contenido interno\)  
+Imagen: https://drive.google.com/open?id=1sKhGrodZzJoFOvChcX83u3bBbSCtDh6Z  
   
-**Mantente conectado con la UC**  
+Magísteres Especialidades Médicas \(linkear a contenido interno\)  
+Doctorados \(linkear a contenido interno\)  
+Postítulos \(linkear a contenido interno\)  
+Programas Interdisciplinarios \(linkear a contenido interno\)  
+Especialidades Odontológicas \(linkear a contenido interno\)  
+UC Online \(linkear a contenido interno\)  
+Educación Continua \(linkear a contenido interno\)  
+Capacitación y Desarrollo \(linkear a contenido interno\)  
   
-Te invitamos  
-  
-Estudia con nosotros  
-  
-Investigación  
+Investigación   
   
 Academia  
   
