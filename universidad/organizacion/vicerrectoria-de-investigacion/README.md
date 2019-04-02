@@ -40,7 +40,7 @@ Directora: María Elena Boisier.
 
 Unidad cuya misión es velar por la **calidad de los programas de doctorado** en conjunto con las unidades académicas, y apoyar y orientar a los académicos en sus actividades de investigación, doctorado y trabajo interdisciplinario.
 
-**Directora**: Jani Brouwer  
+**Director**: Diego Cosmelli  
 [Ir al sitio web](http://doctorados.uc.cl/es/)
 
 #### Dirección de Artes y Cultura:
