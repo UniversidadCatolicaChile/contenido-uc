@@ -9,18 +9,18 @@ Independiente de lo que elijas estudiar, en la UC te daremos todas las oportunid
 \*\*\*\*[**Ir al sitio**](http://admisionyregistros.uc.cl/alumnos/programas-estudio/proyecto-educativo-2)
 
 Cajas:  
-**1\) Pregrado:** 
+**Pregrado:** 
 
 Descubre las carreras y programas de pregrado que tenemos para ti. Con más de 50 opciones, aquí encontrarás la guía para no perderte y descubrir cómo convertirte en uno de los mejores profesionales del país.   
 [Más información](pregrado.md)
 
-**2\) Postgrado:** 
+**Postgrado:** 
 
 Conoce la variada oferta de programas de magíster y doctorados, pensados para licenciados y profesionales que desean complementar su formación o dedicarse a la investigación y a la docencia.  
   
 [Más información](postgrado/)
 
-**3\) Diplomado:**
+**Diplomado**
 
 Revisa los distintos programas pensados para aquellas personas que, teniendo una formación profesional o disciplinaria previa, desean mantenerse al día en los conocimientos, habilidades y destrezas que caracterizan a su actividad o bien quieren extender su conocimiento hacia áreas complementarias. 
 
@@ -28,23 +28,23 @@ Enlace: [http://educacioncontinua.uc.cl](http://educacioncontinua.uc.cl)
 
 ### Otras alternativas de estudio
 
-Cursos  
+Cursos:  
 Capacitación y Desarrollo: [http://capacitacion.uc.cl](http://capacitacion.uc.cl)   
 Clase Ejecutiva: [https://www.claseejecutiva.cl/](https://www.claseejecutiva.cl/)   
 Programa del Adulto Mayor: [http://adultomayor.uc.cl](http://adultomayor.uc.cl)  
-Conoce nuestro proyecto educativo [http://admisionyregistros.uc.cl/alumnos/programas-estudio/proyecto-educativo-2](http://admisionyregistros.uc.cl/alumnos/programas-estudio/proyecto-educativo-2)
+
 
 Cursos online  
 Plataforma UC online: [http://uconline.uc.cl](http://uconline.uc.cl)   
 Plataforma Teleduc [http://teleduc.uc.cl/](http://teleduc.uc.cl/)   
 Plataforma Coursera: [https://www.coursera.org/ucchile](https://www.coursera.org/ucchile)  
-Conoce nuestro proyecto educativo [http://admisionyregistros.uc.cl/alumnos/programas-estudio/proyecto-educativo-2](http://admisionyregistros.uc.cl/alumnos/programas-estudio/proyecto-educativo-2)
+
 
 Cursos de idiomas  
 Inglés [http://english.uc.cl/](http://english.uc.cl/)  
 Chino Mandarín [http://confucio.uc.cl/es/curso-de-idiomas](http://confucio.uc.cl/es/curso-de-idiomas)  
 Alemán, euskera, francés, italiano, japonés y portugués [http://extension.letras.uc.cl/index.php/cursos-de-idiomas](http://extension.letras.uc.cl/index.php/cursos-de-idiomas)  
-Conoce nuestro proyecto educativo [http://admisionyregistros.uc.cl/alumnos/programas-estudio/proyecto-educativo-2](http://admisionyregistros.uc.cl/alumnos/programas-estudio/proyecto-educativo-2)
+
 
 ### Encuentra cursos y programas
 
