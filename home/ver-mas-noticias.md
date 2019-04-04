@@ -114,13 +114,13 @@ Buscar
 
 ![](../.gitbook/assets/70deportistas-destacados-llegan-a-la-uc.JPG)
 
+#### 
+
 #### Inclusión
 
 21 de marzo de 2019
 
 ### Directora del Centro del Síndrome de Down UC es reconocida mundialmente
-
-![](../.gitbook/assets/macarena_lizama.png)
 
 #### Ciencias Sociales
 
@@ -129,6 +129,8 @@ Buscar
 ### Centro UC de Desarrollo Local del Campus Villarrica se adjudica PAR Explora Araucanía
 
 ![](../.gitbook/assets/centro-desarrollo-local-campus-villarrica-adjudica-explora-araucania.jpg)
+
+![](../.gitbook/assets/macarena_lizama.png)
 
 #### Premio Abdón Cifuentes
 

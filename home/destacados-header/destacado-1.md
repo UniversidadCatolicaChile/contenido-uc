@@ -34,9 +34,11 @@ Por su parte el extitular del MOP \(2000\), **Carlos Cruz**, afirma que vale la 
 
 #### GEOGRAFÍA VIAL
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit et ad facilisis, dignissim praesent sollicitudin suscipit a est posuere porttitor quam quisque, pulvinar nunc consequat lacinia taciti lobortis duis pharetra felis. Pulvinar suscipit senectus tellus at cursus quisque facilisi hendrerit, sodales natoque potenti tristique dignissim conubia porttitor. Est proin mauris hac torquent eros ut, leo congue vulputate risus hendrerit feugiat, dictum vivamus arcu justo nullam.
+**La infraestructura afecta la geografía, pero quienes se dedican a esta disciplina no suelen estar involucrados en comisiones y menos en la toma de decisiones al respecto.** Así, el académico del Instituto de Geografía UC, Rafael Sánchez, señala que falta considerar las diferencias regionales al decidir por parte del MOP. Y, a la vez, determinar a qué necesidades se les dará prioridad, en un contexto donde rentabilidad social y económica pueden estar desbalanceado.
 
-Aenean risus nisl potenti imperdiet inceptos nunc augue scelerisque himenaeos, massa sem gravida sed congue velit lectus accumsan, nisi magnis cras phasellus mi natoque fames blandit. Leo lectus pulvinar conubia et convallis venenatis diam curabitur nascetur, ligula proin euismod vel sociosqu egestas luctus habitant per, eros libero platea accumsan sollicitudin montes quis morbi. Risus orci elementum morbi commodo cubilia, consequat varius ad litora.
+Muchas veces, asegura, "**se les da prioridad a los criterios productivos** y, por ejemplo, en vez de proporcionar las condiciones para dotar de agua potable a una comunidad, se opta por regadío agrícola". 
+
+
 
 #### SOBRE ELEFANTES BLANCOS Y AUTOMÓVILES
 
