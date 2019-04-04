@@ -28,7 +28,7 @@
   </tbody>
 </table>  
 
-![Tel&#xE9;fonos de emergencias](../../.gitbook/assets/image.png)
+![Tel&#xE9;fonos de emergencias](../../.gitbook/assets/image%20%281%29.png)
 
 
 
