@@ -8,6 +8,8 @@
 
 ![](../.gitbook/assets/trigo-bajo-la-lluvia.jpg)
 
+**Artículo Timing of precipitation pattern change**, publicado en la revista Proceedings of the National Academy of Sciences
+
 **Para 2040, las lluvias disponibles para los cultivos de trigo, soya, arroz y maíz habrán cambiado en todo el mundo. Esto, aunque se cumplan los objetivos de reducción de emisiones de los Acuerdos de París. Las proyecciones muestran que partes de Europa, África, América y Australia serán más secos, mientras que los trópicos y las latitudes más altas serán más húmedas. Esto, de acuerdo a un estudio internacional, en el que participa el académico de Geografía UC Fabrice Lambert, publicado en la prestigiosa revista PNAS.**
 
 Aunque las personas reduzcamos drásticamente las emisiones de gases de efecto invernadero en el corto plazo, los patrones de lluvia en los distintos continentes cambiarán en las próximas decenas.de aquí al año 2040. De hecho, **algunas regiones ya experimentan nuevos regímenes climáticos en comparación a tan solo una generación atrás. Es más, para 2040 el 14% de la tierra dedicada al cultivo de trigo, soya, arroz y maíz serán más secas, mientras que el 31% serán más húmedas.**
@@ -16,7 +18,7 @@ Esto, de acuerdo a una investigación internacional publicada en la revista [_Pr
 
 > **Para 2040 el 14% de la tierra dedicada al cultivo de trigo, soya, arroz y maíz serán más secas, mientras que el 31% serán más húmedas.**
 
-l estudio utiliza cuatro escenarios de emisiones, desde el más bajo al más alto, para predecir el tiempo de emergencia \(TOE, en su sigla inglés\) de los cambios de precipitación permanentes, es decir, el año en que los cambios de precipitación se encuentran fuera de su variación natural histórica en una ubicación específica. 
+El estudio utiliza cuatro escenarios de emisiones, desde el más bajo al más alto, para predecir el tiempo de emergencia \(TOE, en su sigla inglés\) de los cambios de precipitación permanentes, es decir, el año en que los cambios de precipitación se encuentran fuera de su variación natural histórica en una ubicación específica. 
 
 La investigación muestra que una acción rápida sobre las emisiones, en línea con [el Acuerdo de París de 2015](https://unfccc.int/sites/default/files/spanish_paris_agreement.pdf), empujaría las proyecciones de TOE más profundamente en el futuro o reduciría el tamaño de las áreas afectadas.
 
