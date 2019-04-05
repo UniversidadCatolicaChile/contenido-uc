@@ -33,6 +33,8 @@
 * [Listado de magíster](home/listado-de-magister.md)
 * [Listado de postítulo](home/listado-de-postitulo.md)
 * [Programas interdisciplinarios](home/programas-interdisciplinarios.md)
+* [Investigación](home/investigacion.md)
+* [Compromiso Público](home/compromiso-publico.md)
 * [Vida universitaria](home/vida-universitara/README.md)
   * [Vida universitaria 1](home/vida-universitara/vida-universitaria-1.md)
   * [Vida universitaria 2](home/vida-universitara/vida-universitaria-2.md)
