@@ -6,7 +6,7 @@
 
 * [Destacados header](home/destacados-header/README.md)
   * [Mirar el suelo para construir el desarrollo](home/destacados-header/destacado-1.md)
-  * [Destacado 2](home/destacados-header/destacado-2.md)
+  * [La Muerte, ese capítulo de la vida](home/destacados-header/destacado-2.md)
   * [Destacado 3](home/destacados-header/destacado-3.md)
 * [Te contamos](home/te-contamos/README.md)
   * [Movilidad, trabajo y salud: los desafíos de las ciudades amigables para adultos mayores](home/te-contamos/noticia-1.md)
