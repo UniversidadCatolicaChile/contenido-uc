@@ -12,6 +12,8 @@ Recientemente se publicó el libro **"Homo Dolens. Cartografías del dolor: sent
 
 Rolle y Gaune emprendieron el proyecto del libro con expectativas ensayísticas, lejos de una publicación meramente académica y con miradas diversas que se concretaron en textos de 24 investigadores, entre los que también participan los propios académicos. **“Un cartógrafo representa une espacio y situaciones. Eso era clave para nosotros en esta publicación”**, relató Rolle.
 
+![](../../.gitbook/assets/homo-dolens-portada-libro.png)
+
 Así se configuró una publicación que no pretende retratar la historia del dolor, sino cómo este concepto se ha interpretado y conjurado, cómo se percibe y se transmite su memoria a través de disciplinas humanísticas y diferentes saberes. 
 
 **“En Homo Dolens hay un abanico de dolores, del cuerpo, del alma. También se analiza el reverso de los dolores y el vínculo del placer y del dolor en la filosofía”**, señaló Gaune.
