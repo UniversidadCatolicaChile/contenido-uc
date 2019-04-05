@@ -1,4 +1,6 @@
-# noticia b\)
+# B\) UC recibió oficialmente a sus nuevos alumnos de Doctorado 2019
+
+### Comunidad UC
 
 ### UC recibió oficialmente a sus nuevos alumnos de Doctorado 2019
 

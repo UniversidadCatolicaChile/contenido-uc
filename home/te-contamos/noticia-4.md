@@ -1,4 +1,6 @@
-# noticia a\)
+# A\) Académico de Economía UC fue confirmado como fellow del instituto CESifo Research Network
+
+### Academia UC
 
 ### Académico de Economía UC fue confirmado como fellow del instituto CESifo Research Network
 
