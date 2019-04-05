@@ -10,7 +10,7 @@
   * [Destacado 3](home/destacados-header/destacado-3.md)
 * [Te contamos](home/te-contamos/README.md)
   * [Movilidad, trabajo y salud: los desafíos de las ciudades amigables para adultos mayores](home/te-contamos/noticia-1.md)
-  * [noticia 2](home/te-contamos/noticia-2.md)
+  * [“Homo Dolens”, el libro que explora interpretaciones y dimensiones del dolor](home/te-contamos/noticia-2.md)
   * [noticia 3](home/te-contamos/noticia-3.md)
   * [noticia 4](home/te-contamos/noticia-4.md)
   * [noticia 5](home/te-contamos/noticia-5.md)
