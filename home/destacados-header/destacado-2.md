@@ -10,6 +10,10 @@ Viernes, 15 de Marzo de 2019
 
 #### Un mejor proceso de fin de vida no supone solo el alivio del sufrimiento, sino también aceptar que existe la posibilidad de una muerte pronta. Y vivir esta etapa es ir dejando de lado lo accesorio, para llegar a lo medular. Los médicos Pedro Pérez y Alfredo Rodríguez; y la enfermera Paula Medeiros, todos del Programa de Medicina Paliativa y Cuidados Continuos de la Red de Salud UC-CHRISTUS; y Doris García, jefa de la línea del adulto mayor del Hogar de Cristo, abordan en este artículo de la profesora Eliana Rozas, publicado en la última edición de [Revista Universitaria](https://www.uc.cl/es/revista-universitaria), la etapa del final de la vida. Desde la profunda experiencia de aquellos que están a diario con quienes la enfrentan. 
 
+#### Autor: 
+
+**Eliana Rozas:** Periodistas y egresada de Derecho de la Pontificia Universidad Católica de Chile. Además es académica de la Facultad de Comunicaciones de la misma institución.
+
 ![VIVIR LA MUERTE: Los especialistas coinciden en la necesidad de considerar la experiencia del cierre de la vida como una parte de ella misma. Aunque parezca contracultural.](../../.gitbook/assets/dia-de-muertos-mexico.jpg)
 
 _"Porque el tiempo es escaso y precioso/ los días son un tesoro merecido,/ las horas instantes de la eternidad,/ los minutos efímeros cordeles/ volando en pleno día, los segundos/ cenizas de diamante"._
@@ -38,7 +42,11 @@ Sin embargo, el doctor Pérez explica que en Chile ya no morimos mayoritariament
 
 Su colega el doctor Alfredo Rodríguez, especialista en medicina familiar y cuidados paliativos, señala que está descrito que este tipo de pacientes reporta entre ocho y diez síntomas, tanto de índole física, que no necesariamente corresponden a dolor sino a náuseas, sensación de ahogo, cansancio, pérdida de apetito, insomnio o somnolencia; como psicológica, que pueden manifestarse en depresión, ansiedad o angustia; o espiritual, relacionados con la pérdida de sentido o con la sensación de abandono. Detectarlos y aliviarlos es el objetivo del equipo del cual forma parte, que también incluye psiquiatras, psicólogos, enfermeras, fonoaudiólogos y agentes pastorales.
 
-### VIVIR LA AMBIVALENCIA
+> “Nuestro trabajo es ayudar a que el paciente pueda, por una parte, ir reconociendo la posibilidad de la muerte y, al mismo tiempo, mantenerse esperanzado en la recuperación. Además, ser capaz de vivir lo mejor posible con esa ambivalencia”, explica el doctor Pérez.
+
+![](../../.gitbook/assets/mujer-junto-a-altar-de-muertos.JPG)
+
+#### VIVIR LA AMBIVALENCIA
 
 _Puedo cuidarme, implementar acciones que protejan el terreno en que me habito \(...\). Pero, finalmente, admitiendo que todo ello es muy importante, que seguramente va a darme una mejor calidad de vida y tal vez una mayor sobrevida, como ha sido mi caso, debo aceptar que eso no me asegura la curación. El cáncer está relacionado con el misterio, y parte de enfrentar plenamente la vida es reconocer y convivir con el misterio, abriéndole un espacio a la incertidumbre y al no control._ 
 
@@ -51,6 +59,8 @@ Para ello se hace indispensable que los grupos de cuidados paliativos trabajen p
 El médico señala que la comprensión intelectual del inexorable fin de la vida humana no es lo mismo que contactarse con lo que ello implica en términos personales, justamente lo que significa la idea de la “conciencia pronóstica”: “Para una persona es muy dramático pasar de ‘me voy a morir en algún momento’ a ‘me voy a morir de esta enfermedad que tengo ahora, dentro de unos meses o unos años’. 
 
 Son dos paradigmas muy distintos. Los pacientes se demoran en pasar de uno a otro. Y a veces el equipo médico también necesita hacer la transición”. Con la experiencia que le da el haber trabajado una década como voluntaria y ahora ser jefa técnica nacional de la Línea de Adulto Mayor del Hogar de Cristo, que atiende a 600 ancianos en 13 residencias a lo largo del país, Doris García habla de que ellos van paulatinamente desarrollando una conciencia de que están en la última etapa del ciclo vital, lo que hace que frente a un deterioro de la salud manifiesten con naturalidad “parece que me llegó la hora”. Y piensa que su aceptación de la muerte se relaciona con su contexto: “Allí viven personas que están en la etapa final de la vida, en ocasiones muy enfermas. Y lo más habitual es que mueran también allí. Entonces, la muerte se ve con cierta cercanía y eso ayuda a que sea aceptada y comprendida”.
+
+![EL PRINCIPIO DEL FIN. Un mejor proceso de fin de vida no supone s&#xF3;lo el alivio del sufrimiento, sino tambi&#xE9;n el desarrollo en el paciente de lo que el doctor P&#xE9;rez llama &quot;conciencia pron&#xF3;stica&quot;, es decir, aceptar que existe la posibilidad de la muerte pronta.](../../.gitbook/assets/portal-adornado-con-flores-dia-de-muertos-mexico.JPG)
 
 #### VIVIR LO MEDULAR
 
@@ -83,4 +93,6 @@ Acompañamiento es una palabra que los entrevistados utilizan constantemente y a
 Paula Medeiros coincide y explica que en el programa de la UC, pese a que trabajan con personas que han recibido formación sistemática para el acompañamiento, las enfermeras desarrollan también mucho de esa labor: “Cuando una persona está viviendo un proceso tan íntimo como este, donde a veces puede haber inquietudes, suele ser más fácil hablar con una persona ajena a la familia. Por eso, y porque hemos desarrolla- do el vínculo, nosotros hacemos mucha escucha. No se trata de la enfermera que pone un suero, toma la presión y se va, sino que el paciente nos espera para contarnos lo que está viviendo”. Y vivir esta etapa, dicen, es ir dejando de lado lo accesorio, para llegar a lo medular, algo que todos los entrevistados reconocen los interpela. “Es muy bonito poder facilitar que las personas tengan vidas significativas hasta el final; es ser testigo de la experiencia esencialmente humana de cada persona, que al final se queda con lo central –sintetiza el doctor Pedro Pérez–. En este período ocurren cosas maravillosas; encuentros sorprendentes y grandes declaraciones. Es el papá que tuvo la posibilidad de conversar con su hijo; la compañía de toda la familia reunida; un chico que logra hacer su sueño de tocar acordeón el día antes de fallecer”.
 
 Esos, que el doctor Pérez define como los logros íntimos y anónimos que distinguen a esta especialidad médica de otras, son para la enfermera Paula Medeiros “un verdadero regalo”.
+
+
 
