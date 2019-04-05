@@ -36,5 +36,19 @@ El alcalde de **Renca** comentó que “normalmente se tiende a pensar que el te
 
 “Vimos que la mayoría de ellos hacen trámites, van de compras, visitan familiares y amigos. **Un 34% de los renquinos sobre 60 años \(siete mil personas\), no salen de la comuna por problemas de movilidad pública y transporte. El 60% hace sus viajes caminando y uno de los problema que tenemos es que seis de cada siete kilómetros de vereda en Renca están en una situación deficiente”**, dijo la autoridad.  
   
-**Un ejemplo de solución en temas de movilidad asumida por la municipalidad de Puente Alto es la distribución de la pulsera RedActiva a sus adultos mayores. Una banda que tiene la misma tecnología que la tarjeta BIP, con un lector que transmite a una central del municipio y que indica cuánto camina una persona, su recorrido y los semáforos que va pasando en su trayecto**. “Dentro de sus funciones centrales entrega diez segundos extra para que el adulto mayor cruce la calle”, concluyó Isabel Retamal, gerente de Desarrollo de AFP de Chile, sobre esta iniciativa desarrollada en conjunto por el [Centro de Políticas Públicas UC](https://politicaspublicas.uc.cl/), [Diseño UC](http://diseno.uc.cl/) y la [Asociación de AFP](https://www.aafp.cl/); y apoyado por [Fundación Oportunidad](http://omayor.cl/)
+**Un ejemplo de solución en temas de movilidad asumida por la municipalidad de Puente Alto es la distribución de la pulsera RedActiva a sus adultos mayores. Una banda que tiene la misma tecnología que la tarjeta BIP, con un lector que transmite a una central del municipio y que indica cuánto camina una persona, su recorrido y los semáforos que va pasando en su trayecto**. “Dentro de sus funciones centrales entrega diez segundos extra para que el adulto mayor cruce la calle”, concluyó Isabel Retamal, gerente de Desarrollo de AFP de Chile, sobre esta iniciativa desarrollada en conjunto por el [Centro de Políticas Públicas UC](https://politicaspublicas.uc.cl/), [Diseño UC](http://diseno.uc.cl/) y la [Asociación de AFP](https://www.aafp.cl/); y apoyado por [Fundación Oportunidad Mayor](http://omayor.cl/).
+
+Etiquetado:
+
+Unidad: SeniorLab
+
+Eje estratégico:
+
+Compromiso público
+
+Temas:
+
+Adulto mayor, 
+
+
 
