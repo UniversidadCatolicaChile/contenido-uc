@@ -2,9 +2,11 @@
 
 #### Ciencias de la Tierra y del Medio Ambiente
 
-### Los dramáticos cambios en las lluvias para 2040, afectarán los cultivos de soya, trigo, maíz y arroz.
+### Los dramáticos cambios en las lluvias para 2040, afectarán los cultivos de soya, trigo, maíz y arroz
 
 ![](../.gitbook/assets/cambios-en-las-lluvias.jpg)
+
+![](../.gitbook/assets/trigo-bajo-la-lluvia.jpg)
 
 **Para 2040, las lluvias disponibles para los cultivos de trigo, soya, arroz y maíz habrán cambiado en todo el mundo. Esto, aunque se cumplan los objetivos de reducción de emisiones de los Acuerdos de París. Las proyecciones muestran que partes de Europa, África, América y Australia serán más secos, mientras que los trópicos y las latitudes más altas serán más húmedas. Esto, de acuerdo a un estudio internacional, en el que participa el académico de Geografía UC Fabrice Lambert, publicado en la prestigiosa revista PNAS.**
 
@@ -12,8 +14,9 @@ Aunque las personas reduzcamos drásticamente las emisiones de gases de efecto i
 
 Esto, de acuerdo a una investigación internacional publicada en la revista [_Proceedings of the National Academy of Sciences_](https://www.pnas.org/content/116/14/6507#sec-5), [PNAS](https://www.pnas.org/), de Estados Unidos. En el estudio participan expertos del [Centro Internacional para la Agricultura Tropical](https://ciat.cgiar.org/) \(CIAT, en sus siglas en inglés\); el [Programa de Investigación para el Cambio Climático, Agricultura y Seguridad Alimentaria](https://ccafs.cgiar.org/) \(CCAFS\) de la red CGIAR; el[ Centro para la Investigación del Clima y Resiliencia](http://www.cr2.cl/) \(CR2\) de [CONICYT](https://www.conicyt.cl/) Chile; y la [Universidad de Leeds](https://environment.leeds.ac.uk/see), de Gran Bretaña.
 
-  
-El estudio utiliza cuatro escenarios de emisiones, desde el más bajo al más alto, para predecir el tiempo de emergencia \(TOE, en su sigla inglés\) de los cambios de precipitación permanentes, es decir, el año en que los cambios de precipitación se encuentran fuera de su variación natural histórica en una ubicación específica. 
+> **Para 2040 el 14% de la tierra dedicada al cultivo de trigo, soya, arroz y maíz serán más secas, mientras que el 31% serán más húmedas.**
+
+l estudio utiliza cuatro escenarios de emisiones, desde el más bajo al más alto, para predecir el tiempo de emergencia \(TOE, en su sigla inglés\) de los cambios de precipitación permanentes, es decir, el año en que los cambios de precipitación se encuentran fuera de su variación natural histórica en una ubicación específica. 
 
 La investigación muestra que una acción rápida sobre las emisiones, en línea con [el Acuerdo de París de 2015](https://unfccc.int/sites/default/files/spanish_paris_agreement.pdf), empujaría las proyecciones de TOE más profundamente en el futuro o reduciría el tamaño de las áreas afectadas.
 
@@ -22,6 +25,8 @@ La investigación muestra que una acción rápida sobre las emisiones, en línea
 De acuerdo a la investigación, las regiones que serán más secas son el sudoeste de Australia, el sudeste de África, el sudoeste de América del sur y el Mediterráneo. Mientras que las zonas que serán más húmedas son Canadá, Rusia, India y el este de Estados Unidos.
 
 **Los cuatro cultivos afectados representan cerca del 40% del consumo calórico mundial.** Es por esto que los autores recalcan la necesidad urgente de que las distintas regiones, tanto las que se volverán más secas como más húmedas, adopten los cambios necesarios para adaptarse a los efectos del cambio en las lluvias en las próximas dos décadas.
+
+![Los cuatro cultivos afectados representan cerca del 40% del consumo cal&#xF3;rico mundial.](../.gitbook/assets/cultivo-trigo-bajo-el-sol-poniente.jpg)
 
 **Se espera que las condiciones más secas afecten a los principales productores mundiales de trigo:** 
 
