@@ -54,7 +54,7 @@ Adulto mayor, inclusión, ciudad, urbanismo
 
 8 de febrero de 2019 
 
-**Metadatos**: Compromiso público, análisis, Adulto mayor, cuidado, vejez, Centro de Estudios de la Vejez.
+**Metadatos**: Compromiso público, análisis, Adulto mayor, cuidado, vejez, Centro de Estudios de la Vejez, **cuidados en la vejez**
 
 [Estudio analiza cómo viven adultos mayores en residencias públicas y privadas](https://www.uc.cl/es/la-universidad/noticias/33119-aunque-con-importantes-desafios-por-resolver-los-establecimientos-de-larga-estadia-del-senama-brindan-una-mejor-perspectiva-de-vida-a-las-personas-mayores-versus-los-centros-privados)
 
