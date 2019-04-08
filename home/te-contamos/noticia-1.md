@@ -50,5 +50,23 @@ Temas:
 
 Adulto mayor, 
 
+### Contenido relacionado
 
+8 de febrero de 2019 
+
+[Estudio analiza cómo viven adultos mayores en residencias públicas y privadas](https://www.uc.cl/es/la-universidad/noticias/33119-aunque-con-importantes-desafios-por-resolver-los-establecimientos-de-larga-estadia-del-senama-brindan-una-mejor-perspectiva-de-vida-a-las-personas-mayores-versus-los-centros-privados)
+
+![](../../.gitbook/assets/hands-2906458_1920.jpg)
+
+8 de octubre de 2018 
+
+[Organizan la primera caminata para adultos mayores en la UC](https://www.uc.cl/es/la-universidad/noticias/31813-mas-de-mil-personas-asistieron-a-la-primera-camina-60-en-campus-san-joaquin-uc)
+
+![](../../.gitbook/assets/44462497634_f5f5747a83_o.jpg)
+
+27 de marzo de 2018
+
+[Presentan RedActiva, pulsera busca que facilitar el desplazamiento de los adultos mayores por la ciudad](https://www.uc.cl/es/la-universidad/noticias/30689--se-lanza-redactiva-con-nuevos-beneficios-para-el-adulto-mayor)
+
+![](../../.gitbook/assets/_mg_7700.JPG)
 
