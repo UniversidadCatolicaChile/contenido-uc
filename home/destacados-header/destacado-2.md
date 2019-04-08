@@ -124,5 +124,23 @@ Temas: Salud, Muerte, Cuidados Paliativos, Medicina,
 
 Autoría foto principal: Pixabay
 
+### Contenido Relacionado
 
+15 de Octubre de 2018
+
+#### Académicos de Medicina discutieron los últimos resultados de la Encuesta Nacional de Salud
+
+![](../../.gitbook/assets/academicos-de-medicina-discuten-resultados-encuesta-nacional-salud.jpg)
+
+22 de Diciembre de 2011
+
+#### El profesor Antonio Bentué lanza nuevo libro: "Gilgamesh, el hombre ante la muerte"
+
+![](../../.gitbook/assets/gilgamesh-el-hombre-ante-la-muerte.jpg)
+
+23 de marzo de 2011
+
+#### Lanzan primer libro en español sobre medicina paliativa y cuidados continuos
+
+![](../../.gitbook/assets/libro-medicina-paliativa-cuidados-continuos.jpg)
 
