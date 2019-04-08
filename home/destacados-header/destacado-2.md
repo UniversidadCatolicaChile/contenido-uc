@@ -132,6 +132,8 @@ Autoría foto principal: Pixabay
 
 ![](../../.gitbook/assets/academicos-de-medicina-discuten-resultados-encuesta-nacional-salud.jpg)
 
+![](../../.gitbook/assets/encuesta-nacional-salud-16-17.jpg)
+
 22 de Diciembre de 2011
 
 #### El profesor Antonio Bentué lanza nuevo libro: "Gilgamesh, el hombre ante la muerte"
