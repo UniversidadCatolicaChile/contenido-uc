@@ -62,7 +62,7 @@ Adulto mayor, inclusión, ciudad, urbanismo
 
 8 de octubre de 2018 
 
-**Metadatos:** Adultos mayores, salud, deporte, caminata, actividad física, Alumni, saludable
+**Metadatos:** Adultos mayores, salud, **deporte**, caminata, actividad física, Alumni, saludable
 
 [Organizan la primera caminata para adultos mayores en la UC](https://www.uc.cl/es/la-universidad/noticias/31813-mas-de-mil-personas-asistieron-a-la-primera-camina-60-en-campus-san-joaquin-uc)
 
@@ -70,7 +70,7 @@ Adulto mayor, inclusión, ciudad, urbanismo
 
 27 de marzo de 2018
 
-**Metadatos:** adulto mayor, movilidad, ciudad, RedActiva, Centro de Políticas Públicas UC, Laboratorio de Innovación Pública, Diseño, innovación, Compromiso Público, Inclusión, tecnología.
+**Metadatos:** adulto mayor, movilidad, ciudad, RedActiva, Centro de Políticas Públicas UC, Laboratorio de Innovación Pública, Diseño, **Innovación**, Compromiso Público, Inclusión, tecnología.
 
 [Presentan RedActiva, pulsera busca que facilitar el desplazamiento de los adultos mayores por la ciudad](https://www.uc.cl/es/la-universidad/noticias/30689--se-lanza-redactiva-con-nuevos-beneficios-para-el-adulto-mayor)
 
