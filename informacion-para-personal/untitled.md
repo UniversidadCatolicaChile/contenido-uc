@@ -130,7 +130,7 @@ CUADRO 5:
 CUADRO 6:  
 
 
-### **Información para ti**
+### **Más información para ti**
 
   
 **Accesos directos**   
