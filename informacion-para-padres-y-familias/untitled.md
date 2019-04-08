@@ -123,6 +123,9 @@ Ediciones UC [https://ediciones.uc.cl/](https://ediciones.uc.cl/)
 Librería UC [https://ediciones.uc.cl/librerias-uc](https://ediciones.uc.cl/librerias-uc)  
   
 **¿Aún no encuentras lo que buscas?**  
+\(falta información\)  
+  
+**¿Tienes dudas? Contáctanos**  
 \(falta información\)
 
   
