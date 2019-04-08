@@ -120,11 +120,13 @@ Unidad: Medicina
 
 Eje estratégico: Interdisciplina para grandes desafíos
 
-Temas: Salud, Muerte, Cuidados Paliativos, Medicina, 
+Temas: Salud, Muerte, Cuidados Paliativos, Medicina y ciencias de la salud
 
 Autoría foto principal: Pixabay
 
 ### Contenido Relacionado
+
+#### Medicina
 
 15 de Octubre de 2018
 
@@ -136,11 +138,15 @@ Autoría foto principal: Pixabay
 
 22 de Diciembre de 2011
 
+#### Muerte
+
 #### El profesor Antonio Bentué lanza nuevo libro: "Gilgamesh, el hombre ante la muerte"
 
 ![](../../.gitbook/assets/gilgamesh-el-hombre-ante-la-muerte.jpg)
 
 23 de marzo de 2011
+
+#### Cuidados paliativos
 
 #### Lanzan primer libro en español sobre medicina paliativa y cuidados continuos
 
