@@ -11,6 +11,9 @@ Texto introductorio
 * Lo más consultado
 * Toma nota de estas fechas
 * Calendario Académico
+* Beneficios
+* Me integro a la UC
+* Trámites
 * Lo que todo funcionario debe saber
 * Preguntas frecuentes
 
@@ -167,12 +170,11 @@ http://secretariageneral.uc.cl/documento/normas-generales/99-reglamento-sobre-la
 )  
 Proceso de responsabilidad académica y disciplinaria: [http://secretariageneral.uc.cl/documento/procesos](http://secretariageneral.uc.cl/documento/procesos)  
   
-   
 **Sistemas de gestión**   
 Sistemas financieros [https://www11.uc.cl/saldos/permiso.php](https://www11.uc.cl/saldos/permiso.php)   
 Sistema de gestión de personal \(Peoplesoft\)  
   
-Solicitud de servicios   
+**Solicitud de servicios**   
 Administración central de ticket [https://www9.uc.cl/TicketsVRE/faces/index.xhtml](https://www9.uc.cl/TicketsVRE/faces/index.xhtml) Administración Casa Central   
 Administración campus San JoAquín   
 Administración campus Oriente   
@@ -200,7 +202,15 @@ Sacramentos UC: [http://pastoral.uc.cl/proyecto/sacramentos/](http://pastoral.uc
 Horarios de misas: [http://pastoral.uc.cl/proyecto/horarios-de-misa/](http://pastoral.uc.cl/proyecto/horarios-de-misa/)   
 Misión territorial: [http://pastoral.uc.cl/proyecto/mision-territorial/](http://pastoral.uc.cl/proyecto/mision-territorial/)   
 Servir UC: [http://pastoral.uc.cl/proyecto/servir-uc/](http://pastoral.uc.cl/proyecto/servir-uc/)   
-Comité Pastoral de funcionarios: [http://pastoral.uc.cl/proyecto/comite-pastoral-de-funcionarios/](http://pastoral.uc.cl/proyecto/comite-pastoral-de-funcionarios/)
+Comité Pastoral de funcionarios: [http://pastoral.uc.cl/proyecto/comite-pastoral-de-funcionarios/](http://pastoral.uc.cl/proyecto/comite-pastoral-de-funcionarios/)  
+  
+**¿Aún no encuentras lo que buscas?**  
+Directorio de sitios UC
+
+**¿Tienes dudas?**  
+Contáctanos Correo: personal@uc.cl  
+Teléfono: 2 23542101  
+Consultas en línea
 
 
 
