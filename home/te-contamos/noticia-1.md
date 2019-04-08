@@ -1,6 +1,6 @@
 # Movilidad, trabajo y salud: los desafíos de las ciudades amigables para adultos mayores
 
-#### Inclusión
+#### Compromiso público
 
 ### Movilidad, trabajo y salud: los desafíos de las ciudades amigables para adultos mayores
 
@@ -10,7 +10,7 @@
 
  En [Renca](https://www.renca.cl/permisos-de-circulacion/) existen 150 mil habitantes. De este número, 21 mil son adultos mayores, lo que corresponde al 15% del total. Para su alcalde, Claudio Castro, “en su comuna se reflejan muchas de las desigualdades de la Región Metropolitana, lo que la transforman en una **zona no solo poco amigable para adultos mayores, sino para todos**”, con limitantes en servicios como salud, movilidad y transporte, entre otros.  
   
-**En 2018, esta municipalidad junto a Maipú, Calera de Tango, La Pintana, San Miguel, La Reina, Santiago y Ñuñoa, comenzaron un arduo trabajo para ser reconocidas por la Organización Mundial de la Salud como una ciudad amigable para las personas mayores.** “Es un diagnóstico para identificar cuáles son las principales dificultades que tenemos y a partir de esto proponer soluciones”, explicó Castro en el seminario **“Ciudades amigables para personas mayores: desafíos y oportunidades”, organizado por SeniorLab \(Laboratorio de Innovación Social en Vejez y Envejecimiento UC\) y el** [**Centro de Innovación UC.**](http://centrodeinnovacion.uc.cl/)  
+**En 2018, esta municipalidad junto a Maipú, Calera de Tango, La Pintana, San Miguel, La Reina, Santiago y Ñuñoa, comenzaron un arduo trabajo para ser reconocidas por la Organización Mundial de la Salud como una ciudad amigable para las personas mayores.** “Es un diagnóstico para identificar cuáles son las principales dificultades que tenemos y a partir de esto proponer soluciones”, explicó Castro en el seminario **“Ciudades amigables para personas mayores: desafíos y oportunidades”, organizado por** [**SeniorLab**](http://seniorlab.cl/) **\(Laboratorio de Innovación Social en Vejez y Envejecimiento UC\) y el** [**Centro de Innovación UC.**](http://centrodeinnovacion.uc.cl/)  
   
 Según el [Servicio Nacional del Adulto Mayor \(Senama\)](http://www.senama.gob.cl/), la iniciativa de ciudades amigables con las personas mayores en Chile surge como una respuesta a la necesidad de generar condiciones para un envejecer activo, que promueva la participación ciudadana y la integración social.  
   
@@ -36,7 +36,7 @@ El alcalde de **Renca** comentó que “normalmente se tiende a pensar que el te
 
 “Vimos que la mayoría de ellos hacen trámites, van de compras, visitan familiares y amigos. **Un 34% de los renquinos sobre 60 años \(siete mil personas\), no salen de la comuna por problemas de movilidad pública y transporte. El 60% hace sus viajes caminando y uno de los problema que tenemos es que seis de cada siete kilómetros de vereda en Renca están en una situación deficiente”**, dijo la autoridad.  
   
-**Un ejemplo de solución en temas de movilidad asumida por la municipalidad de Puente Alto es la distribución de la pulsera RedActiva a sus adultos mayores. Una banda que tiene la misma tecnología que la tarjeta BIP, con un lector que transmite a una central del municipio y que indica cuánto camina una persona, su recorrido y los semáforos que va pasando en su trayecto**. “Dentro de sus funciones centrales entrega diez segundos extra para que el adulto mayor cruce la calle”, concluyó Isabel Retamal, gerente de Desarrollo de AFP de Chile, sobre esta iniciativa desarrollada en conjunto por el [Centro de Políticas Públicas UC](https://politicaspublicas.uc.cl/), [Diseño UC](http://diseno.uc.cl/) y la [Asociación de AFP](https://www.aafp.cl/); y apoyado por [Fundación Oportunidad Mayor](http://omayor.cl/).
+**Un ejemplo de solución en temas de movilidad asumida por la municipalidad de Puente Alto es la distribución de la pulsera** [**RedActiva**](https://www.redactiva.cl/) **a sus adultos mayores. Una banda que tiene la misma tecnología que la** [**tarjeta BIP**](http://www.tarjetabip.cl/)**, con un lector que transmite a una central del municipio y que indica cuánto camina una persona, su recorrido y los semáforos que va pasando en su trayecto**. “Dentro de sus funciones centrales entrega diez segundos extra para que el adulto mayor cruce la calle”, concluyó Isabel Retamal, gerente de Desarrollo de AFP de Chile, sobre esta iniciativa desarrollada en conjunto por el [Centro de Políticas Públicas UC](https://politicaspublicas.uc.cl/), [Diseño UC](http://diseno.uc.cl/) y la [Asociación de AFP](https://www.aafp.cl/); y apoyado por [Fundación Oportunidad Mayor](http://omayor.cl/).
 
 Etiquetado:
 
@@ -48,11 +48,13 @@ Compromiso público
 
 Temas:
 
-Adulto mayor, 
+Adulto mayor, inclusión, ciudad, urbanismo
 
 ### Contenido relacionado
 
 8 de febrero de 2019 
+
+**Metadatos**: Compromiso público, análisis, Adulto mayor, cuidado, vejez, Centro de Estudios de la Vejez.
 
 [Estudio analiza cómo viven adultos mayores en residencias públicas y privadas](https://www.uc.cl/es/la-universidad/noticias/33119-aunque-con-importantes-desafios-por-resolver-los-establecimientos-de-larga-estadia-del-senama-brindan-una-mejor-perspectiva-de-vida-a-las-personas-mayores-versus-los-centros-privados)
 
@@ -60,11 +62,15 @@ Adulto mayor,
 
 8 de octubre de 2018 
 
+**Metadatos:** Adultos mayores, salud, deporte, caminata, actividad física, Alumni, saludable
+
 [Organizan la primera caminata para adultos mayores en la UC](https://www.uc.cl/es/la-universidad/noticias/31813-mas-de-mil-personas-asistieron-a-la-primera-camina-60-en-campus-san-joaquin-uc)
 
 ![](../../.gitbook/assets/44462497634_f5f5747a83_o.jpg)
 
 27 de marzo de 2018
+
+**Metadatos:** adulto mayor, movilidad, ciudad, RedActiva, Centro de Políticas Públicas UC, Laboratorio de Innovación Pública, Diseño, innovación, Compromiso Público, Inclusión, tecnología.
 
 [Presentan RedActiva, pulsera busca que facilitar el desplazamiento de los adultos mayores por la ciudad](https://www.uc.cl/es/la-universidad/noticias/30689--se-lanza-redactiva-con-nuevos-beneficios-para-el-adulto-mayor)
 
