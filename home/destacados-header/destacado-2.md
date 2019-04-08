@@ -4,6 +4,8 @@ description: Para ejemplo de Comunicaciones
 
 # La Muerte, ese capítulo de la vida
 
+Medicina
+
 Viernes, 15 de Marzo de 2019
 
 ### La muerte, ese capítulo de la vida
