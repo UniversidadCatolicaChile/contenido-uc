@@ -198,13 +198,7 @@ Conoce las [distintas actividades](http://admisionyregistros.uc.cl/futuros-alumn
 
 ### Más información para ti
 
-#### Pregrado
-
-#### Postgrado
-
-#### Doctorado
-
-#### Educación Continua
+Enlace a [https://docs.google.com/spreadsheets/d/1hv9Nb5CJNZUdjkYgw6gS8VQrp86VrPeIJjQ983hfJhE/edit?usp=drive\_web&ouid=108536259976226448665](https://docs.google.com/spreadsheets/d/1hv9Nb5CJNZUdjkYgw6gS8VQrp86VrPeIJjQ983hfJhE/edit?usp=drive_web&ouid=108536259976226448665)
 
 
 
