@@ -72,7 +72,7 @@ Adulto mayor, inclusión, ciudad, urbanismo
 
 **Metadatos:** adulto mayor, movilidad, ciudad, RedActiva, Centro de Políticas Públicas UC, Laboratorio de Innovación Pública, Diseño, **Innovación**, Compromiso Público, Inclusión, tecnología.
 
-[Presentan RedActiva, pulsera busca que facilitar el desplazamiento de los adultos mayores por la ciudad](https://www.uc.cl/es/la-universidad/noticias/30689--se-lanza-redactiva-con-nuevos-beneficios-para-el-adulto-mayor)
+[Presentan pulsera que facilita el desplazamiento de adultos mayores en la ciudad](https://www.uc.cl/es/la-universidad/noticias/30689--se-lanza-redactiva-con-nuevos-beneficios-para-el-adulto-mayor)
 
 ![](../../.gitbook/assets/_mg_7700.JPG)
 
