@@ -129,21 +129,84 @@ CUADRO 6:
 
 ### **Información para ti**
 
-**Accesos directos**
+  
+**Accesos directos**   
+Campus saludable [http://campussaludable.uc.cl](http://campussaludable.uc.cl)   
+Dirección de Auditoría [http://vicerrectoriaeconomica.uc.cl/direccion-de-auditoria](http://vicerrectoriaeconomica.uc.cl/direccion-de-auditoria) Dirección de Informática [http://informatica.uc.cl](http://informatica.uc.cl)   
+Dirección de Infraestructura [http://www7.uc.cl/www\_orga/infraest/](http://www7.uc.cl/www_orga/infraest/)   
+Web de Dirección de Personal [http://personal.uc.cl](http://personal.uc.cl)   
+Dirección de Presupuesto y Finanzas [http://vicerrectoriaeconomica.uc.cl/direccion-de-presupuesto-y-finanzas](http://vicerrectoriaeconomica.uc.cl/direccion-de-presupuesto-y-finanzas)   
+Pastoral para funcionarios Vicerrectoría Económica [http://vicerrectoriaeconomica.uc.cl](http://vicerrectoriaeconomica.uc.cl)   
+Trabaja en la UC [https://uccatolica.trabajando.cl/](https://uccatolica.trabajando.cl/)   
+Foro Universitario: [http://secretariageneral.uc.cl/en-que-participamos/foro-universitario](http://secretariageneral.uc.cl/en-que-participamos/foro-universitario)  
+  
+**Emergencias y denuncias**   
+Acciones ante violencia sexual   
+Emergencias UC   
+Fono Ayuda   
+Ombudsman   
+Denuncia de fraude financiero [http://vicerrectoriaeconomica.uc.cl/denuncia-fraude-financiero](http://vicerrectoriaeconomica.uc.cl/denuncia-fraude-financiero)  
+  
+**Identidad corporativa**   
+Manual de redes sociales  
+Normativas técnicas para sitios web  
+Símbolos identitarios   
+Merchandising y regalos corporativos \(Librerías UC, Ediciones UC, Almacen UC\)
 
-|  |
-| :--- |
+  
+**Inclusión**   
+Lenguaje sobre discapacidad \([http://piane.uc.cl/Contenidos-del-Sitio/lenguaje-sobre-discapacidad.html](http://piane.uc.cl/Contenidos-del-Sitio/lenguaje-sobre-discapacidad.html)\)   
+Buenas prácticas en inclusión \([http://piane.uc.cl/Contenidos-del-Sitio/practicas-por-la-inclusion.html](http://piane.uc.cl/Contenidos-del-Sitio/practicas-por-la-inclusion.html)\)  
+  
+**Reglamentos y normas**  
+Código de Honor [https://www.uc.cl/codigodehonor](https://www.uc.cl/codigodehonor)   
+Declaración de principios [http://secretariageneral.uc.cl/documento/normas-generales/113-declaracion-de-principios/file](http://secretariageneral.uc.cl/documento/normas-generales/113-declaracion-de-principios/file)   
+Reglamento interno UC [http://personal.uc.cl/integracion-a-la-uc/reglamento-interno](http://personal.uc.cl/integracion-a-la-uc/reglamento-interno) Reglamento sobre la responsabilidad académica y disciplinaria [  
+http://secretariageneral.uc.cl/documento/normas-generales/99-reglamento-sobre-la-responsabilidad-academica-y-disciplinaria-de-los-miembros-de-la-comunidad-universitaria/file](
+http://secretariageneral.uc.cl/documento/normas-generales/99-reglamento-sobre-la-responsabilidad-academica-y-disciplinaria-de-los-miembros-de-la-comunidad-universitaria/file
+)  
+Proceso de responsabilidad académica y disciplinaria: [http://secretariageneral.uc.cl/documento/procesos](http://secretariageneral.uc.cl/documento/procesos)  
+  
+   
+**Sistemas de gestión**   
+Sistemas financieros [https://www11.uc.cl/saldos/permiso.php](https://www11.uc.cl/saldos/permiso.php)   
+Sistema de gestión de personal \(Peoplesoft\)  
+  
+Solicitud de servicios   
+Administración central de ticket [https://www9.uc.cl/TicketsVRE/faces/index.xhtml](https://www9.uc.cl/TicketsVRE/faces/index.xhtml) Administración Casa Central   
+Administración campus San JoAquín   
+Administración campus Oriente   
+Administración campus Lo Contador   
+Administración Centro de Extensión   
+Asistencia y soporte informático [http://informatica.uc.cl/asistencia-y-soporte/](http://informatica.uc.cl/asistencia-y-soporte/) Gestión de Correo UC: [http://informatica.uc.cl/correo-uc/](http://informatica.uc.cl/correo-uc/)   
+Plataforma correo masivo   
+Redes inalámbricas: [http://informatica.uc.cl/red-inalambrica](http://informatica.uc.cl/red-inalambrica)   
+Salas Crisol [http://informatica.uc.cl/salas-crisol/](http://informatica.uc.cl/salas-crisol/)   
+Desarrollo de sitios web: [http://informatica.uc.cl/sitios-web-uc/](http://informatica.uc.cl/sitios-web-uc/)   
+Gestión de Tarjeta UC [http://informatica.uc.cl/tarjeta-uc/](http://informatica.uc.cl/tarjeta-uc/)   
+Servicios de Telefonía [http://informatica.uc.cl/telefonia/](http://informatica.uc.cl/telefonia/)  
+  
+**Sustentabilidad**   
+Oficina Verde [http://sustentable.uc.cl/temas/oficina-verde](http://sustentable.uc.cl/temas/oficina-verde)   
+Manejo de residuos en los campus [http://sustentable.uc.cl/temas/residuos\#reciclaje-puntos-limpios](http://sustentable.uc.cl/temas/residuos#reciclaje-puntos-limpios)   
+Huerto San Francisco [http://sustentable.uc.cl/temas/alimentacion\#huerto-san-francisco](http://sustentable.uc.cl/temas/alimentacion#huerto-san-francisco)   
+Taller de reparación de bicicletas, El Container [https://www.facebook.com/elcontaineruc/](https://www.facebook.com/elcontaineruc/)   
+Sitio de la Dirección de Sustentabilidad [http://sustentable.uc.cl](http://sustentable.uc.cl)  
+  
+**Pastoral**  
+Bautizos en la Comunidad [http://pastoral.uc.cl/proyecto/bautizos/](http://pastoral.uc.cl/proyecto/bautizos/)   
+Concurso Innova Pastoral [http://pastoral.uc.cl/proyecto/innova/](http://pastoral.uc.cl/proyecto/innova/)   
+Sacramentos UC: [http://pastoral.uc.cl/proyecto/sacramentos/](http://pastoral.uc.cl/proyecto/sacramentos/)   
+Horarios de misas: [http://pastoral.uc.cl/proyecto/horarios-de-misa/](http://pastoral.uc.cl/proyecto/horarios-de-misa/)   
+Misión territorial: [http://pastoral.uc.cl/proyecto/mision-territorial/](http://pastoral.uc.cl/proyecto/mision-territorial/)   
+Servir UC: [http://pastoral.uc.cl/proyecto/servir-uc/](http://pastoral.uc.cl/proyecto/servir-uc/)   
+Comité Pastoral de funcionarios: [http://pastoral.uc.cl/proyecto/comite-pastoral-de-funcionarios/](http://pastoral.uc.cl/proyecto/comite-pastoral-de-funcionarios/)
 
 
-|  |
-| :--- |
 
 
-|  |
-| :--- |
 
 
-| \*\*\*\* |
-| :--- |
+
 
 
