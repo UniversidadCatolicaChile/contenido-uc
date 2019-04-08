@@ -257,19 +257,19 @@
 
 ## Información para Alumni
 
-* [Untitled](informacion-para-alumni/untitled.md)
+* [Landing principal](informacion-para-alumni/untitled.md)
 
 ## Información para Personal
 
-* [Untitled](informacion-para-personal/untitled.md)
+* [Landing principal](informacion-para-personal/untitled.md)
 
 ## Información para Padres y Familias
 
-* [Untitled](informacion-para-padres-y-familias/untitled.md)
+* [Landing principal](informacion-para-padres-y-familias/untitled.md)
 
 ## Información para Vecinos
 
-* [Untitled](informacion-para-vecinos/untitled.md)
+* [Landing principal](informacion-para-vecinos/untitled.md)
 
 ## Información para Medios
 
