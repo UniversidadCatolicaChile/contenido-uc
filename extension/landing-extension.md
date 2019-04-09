@@ -2,6 +2,8 @@
 
 ## Extensión
 
+Foto: buscar 
+
 La UC busca ser un actor relevante en el desarrollo del país, generando conocimiento de calidad que promueva el progreso. Para lograrlo, ha establecido instancias que buscan canalizar el aporte de la universidad a la agenda nacional.  
 
 
