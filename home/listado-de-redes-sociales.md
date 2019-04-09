@@ -2,5 +2,7 @@
 
 Listado: 
 
-[https://docs.google.com/spreadsheets/d/1Jrab0ddCFswlR3Uts2Y1HmWgpPetK4ZuZeMrK2Lt74s/edit\#gid=572940962](https://docs.google.com/spreadsheets/d/1Jrab0ddCFswlR3Uts2Y1HmWgpPetK4ZuZeMrK2Lt74s/edit#gid=572940962)
+[https://docs.google.com/spreadsheets/d/12rPSYGJt4pZqL2hWof915sqY1-WhCD5GYuBAkST4PJU/edit\#gid=1714264659](https://docs.google.com/spreadsheets/d/12rPSYGJt4pZqL2hWof915sqY1-WhCD5GYuBAkST4PJU/edit#gid=1714264659)
+
+¿No está tu red social? Puedes escribirnos a direccionweb@uc.cl
 
