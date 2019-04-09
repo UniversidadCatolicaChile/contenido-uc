@@ -28,7 +28,7 @@ En su trayectoria literaria, un hito importante fue una **conferencia que dictó
 
 En 1981, publicó su último libro de humanismo científico: _Luz, sombra de Dios: por la ciencia hacia el creador del universo_.
 
-**Premios y membrecías**
+**Premios y membresías**
 
 Fue miembro de la Academia Chilena de la Lengua, recibió el Premio Ricardo Latchaman en 1975 y un año después, el **Premio Nacional de Literatura en 1976**. Fue designado miembro de la Asociación de Escritores Científicos.
 
