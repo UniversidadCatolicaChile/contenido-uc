@@ -113,37 +113,37 @@ El Plan de Desarrollo se estructura en torno a dos ejes transversales, seis espe
 
 Creación de conocimiento de frontera
 
-\[Imagen\]
+![](../.gitbook/assets/plan_desarrollo_conocimiento-frontera.jpg)
 
 [Descargar](https://www.uc.cl/images/stories/Plan_de_desarrollo_2015_2020/Conocimiento_de_frontera.pdf)
 
 Innovación en la docencia
 
-\[Imagen\]
+![](../.gitbook/assets/plan_desarrollo_innovacion-docencia.jpg)
 
 [Descargar](https://www.uc.cl/images/stories/Plan_de_desarrollo_2015_2020/Innovacion_docencia.pdf)
 
 Inclusión para ampliar oportunidades
 
-\[Imagen\]
+![](../.gitbook/assets/plan_desarrollo_inclusion.jpg)
 
 [Descargar](https://www.uc.cl/images/stories/Plan_de_desarrollo_2015_2020/Interdisciplina.pdf)
 
 Interdisciplina para los grandes desafíos
 
-\[Imagen\]
+![](../.gitbook/assets/plan_desarrollo_interdisciplina.jpg)
 
 [Descargar](https://www.uc.cl/images/stories/Plan_de_desarrollo_2015_2020/Interdisciplina.pdf)
 
 Internacionalización 
 
-\[Imagen\]
+![](../.gitbook/assets/internacionalizacion_provisoria_26706464628_be643a753e_o.jpg)
 
 [Descargar](https://www.uc.cl/images/stories/Plan_de_desarrollo_2015_2020/Internacionalizacion.pdf)
 
 Compromiso público de la UC
 
-\[Imagen\]
+![](../.gitbook/assets/plan_desarrollo_compromiso-publico.jpg)
 
 [Descargar](https://www.uc.cl/images/stories/Plan_de_desarrollo_2015_2020/Compromiso_publico.pdf)
 
@@ -163,27 +163,27 @@ Para promover su acción más allá de las salas de clases, nuestra institución
 
 [Club Deportivo Universidad Católica](http://www.lacatolica.cl/)
 
-\[Imagen\]
+![](../.gitbook/assets/bandera_cducch.png)
 
 [Duoc UC](http://www.duoc.cl/inicio)
 
-\[Imagen\]
+![](../.gitbook/assets/logo_duocuc.svg.png)
 
 [DICTUC](https://www.dictuc.cl/)
 
-\[Imagen\]
+![](../.gitbook/assets/dictuc_logo.png)
 
 [Fundación Copec UC](http://www.fundcopec-uc.cl/)
 
-\[Imagen\]
+![](../.gitbook/assets/fundacioncopecuc.png)
 
 [Instituto Catequístico Universidad Católica](http://institutocatequistico.uc.cl/)
 
-\[Imagen\]
+![](../.gitbook/assets/icuc.JPG)
 
 [Red de Salud UC Christus](http://redsalud.uc.cl/ucchristus/)
 
-\[Imagen\]
+![](../.gitbook/assets/ucchristus.png)
 
 [Hospital Josefina Martínez](http://www.hospitaljosefinamartinez.cl/)
 
