@@ -58,9 +58,9 @@ Gran parte de su trayectoria teatral la hizo en el **Teatro de Ensayo de la Univ
 
 #### Fuentes:
 
-#### [Portal UC](https://www.uc.cl/es/la-universidad/noticias/30547-ana-gonzalez-actriz-multifacetica-y-diva-popular)
+#### [**Universidad Católica de Chile**](https://www.uc.cl/es/la-universidad/noticias/30547-ana-gonzalez-actriz-multifacetica-y-diva-popular)\*\*\*\*
 
-[Sitio Memoria Chilena](http://www.memoriachilena.gob.cl/602/w3-article-91986.html)
+\*\*\*\*[Sitio Memoria Chilena](http://www.memoriachilena.gob.cl/602/w3-article-91986.html)
 
 [Facebook \(No oficial\)](https://www.facebook.com/ladesideriaanagonzalez/)
 
