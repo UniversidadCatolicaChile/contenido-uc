@@ -1,6 +1,6 @@
 ---
 description: >-
-  Secretario académico y decano de la Facultad de Medicina de la Universidad
+  Fue secretario académico y decano de la Facultad de Medicina de la Universidad
   Católica. Premio Nacional de Ciencias 1979.
 ---
 
@@ -41,6 +41,8 @@ Murió en Santiago en 2010.
 [Fundación Chilena de Hipertensión Arterial](http://www.presionaldia.cl/pages/homenaje/) 
 
 [Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/7425-hector-croxatto-rezzio-1908-2010)
+
+[Medicina Universidad Católica](https://medicina.uc.cl/noticias/fallecio-el-dr-hector-croxatto-maestro-de-medicos-e-investigadores/)
 
 [Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/ciencias-/6657/hector-croxatto-rezzio)
 
