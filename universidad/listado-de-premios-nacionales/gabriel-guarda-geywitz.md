@@ -1,7 +1,8 @@
 ---
 description: >-
   Profesor de Historia de la Iglesia en la Facultad de Teología y de Historia
-  Urbana en la Escuela de Arquitectura. Premio Nacional de Historia en 1984.
+  Urbana en la Escuela de Arquitectura de la Universidad Católica. Premio
+  Nacional de Historia en 1984.
 ---
 
 # Gabriel Guarda Geywitz
