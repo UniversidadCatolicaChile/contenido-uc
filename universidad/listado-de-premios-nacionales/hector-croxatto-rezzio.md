@@ -34,3 +34,13 @@ En 2005 fue nombrado profesor honorario de la Facultad de Medicina de la Univers
 
 Murió en Santiago en 2010.
 
+#### Fuentes
+
+[Revista médica de Chile](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872011000100017)
+
+[Fundación Chilena de Hipertensión Arterial](http://www.presionaldia.cl/pages/homenaje/) 
+
+[Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/7425-hector-croxatto-rezzio-1908-2010)
+
+[Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/ciencias-/6657/hector-croxatto-rezzio)
+
