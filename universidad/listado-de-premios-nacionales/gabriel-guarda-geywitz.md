@@ -55,7 +55,7 @@ Es presidente de la Comisión de Bienes Culturales de la Iglesia Católica en Ch
 
 [Memoria Chilena I](http://www.memoriachilena.gob.cl/602/w3-article-94092.html)
 
-[hMemoria Chilena II](http://www.memoriachilena.gob.cl/602/w3-article-637.html)
+[Memoria Chilena II](http://www.memoriachilena.gob.cl/602/w3-article-637.html)
 
 [Memoria Chilena III](http://www.monumentos.cl/monumentos/monumentos-historicos/monasterio-benedictino)
 
