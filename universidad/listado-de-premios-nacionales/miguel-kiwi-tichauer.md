@@ -7,8 +7,6 @@ description: >-
 
 # Miguel Kiwi Tichauer
 
-![Miguel Kiwi Tichauer. Foto: Banco de Im&#xE1;genes UC.](../../.gitbook/assets/kiwi.jpg)
-
 Nació en Santiago en 1938.
 
 #### Sus orígenes familiares
