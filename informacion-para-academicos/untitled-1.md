@@ -134,6 +134,53 @@ Los Derechos de Propiedad Intelectual son del académico, cuando se trata de mat
 
 **7\) ¿Es posible postular a algún reconocimiento por la obra artística?**
 
+\*\*\*\*
+
+**Evaluación docente  
+1\) ¿Cuál es el objetivo de la encuesta de evaluación docente?**
+
+**2\) ¿Cuáles son los protocolos de uso?**
+
+**3\) ¿Cuáles son los usos prácticos de la evaluación docente?**
+
+\*\*\*\*
+
+**Selección de académicos**
+
+**¿Cómo puedo postular para ser académico UC?**
+
+**Preguntas relacionadas a la DI**
+
+### Lo que todo académico debe saber
+
+Noticia 1: Identidad UC
+
+Noticia 2: Innovación docente
+
+Noticia 3: Investigación
+
+Noticia 4: Internacionalización
+
+Noticia 5: Sistemas académicos
+
+Noticia 6: Desarrollo académico
+
+### Más información para ti
+
+Enlace a [https://docs.google.com/spreadsheets/d/1hv9Nb5CJNZUdjkYgw6gS8VQrp86VrPeIJjQ983hfJhE/edit?usp=drive\_web&ouid=108536259976226448665](https://docs.google.com/spreadsheets/d/1hv9Nb5CJNZUdjkYgw6gS8VQrp86VrPeIJjQ983hfJhE/edit?usp=drive_web&ouid=108536259976226448665)
+
+### ¿Tienes dudas? Contáctanos
+
+* Ícono teléfono: Mesa central  `<a href="tel:%56223544000">+56223544000 </a>` \(+56\)2 2 3544000
+* Ícono consultas: [Consultas en línea](http://www3.puc.cl/consultasucweb/index.php?a=add)
+* Ícono [Facebook](http://facebook.com/ucatolica)
+* Ícono [Twitter](http://twitter.com/ucatolica)
+* Ícono [Instagram](http://instagram.com/ucatolicaoficial)
+* Ícono [Linkedin](https://www.linkedin.com/school/pontificia-universidad-cat-lica-de-chile/)
+* Ícono [YouTube](http://youtube.com/pucatolica)
+
+### Footer 
+
 
 
 
