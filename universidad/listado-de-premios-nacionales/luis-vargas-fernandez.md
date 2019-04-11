@@ -28,6 +28,8 @@ Una beca de la **Fundación Guggenheim** le permitió investigar en el Carnegie 
 
 Regresó a Chile en en 1943. Ese año el Dr. Joaquín Luco, entonces Director de la Escuela de Medicina de la Universidad Católica, le encargó crear una cátedra que estudiara cómo las enfermedades modificaban la fisiología del ser humano. Ese fue el origen de la cátedra de **Fisiopatología, una cátedra pionera en Chile, que se dio por primera vez en la Universidad Católica** y que luego colaboró con cátedras similares que se crearon en la Universidad de Chile y en la Universidad de Concepción.
 
+En su carrera como docente llegó a tener más de cincuenta generaciones de alumnos.
+
 Sus estudios facilitaron la creación de las bombas de insulina, métódo clave en el tratamiento en diabéticos avanzados. Realizó también estudios sobre el stress.
 
 #### Cargos
@@ -52,11 +54,13 @@ Recibió numerosos premios y distinciones, entre ellos, **Comendador de la Orden
 
 Socio Honorario de la Sociedad Médica de Santiago en 1986.
 
-Murió el 2011, sin duda uno de los hombres más relevantes en el ámbito de la medicina científica chilena del Siglo XX.
+Murió el 29 de septiembre de 2011 a los 99 años. Sin duda uno de los hombres más relevantes en el ámbito de la medicina científica chilena del Siglo XX.
 
 #### Fuentes
 
-[Revista Médica](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872011001100022) 
+[Revista Médica](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872011001100022)
+
+[Explora Conicyt](https://www.youtube.com/watch?v=9b7805xck04) 
 
 [Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/7419-luis-vargas-fernandez-1912-2011)
 
