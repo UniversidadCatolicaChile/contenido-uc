@@ -28,7 +28,7 @@ Una beca de la **Fundación Guggenheim** le permitió investigar en el Carnegie 
 
 Regresó a Chile en en 1943. Ese año el Dr. Joaquín Luco, entonces Director de la Escuela de Medicina de la Universidad Católica, le encargó crear una cátedra que estudiara cómo las enfermedades modificaban la fisiología del ser humano. Ese fue el origen de la cátedra de **Fisiopatología, una cátedra pionera en Chile, que se dio por primera vez en la Universidad Católica** y que luego colaboró con cátedras similares que se crearon en la Universidad de Chile y en la Universidad de Concepción.
 
-En su carrera como docente llegó a tener más de cincuenta generaciones de alumnos.
+En su carrera como docente llegó a tener más de **cincuenta generaciones de alumnos**.
 
 Sus estudios facilitaron la creación de las bombas de insulina, métódo clave en el tratamiento en diabéticos avanzados. Realizó también estudios sobre el stress.
 
