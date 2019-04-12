@@ -9,11 +9,11 @@ description: >-
 
 ![Ricardo Krebs. Foto: Memoria Chilena](../../.gitbook/assets/krebs.jpg)
 
-Historiador de origen alemán, nació el año 1918 en el seno de una familia de inmigrantes alemanes radicados en Valparaíso.
+Nació el año 1918 en el seno de una familia de inmigrantes alemanes radicados en Valparaíso.
 
 #### Influencia alemana
 
-Tras finalizar sus estudios secundarios en el Colegio Alemán de Valparaíso, en 1936, viajó a Alemania para cursar sus estudios universitarios. S**e tituló de Doctor en Filosofía con mención en Historia en la Universidad de Leipzig** en 1941.
+Tras finalizar sus estudios secundarios en el Colegio Alemán de Valparaíso, en 1936, viajó a Alemania para cursar sus estudios universitarios. **Se tituló de Doctor en Filosofía con mención en Historia en la Universidad de Leipzig** en 1941.
 
 #### Profesor universitario
 
