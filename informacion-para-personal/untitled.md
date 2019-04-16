@@ -11,20 +11,17 @@ Texto introductorio
 * Lo más consultado
 * Toma nota de estas fechas
 * Calendario Académico
-* Beneficios
-* Me integro a la UC
-* Trámites
-* Lo que todo funcionario debe saber
 * Preguntas frecuentes
 
 ### Lo más consultado
 
-* [Mi Portal UC](http://portal.uc.cl)
-* [Correo UC](http://correo.uc.cl)
-* [Catálogo de cursos](http://catalogo.uc.cl)
-* [Bibliotecas ](http://bibliotecas.uc.cl)
-
 ### Toma nota de estas fechas
+
+Sitio Dirección de Personal  
+Trabaja en la UC   
+Mi portal   
+Capacitación interna  
+[http://personal.uc.cl/table/capacitacion/programa-de-capacitacion/](http://personal.uc.cl/table/capacitacion/programa-de-capacitacion/)
 
 Evento 1
 
@@ -55,11 +52,18 @@ Evento 10
 * [Comunidad UC](http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario_academico_2019.pdf)
 * [Instructivo calendario académico](../informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
 
-### Beneficios
-
 **¿A quién debo dirigirme si quiero conocer los beneficios a los que puedo acceder como funcionario UC?**
 
 La Dirección de Personal UC dispone de un sitio con toda la información de beneficios y los contactos por área si requieres de asistencia más personalizada. Puedes loguarte y acceder a la información [aquí](http://personal.uc.cl/).
+
+### **Calendario académico**
+
+Descarga los calendarios:   
+****Funcionario \| Calendario completo [http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario\_academico\_2019.pdf](http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario_academico_2019.pdf)  
+Instructivo para descargar y sincronizar calendario  
+****
+
+### Beneficios
 
 **¿Quiero solicitar un beneficio,  qué debo hacer?**
 
