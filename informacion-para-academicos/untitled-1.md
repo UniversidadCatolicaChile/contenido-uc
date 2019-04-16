@@ -169,6 +169,10 @@ Noticia 6: Desarrollo académico
 
 Enlace a [https://docs.google.com/spreadsheets/d/1hv9Nb5CJNZUdjkYgw6gS8VQrp86VrPeIJjQ983hfJhE/edit?usp=drive\_web&ouid=108536259976226448665](https://docs.google.com/spreadsheets/d/1hv9Nb5CJNZUdjkYgw6gS8VQrp86VrPeIJjQ983hfJhE/edit?usp=drive_web&ouid=108536259976226448665)
 
+### ¿Aún no encuentras lo que buscas?
+
+Ir al Directorio de Sitios UC
+
 ### ¿Tienes dudas? Contáctanos
 
 * Ícono teléfono: Mesa central  `<a href="tel:%56223544000">+56223544000 </a>` \(+56\)2 2 3544000

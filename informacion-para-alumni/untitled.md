@@ -6,9 +6,9 @@
 
 Imagen: buscar
 
-Texto introductorio
+Algo similar a: La Universidad Católica busca fortalecer cada vez más el vínculo con sus ex alumnos, manteniendo un contacto permanente, ofreciéndoles oportunidades de crecimiento y de participación en el desarrollo de la Universidad.
 
-
+Sacado de alumni.uc.cl
 
 **En esta sección**
 
@@ -19,15 +19,12 @@ Texto introductorio
 * Más información para ti
 * ¿Tienes dudas? Contáctanos
 
-
-
 **Lo más consultado**
 
-Sitio Dirección de Personal \(245 clics - CrazyEggs\)  
-Trabaja en la UC \(37 clics - CrazyEgss\)   
-Mi portal \(15 clics - CrazyEggs\)   
-Capacitación interna \(4 clics - CrazyEggs\) [http://personal.uc.cl/table/capacitacion/programa-de-capacitacion/](http://personal.uc.cl/table/capacitacion/programa-de-capacitacion/) x  
-
+[Dirección de Personas](http://personas.uc.cl)  
+[Trabaja en la UC](https://uccatolica.trabajando.cl/)  
+[Mi portal ](http://portal.uc.cl)  
+[Capacitación interna](http://personal.uc.cl/table/capacitacion/programa-de-capacitacion/)
 
 ### **Toma nota de estas fechas**
 
@@ -73,97 +70,34 @@ Dónde puedo revisar ofertas de prácticas profesionales o de trabajos?
 
 ### Lo que todo Alumni debe saber
 
-CUADRO 1:
+Cuadro 1: Endowment
 
-CUADRO 2:
+Cuadro 2: Beneficios de Salud UC
 
-CUADRO 3:
+Cuadro 3: Exalumnos destacados
 
-CUADRO 4:
+Cuadro 4: Cómo obtener la Membresía
 
 
 
 ### Más información para ti
 
-**Accesos Directos**  
-Actualiza tus datos   
-Beneficios alumni   
-Bibliotecas   
-Agenda UC   
-Ediciones UC   
-Almacén UC   
-Librerías UC   
-Sitio Alumni UC   
-Membresía UC
+Enlace a [https://docs.google.com/spreadsheets/d/1hv9Nb5CJNZUdjkYgw6gS8VQrp86VrPeIJjQ983hfJhE/edit?usp=drive\_web&ouid=108536259976226448665](https://docs.google.com/spreadsheets/d/1hv9Nb5CJNZUdjkYgw6gS8VQrp86VrPeIJjQ983hfJhE/edit?usp=drive_web&ouid=108536259976226448665)
 
-**Arte y Cultura**  
-Bazart   
-Cine UC   
-Colección Gandarillas   
-Colección Pueblos Originarios   
-Complejo Andrónico Luksic Abaroa   
-Espacio Vilches   
-Galería Macchina   
-Guía para las Artes   
-Teatro infantil   
-Teatro UC
+### ¿Aún no encuentras lo que buscas?
 
-**Asociaciones de ex alumnos** \(preguntar en Alumni por listado oficial\)  
-Agronomía   
-Arquitectura   
-Construcción Civil   
-Derecho   
-Educación   
-Enfermería   
-Geografía  
-Letras   
-Magíster Ingeniería Industrial   
-Periodismo   
-Psicología   
-Química   
-Trabajo social
+Ir al Directorio de Sitios UC
 
-**Espacios**  
-Búsqueda de espacios para eventos \(centroeventos.uc.cl &gt; Encuentra-tu-espacio\) Centro de Extensión Alameda \(centroeventos.uc.cl &gt; Nuestros centros &gt; Centro-de-extension-alameda\)   
-Centro de Extensión Campus Oriente \(centroeventos.uc.cl &gt; Nuestros centros &gt; Centro-de-extension-campus-oriente\)   
-Centro de Extensión Pirque \(centroeventos.uc.cl &gt; Nuestros centros &gt; Centro-de-extension-pirque\)   
-Ferias UC \(centroeventos.uc.cl &gt; Espacios-para-empresas-en-ferias\) Espacio de coworking [http://centrodeinnovacion.uc.cl/programa/\_coworking/](http://centrodeinnovacion.uc.cl/programa/_coworking/)  
-Espacios de Infraestructura
+### ¿Tienes dudas? Contáctanos
 
-**Innovación**  
-Alto impacto: Aceleradora de emprendimientos sociales  
-Centro de Innovación UC  
-Programa Brain Chile  
-Incuba UC  
-Red de mentores  
   
-**Diplomados**  
-Por área temática  
-Por facultad  
-  
-**Cursos y Seminarios**  
-Clase Ejecutiva   
-Cursos de capacitación   
-Cursos de idiomas de la Facultad de Letras   
-Cursos online   
-Cursos y seminarios por facultad   
-English UC   
-Instituto Confucio UC   
-MOOC /Coursera UC   
-From university to industry: [http://universityindustrycamp.cl/sobre-summer-school](http://universityindustrycamp.cl/sobre-summer-school)   
-Teleduc
-
-
-
-**¿Aún no encuentras lo que buscas?**   
-Directorio de sitios UC
-
-**¿Tienes dudas? Contáctanos**   
 Correo alumni: alumni@uc.cl   
 Teléfonos: 2 2354 2580 - 2 2354 2363 - 2 2354 2464   
 Consultas en línea: Av. Libertador Bernardo O’Higgins 440, piso 11   
-Facebook: facebook.com/alumniUC   
-Twitter: twitter.com/exalumnos\_UC
+[Facebook](http://facebook.com/alumniUC%20)  
+[Twitter](http://twitter.com/exalumnos_UC)
+
+### Footer
 
 
 
