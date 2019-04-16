@@ -46,3 +46,11 @@ Ha participado en evaluación de proyectos de **Fondecyt** y de proyectos de inv
 
 **En 2015 recibió el Premio Nacional de Periodismo** por su destacada trayectoria profesional, que incluye importantes aportes a la docencia universitaria y a la calidad del periodismo en Chile y su inclaudicable defensa de la libertad de expresión, de la responsabilidad profesional y de la ética periodística.
 
+#### Fuentes
+
+[Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/periodismo/114729/abraham-santibanez-martinez)
+
+[Pensamiento, palabra, obra y opinión](http://www.abe.cl/datos.html)
+
+[Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/31446-abraham-santibanez-martinez)
+
