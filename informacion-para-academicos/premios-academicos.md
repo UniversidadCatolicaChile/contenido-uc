@@ -33,7 +33,8 @@ Reconocimiento entregado por la ****[**Dirección de Artes y Cultura**](http://a
 | 2016 | [Voluspa Jarpa Saldías](http://artesycultura.uc.cl/es/premio-a-la-creacion/119-voluspa-jarpa-premio-2016) | Escuela de Arte |
 | 2017 | [Teodoro Fernández Larrañaga](http://artesycultura.uc.cl/es/premio-a-la-creacion/813-teodoro-fernandez-premio-a-la-creacion-2017-video) | Escuela de Arquitectura |
 | 2018 | [Andrés Kalawski Isla](http://artesycultura.uc.cl/es/premio-a-la-creacion/905-andres-kalawski-premio-a-la-creacion-2018-video) | Escuela de Teatro |
-| 2019 |  |  |
+| 2019 | [Andrea Chignoli](http://artesycultura.uc.cl/es/premio-a-la-creacion/905-andrea-chignoli-premio-a-la-creacion-2019-video) | Facultad de Comunicaciones |
+| 2019 | [Rodrigo Cádiz](http://artesycultura.uc.cl/es/premio-a-la-creacion/957-rodrigo-cadiz-premio-a-la-creacion-2019-video) | Escuela de Ingeniería /Instituto de Música |
 
 ### Premio Monseñor Carlos Casanueva
 
