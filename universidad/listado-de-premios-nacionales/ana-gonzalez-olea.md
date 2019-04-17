@@ -42,6 +42,8 @@ Murió el 21 de **febrero de 2008, a los 92 años**. La causa de su muerte fue u
 
 Gran parte de su trayectoria teatral la hizo en el **Teatro de Ensayo de la Universidad Católica**. Desde el 2016 y como una forma de conmemorar los 100 años de su nacimiento, **el Teatro UC bautizó con su nombre a su sala principal**.
 
+![Cuando se cumplieron 100 a&#xF1;os de su nacimiento, el Teatro UC bautiz&#xF3; con su nombre a su sala principal.](../../.gitbook/assets/ana-gonzalez-sala-en-su-honor.jpg)
+
 [Revisa algunas de sus fotos más emblimáticas en este álbum.](https://www.flickr.com/photos/universidadcatolica/albums/72157651849311570)
 
 #### Fuentes:
