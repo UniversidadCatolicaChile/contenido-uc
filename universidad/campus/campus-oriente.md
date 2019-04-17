@@ -28,7 +28,7 @@ Este instituto es parte de la [Facultad de Filosofía](http://filosofia.uc.cl/#)
 
 ### Vida de Campus
 
-Está pasando
+#### Está pasando
 
 Evento 1
 
@@ -36,5 +36,7 @@ Evento 2
 
 Evento 3
 
-El campus en imágenes
+#### El campus en imágenes
+
+
 
