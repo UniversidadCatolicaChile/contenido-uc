@@ -71,3 +71,31 @@ La Facultad de Teología ofrece la [**licenciatura en Teología**](http://teolog
   
 Es una innovadora oferta de formación universitaria de pregrado, a través de la cual se pueden obtener las siguientes licenciaturas: [**Artes y Humanidades**](http://college.uc.cl/index.php?option=com_content&view=article&id=105&Itemid=177), [**Ciencias Naturales y Matemáticas**](http://college.uc.cl/index.php?option=com_content&view=article&id=109&Itemid=179) y [**Ciencias Sociales**](http://college.uc.cl/index.php?option=com_content&view=article&id=107&Itemid=181).
 
+### Vida de Campus
+
+#### Está pasando
+
+Evento 1
+
+Evento 2
+
+Evento 3
+
+#### El campus en imágenes
+
+![El edificio del Centro de Innovaci&#xF3;n dise&#xF1;ado por el arquitecto Alejandro Aravena, es uno de los m&#xE1;s emblem&#xE1;ticos del campus.](../../.gitbook/assets/centro-innovacion-tra-dia-de-lluvia-cesar-cortes.jpg)
+
+![El oto&#xF1;o es un espect&#xE1;culo digno de verse en la avenida central del campus.](../../.gitbook/assets/avenida-central-san-joaquin-otono-cesar-cortes.JPG)
+
+![Este edificio alberga las oficinas del Centro de Desarrollo Docente, la Direcci&#xF3;n de Inclusi&#xF3;n y la Direcci&#xF3;n de Inform&#xE1;tica.](../../.gitbook/assets/edificio-y-centro-dearrollo-docente-san-joaquin-karina-fuenzalida.jpg)
+
+![Los alumnos de la Escuela de Odontolog&#xED;a cuentan con las mejores instalaciones para aprender.](../../.gitbook/assets/modelos-escuela-odontologia-san-joquin-cesar-cortes.jpg)
+
+![Los futuros ingenieros e ingenieras se preparan en este campus.](../../.gitbook/assets/futuros-ingenieros-en-el-edificio-de-ciencia-y-tecnologia-karina-fuenzalida.jpg)
+
+![El gimnasio de San Joaqu&#xED;n cuenta con instalaciones de primer nivel para el desarrollo de todo tipo de deportes.](../../.gitbook/assets/gimnasio-san-joaquin-desarrollo-deportivo-deportesuc-cesar-cortes.jpg)
+
+![Las &#xE1;reas verdes del campus invitan al estudio y al descanso.](../../.gitbook/assets/alumnos-estudian-en-pasto-frente-a-sociologia-san-joaquin-cesar-cortes.jpg)
+
+![La escultura Grupo Humano de Mario Irarr&#xE1;zabal, es parte del patrimonio art&#xED;stico de la universidad.](../../.gitbook/assets/fachada-escuela-ingenieria-escultura-grupo-humano-mario-irarrazabal-san-joaquin-karina-fuenzalida.jpg)
+
