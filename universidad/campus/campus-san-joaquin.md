@@ -85,9 +85,13 @@ Evento 3
 
 ![El edificio del Centro de Innovaci&#xF3;n dise&#xF1;ado por el arquitecto Alejandro Aravena, es uno de los m&#xE1;s emblem&#xE1;ticos del campus.](../../.gitbook/assets/centro-innovacion-tra-dia-de-lluvia-cesar-cortes.jpg)
 
+![San Joaqu&#xED;n es el campus que recibe m&#xE1;s novatos cada a&#xF1;o.](../../.gitbook/assets/rector-se-fotografia-en-bienvenida-a-novatos.jpg)
+
 ![El oto&#xF1;o es un espect&#xE1;culo digno de verse en la avenida central del campus.](../../.gitbook/assets/avenida-central-san-joaquin-otono-cesar-cortes.JPG)
 
-![Este edificio alberga las oficinas del Centro de Desarrollo Docente, la Direcci&#xF3;n de Inclusi&#xF3;n y la Direcci&#xF3;n de Inform&#xE1;tica.](../../.gitbook/assets/edificio-y-centro-dearrollo-docente-san-joaquin-karina-fuenzalida.jpg)
+![Si bien en sus inicios el campus era un lugar seco, hoy cuenta con extensas &#xE1;reas verdes.](../../.gitbook/assets/primer-dia-otono-san-joaquin-cesar-cortes.jpg)
+
+![El edificio de las Torres Siamesas, alberga las oficinas del Centro de Desarrollo Docente, la Direcci&#xF3;n de Inclusi&#xF3;n y la Direcci&#xF3;n de Inform&#xE1;tica.](../../.gitbook/assets/edificio-y-centro-dearrollo-docente-san-joaquin-karina-fuenzalida.jpg)
 
 ![Los alumnos de la Escuela de Odontolog&#xED;a cuentan con las mejores instalaciones para aprender.](../../.gitbook/assets/modelos-escuela-odontologia-san-joquin-cesar-cortes.jpg)
 
