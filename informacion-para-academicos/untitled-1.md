@@ -122,19 +122,29 @@ Los Derechos de Propiedad Intelectual son del académico, cuando se trata de mat
 
 **1\) ¿Cuáles son los convenios de desempeño a los que puedo acceder?** 
 
+Existen diversos convenios de desempeño a los que puedes acceder. Revisa [en este enlace](http://investigacion.uc.cl/Convenios-de-Desempeno/convenios-de-desempeno.html) sus bases y fechas de postulación.
+
 **2\) ¿Cómo puedo saber las fechas y estados asociados a concursos y becas?**
+
+En el sitio de la Vicerrectoría de Investigación es posible encontrar el listado de concursos y becas a las que cada académico puede postular. Revisa [en este enlace](http://investigacion.uc.cl/Fondos-concursables/fondos-concursables.html) el listado de becas y concursos de la Vicerrectoría, del Colegio de Programas Doctorales y concursos externos. 
 
 **3\) ¿A qué concursos de investigación puedo postular?** 
 
+[En este enlace](http://investigacion.uc.cl/Fondos-concursables/concursos-vri.html) encontrarás la oferta de concursos de investigación disponibles.
+
 **4\) ¿A qué concursos de creación artística puedo postular?** 
 
-**5\) ¿A qué concursos de arte, tecnología y humanidades puedo postular?** 
+[En este enlace ](http://investigacion.uc.cl/Fondos-concursables/concursos-vri.html)encontrarás la oferta de concursos relacionados a Artes y Cultura disponibles.
 
-**6\) ¿Existen fondos para la internacionalización de la obra artística?**
+**5\) ¿A qué concursos de transferencia y desarrollo puedo postular?**
 
-**7\) ¿Es posible postular a algún reconocimiento por la obra artística?**
+[En este enlace](http://investigacion.uc.cl/Fondos-concursables/concursos-vri.html) encontrarás el listado de concursos relacionados al área de Transferencia y Desarrollo de la universidad.
 
-\*\*\*\*
+**6\) ¿A qué concursos relacionados a la interdisciplina puedo postular?**
+
+[En este enlace](http://investigacion.uc.cl/Fondos-concursables/concursos-vri.html) ****encontrarás el listado de concursos relacionados a la interdisciplina de la universidad.
+
+
 
 **Evaluación docente  
 1\) ¿Cuál es el objetivo de la encuesta de evaluación docente?**
