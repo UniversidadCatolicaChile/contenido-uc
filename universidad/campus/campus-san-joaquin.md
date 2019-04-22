@@ -63,5 +63,11 @@ En San Joaquín se encuentran las escuelas de [**Enfermería**](http://enfermeri
   
 Las carreras de pregrado que imparte esta facultad son [**Química** ](http://quimica.uc.cl/es/quimica)y ****[**Química y Farmacia**](http://quimica.uc.cl/es/quimica-y-farmacia). Además ofrece un [**programa de doctorado**](http://quimica.uc.cl/es/investigacion-y-postgrado/doctorado-en-quimica), y distintos [**servicios profesionales**](http://quimica.uc.cl/es/servicios) a través de laboratorios de investigación, de docencia y de análisis instrumental.
 
+[**Facultad de Teología**](%20http://teologia.uc.cl)  
+  
+La Facultad de Teología ofrece la [**licenciatura en Teología**](http://teologia.uc.cl/es/licenciatura-en-teologia/licenciatura-en-teologia-1.html) en pregrado, el [**magíster en Teología**](http://teologia.uc.cl/es/magister/magister-1.html), y el [**doctorado en Teología**](http://teologia.uc.cl/es/doctorado/doctorado.html), y también pone a disposición distintos [**cursos** ](http://www.educacioncontinua.uc.cl/cursos-y-seminarios-por-facultad.php?csrf=9b94da63d6e697120ae47d3bf1c4329b&facultad=4595&sub_facultad=&o=4598&programas=todos)y ****[**diplomados** ](http://www.educacioncontinua.uc.cl/diplomados-por-facultad.php?csrf=6928e723784490f4f650786c7d9dc057&facultad=4595)para todos los interesados en esta disciplina.
 
+[**College**](http://college.uc.cl)  
+  
+Es una innovadora oferta de formación universitaria de pregrado, a través de la cual se pueden obtener las siguientes licenciaturas: [**Artes y Humanidades**](http://college.uc.cl/index.php?option=com_content&view=article&id=105&Itemid=177), [**Ciencias Naturales y Matemáticas**](http://college.uc.cl/index.php?option=com_content&view=article&id=109&Itemid=179) y [**Ciencias Sociales**](http://college.uc.cl/index.php?option=com_content&view=article&id=107&Itemid=181).
 
