@@ -149,17 +149,37 @@ En el sitio de la Vicerrectoría de Investigación es posible encontrar el lista
 **Evaluación docente  
 1\) ¿Cuál es el objetivo de la encuesta de evaluación docente?**
 
-**2\) ¿Cuáles son los protocolos de uso?**
+Uno de los objetivos de la Encuesta Docente es entregar retroalimentación directa a los académicos acerca de su rol en el proceso de enseñanza aprendizaje. Conoce los otros objetivos de la Encuesta Docente [en este enlace.](http://direcciondedesarrolloacademico.uc.cl/academicos/encuesta-docente#objetivos) 
 
-**3\) ¿Cuáles son los usos prácticos de la evaluación docente?**
+**2\) ¿Cuáles son los usos prácticos de la evaluación docente?**
 
-\*\*\*\*
+Los resultados de la Encuesta Docente son considerados de manera relevante en distintos procesos asociados a la docencia y a la carrera académica de los profesores. Más detalles del uso de la encuesta [en este enlace](http://direcciondedesarrolloacademico.uc.cl/academicos/encuesta-docente#usos-practicos-de-la-encuesta-docente). 
 
-**Selección de académicos**
+#### 3\) ¿Cómo puedo revisar mis reportes de evaluación?
 
-**¿Cómo puedo postular para ser académico UC?**
+A través del [sistema Encuesta Docente](http://encuestadocente.uc.cl/), que tiene como objetivo facilitar el acceso de los académicos a sus reportes de Encuesta Docente por medio de un sistema informatico. Para ingresar, solo indica tu usuario y contraseña UC. Más información [en este enlace](http://direcciondedesarrolloacademico.uc.cl/academicos/encuesta-docente#sistema-encuesta-docente-uc-ed-uc). 
 
-**Preguntas relacionadas a la DI**
+#### 4\) ¿Cada cuánto tiempo se realiza la encuesta de evaluación docente?
+
+Los estudiantes evalúan a sus profesores en dos períodos del año: julio - julio \(primer semestre\) y noviembre - diciembre \(segundo semestre\). 
+
+#### **Recursos informáticos**
+
+**1\) ¿Cómo me conecto a la señal Eduroam de la universidad?**
+
+[En este enlace](https://informatica.uc.cl/red-inalambrica/eduroam) encontrarás información sobre la configuración de la red Eduroam en la universidad. 
+
+#### 2\) Necesito imprimir en mi oficina. ¿Cómo me conecto a una impresora vía wifi?
+
+Las unidades que requieran que sus usuarios puedan imprirmir desde un dispositivo WIFI \(notebook\) a una impresora cableada a la Red UC, pueden \(a través de su Coordindador Computacional\) solicitar dicho servicio mediante un email al 5555@uc.cl indicando la dirección IP, nombre, responsable y "público objetivo" \(estudiante, académico o funcionario\) de la impresora. Más información [en este enlace](https://informatica.uc.cl/red-inalambrica/imprimir-via-wifi). 
+
+#### 3\) Tengo un profesor invitado en mi clase. ¿Cómo le comparto conexión a internet?
+
+Si el académico requiere compartir señal de internet, puede hacerlo a través de UCinvitados.  El anfitrión puede crear tantas cuentas como requiera para sus invitados y por un período que va desde un día hasta cuatro meses. Para ello, la cuenta de acceso debe ser creada directamente en [Mi Portal UC](http://portal.uc.cl) \(sección Herramientas, canal Wifi Invitados\) y registrar los datos de su invitado. Luego el invitado debe conectarse a la señal "UCinvitados". Más información [en este enlace](https://informatica.uc.cl/red-inalambrica/conexion).
+
+#### 4\) Si tengo dudas, o problemas de tipo informático, ¿con quién me puedo comunicar?
+
+Ante cualquier consulta, puedes comunicarte con la Dirección de Informática, al correo 5555@uc.cl, o al teléfono \(56 2\) 23545555.
 
 ### Lo que todo académico debe saber
 
