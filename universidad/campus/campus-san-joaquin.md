@@ -91,9 +91,9 @@ Evento 3
 
 ![Si bien en sus inicios el campus era un lugar seco, hoy cuenta con extensas &#xE1;reas verdes.](../../.gitbook/assets/primer-dia-otono-san-joaquin-cesar-cortes.jpg)
 
-![El edificio de las Torres Siamesas, alberga las oficinas del Centro de Desarrollo Docente, la Direcci&#xF3;n de Inclusi&#xF3;n y la Direcci&#xF3;n de Inform&#xE1;tica.](../../.gitbook/assets/edificio-y-centro-dearrollo-docente-san-joaquin-karina-fuenzalida.jpg)
+![El edificio de las Torres Siamesas, alberga las oficinas del Centro de Desarrollo Docente, la Direcci&#xF3;n de Inclusi&#xF3;n y la Direcci&#xF3;n de Inform&#xE1;tica entre otros departamentos.](../../.gitbook/assets/edificio-y-centro-dearrollo-docente-san-joaquin-karina-fuenzalida.jpg)
 
-![Los alumnos de la Escuela de Odontolog&#xED;a cuentan con las mejores instalaciones para aprender.](../../.gitbook/assets/modelos-escuela-odontologia-san-joquin-cesar-cortes.jpg)
+![Los alumnos de la Escuela de Odontolog&#xED;a comienzan aprendiendo con modelos a escala humana.](../../.gitbook/assets/modelos-escuela-odontologia-san-joquin-cesar-cortes.jpg)
 
 ![Los futuros ingenieros e ingenieras se preparan en este campus.](../../.gitbook/assets/futuros-ingenieros-en-el-edificio-de-ciencia-y-tecnologia-karina-fuenzalida.jpg)
 
