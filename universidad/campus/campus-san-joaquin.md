@@ -99,3 +99,13 @@ Evento 3
 
 ![La escultura Grupo Humano de Mario Irarr&#xE1;zabal, es parte del patrimonio art&#xED;stico de la universidad.](../../.gitbook/assets/fachada-escuela-ingenieria-escultura-grupo-humano-mario-irarrazabal-san-joaquin-karina-fuenzalida.jpg)
 
+### Historia del Campus
+
+San Joaquín es el campus más grande de todos los de la universidad. El terreno original era conocido como la chacra de San Luis de Macul y fue donado a la universidad en [1891](https://es.wikipedia.org/wiki/1891).
+
+Estuvo sin uso durante todo el inicio del siglo XX, pero desde [1966](https://es.wikipedia.org/wiki/1966) comenzaron a instalarse poco a poco distintas unidades académicas empezando por Ingeniería. En el inicio era un poco desolador: un campus más bien seco y sin árboles, caluroso en verano y ventoso en invierno. 
+
+​Hoy cuenta con 63 edificios, 13 facultades más el College y más de 22 mil alumnos. Asimismo, cuenta con grandes extensiones de jardines con especies nativas, grandes árboles y canchas deportivas, además de varias bibliotecas y casinos. 
+
+Desde 1997 el metro se detiene en su entrada en la estación que lleva el mismo nombre del campus.
+
