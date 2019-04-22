@@ -53,5 +53,15 @@ En esta facultad encontrarás dos programas de pregrado: [**Letras Hispánicas**
 
 [**Facultad de Matemáticas**](http://www.mat.uc.cl/)  
   
-La facultad imparte las carreras de [**Matemática** ](https://matematica.uc.cl/)y [**Estadística**](https://estadistica.uc.cl/), además de diversos programas de [_magíster y doctorado_](http://www.mat.uc.cl/programas.html) __que buscan formar profesionales capaces de aplicar modelos teóricos en situaciones prácticas.
+La facultad imparte las carreras de [**Matemática** ](https://matematica.uc.cl/)y [**Estadística**](https://estadistica.uc.cl/), además de diversos programas de [**magíster y doctorado**](http://www.mat.uc.cl/programas.html) __que buscan formar profesionales capaces de aplicar modelos teóricos en situaciones prácticas. También ofrece [**diplomados** ](http://www.educacioncontinua.uc.cl/diplomados-por-facultad.php?csrf=22d8b06aca263b603ef07f10d18c7e86&facultad=4596)y [**cursos** ](http://www.educacioncontinua.uc.cl/cursos-y-seminarios-por-facultad.php?csrf=ea5d341cf8f9d9ad978e933e74921041&facultad=4596)para profesionales.
+
+[**Facultad de Medicina**](https://facultadmedicina.uc.cl/)  
+  
+En San Joaquín se encuentran las escuelas de [**Enfermería**](http://enfermeria.uc.cl/) ****y ****[**Odontología**](http://odontologia.uc.cl/), ****pertenecientes a esta facultad. Ambas ofrecen programas de **pregrado**, **especializaciones, magísteres y doctorados**. Adicionalmente en el edificio de Ciencias de la Salud se imparten las carreras de [**Fonoaudiología**](http://fonoaudiologia.uc.cl/)**,** [**Kinesiología** ](http://kinesiologia.uc.cl/)**y** [**Nutrición y Dietética**](https://nutricion.uc.cl/)**.** La Facultad también ofrece una amplia variedad de [**diplomados** ](http://www.educacioncontinua.uc.cl/diplomados-por-facultad.php?csrf=5afd98bc8c78fcb7f621bf29a6390819&facultad=4598)y [**cursos** ](http://www.educacioncontinua.uc.cl/cursos-y-seminarios-por-facultad.php?csrf=9ddfe4ba1f0329b26656f12cd5609e22&facultad=4598)para profesionales.
+
+[**Facultad de Química y de Farmacia**](http://quimica.uc.cl)  
+  
+Las carreras de pregrado que imparte esta facultad son [**Química** ](http://quimica.uc.cl/es/quimica)y ****[**Química y Farmacia**](http://quimica.uc.cl/es/quimica-y-farmacia). Además ofrece un [**programa de doctorado**](http://quimica.uc.cl/es/investigacion-y-postgrado/doctorado-en-quimica), y distintos [**servicios profesionales**](http://quimica.uc.cl/es/servicios) a través de laboratorios de investigación, de docencia y de análisis instrumental.
+
+
 
