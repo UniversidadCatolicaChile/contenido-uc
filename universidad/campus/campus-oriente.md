@@ -1,5 +1,9 @@
 # Campus Oriente
 
+### 
+
+![](../../.gitbook/assets/vista-superior-patio-central-sin-alumnos-campus-oriente-karina-fuenzalida.jpg)
+
 ### Contáctanos
 
 Jaime Guzmán Errázuriz 3300, Providencia
