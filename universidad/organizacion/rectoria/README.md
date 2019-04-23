@@ -2,6 +2,8 @@
 
 ## Rectoría
 
+Imagen La Universidad
+
 La Rectoría es el **órgano que gobierna la universidad** a través del Rector y su equipo. Algunas de sus múltiples funciones son
 
 * proponer las políticas de la Universidad, sus estatutos y reglamentos

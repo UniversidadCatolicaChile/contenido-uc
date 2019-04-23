@@ -2,6 +2,8 @@
 
 ## **Símbolos identitarios**
 
+**Imagen La Universidad**
+
 Desde sus orígenes, la Pontificia Universidad Católica de Chile ha utilizado su **escudo** como **símbolo icónico** y forma de **identificación institucional**. 
 
 Aquí te mostramos cómo se ha forjado la identidad de la Universidad a través del tiempo con símbolos que se han convertido en **íconos de nuestra institución**. 
