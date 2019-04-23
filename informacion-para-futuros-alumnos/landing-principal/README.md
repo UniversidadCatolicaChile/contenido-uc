@@ -148,7 +148,7 @@ La universidad no entrega ningún tipo de beneficio especial para postgrado, sin
 
  [En este enlace](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel/21-beneficios/45-premio-a-la-excelencia-academica-beca-de-honor#quienes-pueden-acceder-a-este-beneficio) podrás revisar los requisitos de postulación al Premio a la Excelencia Académica. 
 
-5\) ¿Hay becas para extranjeros en la UC? 
+**5\) ¿Hay becas para extranjeros en la UC?** 
 
 Si eres estudiante de intercambio, la UC tiene becas de matrícula para Universidades Católicas de América Latina, red CINDA y Universidades Católicas de Chile. Si estás interesado en este beneficio, visita [este enlace](http://relacionesinternacionales.uc.cl/alumnos-internacionales/redes-y-universidades-con-convenio/redes). Para más consultas, puedes escribir a [exchange@uc.cl](mailto:exchange@uc.cl).
 
