@@ -1,7 +1,7 @@
 ---
 description: >-
   Tratamos de responder la pregunta ¿por qué estudiar un pregrado en la UC? Foco
-  principal: Futuros alumnos.
+  principal: Futuros alumnos. ESTE CONTENIDO NO IRÁ
 ---
 
 # Pregrado

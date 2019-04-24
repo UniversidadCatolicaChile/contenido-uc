@@ -44,6 +44,7 @@
 
 ## Programas de estudio
 
+* [Landing Programas de estudio](programas-de-estudio/landing-programas-de-estudio.md)
 * [Pregrado](programas-de-estudio/pregrado.md)
 * [Postgrado](programas-de-estudio/postgrado/README.md)
   * [Listado de magísteres](programas-de-estudio/postgrado/listado-de-magisteres.md)
@@ -54,7 +55,6 @@
   * [noticia 1](programas-de-estudio/sigue-explorando/noticia-1.md)
   * [noticia 2](programas-de-estudio/sigue-explorando/noticia-2.md)
   * [noticia 3](programas-de-estudio/sigue-explorando/noticia-3.md)
-* [Landing Programas de estudio](programas-de-estudio/landing-programas-de-estudio.md)
 
 ## Investigación
 
