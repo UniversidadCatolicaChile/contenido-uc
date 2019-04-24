@@ -1,6 +1,6 @@
 ---
 description: >-
-  Profesora Visitante de la Escuela de Arte de la Universidad Católica de Chile.
+  Profesora visitante de la Escuela de Arte de la Universidad Católica de Chile.
   Premio Nacional de Arte 2011.
 ---
 
@@ -32,7 +32,7 @@ En ese contexto, Gracia Barrios participó activamente en las **transformaciones
 
 Con el **Golpe de Estado de 1973, vino el exilio**. La artista junto a su esposo y la hija de ambos, Concepción Balmes \(también artista\), se radicaron en Francia, donde su obra estuvo marcada por imágenes que denunciaban la represión de la dictadura.
 
-Entre los años 1986 y 1993 fue nombrada **Profesora Visitante de la Escuela de Arte de la Universidad Católica de Chile**. Desde 1994 ejerce como profesora de dibujo en la Facultad de Artes de la Universidad Finis Terrae, en Santiago.
+Entre los años 1986 y 1993 fue nombrada **Profesora visitante de la Escuela de Arte de la Universidad Católica de Chile**. Desde 1994 ejerce como profesora de dibujo en la Facultad de Artes de la Universidad Finis Terrae, en Santiago.
 
  En 1986 la artista se incorporó como profesora visitante en la Escuela de Arte de la Pontificia Universidad Católica de Chile, cargo que ejerció hasta 1993. En la década de los 90, ofició como profesora de dibujo en la Universidad Finis Terrae.
 
@@ -44,7 +44,7 @@ Al principio su pintura fue figurativa, pero progresivamente fue cambiando y com
 
 Volvió del exilio a mediados de los 80.
 
-Su obra ha sido exhibida en distintas ciudades de Chile y en países como _España, Francia, México, Argentina, Colombia, Japón y Estados Unidos_ entre otros. En sus primeros años de carrera, Barrios fue galardonada en varios salones oficiales en Santiago, a lo cual le siguieron otros importantes premios nacionales como internacionales.
+Su obra ha sido exhibida en distintas ciudades de Chile y en países como **España, Francia, México, Argentina, Colombia, Japón y Estados Unidos** entre otros. En sus primeros años de carrera, Barrios fue galardonada en varios salones oficiales en Santiago, a lo cual le siguieron otros importantes premios nacionales como internacionales.
 
 Fue galardonada con el **Premio Nacional de Artes el 2011** por su brillante y dilatada trayectoria artística. Por una obra que se distingue por su incesante búsqueda de la condición humana y, sobre todo, por la relación del ser humano con sus contextos existenciales e históricos.
 

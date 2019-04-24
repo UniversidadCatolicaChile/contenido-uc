@@ -83,33 +83,33 @@ Evento 3
 
 #### El campus en imágenes
 
-![El edificio del Centro de Innovaci&#xF3;n dise&#xF1;ado por el arquitecto Alejandro Aravena, es uno de los m&#xE1;s emblem&#xE1;ticos del campus.](../../.gitbook/assets/centro-innovacion-tra-dia-de-lluvia-cesar-cortes.jpg)
+![El edificio del Centro de Innovaci&#xF3;n dise&#xF1;ado por el arquitecto Alejandro Aravena, se ha convertido en uno de los m&#xE1;s emblem&#xE1;ticos del campus. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/centro-innovacion-tra-dia-de-lluvia-cesar-cortes.jpg)
 
-![San Joaqu&#xED;n es el campus que recibe m&#xE1;s novatos cada a&#xF1;o.](../../.gitbook/assets/rector-se-fotografia-en-bienvenida-a-novatos.jpg)
+![El oto&#xF1;o es un espect&#xE1;culo digno de verse en la avenida central del campus. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/avenida-central-san-joaquin-otono-cesar-cortes.JPG)
 
-![El oto&#xF1;o es un espect&#xE1;culo digno de verse en la avenida central del campus.](../../.gitbook/assets/avenida-central-san-joaquin-otono-cesar-cortes.JPG)
+![Si bien en sus inicios el campus era un lugar seco, hoy cuenta con extensas &#xE1;reas verdes. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/primer-dia-otono-san-joaquin-cesar-cortes.jpg)
 
-![Si bien en sus inicios el campus era un lugar seco, hoy cuenta con extensas &#xE1;reas verdes.](../../.gitbook/assets/primer-dia-otono-san-joaquin-cesar-cortes.jpg)
+![El edificio de las Torres Siamesas, alberga las oficinas del Centro de Desarrollo Docente, la Direcci&#xF3;n de Inclusi&#xF3;n y la Direcci&#xF3;n de Inform&#xE1;tica entre otros departamentos. - Foto Karina Fuenzalida](../../.gitbook/assets/edificio-y-centro-dearrollo-docente-san-joaquin-karina-fuenzalida.jpg)
 
-![El edificio de las Torres Siamesas, alberga las oficinas del Centro de Desarrollo Docente, la Direcci&#xF3;n de Inclusi&#xF3;n y la Direcci&#xF3;n de Inform&#xE1;tica entre otros departamentos.](../../.gitbook/assets/edificio-y-centro-dearrollo-docente-san-joaquin-karina-fuenzalida.jpg)
+![Los alumnos de la Escuela de Odontolog&#xED;a comienzan aprendiendo con modelos a escala humana. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/modelos-escuela-odontologia-san-joquin-cesar-cortes.jpg)
 
-![Los alumnos de la Escuela de Odontolog&#xED;a comienzan aprendiendo con modelos a escala humana.](../../.gitbook/assets/modelos-escuela-odontologia-san-joquin-cesar-cortes.jpg)
+![Los futuros ingenieros e ingenieras se preparan en este campus. - Foto Karina Fuenzalida](../../.gitbook/assets/futuros-ingenieros-en-el-edificio-de-ciencia-y-tecnologia-karina-fuenzalida.jpg)
 
-![Los futuros ingenieros e ingenieras se preparan en este campus.](../../.gitbook/assets/futuros-ingenieros-en-el-edificio-de-ciencia-y-tecnologia-karina-fuenzalida.jpg)
+![El gimnasio de San Joaqu&#xED;n cuenta con instalaciones de primer nivel para el desarrollo de todo tipo de deportes. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/gimnasio-san-joaquin-desarrollo-deportivo-deportesuc-cesar-cortes.jpg)
 
-![El gimnasio de San Joaqu&#xED;n cuenta con instalaciones de primer nivel para el desarrollo de todo tipo de deportes.](../../.gitbook/assets/gimnasio-san-joaquin-desarrollo-deportivo-deportesuc-cesar-cortes.jpg)
+![Las &#xE1;reas verdes del campus invitan al estudio y al descanso. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/alumnos-estudian-en-pasto-frente-a-sociologia-san-joaquin-cesar-cortes.jpg)
 
-![Las &#xE1;reas verdes del campus invitan al estudio y al descanso.](../../.gitbook/assets/alumnos-estudian-en-pasto-frente-a-sociologia-san-joaquin-cesar-cortes.jpg)
-
-![La escultura Grupo Humano de Mario Irarr&#xE1;zabal, es parte del patrimonio art&#xED;stico de la universidad.](../../.gitbook/assets/fachada-escuela-ingenieria-escultura-grupo-humano-mario-irarrazabal-san-joaquin-karina-fuenzalida.jpg)
+![La escultura Grupo Humano de Mario Irarr&#xE1;zabal, es parte del patrimonio art&#xED;stico de la universidad. - Foto Karina Fuenzalida](../../.gitbook/assets/fachada-escuela-ingenieria-escultura-grupo-humano-mario-irarrazabal-san-joaquin-karina-fuenzalida.jpg)
 
 ### Historia del Campus
 
+![](../../.gitbook/assets/estatua-cristo-san-joaquin-cesar-cortes.JPG)
+
 San Joaquín es el campus más grande de todos los de la universidad. El terreno original era conocido como la chacra de San Luis de Macul y fue donado a la universidad en [1891](https://es.wikipedia.org/wiki/1891).
 
-Estuvo sin uso durante todo el inicio del siglo XX, pero desde [1966](https://es.wikipedia.org/wiki/1966) comenzaron a instalarse poco a poco distintas unidades académicas empezando por Ingeniería. En el inicio era un poco desolador: un campus más bien seco y sin árboles, caluroso en verano y ventoso en invierno. 
+Siguió siendo chacra durante la primera mitad del siglo XX, pero desde [1966](https://es.wikipedia.org/wiki/1966)  comenzó su construcción como una ciudad universitaria para unificar a las facultades que se habían dispersado por la ciudad. La formación del campus fue lenta y sus primeros habitantes se sentían más aislados que unidos a la Universidad en un espacio más bien desolador: seco y sin árboles, caluroso en verano y ventoso en invierno. 
+
+Pero la visión a largo plazo de las autoridades universitarias de que era un proyecto necesario y viable, permitió que se consolidara como un campus universitario donde hoy se ubican la mayoría de las facultades.
 
 ​Hoy cuenta con 63 edificios, 13 facultades más el College y más de 22 mil alumnos. Asimismo, tiene amplios jardines con especies nativas, grandes árboles, canchas deportivas, gimnasio y piscina, además de varias bibliotecas y casinos. 
-
-Desde 1997 el metro se detiene en su entrada en la estación que lleva el mismo nombre del campus.
 
