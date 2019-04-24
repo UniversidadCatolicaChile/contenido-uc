@@ -1,6 +1,6 @@
 # Error 404
 
-### Página no encontrada
+### No encontramos la página
 
 **Lo sentimos, no pudimos llevarte a la página que querías.**  
 Puede que esta página no exista más o que hayas cometido un error al escribir.  

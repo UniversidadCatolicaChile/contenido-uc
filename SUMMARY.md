@@ -4,6 +4,7 @@
 
 ## Home
 
+* [Landing home](home/landing-home.md)
 * [Destacados header](home/destacados-header/README.md)
   * [La Muerte, ese capítulo de la vida](home/destacados-header/destacado-2.md)
   * [Destacado 3](home/destacados-header/destacado-3.md)
@@ -40,7 +41,6 @@
   * [Vida universitaria 1](home/vida-universitara/vida-universitaria-1.md)
   * [Vida universitaria 2](home/vida-universitara/vida-universitaria-2.md)
   * [Vida Universitaria 3](home/vida-universitara/vida-universitaria-3.md)
-* [Landing home](home/landing-home.md)
 
 ## Programas de estudio
 
@@ -310,6 +310,7 @@
 ## Error 404
 
 * [Error 404](error-404/error-404.md)
+* [Untitled](error-404/untitled.md)
 
 ## UC Dialoga
 
