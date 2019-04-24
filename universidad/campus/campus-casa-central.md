@@ -1,5 +1,7 @@
 # Campus Casa Central
 
+![](../../.gitbook/assets/fachada-casa-central-estatua-y-cristo-cesar-cortes.JPG)
+
 ### Contáctanos
 
 Avenida Libertador Bernardo O'Higgins 340
@@ -53,4 +55,16 @@ Evento 3
 ![En el patio de la Facultad de Comunicaciones se aprecia la mezcla arm&#xF3;nica de estilos arquitect&#xF3;nicos del campus.](../../.gitbook/assets/patio-facultad-comunicaciones-casa-central-karina-fuenzalida.jpg)
 
 ### Historia de Campus
+
+Conocido como el Palacio Universitario, el edificio más emblemático de Casa Central, es también el más antiguo de la Universidad.
+
+La primera piedra se puso en 1910 y su construcción concluyó en 1917.  El diseño original fue obra del arquitecto italiano Ignacio Cremonesi y fue concluido por el arquitecto Emile Jecquier. 
+
+Las facultades se agrupaban en torno a un pato central rodeado de anchos pasillos. Además contaba con una capilla, una biblioteca para 60 mil libros y una sala para actos oficiales. Desde entonces y hasta el día de hoy, en el segundo piso se ubican las oficinas del Rector y Prorrector.
+
+En 1931 Casa Central sufrió un incendio y el proceso de reconstrucción demoró 6 años. Como agradecimiento a la rapidez en la obras, el rector de entonces, Monseñor Carlos Casanueva mandó a hacer una estatua del Sagrado Corazón y para ponerla sobre la fachada, convirtiéndose en un símbolo hasta  hoy.
+
+Con los años se agregaron nuevos edificios y facultades como Derecho, Ciencias Biológicas, Medicina y Comunicaciones. Además del Hospital Clínico y el Centro de Extensión.
+
+
 
