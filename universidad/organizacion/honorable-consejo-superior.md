@@ -3,8 +3,6 @@
 ## Honorable Consejo Superior
 
   
-_Imagen: mismo fondo vista La universidad_
-
 El Honorable Consejo Superior \(o HCS\), máximo organismo colegiado de la Universidad, es el que determina las líneas fundamentales de la política universitaria. Su composición busca visibilizar la participación de todos los estamentos de la comunidad universitaria. Sesiona semana por medio, a menos que haya alguna situación que amerite un consejo extraordinario.
 
 Cuando existen temas que por su profundidad y relevancia lo ameritan, el Rector forma comisiones compuestas por ocho a diez miembros del HCS, que son encargadas de analizar durante un tiempo \(generalmente dos a cuatro meses\) la temática, para luego presentar un informe al consejo en pleno. Cada año se forman dos a tres comisiones. De acuerdo a los estatutos de 1982, el Honorable Consejo Superior reemplazó al Consejo Universitario. Su primera sesión se realizó el 31 de diciembre de 1982.
