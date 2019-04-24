@@ -10,7 +10,7 @@
 
 ### Código de Honor
 
-![](../.gitbook/assets/juan-larrain.png)
+![](../.gitbook/assets/_mg_5371.jpg)
 
 El Código de Honor nos invita a la reflexión sobre nuestro quehacer diario, en la relación que tenemos con nuestros alumnos, académicos, profesionales, administrativos y la comunidad completa. De esta manera podemos aspirar a establecer un ambiente que permita la formación de personas y la generación de conocimiento con sólidas bases éticas, y que permita que cada uno de nosotros pueda desarrollarse plenamente y entregar lo mejor de sí.
 
@@ -37,9 +37,7 @@ El éxito de esta iniciativa dependerá de que la asumamos como propia y como un
 
 Tu participación es importante
 
-Te invitamos a firmar el Código de Honor. Tu compromiso es fundamental para que construyamos juntos una cultura del respeto.
-
-[Firmar Código de Honor](https://sso.uc.cl/cas/login?service=http://firmacodigodehonor.uc.cl/?server=2)
+Te invitamos a firmar el Código de Honor. Tu compromiso es fundamental para que construyamos juntos una cultura del respeto. A partir del 2017, los nuevos estudiantes que ingresen deberán firmar al matricularse \(alumnos\) o al contratarse \(funcionarios, académicos\).
 
 ### ¿Cómo puedo sumarme a la iniciativa?
 
