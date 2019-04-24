@@ -5,9 +5,9 @@
   
 _Imagen: mismo fondo vista La universidad_
 
-El Honorable Consejo Superior \(o HCS\) es el organismo que determina las líneas fundamentales de la política universitaria.
+El Honorable Consejo Superior \(o HCS\), máximo organismo colegiado de la Universidad, es el que determina las líneas fundamentales de la política universitaria. Su composición busca visibilizar la participación de todos los estamentos de la comunidad universitaria. Sesiona semana por medio, a menos que haya alguna situación que amerite un consejo extraordinario.
 
-**Su composición busca visibilizar la participación de todos los estamentos de la comunidad universitaria.** En general se reúne semana por medio, a menos que haya alguna situación que amerite un consejo extraordinario.
+Cuando existen temas que por su profundidad y relevancia lo ameritan, el Rector forma comisiones compuestas por ocho a diez miembros del HCS, que son encargadas de analizar durante un tiempo \(generalmente dos a cuatro meses\) la temática, para luego presentar un informe al consejo en pleno. Cada año se forman dos a tres comisiones. De acuerdo a los estatutos de 1982, el Honorable Consejo Superior reemplazó al Consejo Universitario. Su primera sesión se realizó el 31 de diciembre de 1982.
 
 _\[Imagen: Óvalo con cada uno de los integrantes, incluye nombre, cargo y enlace a perfil, solo si corresponde\]._
 
@@ -52,10 +52,10 @@ Consejero Superior elegido por los estudiantes.
 
 #### PROFESORES REPRESENTATIVOS DE LOS ACADÉMICOS
 
-Milena Grass  
-Claudio Rolle  
-Marcelo Loewe  
-Vladimir Marianov Kluge
+Magdalena Amenábar  
+Patricia García  
+Alejandro Jara  
+Claudio Rolle
 
 #### AUTORIDADES INVITADAS
 
@@ -67,47 +67,47 @@ _\[Detalle de autoridades, para agregar al óvalo en este orden. Óvalo en_ [_ht
 Puesto 1:  
 Nombre: Ignacio Sánchez  
 Cargo: Rector / Presidente del Consejo  
-Ver perfil: \[enlace interno\]
+[Ver perfil](rectoria/rector.md)
 
 Puesto 2:  
 Nombre: Presbítero Tomás Scherz  
 Cargo: Vice Gran Canciller  
-Ver perfil: \[enlace interno\]
+[Ver perfil](vice-gran-cancilleria/vice-gran-canciller.md)
 
 Puesto 3:  
 Nombre: Guillermo Marshall  
 Cargo: Prorrector  
-Ver perfil: \[enlace interno\]
+[Ver perfil](prorrectoria/prorrector.md)
 
 Puesto 4:  
 Nombre: Patricio Donoso  
 Cargo: Prorrector de Gestión Institucional  
-Ver perfil: \[enlace interno\]
+[Ver perfil](prorrectoria-de-gestion-institucional/prorrector-de-gestion-institucional.md)
 
 Puesto 5:  
 Nombre: Marisol Peña  
 Cargo: Secretaria General  
-Ver perfil: \[enlace interno\]
+[Ver perfil](secretaria-general/secretaria-general.md)
 
 Puesto 6:  
 Nombre: Juan Larraín  
 Cargo: Vicerrector Académico  
-Ver perfil: \[enlace interno\]
+[Ver perfil](vicerrectoria-academica/vicerrector-academico.md)
 
 Puesto 7:  
 Nombre: Pedro Bouchon  
 Cargo: Vicerrector de Investigación  
-Ver perfil: \[enlace interno\]
+[Ver perfil](vicerrectoria-de-investigacion/vicerrector-de-investigacion.md)
 
 Puesto 8:  
 Nombre: María Loreto Massanés  
 Cargo: Vicerrectora Económica  
-Ver perfil: \[enlace interno\]
+[Ver perfil](vicerrectoria-economica/vicerrectora-economica.md)
 
 Puesto 9:  
 Nombre: María Paulina Gómez  
 Cargo: Vicerrectora de Comunicaciones  
-Ver perfil: \[enlace interno\]
+[Ver perfil](vicerrectoria-de-comunicaciones/vicerrectora-de-comunicaciones.md)
 
 Puesto 10:  
 Nombre: Joaquín Silva  
@@ -129,9 +129,9 @@ Cargo: Decano Facultad de Comunicaciones
 [Ver perfil](http://comunicaciones.uc.cl/personas/eduardo-arriagada/)
 
 Puesto 14:  
-Nombre: Carlos Frontaura  
+Nombre: Gabriel Bocksang  
 Cargo: Decano Facultad de Derecho  
-[Ver perfil](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-fundamentos-del-derecho/4181-frontaura-rivera-carlos)
+[Ver perfil](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-publico/325-bocksang-hola-gabriel)
 
 Puesto 15:  
 Nombre: Juan Correa  
@@ -140,7 +140,8 @@ Cargo: Decano Facultad de Ciencias Biológicas
 
 Puesto 16:  
 Nombre: Olof Page  
-Cargo: Decano Facultad de Filosofía
+Cargo: Decano Facultad de Filosofía  
+[Ver perfil](http://filosofia.uc.cl/planta-ordinaria/page-depolo-olof)
 
 Puesto 17  
 Nombre: Lorena Medina  
@@ -207,9 +208,14 @@ Nombre: María Belén Larrondo
 Cargo: Presidenta Federación de Estudiantes UC
 
 Puesto 30:  
-Nombre: Milena Grass  
+Nombre: Magdalena Amenábar  
 Cargo: Representante de académicos  
-[Ver perfil](http://escueladeteatro.uc.cl/escuela/profesores/58-milena-grass-kleiner)
+[Ver perfil](http://escueladeteatro.uc.cl/escuela/profesores/86-magdalena-amenabar-folch)
+
+Puesto 31:  
+Nombre: Paulina Carrillo  
+Cargo: Representante estudiantil  
+[Ver perfil](http://consejeriasuperior.cl/)
 
 Puesto 31:  
 Nombre: Paulina Carrillo  
@@ -221,14 +227,14 @@ Cargo: Representante de académicos
 [Ver perfil](http://historia.uc.cl/Planta-Academica/rolle-claudio.html)
 
 Puesto 33:  
-Nombre: Alfredo Gaete  
-Cargo: Director \(s\) campus Villarrica  
-[Ver perfil](http://villarrica.uc.cl/gaete-silva-alfredo)
+Nombre: Gonzalo Valdivieso  
+Cargo: Director campus Villarrica  
+[Ver perfil](http://villarrica.uc.cl/gonzalo-valdivieso-gatica)
 
 Puesto 34:  
-Nombre: Marcelo Loewe  
+Nombre: Alejandro Jara  
 Cargo: Representante de académicos  
-[Ver perfil](http://www.fis.puc.cl/~mloewe/)
+[Ver perfil](http://www.mat.uc.cl/~ajara/Home.html)
 
 Puesto 35:  
 Nombre: Fernando Purcell  
@@ -236,11 +242,14 @@ Cargo: Director Programa de Estudios Generales College
 [Ver perfil](http://historia.uc.cl/Planta-Academica/purcell-fernando.html)
 
 Puesto 36:  
-Nombre: Vladimir Marianov  
+Nombre: Patricia García  
 Cargo: Representante de académicos  
-[Ver perfil](https://www.ing.uc.cl/academicos-e-investigadores/vladimir-marianov-kluge/)
+[Ver perfil](https://medicina.uc.cl/persona/patricia-garcia-canete/)
 
 Puesto 37:  
-Nombre: William Young  
-Cargo: Director de Asuntos Estudiantiles
+Nombre: Carolina Méndez  
+Cargo: Directora de Asuntos Estudiantiles  
+
+
+### Footer
 
