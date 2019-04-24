@@ -46,7 +46,11 @@ Evento 3
 
 ![Alumnos de la Facultad de Medicina se re&#xFA;nen en una clase masiva. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/alumnos-medicina-casa-central.jpg)
 
-![El vitral en el descansillo de escalera principal fue dise&#xF1;ado por Adolfo Winterlitz e inaugurado en 1931. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/escalera-y-vitral-de-casa-central-cesar-cortes.JPG)
+![El vitral en el descansillo de escalera principal fue  inaugurado en 1931. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/escalera-y-vitral-de-casa-central-cesar-cortes.JPG)
 
-![La estatua del Cristo sobre la fachada fue realizada en 1935 por el escultor h&#xFA;ngaro Ernest W&#xFC;nsch y que perdura hasta hoy, tiene 5 metros de alto y 5,5 de ancho, y est&#xE1; inspirada en el Cristo del Corcovado.](../../.gitbook/assets/cristo-desde-atras-casa-central-cesar-cortes.jpg)
+![La estatua del Cristo sobre la fachada fue realizada en 1935 por el escultor h&#xFA;ngaro Ernest W&#xFC;nsch y que perdura hasta hoy, tiene 5 metros de alto y 5,5 de ancho, y est&#xE1; inspirada en el Cristo del Corcovado. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/cristo-desde-atras-casa-central-cesar-cortes.jpg)
+
+![En el patio de la Facultad de Comunicaciones se aprecia la mezcla arm&#xF3;nica de estilos arquitect&#xF3;nicos del campus.](../../.gitbook/assets/patio-facultad-comunicaciones-casa-central-karina-fuenzalida.jpg)
+
+### Historia de Campus
 

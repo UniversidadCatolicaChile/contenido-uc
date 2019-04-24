@@ -2,7 +2,7 @@
 
 ## Campus
 
-La Universidad Católica se despliega en cinco campus: cuatro en distintas comunas de Santiago y uno en la ciudad de Villarrica, ubicada en el sur de Chile
+La Universidad Católica se despliega en cinco campus: cuatro en distintas comunas de Santiago y uno en la ciudad de Villarrica, ubicada en el sur de Chile. Nuestros campus no son solo consecuencia de necesidades académicas, sino construcciones con sentido cultural que la Universidad ha legado a la ciudad.
 
 ### [Casa Central](campus-casa-central.md)
 
