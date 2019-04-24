@@ -60,11 +60,11 @@ Evento 3
 
 Conocido como el Palacio Universitario, la Casa Central es el edificio más emblemático y más antiguo de la Universidad.
 
-La primera piedra se puso en 1910 y su construcción concluyó en 1917.  El diseño original fue obra del arquitecto italiano Ignacio Cremonesi y fue concluido por el arquitecto Emile Jecquier. 
+La primera piedra se puso en 1910 y demoró siete años en terminarse.  El diseño original fue obra del arquitecto italiano Ignacio Cremonesi y fue concluido por el arquitecto Emile Jecquier. 
 
-Las facultades se agrupaban en torno a un pato central rodeado de anchos pasillos. Además contaba con una capilla, una biblioteca para 60 mil libros y una sala para actos oficiales. Desde entonces y hasta el día de hoy, en el segundo piso se ubican las oficinas del Rector y Prorrector, así como otras autoridades.
+Desde su construcción las facultades se agrupaban en torno a patios centrales rodeados de anchos pasillo, siguiendo la estructura de un claustro. Desde entonces y hasta el día de hoy, en el segundo piso se ubican las oficinas del Rector y Prorrector, así como de otras autoridades.
 
-En 1931 Casa Central sufrió un incendio que destruyó dos pisos completos. El proceso de reconstrucción demoró sólo seis años. Como agradecimiento a la rapidez en la obras, el rector de entonces, Monseñor Carlos Casanueva mandó a hacer una estatua del Sagrado Corazón para ponerla sobre la fachada, la que se convirtió en un símbolo hasta  hoy.
+En 1931 Casa Central sufrió un incendio que destruyó dos pisos completos. El proceso de reconstrucción demoró sólo seis años. Y como agradecimiento a la rapidez en la obras, el rector de entonces, Monseñor Carlos Casanueva mandó a hacer una estatua del Sagrado Corazón para ponerla sobre la fachada, la que se convirtió en un símbolo hasta  hoy.
 
 Con los años se agregaron nuevos edificios y facultades como Derecho, Ciencias Biológicas, Medicina y Comunicaciones. Además del Hospital Clínico y el Centro de Extensión.
 
