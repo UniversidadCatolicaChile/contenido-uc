@@ -42,3 +42,5 @@ Evento 3
 
 #### Casa Central en imágenes
 
+![Los estudiantes de Derecho acostumbran a repasar en los pasillos antes de sus ex&#xE1;menes.](../../.gitbook/assets/alumna-estudiando-escuela-derecho-casa-central-cesar-cortes.jpg)
+
