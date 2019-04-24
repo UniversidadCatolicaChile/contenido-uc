@@ -1,6 +1,6 @@
 # Campus Casa Central
 
-## Campus Casa Central
+## cobran vida cuando los alumnos se reúnen a estudiar o a compartir en sus horas libresCampus Casa Central
 
 ### Contáctanos
 
@@ -42,5 +42,11 @@ Evento 3
 
 #### Casa Central en imágenes
 
-![Los estudiantes de Derecho acostumbran a repasar en los pasillos antes de sus ex&#xE1;menes.](../../.gitbook/assets/alumna-estudiando-escuela-derecho-casa-central-cesar-cortes.jpg)
+![El edificio m&#xE1;s antiguo de Casa Central se organiza a trav&#xE9;s de claustros y patios centrales. ](../../.gitbook/assets/alumna-estudiando-escuela-derecho-casa-central-cesar-cortes.jpg)
+
+![Los patios de Casa Central cobra vida despu&#xE9;s de clases y durante las horas libres. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/alumnos-se-reunen-a-estudiar-casa-central-cesar-cortes.jpg)
+
+![Alumnos de la Facultad de Medicina se re&#xFA;nen en una clase masiva. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/alumnos-medicina-casa-central.jpg)
+
+![El vitral en el descansillo de escalera principal fue dise&#xF1;ado por Adolfo Winterlitz e inaugurado en 1931. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/escalera-y-vitral-de-casa-central-cesar-cortes.JPG)
 
