@@ -51,7 +51,7 @@ María Elena Boisier
 Diego Cosmelli  
 
 
-![Diego Cosmelli, Director de Doctorado](../../../.gitbook/assets/diego-cosmelli-director-escuela-de-graduados.gif)
+![](../../../.gitbook/assets/diego-cosmelli_direccion_doctorado.jpg)
 
 #### Directora de Artes y Cultura
 

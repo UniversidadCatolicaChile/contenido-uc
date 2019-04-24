@@ -2,7 +2,7 @@
 
 ## La Universidad
 
-_Imagen: misma utilizada en diseño \(buscar\)_
+![](../.gitbook/assets/fachada_casa_central.jpg)
 
 La Pontificia Universidad Católica de Chile aspira a lograr la excelencia en la creación y transferencia de conocimiento y en la formación de las personas, basada en una concepción católica y siempre al servicio de la Iglesia y de la sociedad.
 
