@@ -63,15 +63,15 @@ La Universidad Católica cuenta con cuatro campus en Santiago, Región Metropoli
 
 [Campus Oriente](campus/campus-oriente.md)
 
-\[Imagen\]
+![](../.gitbook/assets/fachada-campus-oriente.JPG)
 
 [Campus San Joaquín](campus/campus-san-joaquin.md)
 
-![Acceso principal del campus San Joaqu&#xED;n.](../.gitbook/assets/sanjoaquin4.JPG)
+![](../.gitbook/assets/estatua-cristo-san-joaquin-alumnos-cesar-cortes.JPG)
 
 [Casa Central](campus/campus-casa-central.md)
 
-\[Imagen\]
+![Fachada de Casa Central](../.gitbook/assets/fachada-casa-central-estatua-y-cristo-cesar-cortes.JPG)
 
 [Campus Lo Contador](campus/campus-lo-contador.md)
 
@@ -79,7 +79,7 @@ La Universidad Católica cuenta con cuatro campus en Santiago, Región Metropoli
 
 [Campus Villarrica](campus/campus-villarrica.md)
 
-\[Imagen\]
+![Vista exterior del Campus Villarrica](../.gitbook/assets/vista-exterior-campus-villarrica-karina-fuenzalida.jpg)
 
 ### Nuestras facultades
 
