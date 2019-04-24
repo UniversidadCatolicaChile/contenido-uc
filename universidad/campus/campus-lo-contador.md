@@ -1,2 +1,48 @@
 # Campus Lo Contador
 
+### Contáctanos
+
+El Comendador 1916, Providencia.
+
+ \(2\) 2354 4000
+
+Cómo llegar:
+
+**En metro:**
+
+Desde la Estación Pedro de Valdivia de la línea 1 del Metro, debes salir por la verda norte y caminar hacia el norte por calle La Concepción. Cruza el río Mapocho, y gira a la derecha en dirección a calle Los Conquistadores. Camina hasta la calle Monseñor Carlos Casanueva, gira a la izquierda y sigue caminando hasta la calle El Comendador. El campus estará a tu izquierda.
+
+**En bus:**
+
+El paradero más cercano es el PC 342. En él se detienen los siguientes recorridos: 
+
+546e que circula entre Maipú y Vitacura.
+
+409 que circula entre Santiago y Lo Barnechea.
+
+ 502 que circula entre Cerro Navia y Las Condes.
+
+### Estudia en Lo Contador
+
+#### [Facultad de Arquitectura, Diseño y Estudios Urbanos](http://fadeu.uc.cl/)
+
+Esta facultad está compuesta por la [**Escuela de Arquitectura**](http://arquitectura.uc.cl/)**, la** [**Escuela de Diseño**](http://diseno.uc.cl/) **y el** [**Instituto de Estudios Urbano**](http://estudiosurbanos.uc.cl/)**s**, unidades que ofrecen una variada oferta de programas de postgrado, diplomados y cursos.
+
+### Vida de Campus
+
+Está pasando
+
+Lo Contador en imágenes
+
+![El campus se ubica en una antigua casa colonial de adobe y madera que se mantiene hasta hoy con diversas transformaciones y ampliaciones.](../../.gitbook/assets/muralla-casona-con-hiedra-lo-contador-karina-fuenzalida.jpg)
+
+![El Patio los Naranjos es protagonista de diversos mitos universitarios. Dicen que si los alumnos sacan una de estas frutas reprobar&#xE1;n alg&#xFA;n ramo. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/patio-los-naranjos-campus-lo-contador-cesar-cortes.jpg)
+
+![La biblioteca constituye el lugar de reuni&#xF3;n m&#xE1;s habitual de los estudiantes.](../../.gitbook/assets/alumnos-estudiando-biblioteca-vistos-desde-exterio-lo-contador-cesar-cortes.jpg)
+
+![Los estudiantes cuentan con amplios talleres para realizar sus proyectos.](../../.gitbook/assets/amplios-talleres-con-herramientas-para-los-alumnos-en-lo-contador.JPG)
+
+![La riqueza original de la casa ha sido complementada por las contribuciones de diversos arquitectos que han ido construyendo, alrededor suyo, el paisaje del campus.](../../.gitbook/assets/vista-patio-lo-contador-sin-alumnos-karina-fuenzalida.jpg)
+
+![En los patios se re&#xFA;nen los estudiantes de arquitectura, dise&#xF1;o y estudios urbanos.](../../.gitbook/assets/alumnos-en-patios-de-arquitectura-lo-contador-cesar-cortes.jpg)
+

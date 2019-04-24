@@ -58,7 +58,7 @@ Evento 3
 
 ![](../../.gitbook/assets/fachada-casa-central-1915.jpg)
 
-Conocido como el Palacio Universitario, la Casa Central es el edificio más emblemático y más antiguo de la Universidad.
+Conocido en sus inicios como el Palacio Universitario, en este campus se encuentra el edificio más emblemático y más antiguo de la Universidad.
 
 La primera piedra se puso en 1910 y demoró siete años en terminarse.  El diseño original fue obra del arquitecto italiano Ignacio Cremonesi y fue concluido por el arquitecto Emile Jecquier. 
 

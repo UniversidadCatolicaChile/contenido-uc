@@ -2,8 +2,6 @@
 
 ## Secretaría General
 
-_Imagen: mismo fondo de La Universidad_
-
 La Secretaría General existe desde los inicios de la Universidad, y se encarga de **dar fe de sus actos y procedimientos**, así como de **proponer las normas internas**, interpretarlas y velar por su eficaz cumplimiento.
 
 [Ir al sitio web](http://secretariageneral.uc.cl/)
@@ -21,14 +19,6 @@ Es la ministro de Fe de la Universidad, autorizar los actos administrativos y ce
 Autoridad nombrada por el Rector a proposición de la Secretaría General, y le corresponde especialmente subrogar a la Secretaria General. 
 
 **Pro-secretaria general:** Marisol Urrutia
-
-#### Abogadas
-
-Falta descripción
-
-**Abogadas:** Valentina Rosenthal, Francisca González, Estefanía Vergara, María Graciela Donoso, María José Wilson, Catalina Salem y María Teresa Bravo
-
-
 
 ### Footer
 

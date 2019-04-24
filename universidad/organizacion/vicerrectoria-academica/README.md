@@ -2,8 +2,6 @@
 
 ## Vicerrectoría Académica
 
-_Imagen: mismo fondo de la Universidad_
-
 La Vicerrectoría Académica es la unidad encargada de elaborar y ejecutar la política académica de la Universidad. Es liderada por el Vicerrector o Vicerrectora Académica. Entre algunas de sus funciones se encuentran proponer las políticas de docencia universitaria, de la carrera académica, de la admisión estudiantil, de inclusión y de convenios con otras instituciones.
 
 ### Equipo
@@ -54,7 +52,7 @@ Unidad de la vicerrectoría que **apoya el desarrollo del cuerpo académico** de
 
 #### Dirección de Inclusión
 
-Falta descripción
+Unidad que tiene por objetivo **asegurar el ingreso y la permanencia de estudiantes talentosos a la UC**, independiente de su situación socioeconómica o física. 
 
 **Directora:** Catalina García
 
