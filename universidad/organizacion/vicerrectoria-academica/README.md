@@ -56,8 +56,6 @@ Unidad que tiene por objetivo **asegurar el ingreso y la permanencia de estudian
 
 **Directora:** Catalina García
 
-
-
 #### Dirección Programa de Estudios Generales College UC
 
 Es un programa que busca ser de **excelencia en la formación de pregrado, innovador y multi-disciplinario que permita la adquisición amplia y profunda de conocimientos, habilidades y competencias**, a través de un currículum a la vez flexible y estructurado, con el propósito de contribuir al desarrollo de una sociedad compuesta por personas íntegras, tolerantes y dialogantes.
