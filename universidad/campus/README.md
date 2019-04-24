@@ -24,15 +24,15 @@ Antigua hacienda del siglo XVIII cuya casona es Monumento Nacional y parte del p
 
 ### [Oriente](campus-oriente.md)
 
-![Entrada principall del campus Oriente.](../../.gitbook/assets/img_0732.JPG)
+![Entrada de Campus Oriente.](../../.gitbook/assets/img_0732.JPG)
 
-Construido en 1934 y adquirido por la Universidad a la Congregación de las Monjas Francesas en la década de los setenta \(1971\), acoge a las carreras de la Facultad de Artes y al Instituto de Estética.
+Construido en 1934 y adquirido por la Universidad a la Congregación de la religiosas de los Sagrados Corazones, en 1971. Acoge a las carreras de la Facultad de Artes y al Instituto de Estética.
 
 \[Logo mapa\] [Av. Jaime Guzmán 3300, Providencia, Santiago.](https://www.google.cl/maps/place/Jaime+Guzm%C3%A1n+Err%C3%A1zuriz+3300,+%C3%91u%C3%B1oa,+Regi%C3%B3n+Metropolitana/@-33.4458333,-70.5956316,17z/data=!3m1!4b1!4m5!3m4!1s0x9662cfa321f5f359:0x44c64f9e56c6f01d!8m2!3d-33.4457885!4d-70.5937947)
 
 ### [San Joaquín](campus-san-joaquin.md)
 
-![Uno de los patios del campus San Joaqu&#xED;n.](../../.gitbook/assets/sanjoaquin14.JPG)
+![Entrada de Campus San Joaqu&#xED;n](../../.gitbook/assets/estatua-cristo-san-joaquin-alumnos-karina-fuenzalida.JPG)
 
 Incorporado al patrimonio de la Universidad en 1891, legado por Honoria Gandarillas, el campus San Joaquín comenzó la implementación de sus 82 hectáreas universitaria en los años 60, convirtiéndose en una verdadera ciudad universitaria. Es el campus más grande de la Universidad y alberga a 12 Facultades.
 
@@ -40,7 +40,7 @@ Incorporado al patrimonio de la Universidad en 1891, legado por Honoria Gandaril
 
 ### [Villarrica](campus-villarrica.md)
 
-Imagen
+![Entrada de Campus Villarrica](../../.gitbook/assets/vista-exterior-campus-villarrica-karina-fuenzalida.jpg)
 
 Ubicada en una de las ciudades más lindas del sur de Chile, el Campus Villarrica alberga a las autoridades universitarias locales y ofrece las carreras de Educación General Básica y Educación Parvularia.
 
