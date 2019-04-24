@@ -41,7 +41,11 @@ Un fondo blanco atravesado por una franja azul, y el escudo a color de la univer
 
 ### Mascota UC
 
-Imagen: _pendiente_  
+Imagen: _pendiente_
+
+![Puma, mascota UC](../.gitbook/assets/puma-mascota-uc.jpg)
+
+  
 
 
 Tener una mascota y crearla en conjunto construye un sentido de comunidad, afianzando el sentido de pertenencia a la institución. 
@@ -116,8 +120,6 @@ Amén.
   
 Foto: [https://www.uc.cl/images/stories/simbolos/sagrado\_corazon.jpg](https://www.uc.cl/images/stories/simbolos/sagrado_corazon.jpg)
 
-![Estatua del Sagrado Coraz&#xF3;n, Pontificia Universidad Cat&#xF3;lica de Chile](../.gitbook/assets/sagrado_corazon.jpg)
-
 Alt: Estatua del Sagrado Corazón, Pontificia Universidad Católica de Chile
 
   
@@ -136,7 +138,11 @@ El Cristo que recibe a la comunidad de la UC en el campus San Joaquín desde el 
 ### Vitral de Casa Central
 
   
-Foto: https://www.uc.cl/images/stories/simbolos/vitrales.jpg  
+Foto: https://www.uc.cl/images/stories/simbolos/vitrales.jpg
+
+![](../.gitbook/assets/vitral_uc.jpg)
+
+  
 Alt. Vitral de Casa Central, Pontificia Universidad Católica de Chile
 
 Texto:  
@@ -145,7 +151,11 @@ El vitral de la caja de las escaleras en el acceso a la capilla de la Casa Centr
 
 ### Casa Central
 
-Foto: https://www.uc.cl/images/stories/simbolos/casacentral.jpg  
+Foto: https://www.uc.cl/images/stories/simbolos/casacentral.jpg
+
+![](../.gitbook/assets/fachada_casa_central.jpg)
+
+  
 Alt: Casa Central, Pontificia Universidad Católica de Chile
 
 Texto:  
@@ -157,7 +167,11 @@ El Palacio Universitario fue construido entre los años 1910 y 1918. Su fachada 
 ### Lo Contador
 
   
-Foto: https://www.uc.cl/images/stories/simbolos/locontador.jpg  
+Foto: https://www.uc.cl/images/stories/simbolos/locontador.jpg
+
+![](../.gitbook/assets/lo_contador_.jpg)
+
+  
 Alt: Campus Lo Contador, Pontificia Universidad Católica de Chile
 
 Texto:  
@@ -168,11 +182,15 @@ La historia de la casa se remonta al siglo XVIII, cuando Francisco Antonio Avari
 
 Imagen:
 
+![](../.gitbook/assets/fachada-campus-oriente.JPG)
+
 Campus Oriente nace en 1926. En sus inicios albergó el convento de la Congregación y el colegio de las Monjas del Sagrado Corazón hasta que, en 1971, pasa a manos de la universidad, acogiendo en los años setenta, ochenta y parte de los noventa una diversidad muy amplia de carreras humanistas. Actualmente el Campus Oriente alberga a la Facultad de Artes y al Instituto de Estética de la Facultad de Filosofía.
 
 ### Campus San Joaquín
 
 Imagen:
+
+![](../.gitbook/assets/entrada-san-joaquin-estatua-cristo-cesar-cortes.JPG)
 
 El campus nace de la idea de desarrollar una universidad más compleja. Para ello, se hizo uso de la donación de terrenos que hiciera la familia Larraín Gandarillas, conocidos como la chacra de Macul. Su primer uso fue como estación agrícola, pero con el paso de los años, específicamente desde la década de 1960, comenzó la construcción de las instalaciones con base en el plan maestro presentado por el arquitecto Germán Brandes.  
 
@@ -181,12 +199,16 @@ El campus nace de la idea de desarrollar una universidad más compleja. Para ell
 
 Imagen:
 
+![](../.gitbook/assets/vista-exterior-campus-villarrica-karina-fuenzalida.jpg)
+
 En 1936 fue fundada la Escuela Normal en San José de la Mariquina por la Prefectura Apostólica de la Araucanía. Por tratarse de una formación docente religiosa, los títulos entregados por esta entidad impedían que los docentes se desempeñaran en escuelas públicas, por lo cual, en el año 1952, se iniciaron las gestiones para regularizar esta situación, obteniéndose el reconocimiento como institución dependiente de la Facultad de Filosofía y Letras de la Pontificia Universidad Católica de Chile el 14 de marzo de 1953. En 1968 se convierte en la sede regional de la universidad.  
 
 
 ### Centro de Extensión
 
-Imagen:
+![](../.gitbook/assets/centro-extensionuc-plaza-central.jpg)
+
+Imagen: [http://centroeventos.uc.cl/wp-content/uploads/2017/05/Centro-Ext-plaza-central-slider.jpg](http://centroeventos.uc.cl/wp-content/uploads/2017/05/Centro-Ext-plaza-central-slider.jpg)
 
 Ubicado en las antiguas instalaciones del Instituto de Humanidades Luis Campino, el Centro de Extensión fue fundado bajo el rectorado del rector Juan de Dios Vial en la década de los ochenta. Su objetivo era servir como espacio cultural para la difusión de las artes, la transferencia de conocimiento, la capacitación de alto nivel y la perfección cultural bajo el signo de la educación continua.  
 
