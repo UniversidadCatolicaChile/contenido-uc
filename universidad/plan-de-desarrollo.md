@@ -51,9 +51,6 @@ Gestión para el crecimiento, la innovación y la proyección de la UC
   
 **Nuestra identidad**
 
-  
-****\(falta imagen\)
-
 ![](../.gitbook/assets/la-uc-sirve-chile-chan-aral-kfuenzalida.jpg)
 
   
@@ -62,8 +59,7 @@ Gestión para el crecimiento, la innovación y la proyección de la UC
 Más sobre nuestra identidad  
 [https://drive.google.com/file/d/1NOw-gDC4c8o3xjJ8gaufRuFpj9tOEwO5/view?usp=sharing](https://drive.google.com/file/d/1NOw-gDC4c8o3xjJ8gaufRuFpj9tOEwO5/view?usp=sharing)
 
-**Comunidad UC**  
-\(falta imagen\)
+**Comunidad UC**
 
 ![](../.gitbook/assets/comunidad-uc-alumnos-san-joaquin-cesar-cortes.JPG)
 
@@ -156,9 +152,7 @@ Descarga el eje
 
 **Gestión para el crecimiento, la innovación y la proyección de la UC**
 
-![](../.gitbook/assets/plan-de-desarrollo-uc-ecim-exterior-kfuenzalida.jpg)
-
-![](../.gitbook/assets/plan-de-desarrollo-uc-ecim-interior-kfuenzalida.jpg)
+![Estacion Costera de Investigaciones Marinas ECIM](../.gitbook/assets/estacion-costera-de-investigaciones-marinas-ecim-cesar-cortes.JPG)
 
   
   
