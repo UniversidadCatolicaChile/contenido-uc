@@ -120,6 +120,8 @@ Amén.
   
 Foto: [https://www.uc.cl/images/stories/simbolos/sagrado\_corazon.jpg](https://www.uc.cl/images/stories/simbolos/sagrado_corazon.jpg)
 
+![Estatua del Sagrado Coraz&#xF3;n, Pontificia Universidad Cat&#xF3;lica de Chile](../.gitbook/assets/cristo-sagrado-corazon-fachada-casa-central-uc.JPG)
+
 Alt: Estatua del Sagrado Corazón, Pontificia Universidad Católica de Chile
 
   

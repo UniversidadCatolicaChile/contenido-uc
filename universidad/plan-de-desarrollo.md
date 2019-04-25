@@ -2,7 +2,9 @@
 
 ### Introducción
 
-"El Plan de Desarrollo 2015 – 2020 que presentamos constituye el resultado de un proceso colaborativo que hemos realizado al interior de nuestra comunidad al iniciar mi segundo periodo como rector de la Pontificia Universidad Católica de Chile. Este documento define las principales líneas de acción que guiarán nuestra labor durante el próximo quinquenio"  
+"El Plan de Desarrollo 2015 – 2020 que presentamos constituye el resultado de un proceso colaborativo que hemos realizado al interior de nuestra comunidad al iniciar mi segundo periodo como rector de la Pontificia Universidad Católica de Chile. Este documento define las principales líneas de acción que guiarán nuestra labor durante el próximo quinquenio"
+
+  
   
 Ignacio Sánchez  
 Rector  
