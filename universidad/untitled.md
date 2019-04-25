@@ -67,7 +67,7 @@ La Universidad Católica cuenta con cuatro campus en Santiago, Región Metropoli
 
 [Campus San Joaquín](campus/campus-san-joaquin.md)
 
-![](../.gitbook/assets/fachada-campus-san-joaquin-uc.JPG)
+![](../.gitbook/assets/fachada-campus-san-joaquin-uc-cesar-cortes.JPG)
 
 [Casa Central](campus/campus-casa-central.md)
 
@@ -125,7 +125,9 @@ Innovación en la docencia
 
 Inclusión para ampliar oportunidades
 
-![](../.gitbook/assets/alumnos-conversan-inclusion-campus-oriente.jpg)
+
+
+![](../.gitbook/assets/inclusion-campus-oriente-alvaro-delafuente.jpg)
 
 [Descargar](https://www.uc.cl/images/stories/Plan_de_desarrollo_2015_2020/Interdisciplina.pdf)
 
@@ -145,7 +147,7 @@ Compromiso público de la UC
 
 Propuesta de foto1:
 
-![Primer Encuentro Tutores UC su rol en la comunidad, organizado por Direccion de Asuntos Estudiantiles \(DAE\) en Campus San Joaquin](../.gitbook/assets/compromiso-publico-uc-encuentro-tutores.JPG)
+![](../.gitbook/assets/compromiso-publico-uc-encuentro-tutores-cesar-cortes.JPG)
 
 Propuesta de foto 2:
 
