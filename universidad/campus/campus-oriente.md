@@ -1,6 +1,6 @@
 # Campus Oriente
 
-![](../../.gitbook/assets/vista-superior-patio-central-sin-alumnos-campus-oriente-karina-fuenzalida.jpg)
+![](../../.gitbook/assets/alumna-camina-por-pasillo-campus-oriente.png)
 
 ### Contáctanos
 
