@@ -8,9 +8,15 @@ Avenida Vicuña Mackenna 4860
 
 \(562\) 2354 4000
 
-#### Cómo llegar:
+Cómo llegar:
+
+**En metro:**
 
 El campus se ubica frente a la estación San Joaquín de la línea 5 de Metro de Santiago. 
+
+En bus:
+
+Frente al campus se ubica el paradero PD 196. En él se detienen los siguientes recorridos: F30n, D14, 210, 210v, 213e.
 
 ### Estudia en Campus San Joaquín
 
@@ -103,13 +109,13 @@ Evento 3
 
 ### Historia del Campus
 
-![](../../.gitbook/assets/estatua-cristo-san-joaquin-cesar-cortes.JPG)
+![](../../.gitbook/assets/patio-ingenieria-decada-1970.jpg)
 
-San Joaquín es el campus más grande de todos los de la universidad. El terreno original era conocido como la chacra de San Luis de Macul y fue donado a la universidad en [1891](https://es.wikipedia.org/wiki/1891).
+San Joaquín es el campus más grande de todos los de la universidad. El terreno original era conocido como la chacra de San Luis de Macul y fue donado a la universidad en 1891.
 
-Siguió siendo chacra durante la primera mitad del siglo XX, pero desde [1966](https://es.wikipedia.org/wiki/1966)  comenzó su construcción como una ciudad universitaria para unificar a las facultades que se habían dispersado por la ciudad. La formación del campus fue lenta y sus primeros habitantes se sentían más aislados que unidos a la Universidad en un espacio más bien desolador: seco y sin árboles, caluroso en verano y ventoso en invierno. 
+Siguió siendo chacra durante la primera mitad del siglo XX, pero desde 1966  comenzó su construcción como una ciudad universitaria para unificar a las facultades que se habían dispersado por la ciudad. La formación del campus fue lenta y sus primeros habitantes se sentían más aislados que unidos a la Universidad en un espacio más bien desolador: seco y sin árboles, caluroso en verano y ventoso en invierno. 
 
-Pero la visión a largo plazo de las autoridades universitarias de que era un proyecto necesario y viable, permitió que se consolidara como un campus universitario donde hoy se ubican la mayoría de las facultades.
+Pero la visión a largo plazo de las autoridades universitarias, de que era un proyecto necesario y viable, permitió que se consolidara como un campus universitario donde hoy se ubican la mayoría de las facultades.
 
-​Hoy cuenta con 63 edificios, 13 facultades más el College y más de 22 mil alumnos. Asimismo, tiene amplios jardines con especies nativas, grandes árboles, canchas deportivas, gimnasio y piscina, además de varias bibliotecas y casinos. 
+​Hoy cuenta con más de 70 edificios, 13 facultades más el College, y más de 22 mil alumnos. Asimismo, tiene amplios jardines con especies nativas, grandes árboles, canchas deportivas, gimnasio y piscina, además de varias bibliotecas y casinos. 
 

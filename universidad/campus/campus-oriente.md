@@ -60,7 +60,7 @@ Evento 3
 
 ### Historia del Campus
 
-![](../../.gitbook/assets/fachada-campus-oriente.JPG)
+![](../../.gitbook/assets/patio-campus-oriente-antes-1940.jpg)
 
 De muros sólidos, pasillos frescos y vegetación añosa, Campus Oriente, es uno de los espacios más nostálgicos de la universidad. Está ubicado en los límites de la comuna de Ñuñoa y Providencia. 
 
