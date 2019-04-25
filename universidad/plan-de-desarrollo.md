@@ -112,24 +112,38 @@ Descarga el eje
 Descarga el eje  
 [https://drive.google.com/file/d/12mioZtZiMmroCAWtu12lf6n\_6W3Zo6j-/view?usp=sharing](https://drive.google.com/file/d/12mioZtZiMmroCAWtu12lf6n_6W3Zo6j-/view?usp=sharing)
 
-**Interdisciplina para los grandes desafíos**  
-\(falta imagen\)  
+**Interdisciplina para los grandes desafíos**
+
+![](../.gitbook/assets/plan_desarrollo_interdisciplina.jpg)
+
+  
+  
 ****Existe una profunda convicción en la comunidad UC de que el trabajo académico en el futuro, tanto en creación de conocimiento como en formación de personas, será bajo esta modalidad. En consonancia con ello, esta dimensión tiene significativos espacios de crecimiento.
 
 ¿Cómo trabajamos?  
 Descarga el eje  
 [https://drive.google.com/file/d/10cdi81jL5eclyEKbHzb4FCdCxgpLWaWC/view?usp=sharing](https://drive.google.com/file/d/10cdi81jL5eclyEKbHzb4FCdCxgpLWaWC/view?usp=sharing)
 
-**Internacionalización para participar en un mundo global**  
-\(falta imagen\)  
+**Internacionalización para participar en un mundo global**
+
+![](../.gitbook/assets/internacionalizacion_provisoria_26706464628_be643a753e_o.jpg)
+
+  
+****  
 En la medida en que una institución se abre al mundo, comienza a adquirir las prácticas de las mejores universidades para poder competir en el concierto internacional. La mayoría de los problemas de frontera que se abordan en investigación hoy son globales y ya nadie discute que la experiencia universitaria con pares extranjeros enriquece tanto la formación de estudiantes como la de profesores. Estos conceptos refuerzan esa mirada.  
   
 ¿Cómo nos conectamos con el mundo?  
 Descarga el eje  
 [https://drive.google.com/file/d/1ijCWpboGUX-E5QS2YIqAnOYgnW9T16qK/view?usp=sharing](https://drive.google.com/file/d/1ijCWpboGUX-E5QS2YIqAnOYgnW9T16qK/view?usp=sharing)  
   
-**Compromiso público de la UC**  
-\(falta imagen\)  
+**Compromiso público de la UC**
+
+![](../.gitbook/assets/compromiso-publico-uc-encuentro-tutores-cesar-cortes.JPG)
+
+![](../.gitbook/assets/plan_desarrollo_compromiso-publico.jpg)
+
+  
+****  
 En los últimos años se ha instalado la discusión sobre el rol y el compromiso de las universidades chilenas. Al respecto, nuestra postura ha sido clara en el sentido de que el carácter público de una institución no está determinado por su propiedad sino por su preocupación, compromiso, interés social y aporte al desarrollo del bien común.
 
 ¿Cómo aportamos a Chile?  
@@ -140,8 +154,13 @@ Descarga el eje
 
 ### Eje de gestión institucional como sustento de nuestro quehacer
 
-**Gestión para el crecimiento, la innovación y la proyección de la UC**  
-\(falta imagen\)  
+**Gestión para el crecimiento, la innovación y la proyección de la UC**
+
+![](../.gitbook/assets/plan-de-desarrollo-uc-ecim-exterior-kfuenzalida.jpg)
+
+![](../.gitbook/assets/plan-de-desarrollo-uc-ecim-interior-kfuenzalida.jpg)
+
+  
   
 Con el fin de resguardar nuestra identidad y sentido de comunidad, y de avanzar en los ejes específicos del Plan de Desarrollo que se ha definido, es preciso disponer de una adecuada organización, planificación, capacidad de gestión y financiamiento. Estos aspectos son los que nos permitirán abordar de manera adecuada nuestra propuesta y hacer frente a las diversas coyunturas.
 
