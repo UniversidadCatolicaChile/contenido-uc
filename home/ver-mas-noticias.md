@@ -4,7 +4,7 @@ description: Listado de noticias
 
 # Ver más noticias
 
-Estás en: Inicio &gt; Más Noticias
+![](../.gitbook/assets/encabezado_listadodenoticias.jpg)
 
 Ordenar por: Más Recientes / Más vistas
 
@@ -148,7 +148,27 @@ Buscar
 
 ![](../.gitbook/assets/terremotos-y-cristos-milagrosos.jpg)
 
-[Información para medios](../informacion-para-medios/landing-info-para-medios/)
+### Medios de prensa
 
-[Contactos de prensa](../informacion-para-medios/contacos-de-prensa.md)
+[Visión UC](vision-uc.md) 
+
+![](../.gitbook/assets/mediosdeprensa_visionuc.jpg)
+
+Revista Universitaria
+
+![](../.gitbook/assets/mediosdeprensa_ru.jpg)
+
+[Radio UC](http://www.radiouc.cl/)
+
+![](../.gitbook/assets/mediosdeprensa_radiouc.jpg)
+
+[Extensión Cultural](http://extension.uc.cl)
+
+![](../.gitbook/assets/mediosdeprensa_extensioncultural.jpg)
+
+[Conoce nuestros Contactos de prensa](../informacion-para-medios/contacos-de-prensa.md)
+
+
+
+### Footer
 

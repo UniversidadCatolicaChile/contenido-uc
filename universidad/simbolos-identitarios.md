@@ -120,7 +120,11 @@ Amén.
   
 Foto: [https://www.uc.cl/images/stories/simbolos/sagrado\_corazon.jpg](https://www.uc.cl/images/stories/simbolos/sagrado_corazon.jpg)
 
-![Estatua del Sagrado Coraz&#xF3;n, Pontificia Universidad Cat&#xF3;lica de Chile](../.gitbook/assets/cristo-sagrado-corazon-fachada-casa-central-uc.JPG)
+Propuesta 1:
+
+
+
+![](../.gitbook/assets/cristo-sagrado-corazon-fachada-casa-central-uc-cesar-cortes.JPG)
 
 Alt: Estatua del Sagrado Corazón, Pontificia Universidad Católica de Chile
 
@@ -191,6 +195,10 @@ Campus Oriente nace en 1926. En sus inicios albergó el convento de la Congregac
 ### Campus San Joaquín
 
 Imagen:
+
+Propuesta 1:
+
+![](../.gitbook/assets/fachada-campus-san-joaquin-uc-cesar-cortes.JPG)
 
 ![](../.gitbook/assets/entrada-san-joaquin-estatua-cristo-cesar-cortes.JPG)
 
