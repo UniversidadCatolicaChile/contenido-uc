@@ -29,6 +29,8 @@ Fue **presidente de la Comisión Nacional de Investigación Científica y Tecnol
 
 En 2010 se convirtió en el **primer chileno en ser elegido como miembro de la National Academy of Engineering** de los Estados Unidos.
 
+#### Fuentes
+
 [Museo Interactivo Mirador](https://www.mim.cl/index.php/pnc-35)
 
 [Explora](https://www.explora.cl/blog/2014/07/31/jose-miguel-aguilera-radic/)

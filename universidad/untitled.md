@@ -199,7 +199,7 @@ Para promover su acción más allá de las salas de clases, nuestra institución
 
 [Friends UC](http://friends-uc.org/)
 
-![](../.gitbook/assets/logo-friends.jpg)
+![](../.gitbook/assets/logo-friends-uc-2019.png)
 
 ### Footer
 
