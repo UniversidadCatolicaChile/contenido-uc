@@ -10,7 +10,19 @@ Avenida Libertador Bernardo O'Higgins 340
 
 Cómo llegar:
 
-Debes ir hasta la **Estación Universidad Católica** de la línea 1 del Metro. Luego debes **salir hacia la vereda sur** y caminar hacia el poniente. **Cruza Avenida Portugal** y habrás llegado.
+**En metro**
+
+Debes ir hasta la **estación Universidad Católica** de la línea 1 del metro. Luego debes **salir hacia la vereda sur** y caminar hacia el poniente. **Cruza Avenida Portugal** y habrás llegado.
+
+**En bus:**
+
+Los paraderos más cercanos son el PA 341 \(por Av. Libertador Bernardo O'Higgins, en la misma vereda del campus\) y el PA 42 \(por Av. Libertador Bernardo O'Higgins, al frente del campus\).
+
+En ellos se detienen los siguientes recorridos:
+
+**PA341**: 406, 407, 516, 401, 426, 541n, 418, 519, 432, 405, 421, 412
+
+**PA42**: 426, 418, D06n, 516, 210v, B02n, 412, 403, 407, 406, 210, F30n, 513, 519
 
 ### Estudia en Casa Central
 
@@ -62,9 +74,9 @@ Conocido en sus inicios como el Palacio Universitario, en este campus se encuent
 
 La primera piedra se puso en 1910 y demoró siete años en terminarse.  El diseño original fue obra del arquitecto italiano Ignacio Cremonesi y fue concluido por el arquitecto Emile Jecquier. 
 
-Desde su construcción las facultades se agrupaban en torno a patios centrales rodeados de anchos pasillo, siguiendo la estructura de un claustro. Desde entonces y hasta el día de hoy, en el segundo piso se ubican las oficinas del Rector y Prorrector, así como de otras autoridades.
+Su construcción organizó a las facultades en torno a patios centrales rodeados de anchos pasillos, siguiendo la estructura de un claustro. Desde entonces y hasta el día de hoy, en el segundo piso se ubican las oficinas del Rector y Prorrector, así como de otras autoridades.
 
-En 1931 Casa Central sufrió un incendio que destruyó dos pisos completos. El proceso de reconstrucción demoró sólo seis años. Y como agradecimiento a la rapidez en la obras, el rector de entonces, Monseñor Carlos Casanueva mandó a hacer una estatua del Sagrado Corazón para ponerla sobre la fachada, la que se convirtió en un símbolo hasta  hoy.
+En 1931 Palacio Universitario sufrió un incendio que destruyó dos pisos completos. El proceso de reconstrucción demoró sólo seis años. Y como agradecimiento por la rapidez en la obras, el rector de entonces, Monseñor Carlos Casanueva, mandó a hacer una estatua del Sagrado Corazón para ponerla sobre la fachada, la que se convirtió en un símbolo hasta  hoy.
 
 Con los años se agregaron nuevos edificios y facultades como Derecho, Ciencias Biológicas, Medicina y Comunicaciones. Además del Hospital Clínico y el Centro de Extensión.
 

@@ -10,17 +10,11 @@ Cómo llegar:
 
 **En metro:**
 
-Desde la Estación Pedro de Valdivia de la línea 1 del Metro, debes salir por la verda norte y caminar hacia el norte por calle La Concepción. Cruza el río Mapocho, y gira a la derecha en dirección a calle Los Conquistadores. Camina hasta la calle Monseñor Carlos Casanueva, gira a la izquierda y sigue caminando hasta la calle El Comendador. El campus estará a tu izquierda.
+Desde la Estación Pedro de Valdivia de la línea 1 del Metro, debes salir por la verda norte y caminar hacia el el río Mapocho por calle La Concepción. Cruza el puente sobre el río, y gira a la derecha hacia calle Los Conquistadores. Camina hasta calle Monseñor Carlos Casanueva, gira a la izquierda y sigue caminando hasta calle El Comendador. El campus estará a tu izquierda.
 
 **En bus:**
 
-El paradero más cercano es el PC 342. En él se detienen los siguientes recorridos: 
-
-546e que circula entre Maipú y Vitacura.
-
-409 que circula entre Santiago y Lo Barnechea.
-
- 502 que circula entre Cerro Navia y Las Condes.
+El paradero más cercano es el PC 342. En él se detienen los siguientes recorridos: 546e que circula entre Maipú y Vitacura, 409 que circula entre Santiago y Lo Barnechea, y el 502 que circula entre Cerro Navia y Las Condes.
 
 ### Estudia en Lo Contador
 

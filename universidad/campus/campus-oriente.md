@@ -1,7 +1,5 @@
 # Campus Oriente
 
-### 
-
 ![](../../.gitbook/assets/vista-superior-patio-central-sin-alumnos-campus-oriente-karina-fuenzalida.jpg)
 
 ### Contáctanos
@@ -12,9 +10,11 @@ Jaime Guzmán Errázuriz 3300, Providencia
 
 Cómo llegar:
 
+En metro y bus:
+
 Desde **estación Santa Isabel** de la línea 5, camina hasta el paradero PC1003 ubicado en Santa Isabel con Avenida Seminario, y tomar el **bus D18** que te dejará frente al campus.
 
-Desde e**stación Los Leone**s de la línea 1, camina hasta el paradero PC87,Parada 12 y toma el **bus 212** hasta el paradero PD53 ubicado en General Artigas, esquina Hernán Cortés. Camina por calle Hernán cortés hacia el oriente hasta Avenida Jaime Guzmán y desde ahí camina hacia el sur, hasta el número 3300.
+Desde **estación Los Leone**s de la línea 1, camina hasta el paradero PC87,Parada 12 y toma el **bus 212** hasta el paradero PD53 ubicado en General Artigas, esquina Hernán Cortés. Camina por calle Hernán cortés hacia el oriente hasta Avenida Jaime Guzmán y desde ahí camina hacia el sur, hasta el número 3300.
 
 Desde estación la **estación Chile España** de la línea 3, puedes tomar el **bus 104** en dirección a Providencia y bajarte en el paradero PD 237 ubicado en Chile España esquina Avenida Simón Bolívar. Luego debes caminar hacia el oriente por Avenida Simón Bolívar y doblar por calle Regina Pacis, hasta llegar a Avenida Jaime Guzmán. Saldrás frente al campus.
 
@@ -42,7 +42,7 @@ Evento 3
 
 #### El campus en imágenes
 
-![El patio frente a la capilla cambia con cada estaci&#xF3;n.](../../.gitbook/assets/alumnos-conversan-patio-capilla-campus-oriente-alvaro-delafuente.jpg)
+![El patio frente a la antigua capilla cambia con cada estaci&#xF3;n.](../../.gitbook/assets/alumnos-conversan-patio-capilla-campus-oriente-alvaro-delafuente.jpg)
 
 ![Sus pasillos est&#xE1;n llenos de secretos y leyendas que se remontan a la &#xE9;poca en que era un convento de religiosas e internado de se&#xF1;oritas. ](../../.gitbook/assets/antigua-puerta-curva-al-final-del-pasillo-campus-oriente-karina-fuenzalida.jpg)
 
@@ -64,11 +64,9 @@ Evento 3
 
 De muros sólidos, pasillos frescos y vegetación añosa, Campus Oriente, es uno de los espacios más nostálgicos de la universidad. Está ubicado en los límites de la comuna de Ñuñoa y Providencia. 
 
-Comenzó siendo convento, colegio e internado de las Religiosas de los Sagrados Corazones. Fue proyectado en estilo neo-románico por los arquitectos Juan Lyon y Luis Azócar. Inició su construcción en 1926 en medio de un amplio terreno de seis hectáreas. 
+Comenzó siendo convento y colegio para señoritas a cargo de las religiosas de los Sagrados Corazones. Fue proyectado en estilo neo-románico por los arquitectos Juan Lyon y Luis Azócar, e inició su construcción en 1926 en medio de un amplio terreno de seis hectáreas. 
 
-En 1971 fue adquirido por la Universidad y durante muchos años se dictaron carreras del área humanista -como Derecho, Periodismo, Educación, Teología, y Filosofía-, las que con el tiempo fueron migrando hacia otros campus de la universidad. 
+En 1971 fue adquirido por la Universidad y durante muchos años se dictaron carreras del área humanista, las que con el tiempo fueron migrando hacia otros campus de la universidad. 
 
-Hoy es conocido como "Campus de las Artes" porque alberga a la Escuela de Arte, el Instituto de Música, la Escuela de Teatro y el Instituto de Estética. 
-
-_\(Más info en:_ [_https://www.uc.cl/la-universidad/noticias/5850-campus-oriente-el-lugar-del-arte-en-la-uc_](https://www.uc.cl/la-universidad/noticias/5850-campus-oriente-el-lugar-del-arte-en-la-uc)_\)_
+Hoy es conocido como "Campus de las Artes" porque alberga a la [**Escuela de Arte**](http://escuelaarte.uc.cl/), el [**Instituto de Música**](http://musica.uc.cl/), la [**Escuela de Teatro**](http://escueladeteatro.uc.cl/) y el[ **Instituto de Estética**](http://estetica.uc.cl/). 
 
