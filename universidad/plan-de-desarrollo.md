@@ -79,24 +79,33 @@ Más sobre la comunidad UC
 
 **Creación de conocimiento de frontera**
 
+![](../.gitbook/assets/plan_desarrollo_conocimiento-frontera.jpg)
+
   
-****\(falta imagen\)  
+****  
 Durante el próximo quinquenio nos proponemos aumentar fuertemente el impacto y el volumen de nuestra investigación, para lo cual se requiere incorporar un mayor número de profesores de planta ordinaria para esa labor.
 
 ¿Qué estamos haciendo?  
 Descarga el eje  
 [https://drive.google.com/file/d/17MnWlT-BCi-o8kt8LjrDYTfO0iJFRpT2/view?usp=sharing](https://drive.google.com/file/d/17MnWlT-BCi-o8kt8LjrDYTfO0iJFRpT2/view?usp=sharing)  
   
-**Innovación en la docencia**  
-\(falta imagen\)  
+**Innovación en la docencia**
+
+![](../.gitbook/assets/plan_desarrollo_innovacion-docencia.jpg)
+
+  
 Las mejores universidades del mundo han sido capaces de adaptarse al uso de las nuevas herramientas tecnológicas para actividades que van desde el apoyo a la docencia tradicional hasta el desarrollo de programas y carreras en modalidad virtual. Estos cambios no han sido asumidos con decisión por parte de nuestra universidad, y de aquí el desafío.
 
 ¿Cómo innovamos?  
 Descarga el eje  
 [https://drive.google.com/file/d/169TeK0uSuP6RBYTw4fm\_xipnFg-EH6M9/view?usp=sharing](https://drive.google.com/file/d/169TeK0uSuP6RBYTw4fm_xipnFg-EH6M9/view?usp=sharing)
 
-**Inclusión para ampliar oportunidades**  
-\(falta imagen\)  
+**Inclusión para ampliar oportunidades**
+
+![](../.gitbook/assets/inclusion-campus-oriente-alvaro-delafuente.jpg)
+
+  
+  
 ****Cuando hablamos de inclusión en la UC lo hacemos con el convencimiento de que tenemos el deber y el compromiso de incluir a personas con talento que no han podido ser parte de nuestra comunidad en el pasado. Toda la universidad crece al estar en contacto y diálogo permanente con personas que provienen de diferentes realidades sociales, geográficas y culturales, entre otras.
 
 ¿Cómo incluimos?  
