@@ -37,3 +37,15 @@ Miembro de la Academia Chilena de Ciencias y **dos veces presidente de la Socied
 
 En 2014 el Ministerio de Ciencia, Tecnología e Innovación Productiva de Argentina le otorgó el **Premio a la Cooperación Internacional en Ciencia**, Tecnología e Innovación "Dr. Luis Federico Leloir".
 
+#### Fuentes
+
+[Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/ciencias-/116604/miguel-kiwi-tichauer)
+
+[Universidad de Playa Ancha](https://www.upla.cl/noticias/2007/08/28/miguel-kiwi-tichauer-galardonado-con-premio-nacional-de-ciencias-exactas-2007/)
+
+[Museo Interactivo Mirador](https://www.mim.cl/index.php/pnc-22)
+
+[Explora](https://www.explora.cl/blog/2014/06/05/inspirate-premios-nacionales-numeros-fisica-1/)
+
+[Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/7349-miguel-kiwi-tichauer-1938-)
+
