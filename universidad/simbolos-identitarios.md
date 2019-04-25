@@ -134,7 +134,11 @@ La característica imagen de Cristo sobre la Universidad Católica tiene su orig
 
 ### El Cristo de San Joaquín
 
-Foto: https://www.uc.cl/images/stories/simbolos/cristo\_san\_joaquin.jpg  
+Foto: https://www.uc.cl/images/stories/simbolos/cristo\_san\_joaquin.jpg
+
+![](../.gitbook/assets/estatua-cristo-san-joaquin-alumnos-cesar-cortes.JPG)
+
+  
 Alt. El Cristo de San Joaquín, Pontificia Universidad Católica de Chile
 
 Texto:  

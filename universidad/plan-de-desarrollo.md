@@ -4,6 +4,8 @@
 
 "El Plan de Desarrollo 2015 – 2020 que presentamos constituye el resultado de un proceso colaborativo que hemos realizado al interior de nuestra comunidad al iniciar mi segundo periodo como rector de la Pontificia Universidad Católica de Chile. Este documento define las principales líneas de acción que guiarán nuestra labor durante el próximo quinquenio"
 
+![](../.gitbook/assets/rector-ignacio-sanchez.jpg)
+
   
   
 Ignacio Sánchez  
@@ -47,15 +49,25 @@ Gestión para el crecimiento, la innovación y la proyección de la UC
 ### Ejes transversales
 
   
-**Nuestra identidad**  
-\(falta imagen\)  
+**Nuestra identidad**
+
+  
+****\(falta imagen\)
+
+![](../.gitbook/assets/la-uc-sirve-chile-chan-aral-kfuenzalida.jpg)
+
+  
 ****La identidad de la universidad no es solo lo que nos distingue; es también lo que nos inspira. Por ello, nuestra identidad cruza de modo transversal el Plan de Desarrollo. Desde 1888 la UC nace con la misión de ofrecerle al país y a sus jóvenes una forma de educación distintiva, basada en los valores de la Iglesia Católica. La Declaración de Principios de la Pontificia Universidad Católica de Chile y la Constitución Apostólica Ex Corde Ecclesiae, promulgada por Juan Pablo II hace 25 años, son los documentos que orientan su quehacer y definen su identidad.
 
 Más sobre nuestra identidad  
 [https://drive.google.com/file/d/1NOw-gDC4c8o3xjJ8gaufRuFpj9tOEwO5/view?usp=sharing](https://drive.google.com/file/d/1NOw-gDC4c8o3xjJ8gaufRuFpj9tOEwO5/view?usp=sharing)
 
 **Comunidad UC**  
-\(falta imagen\)  
+\(falta imagen\)
+
+![](../.gitbook/assets/comunidad-uc-alumnos-san-joaquin-cesar-cortes.JPG)
+
+  
 La comunidad UC, integrada por alumnos, profesores, profesionales, personal administrativo, exalumnos y exprofesores, es y seguirá siendo una preocupación permanente de nuestra universidad. Las personas que conforman la UC constituyen un importante pilar y fundamento para el éxito de este plan. Entendemos que para poder construir una gran universidad es necesario que todos sus miembros se sientan responsables de su destino.
 
 Más sobre la comunidad UC  
@@ -65,8 +77,10 @@ Más sobre la comunidad UC
 
 ### Ejes específicos
 
-**Creación de conocimiento de frontera**  
-\(falta imagen\)  
+**Creación de conocimiento de frontera**
+
+  
+****\(falta imagen\)  
 Durante el próximo quinquenio nos proponemos aumentar fuertemente el impacto y el volumen de nuestra investigación, para lo cual se requiere incorporar un mayor número de profesores de planta ordinaria para esa labor.
 
 ¿Qué estamos haciendo?  
