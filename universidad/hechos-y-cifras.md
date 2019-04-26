@@ -6,7 +6,7 @@ Presentamos algunas de las cifras que dan cuenta del quehacer de la Universidad 
 
 Si buscas antecedentes más detallados, puedes revisar el [Anuario institucional](http://acreditacion.uc.cl/documentos/informes-y-estudios/doc_download/123-anuario-institucional-20162017.html).
 
-También puedes visitar otras instancias que dan cuenta de nuestra identidad, como, nuestra [historia](historia.md), los [símbolos identitatarios](https://www.uc.cl/es/la-universidad/simbolos-identitarios) o el [código de honor](https://www.uc.cl/codigodehonor) de [nuestra Universidad](https://www.uc.cl/es/la-universidad/historia).
+Si quieres entender más la identidad UC también puedes visitar enlaces que como nuestra [historia](historia.md), [símbolos identitatarios](https://www.uc.cl/es/la-universidad/simbolos-identitarios) o el [código de honor](https://www.uc.cl/codigodehonor).
 
 ### Medidas de nuestra excelencia
 

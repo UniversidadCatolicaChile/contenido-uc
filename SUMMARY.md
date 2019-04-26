@@ -318,7 +318,9 @@
 
 ## Violencia Sexual
 
-* [Untitled](violencia-sexual/untitled.md)
+* [Acciones ante hechos de violencia sexual](violencia-sexual/untitled.md)
+* [Objetivos](violencia-sexual/objetivos.md)
+* [Principios](violencia-sexual/principios.md)
 
 ## Inclusión
 
