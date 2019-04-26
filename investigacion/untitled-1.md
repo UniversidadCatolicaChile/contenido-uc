@@ -41,19 +41,32 @@ Creador del primer modelamiento matemático de un corazón virtual en Chile.
 Foto: [https://drive.google.com/file/d/1\_\_4TAraewbpDJF4Gy6SU3yWKJcm230lE/view?usp=sharing](https://drive.google.com/file/d/1__4TAraewbpDJF4Gy6SU3yWKJcm230lE/view?usp=sharing)  
   
 **Caja 6**   
-Innovación  
+Innovación
+
+![](../.gitbook/assets/investigacion-innovacion-emprendimiento-uc.JPG)
+
+  
+  
 Impulsamos iniciativas multidisciplinarias de innovación a través de proyectos y programas de emprendimiento de alto impacto.  
 [Ir al sitio](http://centrodeinnovacion.uc.cl/)  
   
 **Caja 7**  
 Transferencia y Desarrollo  
 Foto:  
-[https://drive.google.com/file/d/1KBRwoDsCkITBrVc5C47ndFJAu4Z0RMc-/view?usp=sharing](https://drive.google.com/file/d/1KBRwoDsCkITBrVc5C47ndFJAu4Z0RMc-/view?usp=sharing)  
+[https://drive.google.com/file/d/1KBRwoDsCkITBrVc5C47ndFJAu4Z0RMc-/view?usp=sharing](https://drive.google.com/file/d/1KBRwoDsCkITBrVc5C47ndFJAu4Z0RMc-/view?usp=sharing)
+
+![](../.gitbook/assets/transferencia-y-desarrollo-uc.jpg)
+
+  
   
 **Caja 8**  
 Artes y Cultura  
 Foto:  
 [https://drive.google.com/file/d/1Fja7oYNVI4Buxhf3\_doB4mXhldNRQfQ0/view?usp=sharing](https://drive.google.com/file/d/1Fja7oYNVI4Buxhf3_doB4mXhldNRQfQ0/view?usp=sharing)
+
+![](../.gitbook/assets/artes-y-cultura-uc.jpg)
+
+
 
 ### Solicitudes de patentes UC activas en el mundo
 
