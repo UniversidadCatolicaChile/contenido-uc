@@ -83,7 +83,7 @@ La Universidad Católica cuenta con cuatro campus en Santiago, Región Metropoli
 
 ### Nuestras facultades
 
-La Pontificia Universidad Católica de Chile está integrada por 18 facultades, constituidas por escuelas e institutos. Cuenta además con el programa College UC, el campus Villarrica y tres unidades interdisciplinarias. Juntos abarcan todas las áreas del conocimiento.
+La UC está conformada por 18 facultades más un instituto interdisciplinario, el Programa College UC y el campus Villarrica. Juntos abarcan todas las áreas del conocimiento. 
 
 Caja:
 
@@ -91,7 +91,7 @@ Caja:
 
 ### Nuestra identidad
 
-La UC nace con la misión de ofrecerle al país y a sus jóvenes una forma de educación distintiva, basada en los valores de la Iglesia Católica. Somos una institución de función y vocación pública, y desde esta vocación generamos con nuestro quehacer bienes que se orientan a hacer de Chile un mejor país.
+La UC nace con la misión de ofrecerle al país y a sus jóvenes una forma de educación distintiva, basada en los valores de la Iglesia Católica. Somos una institución de función y vocación pública, y generamos con nuestro quehacer bienes que se orientan a hacer de Chile un mejor país.
 
 * [Principios](http://secretariageneral.uc.cl/documento/normas-generales/113-declaracion-de-principios/file)
 * [Proyecto Educativo](http://admisionyregistros.uc.cl/alumnos/programas-estudio/proyecto-educativo-2)
@@ -159,7 +159,7 @@ Propuesta de foto 2:
 
 ### Organizaciones vinculadas
 
-Para promover su acción más allá de las salas de clases, nuestra institución fomenta con sus colaboradores un diálogo permanente. En la riqueza de este intercambio se han ido gestando iniciativas que se han ido consolidando por su aporte a la comunidad. Las siguientes son algunas de las entidades relacionadas con la UC.
+La Universidad comparte y colabora con el trabajo de otras instituciones que también están inspiradas en valores católicos, y al servicio de la Iglesia y del país. Las siguientes son algunas de las entidades relacionadas con la UC.
 
 [Iglesia](http://www.iglesia.cl/)
 
