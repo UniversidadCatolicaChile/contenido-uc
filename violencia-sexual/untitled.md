@@ -1,4 +1,4 @@
-# Acciones ante hechos de violencia sexual
+# Protocolos de violencia sexual
 
 La Pontificia Universidad Católica de Chile promueve el cuidado y la calidad de vida de todos los miembros de su comunidad a través de la consolidación de una cultura del respeto. Esto se ha visto reflejado en los planes de desarrollo y en acciones concretas que se han implementado a lo largo de los años, destacándose durante el último tiempo la creación de distintos espacios de diálogo, la figura del Ombuds universitario y el Código de Honor que enfatiza la importancia del respeto a la dignidad humana.
 

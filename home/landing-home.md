@@ -60,18 +60,24 @@ Módulo Facebook
 
 ### Estudia con nosotros
 
-Carreras de pregrado \(linkear a contenido interno\)  
-Imagen: https://drive.google.com/open?id=1sKhGrodZzJoFOvChcX83u3bBbSCtDh6Z  
-  
-Magísteres Especialidades Médicas \(linkear a contenido interno\)  
-Doctorados \(linkear a contenido interno\)  
-Postítulos \(linkear a contenido interno\)  
-Programas Interdisciplinarios \(linkear a contenido interno\)  
-Especialidades Odontológicas \(linkear a contenido interno\)  
-UC Online \(linkear a contenido interno\)  
-Educación Continua \(linkear a contenido interno\)  
-Capacitación y Desarrollo \(linkear a contenido interno\)  
+![](../.gitbook/assets/home-estudiaconnosotros-caja.JPG)
 
+* [Carreras de pregrado](http://admisionyregistros.uc.cl/futuros-alumnos/admision-via-psu/carreras)
+* Magísteres
+* [Especialidades médicas](https://medicina.uc.cl/postgrado/especialidades-medicas/)
+* [Especialidades odontológicas](https://odontologia.uc.cl/postgrado/especialidades/)
+* [Doctorados](http://doctorados.uc.cl/es/programas/nuestros-programas)
+* [Postítulos](listado-de-postitulo.md)
+* [Programas interdisciplinarios](programas-interdisciplinarios.md)
+* [UC online](http://uconline.uc.cl/)
+* [Educación Continua](http://www.educacioncontinua.uc.cl/)
+* [Capacitación y Desarrollo](http://capacitacion.uc.cl/)
+
+#### Destacamos
+
+![](../.gitbook/assets/estudiaconnostros_destacamos_interpretacionmusical.png)
+
+[Interpretación Musical](http://admisionyregistros.uc.cl/futuros-alumnos/admision-via-psu/carreras/1697-carreras-pregrado-interprete-musical)
 
 ###  Investigación
 
@@ -171,13 +177,29 @@ Videos:
 
 ### Sitios de interés
 
-* Acreditación Institucional: [http://acreditacion.uc.cl](http://acreditacion.uc.cl)
-* Donaciones UC / Proyecto Endowment UC: [https://donaciones.uc.cl/](https://donaciones.uc.cl/)
-* Plan de Desarrollo: Enlace interno
-* Protocolos violencia sexual: [https://www.uc.cl/prevencion-y-apoyo-a-victimas-de-violencia-sexual-en-contextos-universitarios](https://www.uc.cl/prevencion-y-apoyo-a-victimas-de-violencia-sexual-en-contextos-universitarios)
-* La UC Dialoga: https://www.uc.cl/es/la-uc-dialoga/ItemId=15459
+* [Acreditación Institucional](http://acreditacion.uc.cl)
 
+![](../.gitbook/assets/sitios-de-interes_banner_acreditacion-institucional.jpg)
 
+* [Donaciones UC / Proyecto Endowment UC](https://donaciones.uc.cl/) 
 
+![](../.gitbook/assets/sitios-de-interes_banner_endowment.jpg)
 
+* [Plan de Desarrollo](../universidad/plan-de-desarrollo.md)
+
+![](../.gitbook/assets/sitios-de-interes_banner_plan-desarrollo.jpg)
+
+* [Protocolos violencia sexual](../violencia-sexual/untitled.md)
+
+![](../.gitbook/assets/sitios-de-interes_banner_violencia-sexual.jpg)
+
+* [La UC Dialoga](../uc-dialoga/untitled.md)
+
+![](../.gitbook/assets/sitios-de-interes_banner_uc-dialoga.jpg)
+
+* [Reporte de Sustentabilidad UC 2016-2017](https://www.uc.cl/es/component/docman/doc_download/123-reporte-de-sustentabilidad-uc-2016-2017)\*
+
+![Imagen solo referencial](../.gitbook/assets/home-sitiosdeinteres-reportesustentabilidad.JPG)
+
+### Footer
 
