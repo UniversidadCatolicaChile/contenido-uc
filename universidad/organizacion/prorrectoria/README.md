@@ -30,7 +30,7 @@ Unidad a cargo de la **gestión de la información** universitaria, la elaboraci
 
 #### Dirección de Asuntos Estudiantiles
 
-Unidad que busca **contribuir a la formación integral de los estudiantes**, y **velar por la calidad de vida** mediante el desarrollo de actividades de apoyo, fomento y prevención, en el ámbito de salud, deportes y vida universitaria, durante todas las etapas de su vida universitaria \(en pre y postgrado\). 
+Unidad que busca **contribuir a la formación integral de los estudiantes** y **velar por la calidad de vida** mediante el desarrollo de actividades de apoyo, fomento y prevención, en el ámbito de salud, deportes y vida universitaria, durante todas las etapas de su vida universitaria \(en pre y postgrado\). 
 
 **Directora:** Carolina Méndez 
 
@@ -46,7 +46,7 @@ Sistema de servicios y recursos integrados de información, compuesto por 11 bib
 
 #### Dirección Digital
 
-Unidad encargada de **visibilizar y posicionar un ecosistema de información digital estandarizado y trazable para que todos los productos digitales** \(sitios web, aplicaciones, redes sociales, entre otros\) que producen las unidades académicas y administrativas de la UC sean coherentes y consistentes entre sí, de manera de poder dar a nuestros usuarios internos y externos una experiencia satisfactoria.
+Unidad encargada de **visibilizar y posicionar el ecosistema de información digital de la universidad,** de manera estandarizada y trazable para que todos los productos digitales que producen las unidades académicas y administrativas de la UC sean coherentes y consistentes entre sí.
 
 **Directora:** Claudia Gutiérrez
 
@@ -76,7 +76,7 @@ Es la unidad que tiene como misión **promover, gestionar y apoyar la internacio
 
 #### Dirección de Sustentabilidad
 
-Unidad que busca **integrar la sustentabilidad dentro de los procesos educativos, la investigación y las operaciones de la universidad**, entendiendo a la sustentabilidad como un desafío urgente y transversal que requiere de profesionales que desarrollen e implementen soluciones que nos permitan afrontar y mitigar las consecuencias del cambio climático.
+Unidad que busca **integrar la sustentabilidad dentro de los procesos educativos, la investigación y las operaciones de la universidad. La** universidad entiende a la sustentabilidad como un desafío urgente y transversal que requiere de profesionales que desarrollen e implementen soluciones que nos permitan afrontar y mitigar las consecuencias del cambio climático.
 
 **Directora:** Maryon Urbina
 

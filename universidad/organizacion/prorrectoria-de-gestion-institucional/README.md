@@ -2,17 +2,15 @@
 
 ## Prorrectoría de Gestión Institucional
 
-_Imagen: mismo fondo de la Universidad_
-
 La Prorrectoría de Gestión Institucional complementa la labor de la Prorrectoría, concentrándose en la **vinculación con las entidades relacionadas con la Universidad** y en **aspectos particulares de gestión y desarrollo institucional**. Junto a la Prorrectoría y la Vicerrectoría Económica debe velar por el avance y cumplimiento del plan de desarrollo.
 
-### Equipo
+### Sobre el Prorrector de Gestión Institucional
 
-#### Prorrector de Gestión Institucional
-
-Es la autoridad encargada de la vinculación de las organizaciones relacionadas con la Universidad, además de tener funciones particulares en la gestión y desarrollo institucional.
+Es la autoridad encargada de la **vinculación de la Universidad con las organizaciones relacionadas**, además de tener funciones particulares en la **gestión** y **desarrollo institucional**.
 
 **Prorrector de Gestión Institucional:** [Patricio Donoso](prorrector-de-gestion-institucional.md)
+
+### Unidades de la Prorrectoría de Gestión Institucional
 
 #### Dirección Ejecutiva
 
@@ -22,9 +20,13 @@ Unidad a cargo de la gestión administrativa, económica y financiera de la Pror
 
 #### Dirección de Asuntos Jurídicos
 
+_\(Falta descripción\)_
+
 **Directora:** Cristina Fernández
 
 #### Dirección de Desarrollo Patrimonial
+
+_\(Falta descripción\)_
 
 **Director:** Hans Muhr
 

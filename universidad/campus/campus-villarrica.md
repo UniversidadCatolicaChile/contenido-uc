@@ -48,9 +48,15 @@ Evento 3
 
 ![](../../.gitbook/assets/campus-villarrica.JPG)
 
-La Sede Villarrica  es el único campus regional de la UC. 
+La Sede Villarrica es el único campus regional de la UC. 
 
-Fue fundado en el año 1936 los monjes capuchinos fundan Escuela Normal en San José de la Mariquina para formar profesores en la zona. Sin embargo, sus títulos no eran reconocidos por el Ministerio de Educación.
+Fue fundado en el año 1936 como Escuela Normal en San José de la Mariquina para formar profesores en la zona. Sin embargo, sus títulos no eran reconocidos por el Ministerio de Educación. 
 
-\(FALTA\)
+En 1953 se le pidió a la Universidad Católica entregar su patrocinio a dicha escuela y pasó a depender de la Facultad de Filosofía y Ciencias de la Educación. En 1959, tras un incendio ocurrido mientras la escuela funcionaba en Loncoche, se optó por Villarrica como localización. Reinició sus actividades en 1963 y 5 años después se transformó en la primera sede regional de la universidad.
+
+Desde entonces  ha desarrollado diferentes líneas de investigación y ha logrado una importante vinculación con el medio a través de proyectos orientados a la diversidad cultural y al respeto del medio ambiente.
+
+En 2000 se construyó un nuevo recinto para albergar las actividades universitarias. Las instalaciones se ubican en las cercanías del borde costero del lago Villarrica genrando una apertura hacia la naturaleza y el paisaje urbano. 
+
+El año 2002 se incorporó al campus el museo Leandro Penchulef donde pueden estudiarse piezas arqueológicas y etnográficas de la historia local.
 
