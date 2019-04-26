@@ -89,6 +89,7 @@
 
 ## Universidad
 
+* [Landing principal](universidad/untitled.md)
 * [Nuestras cifras\*](universidad/hechos-y-cifras.md)
 * [Organización](universidad/organizacion/README.md)
   * [Gran Cancillería](universidad/organizacion/gran-cancilleria/README.md)
@@ -193,7 +194,6 @@
   * [Joaquín Luco Valenzuela](universidad/listado-de-premios-nacionales/joaquin-luco-valenzuela.md)
   * [Luis Emilio Filippi Murato](universidad/listado-de-premios-nacionales/luis-emilio-filippi-murato.md)
   * [Ana González Olea](universidad/listado-de-premios-nacionales/ana-gonzalez-olea.md)
-* [Landing principal](universidad/untitled.md)
 
 ## Información para FUTUROS ALUMNOS
 
