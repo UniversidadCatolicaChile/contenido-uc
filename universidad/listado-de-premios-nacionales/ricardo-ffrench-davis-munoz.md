@@ -14,7 +14,7 @@ Estudió Ingeniería Comercial en la Universidad Católica de Chile. Hizo el Doc
 
 #### Chicago boy atípico
 
-A diferencia de la camada de estudiantes y posteriormente profesores que pasaron por la Universidad de Chicago, Ffrench-Davis fue un opositor a la dictadura de Pinochet y lejos de colaborar con el regimen, enfocó su trabajo en comercio internacional, macroeconomía y desarrollo, crecimiento con equidad, historia económica comparada de Chile y América Latina, y finanzas internacionales.
+A diferencia de la camada de estudiantes y posteriormente profesores que pasaron por la Universidad de Chicago, Ffrench-Davis no abrazó las ideas del neoliberalismo, fue un opositor a la dictadura de Pinochet y lejos de colaborar con el regimen, enfocó su trabajo en comercio internacional, macroeconomía y desarrollo, crecimiento con equidad, historia económica comparada de Chile y América Latina, y finanzas internacionales.
 
 En cuanto se restableció la democracia, fue nombrado **Director de Estudios del Banco Central de Chile**, donde ejerció entre abril de 1990 y marzo de 1992. A partir de ese año y hasta el 2004 fue **asesor regional principal de la Cepal**.
 
