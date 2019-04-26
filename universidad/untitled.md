@@ -59,7 +59,7 @@ A continuación te presentamos el organigrama de nuestra Universidad.
 
 ### Nuestros campus
 
-La Universidad Católica cuenta con cuatro campus en Santiago, Región Metropolitana, que suman una superficie total de 614.569,92 m2 de terreno, y uno en Villarrica, Región de la Araucanía, que tiene 2.362,5 m2 de terreno
+La Universidad Católica cuenta con cuatro campus en Santiago, Región Metropolitana, y uno en Villarrica, Región de la Araucanía. Cada uno tiene su propia identidad y se vincula a un momento distinto dentro de la historia universitaria. 
 
 [Campus Oriente](campus/campus-oriente.md)
 
@@ -91,17 +91,17 @@ Caja:
 
 ### Nuestra identidad
 
-La UC nace con la misión de ofrecerle al país y a sus jóvenes una forma de educación distintiva, basada en los valores de la Iglesia Católica. Somos una institución de función y vocación pública, y generamos con nuestro quehacer bienes que se orientan a hacer de Chile un mejor país.
+La UC nace con la misión de ofrecerle al país y a sus jóvenes una forma de educación distintiva, basada en los valores de la Iglesia Católica. Somos una institución de función y vocación pública, y con nuestro quehacer generamos bienes que se orientan a hacer de Chile un país mejor.
 
 * [Principios](http://secretariageneral.uc.cl/documento/normas-generales/113-declaracion-de-principios/file)
-* [Proyecto Educativo](http://admisionyregistros.uc.cl/alumnos/programas-estudio/proyecto-educativo-2)
+* [Proyecto educativo](http://admisionyregistros.uc.cl/alumnos/programas-estudio/proyecto-educativo-2)
 * [Estatutos](http://secretariageneral.uc.cl/documento/normas-generales/111-estatutos-generales/file)
 * [Símbolos identitarios](simbolos-identitarios.md)
-* [Código de Honor](codigo-de-honor.md)
+* [Código de honor](codigo-de-honor.md)
 
 ### Nuestra historia
 
-Desde nuestros fundadores -inspirados hombres de Iglesia que tuvieron la visión de crear la Universidad Católica- hasta el día de hoy, se ha ido forjando una historia de servicio y compromiso con el país que responde a nuestra misión de formar personas integrales, hacer crecer el conocimiento y aportar al desarrollo de la sociedad.
+La historia de la Universidad ha caminado de la mano con la historia de Chile. Desde nuestros fundadores hasta el día de hoy, miles de hombres y mujeres se han formado aquí para luego cumplir tareas relevantes en el desarrollo de la patria. Este compromiso responde a nuestra misión de formar personas integrales, hacer crecer el conocimiento y aportar al desarrollo de la sociedad.
 
 Caja: 
 
@@ -109,7 +109,7 @@ Caja:
 
 ### Plan de Desarrollo 2015-2020
 
-El Plan de Desarrollo se estructura en torno a dos ejes transversales, seis específicos y uno vinculado a la gestión institucional. Los dos primeros se orientan a fortalecer lo que nos distingue: nuestra identidad católica y nuestro sentido de comunidad universitaria. Los seis ejes siguientes constituyen los focos estratégicos.
+Estos son los pilares que orientan nuestra actividad universitaria. El Plan de Desarrollo se estructura en torno a dos ejes transversales, seis específicos y uno vinculado a la gestión institucional. Los dos primeros se orientan a fortalecer lo que nos distingue: nuestra identidad católica y nuestro sentido de comunidad universitaria. Los seis ejes siguientes constituyen los focos estratégicos.
 
 Creación de conocimiento de frontera
 
@@ -159,7 +159,7 @@ Propuesta de foto 2:
 
 ### Organizaciones vinculadas
 
-La Universidad comparte y colabora con el trabajo de otras instituciones que también están inspiradas en valores católicos, y al servicio de la Iglesia y del país. Las siguientes son algunas de las entidades relacionadas con la UC.
+La Universidad comparte y colabora con el trabajo de otras instituciones que también están inspiradas en valores católicos, al servicio de la Iglesia y del país. Las siguientes son algunas de las entidades relacionadas con la UC.
 
 [Iglesia](http://www.iglesia.cl/)
 
