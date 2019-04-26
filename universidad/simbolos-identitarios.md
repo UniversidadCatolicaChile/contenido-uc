@@ -18,11 +18,11 @@ Imágenes:
 
 Alt: Escudo Pontificia Universidad Católica de Chile
 
-El escudo universitario fue creado en 1920 durante la rectoría de Monseñor Carlos Casanueva. 
+El **escudo universitario fue creado en 1920** durante la rectoría de Monseñor Carlos Casanueva. 
 
-Es parte fundamental de nuestra imagen institucional e identidad reflejando aspectos relevantes que nos caracterizan, tales como nuestra condición de pontificia y chilena. 
+Es parte fundamental de nuestra imagen institucional e identidad **reflejando aspectos relevantes** que nos caracterizan, tales como **nuestra condición de pontificia y chilena.** 
 
-El escudo ha evolucionado desde su creación hasta una última versión, diseñada en la rectoría de Ignacio Sánchez. Los hitos más importantes de esta evolución han sido:
+El escudo ha evolucionado desde su creación hasta una **última versión, diseñada en la rectoría de Ignacio Sánchez**. Los hitos más importantes de esta evolución han sido:
 
 * la incorporación de la corona del Sagrado Corazón en 1930 cuando la universidad fue erigida canónicamente por la Santa Sede
 * la incorporación gradual de la palabra Pontificia desde la década de los 70
@@ -48,11 +48,9 @@ Imagen: _pendiente_
   
 
 
-Tener una mascota y crearla en conjunto construye un sentido de comunidad, afianzando el sentido de pertenencia a la institución. 
+Durante el año 2018, luego de un proceso de participación, diseño colaborativo y concursos se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado para una mascota UC. 
 
-Durante el año 2018, luego de un proceso de participación, lluvia de ideas, diseño colaborativo y concursos se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado de una mascota UC. 
-
-El animal elegido fue el puma, mamífero típico de Chile, que se caracteriza por su astucia, valentía y autonomía. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
+**El animal elegido fue el puma**, **mamífero típico de Chile, que se caracteriza por su astucia, valentía y autonomía**. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
 
 Fuente: http://mascotauc.cl/pagina-4.html  
   
@@ -62,9 +60,9 @@ Fuente: http://mascotauc.cl/pagina-4.html
 
 El himno fue compuesto por Alberto Buccicardi, Charles Brown y Pedro Fornazari. La melodía original está inspirada en la canción: “Tramp, tramp, tramp, the boys are marching” del año 1864. Dicha canción fue compuesta por George F. Root durante la Guerra Civil Norteamericana, para llevar esperanza a los prisioneros de la guerra. 
 
-El himno UC fue utilizado por primera vez en 1937 para alentar al equipo de fútbol de la universidad. 
+El himno UC **fue utilizado por primera vez en 1937 para alentar al equipo de fútbol de la universidad**. 
 
-Con los años y tras los arreglos musicales de Vicente Bianchi, el himno tomó su versión final, popularizándose durante la rectoría de Fernando Castillo Velasco y luego con su adaptación como himno oficial tanto de la universidad como de Canal 13.  
+Con los años y tras los arreglos musicales de Vicente Bianchi, el himno tomó su versión final, popularizándose durante la rectoría de Fernando Castillo Velasco y luego con su adaptación como himno oficial tanto de la universidad como del inicio de transmisiones de Canal 13 cuando era parte de la misma.  
 
 
 #### Letra del himno
@@ -97,7 +95,7 @@ Azul y blanco lleva en sí nuestro pabellón fulgen de allí destellos que habla
 
 Nuestra institución ha crecido y se ha consolidado al ritmo de los acontecimientos históricos que ha atravesado nuestro país, siempre enraizada en su sólida identidad católica al servicio de Dios y de la Patria.
 
-En este recorrido, la figura de nuestro patrono, el Sagrado Corazón, ha sido fundamental. En su amor misericordioso, humilde y sencillo se funda nuestro sello como institución, la cual trabaja incansablemente en la búsqueda de la verdad y la formación integral de cada uno de sus estudiantes.  
+En este recorrido, **la figura de nuestro patrono, el Sagrado Corazón, ha sido fundamental**. En su amor misericordioso, humilde y sencillo se funda nuestro sello como institución, la cual trabaja incansablemente en la búsqueda de la verdad y la formación integral de cada uno de sus estudiantes.  
 
 
 Para más información sobre la historia de esta devoción en la universidad, revisa el texto [Sacrado Corazón en el corazón de la UC.](http://pastoral.uc.cl/wp-content/recursos/publicaciones/Mes-del-Sagrado-Corazon-2013.pdf)
@@ -129,7 +127,7 @@ Propuesta 1:
 Alt: Estatua del Sagrado Corazón, Pontificia Universidad Católica de Chile
 
   
-La característica imagen de Cristo sobre la Universidad Católica tiene su origen el 14 de mayo de 1931, cuando un incendio afectó a las facultades de Ingeniería y Arquitectura, ubicadas en el tercer y cuarto piso del Palacio Universitario. El rector de la época, Carlos Casanueva, pidió al Sagrado Corazón de Jesús que le ayudara a recuperar lo perdido. Menos de dos años duró la reconstrucción total de las instalaciones y en señal de agradecimiento en 1935 monseñor Casanueva instaló la estatua del Sagrado Corazón de Jesús que hasta hoy se levanta en el frontis de la Casa Central. La estatua del Sagrado Corazón solo ha tenido un cambio, específicamente en una de sus manos, tras el terremoto de 1985.  
+La característica imagen de Cristo sobre la Universidad Católica tiene su origen **el 14 de mayo de 1931, cuando un incendio afectó a las facultades de Ingeniería y Arquitectura**, ubicadas en el tercer y cuarto piso del Palacio Universitario. El rector de la época, **Monseñor Carlos Casanueva, rogó al Sagrado Corazón de Jesús que le ayudara a recuperar lo perdido**. Menos de dos años duró la reconstrucción total de las instalaciones y **en señal de agradecimiento en 1935 monseñor Casanueva instaló la estatua del Sagrado Corazón de Jesús** que hasta hoy se levanta en el frontis de la Casa Central. La estatua del Sagrado Corazón solo ha tenido un cambio, específicamente en una de sus manos, tras el terremoto de 1985.  
 
 
 ### El Cristo de San Joaquín

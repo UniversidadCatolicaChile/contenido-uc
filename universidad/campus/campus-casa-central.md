@@ -60,7 +60,7 @@ La primera piedra se puso en 1910 y demoró siete años en terminarse.  El dise�
 
 Su construcción organizó a las facultades en torno a patios centrales rodeados de anchos pasillos, siguiendo la estructura de un claustro. Desde entonces y hasta el día de hoy, en el segundo piso se ubican las oficinas del [Rector ](../organizacion/rectoria/)y [Prorrector](../organizacion/prorrectoria/), así como de otras autoridades.
 
-En 1931 Palacio Universitario sufrió un incendio que destruyó dos pisos completos. El proceso de reconstrucción demoró sólo seis años y como agradecimiento por la rapidez en la obras, el rector de entonces, Monseñor Carlos Casanueva, mandó a hacer una estatua del Sagrado Corazón para ponerla sobre la fachada, la que se convirtió en un símbolo hasta  hoy.
+En 1931 Palacio Universitario sufrió un incendio que destruyó dos pisos completos. El proceso de reconstrucción demoró sólo dos años y como agradecimiento por la rapidez en la obras, el rector de entonces, Monseñor Carlos Casanueva, mandó a hacer una [estatua del Sagrado Corazón](../simbolos-identitarios.md) para ponerla sobre la fachada, la que se convirtió en un símbolo hasta  hoy.
 
 Con los años se agregaron nuevos edificios y facultades como Derecho, Ciencias Biológicas, Medicina y Comunicaciones. Además del Hospital Clínico y el Centro de Extensión.
 
