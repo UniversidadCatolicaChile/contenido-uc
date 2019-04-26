@@ -9,7 +9,7 @@ La Rectoría es el **órgano que gobierna la universidad** a través del Rector 
 * **Representar** a la universidad ante cualquier **autoridad nacional y extranjera**.
 * Representar a la universidad **judicial o extrajudicialmente**.
 
-Dependen de la Rectoría el **Prorrector, el Prorrector de Gestión Institucional y cuatro Vicerrectorías**. Todas las autoridades permanecerán en sus cargos mientras cuenten con la confianza del Rector, no obstante cesarán en ellos cumplidos tres años desde su nombramiento, pudiendo ser designados para un nuevo período.  
+Dependen de la Rectoría el **Prorrector, el Prorrector de Gestión Institucional y cuatro Vicerrectorías**. Todas las autoridades permanecerán en sus cargos mientras cuenten con la confianza del Rector, no obstante cesarán en ellos cumplidos tres años desde su nombramiento, pudiendo ser designados para un nuevo período. [Para más información es posible revisar el Reglamento de los Organismos de la Rectoría.](http://secretariageneral.uc.cl/documento/normas-generales/101-reglamento-de-los-organismos-de-rectoria/file)  
 
 
 \[Ir al sitio\] [http://rectoria.uc.cl/](http://rectoria.uc.cl/)

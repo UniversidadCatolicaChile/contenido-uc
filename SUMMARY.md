@@ -321,6 +321,10 @@
 * [Acciones ante hechos de violencia sexual](violencia-sexual/untitled.md)
 * [Objetivos](violencia-sexual/objetivos.md)
 * [Principios](violencia-sexual/principios.md)
+* [Informe de la Comisión](violencia-sexual/informe-de-la-comision.md)
+* [Lineamientos de la Política](violencia-sexual/lineamientos-de-la-politica.md)
+* [Protocolos](violencia-sexual/protocolos.md)
+* [Preguntas Frecuentes](violencia-sexual/preguntas-frecuentes.md)
 
 ## Inclusión
 

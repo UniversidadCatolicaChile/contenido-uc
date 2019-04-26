@@ -27,7 +27,7 @@ Marisol Urrutia
 
 #### Abogada
 
-Valentina Rosenthal 
+Ignacia Zalaquett 
 
 #### Abogada
 

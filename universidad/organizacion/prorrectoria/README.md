@@ -2,19 +2,17 @@
 
 ## Prorrectoría
 
-_Imagen: mismo fondo de la Universidad_
-
 La Prorrectoría es una unidad ejecutiva de **apoyo directo al gobierno del Rector** y le corresponde **coordinar la labor** desarrollada por las otras unidades de la Rectoría.
 
 Define y supervisa las tareas de **análisis institucional**, el fomento a la **calidad de vida de los alumnos**, la **gestión de los sistemas de bibliotecas** y la participación de la Universidad en las p**olíticas públicas y las relaciones internacionales**.
 
-### Equipo
+### Sobre el Prorrector
 
-#### Prorrector
-
-Autoridad unipersonal de la Universidad que **subroga al Rector en caso de ausencia** o impedimento temporal. Además, coordina el **proceso de planificación estratégica, vela por el avance y cumplimiento del plan de desarrollo,** **define y supervisa** las tareas de **análisis institucional**, el fomento a la **calidad de vida de los estudiantes**, la **gestión de los sistemas de bibliotecas** y la **participación de la Universidad** en las **políticas públicas y las relaciones internacionales**. 
+Es la autoridad unipersonal de la Universidad que **subroga al Rector en caso de ausencia** o impedimento temporal. Es nombrado por el Rector y permanece en su cargo mientras cuente con la confianza de éste. No obstante, cesa en sus funciones cumplidos tres años contados desde su nombramiento, pudiendo ser designado para un nuevo período.
 
 **Prorrector:** [Guillermo Marshall](prorrector.md)
+
+### Unidades de la Prorrectoría
 
 #### Dirección Ejecutiva
 
@@ -24,7 +22,7 @@ Unidad a cargo de la **gestión administrativa, económica y financiera** de la 
 
 #### Dirección de Análisis Institucional y Planificación
 
-Falta descripción.
+Unidad a cargo de la **gestión de la información** universitaria, la elaboración de **análisis y estudios** pertinentes para los procesos de toma de decisiones, la coordinación de los procesos de elaboración, formalización, acuerdo y seguimiento de  los **planes estratégicos**, y el **aseguramiento de la calidad** a través de los procesos de acreditación.
 
 **Directora:** Bárbara Prieto
 
