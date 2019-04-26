@@ -2,6 +2,8 @@
 
 ## Postítulos
 
+![](../.gitbook/assets/programas-de-estudio-alumnos-biblioteca-casa-central-uc-kfuenzalida.JPG)
+
 La UC ofrece distintos programas de estudios conducentes a un título que **complementa la formación profesional o académica**. Su objetivo es el **perfeccionamiento, la especialización y la reorientación** en una determinada área profesional.
 
 ### Agrupar por: Facultades

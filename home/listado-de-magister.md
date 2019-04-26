@@ -8,6 +8,10 @@ description: Corregida ortografía. Los enlaces no han sido revisados. AT
 
 _Imagen: mismo fondo vista Programas de estudio_
 
+\_\_
+
+![](../.gitbook/assets/alumnos-magister-en-innovacion-cesar-cortes.JPG)
+
 El nacimiento constante de **nuevo conocimiento**, el consecuente riesgo de su **desactualización** y la alta **movilidad laboral** hacen necesarias la **especialización y la profundización disciplinar o profesional** en un formato que posibilite y favorezca el aprendizaje continuo. 
 
 La UC ofrece distintos **programas de magíster conducentes a grado académico**, con énfasis tanto en la **investigación** como en la especialización o profundización profesional en **todas las áreas del conocimiento**.

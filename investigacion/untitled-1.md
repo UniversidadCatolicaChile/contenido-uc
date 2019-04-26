@@ -4,6 +4,10 @@
 
 Imagen diseño
 
+![](../.gitbook/assets/laboratorio-cmpl-uc-casa-central-cesar-cortes.JPG)
+
+
+
 Nuestra pasión es crear conocimiento y compartirlo entre académicos, alumnos y profesionales, para luego traspasarlo a la sociedad a través de proyectos que atiendan las necesidades prioritarias del país en lo social, económico, político y cultural.
 
 Explora la investigación en la UC \(falta enlace\)
