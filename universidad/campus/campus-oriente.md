@@ -8,16 +8,6 @@ Jaime Guzmán Errázuriz 3300, Providencia
 
 \(562\) 2354 4000
 
-Cómo llegar:
-
-En metro y bus:
-
-Desde **estación Santa Isabel** de la línea 5, camina hasta el paradero PC1003 ubicado en Santa Isabel con Avenida Seminario, y tomar el **bus D18** que te dejará frente al campus.
-
-Desde **estación Los Leone**s de la línea 1, camina hasta el paradero PC87,Parada 12 y toma el **bus 212** hasta el paradero PD53 ubicado en General Artigas, esquina Hernán Cortés. Camina por calle Hernán cortés hacia el oriente hasta Avenida Jaime Guzmán y desde ahí camina hacia el sur, hasta el número 3300.
-
-Desde estación la **estación Chile España** de la línea 3, puedes tomar el **bus 104** en dirección a Providencia y bajarte en el paradero PD 237 ubicado en Chile España esquina Avenida Simón Bolívar. Luego debes caminar hacia el oriente por Avenida Simón Bolívar y doblar por calle Regina Pacis, hasta llegar a Avenida Jaime Guzmán. Saldrás frente al campus.
-
 ### Estudia en Campus Oriente
 
 #### [Facultad de Artes](http://artes.uc.cl/)
@@ -28,19 +18,19 @@ También pertenecen a la facultad espacios artísticos como el [Teatro UC](http:
 
 #### [Instituto de Estética](http://estetica.uc.cl/)
 
-Este instituto es parte de la [Facultad de Filosofía](http://filosofia.uc.cl/#) y su programa de [Licenciatura en Estética](http://estetica.uc.cl/licenciatura/descripcion-y-perfil-de-egreso#) es el único que existe tanto en Chile como en Iberoamérica.
+El instituto es parte de la [Facultad de Filosofía](http://filosofia.uc.cl/#) y su programa de [Licenciatura en Estética](http://estetica.uc.cl/licenciatura/descripcion-y-perfil-de-egreso#) es el único que existe tanto en Chile como en Iberoamérica.
 
 ### Vida de Campus
 
 #### Está pasando
 
-Evento 1
+_Evento 1_
 
-Evento 2
+_Evento 2_
 
-Evento 3
+_Evento 3_
 
-#### El campus en imágenes
+#### Campus Oriente en imágenes
 
 ![El patio frente a la antigua capilla cambia con cada estaci&#xF3;n.](../../.gitbook/assets/alumnos-conversan-patio-capilla-campus-oriente-alvaro-delafuente.jpg)
 
@@ -56,7 +46,7 @@ Evento 3
 
 ![Al t&#xE9;rmino de clases los pasillos se llenan con el bullicio de los estudiantes.](../../.gitbook/assets/pasillos-llenos-de-alumnos-en-campus-oriente-cesar-cortes.jpg)
 
-![Este Campus de las Artes cuenta con espacios apropiados para desarrollar sus actividades.](../../.gitbook/assets/alumna-pinta-cuadro-escuela-arte-campus-oriente.jpg)
+![Este &quot;Campus de las Artes&quot; cuenta con espacios apropiados para desarrollar sus actividades.](../../.gitbook/assets/alumna-pinta-cuadro-escuela-arte-campus-oriente.jpg)
 
 ### Historia del Campus
 

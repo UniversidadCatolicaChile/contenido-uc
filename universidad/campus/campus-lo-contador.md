@@ -1,5 +1,7 @@
 # Campus Lo Contador
 
+![](../../.gitbook/assets/patio-de-los-naranjos-sin-alumnos-lo-contador-karina-fuenzalida.jpg)
+
 ### Contáctanos
 
 El Comendador 1916, Providencia.
@@ -7,14 +9,6 @@ El Comendador 1916, Providencia.
  \(2\) 2354 4000
 
 Cómo llegar:
-
-**En metro:**
-
-Desde la Estación Pedro de Valdivia de la línea 1 del Metro, debes salir por la verda norte y caminar hacia el el río Mapocho por calle La Concepción. Cruza el puente sobre el río, y gira a la derecha hacia calle Los Conquistadores. Camina hasta calle Monseñor Carlos Casanueva, gira a la izquierda y sigue caminando hasta calle El Comendador. El campus estará a tu izquierda.
-
-**En bus:**
-
-El paradero más cercano es el PC 342. En él se detienen los siguientes recorridos: 546e que circula entre Maipú y Vitacura, 409 que circula entre Santiago y Lo Barnechea, y el 502 que circula entre Cerro Navia y Las Condes.
 
 ### Estudia en Lo Contador
 
@@ -24,9 +18,15 @@ Esta facultad está compuesta por la [**Escuela de Arquitectura**](http://arquit
 
 ### Vida de Campus
 
-Está pasando
+#### Está pasando
 
-Lo Contador en imágenes
+_Evento 1_
+
+_Evento 2_
+
+_Evento 3_
+
+#### Lo Contador en imágenes
 
 ![El campus se ubica en una antigua casa colonial de adobe y madera que se mantiene hasta hoy con diversas transformaciones y ampliaciones.](../../.gitbook/assets/muralla-casona-con-hiedra-lo-contador-karina-fuenzalida.jpg)
 

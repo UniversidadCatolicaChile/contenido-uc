@@ -1,28 +1,12 @@
 # Campus Casa Central
 
-![](../../.gitbook/assets/fachada-casa-central-estatua-y-cristo-cesar-cortes.JPG)
+![](../../.gitbook/assets/patio-de-la-virgen-casa-central-karina-fuenzalida.jpg)
 
 ### Contáctanos
 
 Avenida Libertador Bernardo O'Higgins 340
 
 \(562\) 2354 4000
-
-Cómo llegar:
-
-**En metro**
-
-Debes ir hasta la **estación Universidad Católica** de la línea 1 del metro. Luego debes **salir hacia la vereda sur** y caminar hacia el poniente. **Cruza Avenida Portugal** y habrás llegado.
-
-**En bus:**
-
-Los paraderos más cercanos son el PA 341 \(por Av. Libertador Bernardo O'Higgins, en la misma vereda del campus\) y el PA 42 \(por Av. Libertador Bernardo O'Higgins, al frente del campus\).
-
-En ellos se detienen los siguientes recorridos:
-
-**PA341**: 406, 407, 516, 401, 426, 541n, 418, 519, 432, 405, 421, 412
-
-**PA42**: 426, 418, D06n, 516, 210v, B02n, 412, 403, 407, 406, 210, F30n, 513, 519
 
 ### Estudia en Casa Central
 
@@ -46,11 +30,11 @@ En Casa Central se encuentra la [**Escuela de Medicina** ](https://medicina.uc.c
 
 #### Está pasando
 
-Evento 1
+_Evento 1_
 
-Evento 2
+_Evento 2_
 
-Evento 3
+_Evento 3_
 
 #### Casa Central en imágenes
 
@@ -70,13 +54,13 @@ Evento 3
 
 ![](../../.gitbook/assets/fachada-casa-central-1915.jpg)
 
-Conocido en sus inicios como el Palacio Universitario, en este campus se encuentra el edificio más emblemático y más antiguo de la Universidad.
+Conocido en sus inicios como el Palacio Universitario, en este campus se encuentra el edificio más emblemático y antiguo de la universidad.
 
 La primera piedra se puso en 1910 y demoró siete años en terminarse.  El diseño original fue obra del arquitecto italiano Ignacio Cremonesi y fue concluido por el arquitecto Emile Jecquier. 
 
-Su construcción organizó a las facultades en torno a patios centrales rodeados de anchos pasillos, siguiendo la estructura de un claustro. Desde entonces y hasta el día de hoy, en el segundo piso se ubican las oficinas del Rector y Prorrector, así como de otras autoridades.
+Su construcción organizó a las facultades en torno a patios centrales rodeados de anchos pasillos, siguiendo la estructura de un claustro. Desde entonces y hasta el día de hoy, en el segundo piso se ubican las oficinas del [Rector ](../organizacion/rectoria/)y [Prorrector](../organizacion/prorrectoria/), así como de otras autoridades.
 
-En 1931 Palacio Universitario sufrió un incendio que destruyó dos pisos completos. El proceso de reconstrucción demoró sólo seis años. Y como agradecimiento por la rapidez en la obras, el rector de entonces, Monseñor Carlos Casanueva, mandó a hacer una estatua del Sagrado Corazón para ponerla sobre la fachada, la que se convirtió en un símbolo hasta  hoy.
+En 1931 Palacio Universitario sufrió un incendio que destruyó dos pisos completos. El proceso de reconstrucción demoró sólo seis años y como agradecimiento por la rapidez en la obras, el rector de entonces, Monseñor Carlos Casanueva, mandó a hacer una estatua del Sagrado Corazón para ponerla sobre la fachada, la que se convirtió en un símbolo hasta  hoy.
 
 Con los años se agregaron nuevos edificios y facultades como Derecho, Ciencias Biológicas, Medicina y Comunicaciones. Además del Hospital Clínico y el Centro de Extensión.
 

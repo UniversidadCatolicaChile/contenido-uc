@@ -1,22 +1,12 @@
 # Campus San Joaquín
 
-![](../../.gitbook/assets/entrada-san-joaquin-estatua-cristo-cesar-cortes.JPG)
+![](../../.gitbook/assets/alumnas-caminan-por-san-joaquin-en-dia-de-otono-cesar-cortes.jpg)
 
 ### Contáctanos
 
 Avenida Vicuña Mackenna 4860
 
 \(562\) 2354 4000
-
-Cómo llegar:
-
-**En metro:**
-
-El campus se ubica frente a la estación San Joaquín de la línea 5 de Metro de Santiago. 
-
-En bus:
-
-Frente al campus se ubica el paradero PD 196. En él se detienen los siguientes recorridos: F30n, D14, 210, 210v, 213e.
 
 ### Estudia en Campus San Joaquín
 
@@ -81,13 +71,13 @@ Es una innovadora oferta de formación universitaria de pregrado, a través de l
 
 #### Está pasando
 
-Evento 1
+_Evento 1_
 
-Evento 2
+_Evento 2_
 
-Evento 3
+_Evento 3_
 
-#### El campus en imágenes
+#### San Joaquín en imágenes
 
 ![El edificio del Centro de Innovaci&#xF3;n dise&#xF1;ado por el arquitecto Alejandro Aravena, se ha convertido en uno de los m&#xE1;s emblem&#xE1;ticos del campus. - Foto C&#xE9;sar Cort&#xE9;s](../../.gitbook/assets/centro-innovacion-tra-dia-de-lluvia-cesar-cortes.jpg)
 
