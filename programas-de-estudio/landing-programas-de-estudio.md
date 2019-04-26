@@ -4,6 +4,8 @@
 
 Imagen
 
+![](../.gitbook/assets/programas-de-estudio-alumnos-biblioteca-casa-central-uc-kfuenzalida.JPG)
+
 Independiente de lo que elijas estudiar, en la UC te daremos todas las oportunidades y los recursos para que tu proceso de estudios te lleve donde quieras. Nuestro proyecto educativo te permite elegir ese camino según tus intereses.
 
 **Conoce nuestro proyecto educativo**
