@@ -1,4 +1,4 @@
-# Símbolos Identitarios
+# Símbolos identitarios
 
 ## **Símbolos identitarios**
 
@@ -65,6 +65,7 @@ Coro:
 
 Universidad Católica juntos vibremos con ardor y llevando en el alma un deseo de triunfar por la Patria, Dios y la Universidad. 
 
+
 III 
 
 Forjando nuevas rutas en busca del ideal al son de ritmo y canto que ennoblece la ambición.  
@@ -74,7 +75,10 @@ IV
 
 Azul y blanco lleva en sí nuestro pabellón fulgen de allí destellos que hablan de nuestra Universidad. 
 
-Coro Universidad Católica juntos vibremos con ardor y llevando en el alma un deseo de triunfar por la Patria, Dios y la Universidad.  
+
+Coro:
+
+Universidad Católica juntos vibremos con ardor y llevando en el alma un deseo de triunfar por la Patria, Dios y la Universidad.  
 
 
 [Escucha la versión coral](https://drive.google.com/open?id=19NTTWAR8rz8SHrF6LzCo0QzWnOBB7zgr)
