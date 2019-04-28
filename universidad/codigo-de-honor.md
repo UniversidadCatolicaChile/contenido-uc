@@ -27,9 +27,9 @@ El Código de Honor nos invita a la reflexión sobre nuestro quehacer diario, en
 
 El desafío es sensibilizarnos con el tema para adherir a este compromiso primero de forma simbólica. Es por esto que invitamos a que cada miembro de la comunidad de la UC –estudiantes, académicos y funcionarios- suscriba el Código de Honor, lo firme, reflexione sobre él, lo promueva y lo ponga en acción.
 
-La instalación del Código de Honor en nuestra universidad viene acompañada de un trabajo conjunto para desarrollar las iniciativas formativas y educativas que promuevan la honestidad e integridad como parte de la impronta de la UC. Se espera impregnar las mallas curriculares de nuestros alumnos y las instancias formativas de toda la UC con elementos conducentes a aprender sobre integridad académica y una cultura del respeto.
+La instalación del Código de Honor en nuestra universidad vendrá acompañada de un trabajo conjunto para desarrollar las iniciativas formativas y educativas que promuevan la honestidad e integridad como parte de la impronta de la UC. Se espera impregnar las mallas curriculares de nuestros alumnos y las instancias formativas de toda la UC con elementos conducentes a aprender sobre integridad académica y una cultura del respeto.
 
-El éxito de esta iniciativa depende de que la asumamos como propia y como una necesidad para seguir construyendo una mejor UC para todos.
+El éxito de esta iniciativa dependerá de que la asumamos como propia y como una necesidad para seguir construyendo una mejor UC para todos.
 
 **En este video te contamos qué es un Código de Honor y qué significa para la Comunidad UC.**
 
@@ -37,7 +37,7 @@ El éxito de esta iniciativa depende de que la asumamos como propia y como una n
 
 Tu participación es importante
 
-Te invitamos a firmar el Código de Honor. Tu compromiso es fundamental para que construyamos juntos una cultura del respeto. A partir de 2017, los nuevos estudiantes que ingresen deben firmar al matricularse \(alumnos\) o al contratarse \(funcionarios, académicos\).
+Te invitamos a firmar el Código de Honor. Tu compromiso es fundamental para que construyamos juntos una cultura del respeto. A partir del 2017, los nuevos estudiantes que ingresen deberán firmar al matricularse \(alumnos\) o al contratarse \(funcionarios, académicos\).
 
 ### ¿Cómo puedo sumarme a la iniciativa?
 
@@ -68,7 +68,7 @@ El Código de Honor se basa en los siguientes valores fundamentales
 
 ### Antecedentes
 
-**Referencias internacionales**  
+**Referencias Internacionales**  
 El Código de Honor es una iniciativa que se ha ido adoptando de manera creciente en el mundo. ¿Por qué? Se ha demostrado que es una herramienta útil para reducir la deshonestidad académica. En Estados Unidos, una investigación que se llevó a cabo en 4 mil alumnos de 31 campus, demostró que en las universidades que contaban con este documento existían menos casos de copia en comparación con aquellas que no lo tenían \(23% contra 45%\), lo mismo en casos de plagio \(45% en comparación con un 56%\) \(McCabe y Trevino, 1995\). Por ejemplo, los alumnos de la Universidad de Palermo deben firmar este documento a su ingreso; en la Universidad de Monterrey este es un texto que rige para todos los miembros de la comunidad; y en Notre Dame, los estudiantes deben firmar el código durante las evaluaciones.  
   
 Algunos códigos de honor en el mundo:  
@@ -84,16 +84,16 @@ La Universidad de Duke es una comunidad dedicada al conocimiento, el liderazgo y
 
 * Yo no mentiré, no haré trampa, ni robaré en mis acciones académicas.
 * Yo me comportaré de forma honorable en todas mis acciones; y
-* Yo actuaré si el estándar se encuentra comprometido.
+* Yo actuaré si el Estándar se encuentra comprometido.
 
   
 **¿Cómo ha sido el proceso?**  
   
-Se destaca el trabajo que han llevado a cabo la Vicerrectoría Académica y la Dirección de Asuntos Estudiantiles, reuniéndose desde 2015 con distintos representantes de los estudiantes, entre ellos: centros de alumnos, consejeros académicos, consejeros territoriales, líderes de proyectos estudiantiles.
+Se destaca el trabajo que han llevado a cabo la Vicerrectoría Académica y la Dirección de Asuntos Estudiantiles, reuniéndose desde 2015 con distintos representantes de los estudiantes, entre ellos: Centros de alumnos, Consejeros académicos, Consejeros territoriales, Líderes de proyectos estudiantiles.
 
- Luego de estas reuniones, en mayo de 2016 el Código de Honor fue aprobado por el Honorable Consejo Superior.
+ Luego de estas reuniones, en mayo del 2016 el Código de Honor fue aprobado por el Honorable Consejo Superior.
 
-**Etapa de sensibilización y comunicación**  
+**Etapa de sensibilización y comunicación.**  
 Tras su aprobación, la Vicerrectoría Académica ha realizado jornadas de trabajo en que han participado más de 120 académicos, administrativos y estudiantes, con el objetivo de compartir su visión sobre la importancia de tener este Código de Honor, y los valores que se deben promover. Así como también, trabajar en conjunto con toda la comunidad la mejor forma de generar oportunidades de formación en torno al tema.
 
 ### Recursos
@@ -103,7 +103,7 @@ Aquí encontrarás iniciativas y materiales para profundizar y conocer más acer
 **Iniciativas UC**  
   
 [**1.Ombuds**](http://ombudsman.uc.cl/)  
-El Ombuds \(consejero o mediador\) tiene como misión fundamental velar por una adecuada convivencia de todas las personas que conforman la comunidad de la Pontificia Universidad Católica de Chile. Las actuaciones que le corresponde realizar están siempre dirigidas a mejorar el quehacer universitario en todos sus ámbitos. No están sometidas al mandato imperativo de ninguna instancia universitaria y están regidas por los principios de independencia y autonomía. Vía de admisión: Admisión vía PSU y Admisión Especial.  
+El Ombuds \(consejero o mediador\) tiene como misión fundamental velar por una adecuada convivencia de todas las personas que conforman la comunidad de la Pontificia Universidad Católica de Chile.Las actuaciones que le corresponde realizar están siempre dirigidas a mejorar el quehacer universitario en todos sus ámbitos. No están sometidas al mandato imperativo de ninguna instancia universitaria y están regidas por los principios de independencia y autonomía. Vía de admisión: Admisión vía PSU y Admisión Especial.  
 [Ver más información](http://ombudsman.uc.cl/)
 
 \*\*\*\*[**2. Padeu-UC**](http://padeu.saludestudiantil.uc.cl/)  
@@ -114,7 +114,7 @@ PADEU es un equipo interdisciplinario experto en adicciones cuya motivación es 
 En Bibliotecas UC están disponibles una serie de recursos sobre derecho de autor, cómo citar y utilización de fuentes bibliográficas, de gran utilidad.  
 [Ver recursos](http://guiastematicas.bibliotecas.uc.cl/?b=s)
 
-**Iniciativas internacionales**  
+**Iniciativas Internacionales**  
   
 [**The International Center for Academic Integrity \(ICAI\)**](https://academicintegrity.org/)   
 ICAI es un centro internacional que trabaja para identificar y promover los valores de integridad académica entre los estudiantes, profesores, administrativos. Este sitio web contiene información sobre el Centro y sus actividades.  
@@ -123,7 +123,7 @@ ICAI es un centro internacional que trabaja para identificar y promover los valo
 
 ### Testimonios
 
-_1\) "Los problemas que presenciamos los estudiantes van más allá de lo que sucede en la sala de clases. Necesitamos una ética que nos distinga y que contribuya a mejorar nuestro país. Por eso es importante cultivar relaciones de respeto y tolerancia entre todos los miembros de la universidad."_
+_1\) "Los problemas que presenciamos los estudiantes van más allá de lo que sucede en la sala de clases. Necesitamos una ética que nos distinga y que contribuya a mejorar nuestro país. Por eso es importante cultivar relaciones de respeto y tolerancia entre todos los miembros de la universidad"_
 
 Ángela Godoy Moreira Estudiante, Dirección Audiovisual
 
@@ -131,11 +131,11 @@ _2\) "El Código de Honor está plasmado en mi vida diaria, como por ejemplo ent
 
 Loreto Contreras Asistente, Dirección Académica de Docencia
 
-_"3\) El código de honor es una forma de hacer presente nuestro compromiso por la excelencia en el desempeño de todos quienes participan en el proceso de formación. Debe ser un sello que distinga a nuestra comunidad en todas las dimensiones de nuestro trabajo y del ejemplo que se proyecte en nuestros estudiantes."_
+_"3\) El código de honor es una forma de hacer presente nuestro compromiso por la excelencia en el desempeño de todos quienes participan en el proceso de formación. Debe ser un sello que distinga a nuestra comunidad en todas las dimensiones de nuestro trabajo y del ejemplo que se proyecte en nuestros estudiantes"_
 
 Carlos Bonilla Académico, Escuela de Ingeniería
 
-### Preguntas frecuentes
+### Preguntas Frecuentes
 
 1\) ¿Qué es un Código de Honor?   
 El Código de Honor es un texto breve que interpela y compromete a trabajar en la construcción de una comunidad basada en el respeto, la honestidad y la integridad con el propósito de formar mejores personas y lograr una sana convivencia.
@@ -152,7 +152,7 @@ Un Código de Honor explícita la convivencia a la que aspiramos al interior de 
 5\) ¿Cuándo y cómo firmo el Código de Honor?   
 La firma es voluntaria para quienes ya son miembros de la comunidad UC. Se realizará una ceremonia simbólica de firma y de lanzamiento el 22 de septiembre a las 12:00 horas en patio Juan Pablo II. Además, a partir de esa fecha toda la comunidad UC podrá firmar digitalmente.
 
-A partir de 2017, los nuevos estudiantes que ingresen deberán firmar al matricularse \(alumnos\) o al contratarse \(funcionarios, académicos\).  
+A partir del 2017, los nuevos estudiantes que ingresen deberán firmar al matricularse \(alumnos\) o al contratarse \(funcionarios, académicos\).  
 
 
 
