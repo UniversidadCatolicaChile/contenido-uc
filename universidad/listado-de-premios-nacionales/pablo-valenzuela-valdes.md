@@ -1,5 +1,7 @@
 ---
-description: 'Bioquímico, profesor de la Universidad Católica. Premio Nacional de Ciencias 2'
+description: >-
+  Bioquímico, profesor de la Universidad Católica. Premio Nacional de Ciencias
+  2002.
 ---
 
 # Pablo Valenzuela Valdés
