@@ -210,7 +210,7 @@ Casa Central __\(falta enlace al mapa\)
 
 20 [**College**](http://college.uc.cl)
 
-
+![](../.gitbook/assets/facultades_college%20%281%29.jpg)
 
   
 Imagen: [https://drive.google.com/open?id=1-AaVpX5brhha3\_qOdlJGbsyVPo9OH1tg](https://drive.google.com/open?id=1-AaVpX5brhha3_qOdlJGbsyVPo9OH1tg)  
