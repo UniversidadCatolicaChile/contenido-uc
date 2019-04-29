@@ -2,7 +2,7 @@
 
 ### Introducción
 
-"El Plan de Desarrollo 2015 – 2020 que presentamos constituye el resultado de un proceso colaborativo que hemos realizado al interior de nuestra comunidad al iniciar mi segundo periodo como rector de la Pontificia Universidad Católica de Chile. Este documento define las principales líneas de acción que guiarán nuestra labor durante el próximo quinquenio".
+"El Plan de Desarrollo 2015 – 2020 que presentamos constituye el resultado de un proceso colaborativo que hemos realizado al interior de nuestra comunidad al iniciar mi segundo periodo como rector de la Pontificia Universidad Católica de Chile. Este documento define las principales líneas de acción que guiarán nuestra labor durante el próximo quinquenio"
 
 ![](../.gitbook/assets/rector-ignacio-sanchez.jpg)
 
@@ -17,7 +17,7 @@ Descarga el documento completo
 Descarga el Plan de Desarrollo  
 [https://drive.google.com/file/d/1KlX0cAyzCWtuPsiQXyK38Od1s0aVtVMz/view?usp=sharing](https://drive.google.com/file/d/1KlX0cAyzCWtuPsiQXyK38Od1s0aVtVMz/view?usp=sharing)
 
-| Nuestra misión | Nuestra visión |
+| Nuestra Misión | Nuestra Visión |
 | :--- | :--- |
 | Excelencia en conocimiento y formación | Ser una universidad de frontera |
 | La Pontificia Universidad Católica de Chile aspira a lograr la excelencia en la creación y transferencia de conocimiento y en la formación de las personas, inspirada en una concepción católica y siempre al servicio de la Iglesia y de la sociedad. | Nos orientamos a construir una universidad de frontera que, a partir de su identidad católica, imagina nuevas realidades, amplía oportunidades y se compromete con la sociedad. |

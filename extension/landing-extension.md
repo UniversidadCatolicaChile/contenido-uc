@@ -4,6 +4,10 @@
 
 Foto: buscar 
 
+Propuesta de imagen:
+
+![](../.gitbook/assets/concierto-campus-casa-central-kfuenzalida.jpg)
+
 La UC busca ser un actor relevante en el desarrollo del país, generando conocimiento de calidad que promueva el progreso. Para lograrlo, ha establecido instancias que buscan canalizar el aporte de la universidad a la agenda nacional.
 
 #### En esta sección:
@@ -55,9 +59,15 @@ Imagen
 
 [Teatro infantil](http://extension.uc.cl/teatro-infantil/cartelera)
 
-Imagen
+Imagen \(propuesta\)
+
+![](../.gitbook/assets/teatro-infantil-uc-estela-estelar-cesar-cortes.JPG)
 
 [Teatro UC](http://teatrouc.uc.cl/)
+
+Imagen \(propuesta\)
+
+![](../.gitbook/assets/teatro-atacama-artifica-uc-kfuenzalida.JPG)
 
 #### Creación e investigación
 
@@ -79,17 +89,27 @@ Imagen
 
 [Exposiciones](http://extension.uc.cl/artes-visuales/exhibicion)
 
-Imagen
+Imagen \(propuesta\)
+
+![](../.gitbook/assets/exposicion-gaudi-casa-central-uc-kfuenzalida.JPG)
 
 [Bazart](http://extension.uc.cl/bazart/acerca-de)
 
-Imagen
+Imagen \(propuesta\)
+
+![](../.gitbook/assets/bazart-uc-centro-extension-kfuenzalida.JPG)
 
 [Galería Macchina](http://galeriamacchina.uc.cl/)
 
-Imagen
+Imagen \(propuesta\)
+
+![](../.gitbook/assets/exposicion-galeria-macchina-accion-monumenta-cesar-cortes.JPG)
 
 [Espacio Vilches](http://galeriamacchina.uc.cl/Espacio-Vilches/)
+
+Imagen \(propuesta\)
+
+![](../.gitbook/assets/exposiciones-uc-espacio-vilches-kfuenzalida.JPG)
 
 ### **Compromiso público**
 

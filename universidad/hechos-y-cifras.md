@@ -80,12 +80,13 @@ Si quieres saber cuáles son los [programas de magíster, doctorado y especialid
 
 [¿Cuántos de nuestros proyectos están vinculando a la academia con la industria?](https://docs.google.com/spreadsheets/d/1cVsPqB04ykTrV-uLlvOeSeDbD4IqwJf5XGnD_lH5RkU/edit#gid=708910947)
 
-### Nivel de empleabilidad [según carrera](https://docs.google.com/spreadsheets/d/1cVsPqB04ykTrV-uLlvOeSeDbD4IqwJf5XGnD_lH5RkU/edit#gid=2098788014)
+### Nivel de empleabilidad [según carrera](https://docs.google.com/spreadsheets/d/1cVsPqB04ykTrV-uLlvOeSeDbD4IqwJf5XGnD_lH5RkU/edit#gid=2098788014) _\(no sé si este contenido debe estar aquí\)_
 
 ### Inclusión: ampliamos oportunidades
 
 [Alumnos que han ingresado según programa](https://docs.google.com/spreadsheets/d/1cVsPqB04ykTrV-uLlvOeSeDbD4IqwJf5XGnD_lH5RkU/edit#gid=288772115)
 
+_\(En este punto falta más información: se debe agregar info de Piane o de otras formas de admisión como la intercultural o de NEE\)_
 
 
 
