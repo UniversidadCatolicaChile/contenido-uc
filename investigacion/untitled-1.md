@@ -2,6 +2,8 @@
 
 ## Investigación
 
+Propuesta de imagen:
+
 ![](../.gitbook/assets/laboratorio-cmpl-uc-casa-central-cesar-cortes.JPG)
 
 Opción 2
