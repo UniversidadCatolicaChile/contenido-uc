@@ -43,8 +43,6 @@ Innovación
 
 ![](../.gitbook/assets/investigacion-innovacion-emprendimiento-uc.JPG)
 
-  
-  
 Impulsamos iniciativas multidisciplinarias de innovación a través de proyectos y programas de emprendimiento de alto impacto.  
 [Ir al sitio](http://centrodeinnovacion.uc.cl/)  
   
@@ -61,8 +59,7 @@ Artes y Cultura
 
 ![](../.gitbook/assets/artes-y-cultura-uc.jpg)
 
-Potenciamos la creación artística y la investigación de la creación con sello artístico en la UC.
-
+Potenciamos la creación artística y la investigación de la creación con sello artístico en la UC.  
 [Ir al sitio](http://artesycultura.uc.cl)
 
 ### Solicitudes de patentes UC activas en el mundo
@@ -104,7 +101,7 @@ Foto: [https://drive.google.com/file/d/1ZgO2wSOWuMXbjTNEgm59-fDUGzWD1kcB/view?us
 [Concursos externos](http://investigacion.uc.cl/Fondos-concursables/concursos-externos.html)  
 [Fondos internacionales](http://investigacion.uc.cl/Enlaces-de-Interes/enlaces-de-interes.html)
 
-Footer
+### Footer
 
   
   

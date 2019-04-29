@@ -4,7 +4,7 @@
 
 ## Información para Alumni
 
-Imagen: buscar
+Imagen: buscar.
 
 Algo similar a: La Universidad Católica busca fortalecer cada vez más el vínculo con sus ex alumnos, manteniendo un contacto permanente, ofreciéndoles oportunidades de crecimiento y de participación en el desarrollo de la Universidad.
 
