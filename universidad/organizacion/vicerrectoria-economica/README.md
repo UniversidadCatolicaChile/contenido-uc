@@ -8,13 +8,13 @@ Es la unidad encargada de **elaborar y ejecutar la política económica de la Un
 
 [\[Ir al sitio\]](http://vicerrectoriaeconomica.uc.cl/)
 
-### Equipo
-
-#### Vicerrectora Económica
+### Sobre la Vicerrectora
 
 **Prepara y presenta el presupuesto universitario** y se encarga de los **procesos de auditoría y contraloría interna**. También administra los **bienes inmuebles** y todos los **proyectos de arquitectura y construcción** de la Universidad.
 
 **Vicerrectora**: [Loreto Massanés](vicerrectora-economica.md)
+
+### Unidades de la Vicerrectoría Económica
 
 #### Dirección Ejecutiva
 
