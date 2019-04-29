@@ -8,7 +8,7 @@ Desde sus orígenes, la Pontificia Universidad Católica de Chile ha utilizado s
 
 Aquí te mostramos cómo se ha forjado la identidad de la Universidad a través del tiempo con símbolos que se han convertido en **íconos de nuestra institución**. 
 
-### Escudo y Texto
+### Escudo y texto
 
 Imágenes: 
 
@@ -24,9 +24,9 @@ Es parte fundamental de nuestra imagen institucional e identidad **reflejando as
 
 El escudo ha evolucionado desde su creación hasta una **última versión, diseñada en la rectoría de Ignacio Sánchez**. Los hitos más importantes de esta evolución han sido:
 
-* la incorporación de la corona del Sagrado Corazón en 1930 cuando la universidad fue erigida canónicamente por la Santa Sede
-* la incorporación gradual de la palabra Pontificia desde la década de los 70
-* el uso de software para delinear el nuevo boceto en la década de los noventa
+* la incorporación de la corona del Sagrado Corazón en 1930 cuando la universidad fue erigida canónicamente por la Santa Sede.
+* la incorporación gradual de la palabra Pontificia desde la década de los setenta.
+* el uso de software para delinear el nuevo boceto en la década de los noventa.
 * el diseño conmemorativo de los 125 años en 2013 y el de los 130 años en 2018. 
 
 ### Bandera
@@ -38,22 +38,6 @@ Foto:
 Alt: Bandera, Pontificia Universidad Católica de Chile  
 Un fondo blanco atravesado por una franja azul, y el escudo a color de la universidad, son los elementos que caracterizan nuestra bandera institucional.  
 
-
-### Mascota UC
-
-Imagen: _pendiente_
-
-![Puma, mascota UC](../.gitbook/assets/puma-mascota-uc.jpg)
-
-  
-
-
-Durante el año 2018, luego de un proceso de participación, diseño colaborativo y concursos se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado para una mascota UC. 
-
-**El animal elegido fue el puma**, **mamífero típico de Chile, que se caracteriza por su astucia, valentía y autonomía**. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
-
-Fuente: http://mascotauc.cl/pagina-4.html  
-  
 
 
 ### Himno
@@ -69,7 +53,7 @@ Con los años y tras los arreglos musicales de Vicente Bianchi, el himno tomó s
 
 I
 
-Alta la frente al cielo y con fe hacia el porvenir llena de luz nos guía el Alma Máter inmortal.  
+Alta la frente al cielo y con fe hacia el porvenir llena de luz nos guía el Alma Mater inmortal.  
 
 
 II
@@ -79,17 +63,28 @@ Cruzados Caballeros serenos de noble ambición tenemos como escudo en el pecho n
 
 Coro:
 
-Universidad Católica juntos vibremos con ardor y llevando en el alma un deseo de triunfar por la Patria, Dios y la Universidad. III Forjando nuevas rutas en busca del ideal al son de ritmo y canto que ennoblece la ambición.  
+Universidad Católica juntos vibremos con ardor y llevando en el alma un deseo de triunfar por la Patria, Dios y la Universidad. 
+
+
+III 
+
+Forjando nuevas rutas en busca del ideal al son de ritmo y canto que ennoblece la ambición.  
 
 
 IV
 
-Azul y blanco lleva en sí nuestro pabellón fulgen de allí destellos que hablan de nuestra Universidad. Coro Universidad Católica juntos vibremos con ardor y llevando en el alma un deseo de triunfar por la Patria, Dios y la Universidad.  
+Azul y blanco lleva en sí nuestro pabellón fulgen de allí destellos que hablan de nuestra Universidad. 
+
+
+Coro:
+
+Universidad Católica juntos vibremos con ardor y llevando en el alma un deseo de triunfar por la Patria, Dios y la Universidad.  
 
 
 [Escucha la versión coral](https://drive.google.com/open?id=19NTTWAR8rz8SHrF6LzCo0QzWnOBB7zgr)
 
 [Escucha la versión instrumental](https://drive.google.com/open?id=1Uvev5AC--dsC0G7z4dE5ap64F6rb9XQ1)
+
 
 ### Oración al Sagrado Corazón UC
 
@@ -98,11 +93,11 @@ Nuestra institución ha crecido y se ha consolidado al ritmo de los acontecimien
 En este recorrido, **la figura de nuestro patrono, el Sagrado Corazón, ha sido fundamental**. En su amor misericordioso, humilde y sencillo se funda nuestro sello como institución, la cual trabaja incansablemente en la búsqueda de la verdad y la formación integral de cada uno de sus estudiantes.  
 
 
-Para más información sobre la historia de esta devoción en la universidad, revisa el texto [Sacrado Corazón en el corazón de la UC.](http://pastoral.uc.cl/wp-content/recursos/publicaciones/Mes-del-Sagrado-Corazon-2013.pdf)
+Para más información sobre la historia de esta devoción en la universidad, revisa el texto [Sagrado Corazón en el corazón de la UC.](http://pastoral.uc.cl/wp-content/recursos/publicaciones/Mes-del-Sagrado-Corazon-2013.pdf)
 
 #### Oración al Sagrado Corazón UC:
 
- Oh Divino Jesús, que eres el Señor de las Ciencias, en cuyo corazón están encerrados todos los tesoros de la Sabiduría. Nosotros, aquí reunidos: profesores, alumnos y funcionarios de la Universidad Católica de Chile venimos a consagrar a tu Sacratísimo Corazón toda esta familia universitaria que tanto amas y que te reconoce como su Maestro, su Señor, su Bienhechor, su Dios. 
+ Oh, Divino Jesús, que eres el Señor de las Ciencias, en cuyo corazón están encerrados todos los tesoros de la Sabiduría. Nosotros, aquí reunidos: profesores, alumnos y funcionarios de la Universidad Católica de Chile venimos a consagrar a tu Sacratísimo Corazón toda esta familia universitaria que tanto amas y que te reconoce como su Maestro, su Señor, su Bienhechor, su Dios. 
 
 Te consagramos toda la obra que en ella se hace y pueda hacerse para que toda entera se ordene a tu Divina Gracia. Queremos que nuestra Universidad; por las ciencias, las virtudes y piedad religiosa de sus maestros y alumnos; extienda más y más entre nosotros nuestro reino. “Reino de la Verdad y de la Gracia, de la Justicia, del Amor y de la Paz”. Queremos que sea toda su actividad como una continua ofrenda de adoración, de acción de gracias, de reparación y de súplicas que llegue hasta Ti… 
 
@@ -127,7 +122,7 @@ Propuesta 1:
 Alt: Estatua del Sagrado Corazón, Pontificia Universidad Católica de Chile
 
   
-La característica imagen de Cristo sobre la Universidad Católica tiene su origen **el 14 de mayo de 1931, cuando un incendio afectó a las facultades de Ingeniería y Arquitectura**, ubicadas en el tercer y cuarto piso del Palacio Universitario. El rector de la época, **Monseñor Carlos Casanueva, rogó al Sagrado Corazón de Jesús que le ayudara a recuperar lo perdido**. Menos de dos años duró la reconstrucción total de las instalaciones y **en señal de agradecimiento en 1935 monseñor Casanueva instaló la estatua del Sagrado Corazón de Jesús** que hasta hoy se levanta en el frontis de la Casa Central. La estatua del Sagrado Corazón solo ha tenido un cambio, específicamente en una de sus manos, tras el terremoto de 1985.  
+La característica imagen de Cristo sobre la Universidad Católica tiene su origen en **el incendio del 14 de mayo de 1931, que afectó a las facultades de Ingeniería y Arquitectura**, ubicadas en el tercer y cuarto piso del Palacio Universitario. El rector de la época, **Monseñor Carlos Casanueva, rogó al Sagrado Corazón de Jesús que le ayudara a recuperar lo perdido**. Menos de dos años duró la reconstrucción total de las instalaciones y **en señal de agradecimiento en 1935 monseñor Casanueva instaló la estatua del Sagrado Corazón de Jesús** que hasta hoy se levanta en el frontis de la Casa Central. La estatua del Sagrado Corazón solo ha tenido un cambio, específicamente en una de sus manos, tras el terremoto de 1985.  
 
 
 ### El Cristo de San Joaquín
@@ -204,6 +199,8 @@ Propuesta 1:
 
 ![](../.gitbook/assets/entrada-san-joaquin-estatua-cristo-cesar-cortes.JPG)
 
+Alt: Campus San Joaquín, Pontificia Universidad Católica de Chile
+
 El campus nace de la idea de desarrollar una universidad más compleja. Para ello, se hizo uso de la donación de terrenos que hiciera la familia Larraín Gandarillas, conocidos como la chacra de Macul. Su primer uso fue como estación agrícola, pero con el paso de los años, específicamente desde la década de 1960, comenzó la construcción de las instalaciones con base en el plan maestro presentado por el arquitecto Germán Brandes.  
 
 
@@ -212,6 +209,8 @@ El campus nace de la idea de desarrollar una universidad más compleja. Para ell
 Imagen:
 
 ![](../.gitbook/assets/vista-exterior-campus-villarrica-karina-fuenzalida.jpg)
+
+Alt: Campus Villarrica, Pontificia Universidad Católica de Chile
 
 En 1936 fue fundada la Escuela Normal en San José de la Mariquina por la Prefectura Apostólica de la Araucanía. Por tratarse de una formación docente religiosa, los títulos entregados por esta entidad impedían que los docentes se desempeñaran en escuelas públicas, por lo cual, en el año 1952, se iniciaron las gestiones para regularizar esta situación, obteniéndose el reconocimiento como institución dependiente de la Facultad de Filosofía y Letras de la Pontificia Universidad Católica de Chile el 14 de marzo de 1953. En 1968 se convierte en la sede regional de la universidad.  
 
@@ -222,6 +221,24 @@ En 1936 fue fundada la Escuela Normal en San José de la Mariquina por la Prefec
 
 Imagen: [http://centroeventos.uc.cl/wp-content/uploads/2017/05/Centro-Ext-plaza-central-slider.jpg](http://centroeventos.uc.cl/wp-content/uploads/2017/05/Centro-Ext-plaza-central-slider.jpg)
 
+Alt: Centro de Extensión, Pontificia Universidad Católica de Chile
+
 Ubicado en las antiguas instalaciones del Instituto de Humanidades Luis Campino, el Centro de Extensión fue fundado bajo el rectorado del rector Juan de Dios Vial en la década de los ochenta. Su objetivo era servir como espacio cultural para la difusión de las artes, la transferencia de conocimiento, la capacitación de alto nivel y la perfección cultural bajo el signo de la educación continua.  
 
+
+### Mascota UC
+
+![Puma, mascota UC](../.gitbook/assets/puma-mascota-uc.jpg)
+
+Alt: El puma, mascota UC
+
+Durante el año 2018, luego de un proceso de participación, diseño colaborativo y concursos se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado para una mascota UC. 
+
+
+
+**El animal elegido fue el puma**, **mamífero nativo de Chile, que se caracteriza por su astucia, valentía y autonomía**. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
+
+
+
+Fuente: http://mascotauc.cl/pagina-4.html  
 
