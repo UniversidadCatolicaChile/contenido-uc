@@ -2,17 +2,15 @@
 
 ## Investigación
 
-Imagen diseño
-
 ![](../.gitbook/assets/laboratorio-cmpl-uc-casa-central-cesar-cortes.JPG)
 
+Opción 2
 
+![](../.gitbook/assets/landing-investigacion-cabecera_2.JPG)
 
 Nuestra pasión es crear conocimiento y compartirlo entre académicos, alumnos y profesionales, para luego traspasarlo a la sociedad a través de proyectos que atiendan las necesidades prioritarias del país en lo social, económico, político y cultural.
 
-Explora la investigación en la UC \(falta enlace\)
-
-
+[Explora la investigación en la UC](http://investigacion.uc.cl)
 
 ### Nuestra Investigación
 
@@ -40,7 +38,7 @@ Daniel Hurtado
 Creador del primer modelamiento matemático de un corazón virtual en Chile.  
 Foto: [https://drive.google.com/file/d/1\_\_4TAraewbpDJF4Gy6SU3yWKJcm230lE/view?usp=sharing](https://drive.google.com/file/d/1__4TAraewbpDJF4Gy6SU3yWKJcm230lE/view?usp=sharing)  
   
-**Caja 6**   
+**Caja 1**   
 Innovación
 
 ![](../.gitbook/assets/investigacion-innovacion-emprendimiento-uc.JPG)
@@ -50,23 +48,22 @@ Innovación
 Impulsamos iniciativas multidisciplinarias de innovación a través de proyectos y programas de emprendimiento de alto impacto.  
 [Ir al sitio](http://centrodeinnovacion.uc.cl/)  
   
-**Caja 7**  
-Transferencia y Desarrollo  
-Foto:  
-[https://drive.google.com/file/d/1KBRwoDsCkITBrVc5C47ndFJAu4Z0RMc-/view?usp=sharing](https://drive.google.com/file/d/1KBRwoDsCkITBrVc5C47ndFJAu4Z0RMc-/view?usp=sharing)
+**Caja 2**  
+Transferencia y Desarrollo
 
 ![](../.gitbook/assets/transferencia-y-desarrollo-uc.jpg)
 
+La transferencia tecnológica permite a las invenciones salir del espacio académico para poder ser utilizadas por quienes se encuentren interesados en ellas.  
+[Ir al sitio](http://transferenciaydesarrollo.uc.cl)  
   
-  
-**Caja 8**  
-Artes y Cultura  
-Foto:  
-[https://drive.google.com/file/d/1Fja7oYNVI4Buxhf3\_doB4mXhldNRQfQ0/view?usp=sharing](https://drive.google.com/file/d/1Fja7oYNVI4Buxhf3_doB4mXhldNRQfQ0/view?usp=sharing)
+**Caja 3**  
+Artes y Cultura
 
 ![](../.gitbook/assets/artes-y-cultura-uc.jpg)
 
+Potenciamos la creación artística y la investigación de la creación con sello artístico en la UC.
 
+[Ir al sitio](http://artesycultura.uc.cl)
 
 ### Solicitudes de patentes UC activas en el mundo
 
