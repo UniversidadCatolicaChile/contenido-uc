@@ -2,6 +2,13 @@
 
 ### Escuelas e Institutos
 
+Imagen cabecera:
+
+![](../.gitbook/assets/facultades_introduccionopcion4.JPG)
+
+  
+
+
 **Escuelas**
 
 \*\*\*\*[**Escuela de Administración**](https://escueladeadministracion.uc.cl/)\*\*\*\*
