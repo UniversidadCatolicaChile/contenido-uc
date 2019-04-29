@@ -4,7 +4,7 @@
 
 ![Mar&#xED;a Loreto Massan&#xE9;s, vicerrectora Econ&#xF3;mica.](../../../.gitbook/assets/_mg_5443.jpg)
 
-La vicerrectora económica es la autoridad encargada de elaborar y ejecutar la política económica de la Universidad. Además, cumple las siguientes funciones:
+La vicerrectora económica es la autoridad **encargada de elaborar y ejecutar la política económica de la Universidad**. Además, cumple las siguientes funciones:
 
 * Propone políticas en materia de presupuestos, de personal, de servicios e infraestructura, y de informática.
 * Colabora con el control de recursos de cada unidad de la Universidad.
