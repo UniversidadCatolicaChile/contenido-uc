@@ -22,7 +22,7 @@ Unidad a cargo de la **gestión administrativa, económica y financiera de la vi
 
 #### Dirección Ejecutiva de Desarrollo
 
-Falta descripción
+_Falta descripción_
 
 **Directora:** Camila Rendic
 
@@ -36,13 +36,13 @@ Unidad busca **fortalecer el vínculo de la Universidad con sus ex alumnos**, ma
 
 #### Dirección de Comunicaciones
 
-Falta descripción
+_Falta descripción_
 
 **Directora:** María Verónica Guarda
 
 #### Dirección de Diseño Corporativo
 
-Falta descripción
+_Falta descripción_
 
 **Directora:** María Soledad Hola
 
@@ -72,7 +72,7 @@ Unidad que tiene como misión ayudar a que la **UC fortalezca su compromiso con 
 
 #### Dirección de Marketing
 
-Falta descripción
+_Falta descripción_
 
 **Directora:** Magdalena del Río
 

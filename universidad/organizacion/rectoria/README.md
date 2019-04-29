@@ -25,7 +25,7 @@ Rector: [**Ignacio Sánchez**](rector.md)\*\*\*\*
 
 ### Unidades de la Rectoría
 
-#### Prorrectoría
+### Prorrectoría
 
 La Prorrectoría es una **unidad ejecutiva de apoyo directo al gobierno del Rector** y le corresponde coordinar la labor desarrollada por las otras unidades de la Rectoría.
 
