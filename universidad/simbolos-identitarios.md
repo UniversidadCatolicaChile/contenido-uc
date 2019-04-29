@@ -1,4 +1,4 @@
-# Símbolos Identitarios
+# Símbolos identitarios
 
 ## **Símbolos identitarios**
 
