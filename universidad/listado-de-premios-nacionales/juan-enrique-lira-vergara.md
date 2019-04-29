@@ -6,7 +6,7 @@ description: >-
 
 # Juan Enrique Lira Vergara
 
-![Juan Enrique Lira Vergara. Foto: Geni.com](../../.gitbook/assets/juanenriquelira.jpg)
+![Juan Enrique Lira Vergara. Foto: Genealog&#xED;a Chilena.](../../.gitbook/assets/juanenriquelira.jpg)
 
 Nació en Santiago, el 31 de diciembre de 1927.
 
