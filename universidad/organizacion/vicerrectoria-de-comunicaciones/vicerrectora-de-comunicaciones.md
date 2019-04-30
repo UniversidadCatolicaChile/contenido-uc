@@ -4,24 +4,32 @@
 
 ![Mar&#xED;a Paulina G&#xF3;mez, vicerrectora de Comunicaciones](../../../.gitbook/assets/_mg_1176.JPG)
 
-La vicerrectora de Comunicaciones es la autoridad encargada de elaborar y ejecutar la política de comunicaciones, extensión, educación continua, editorial, marketing y de la vinculación con los exalumnos de la Universidad. Además, cumple las siguientes funciones:
+#### Su carrera
+
+**María Paulina Gómez Lorenzini es periodista y licenciada en Información Social de la UC y Doctora en Ciencias de la Información por la Universidad Complutense de Madrid.**
+
+**Profesora Asociada de la Facultad de Comunicaciones hasta la fecha.**
+
+Comenzó a trabajar en el Centro de Extensión UC en 1990, donde desarrolló el Diplomado en Comunicación Corporativa, el primero de su tipo en el país. Luego, trabajó en la Facultad de Comunicaciones, donde fue subdirectora de Extensión, representante de los académicos ante el Consejo de la Facultad, directora del Departamento de Comunicación Aplicada y de la salida profesional de Publicidad. 
+
+Sus áreas de estudio son la comunicación estratégica, la publicidad y la semiótica. 
+
+Dictó el curso Semiología, en el plan común de pregrado en la Facultad de Comunicaciones; y en postgrado realizó los cursos Análisis del discurso y Gestión de Stakeholders. 
+
+#### Sus tareas
+
+**Es la autoridad encargada de elaborar y ejecutar la política de comunicaciones, extensión, educación continua, editorial, marketing y de la vinculación con los exalumnos de la Universidad**. Algunas de sus funciones son:
 
 * Diseña, organiza y coordina las políticas y actividades de comunicación y marketing.
-* Comunica a la comunidad las actividades e investigaciones que desarrollan las facultades.
-* Presenta las actividades relacionadas con proyectos y programas de interés público que realizan las unidades.
 * Promueve y coordina las actividades de extensión de la Universidad.
 * Diseña y desarrolla las políticas y planes de educación a distancia.
 * Mantiene la certificación del Sistema de Gestión de calidad que regula la educación continua en la Universidad. 
 * Dirige las actividades editoriales de la Universidad.
 * Diseña, organiza y coordina las políticas y actividades de vinculación con sus egresados.
 
-La actual vicerrectora de comunicaciones es la periodista María Paulina Gómez.
-
-[Revisa su currículum.](http://comunicaciones.uc.cl/personas/paulina-gomez-lorenzini/)
-
 ### Su equipo
 
-#### Directora ejecutiva VRC
+#### Directora ejecutiva 
 
 Rosa Íñiguez
 

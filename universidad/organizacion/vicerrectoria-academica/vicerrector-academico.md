@@ -23,6 +23,8 @@ El vicerrector académico **es la autoridad encargada de elaborar y ejecutar la 
 * Proponer las políticas de admisión estudiantil universitaria, y las políticas académicas de inclusión.
 * Aprobar convenios de la Universidad con otras instituciones.
 
+Para revisar el detalle de las funciones del Vicerrector Académico puedes revisar el [Reglamento de los Organismos de la Rectoría](http://secretariageneral.uc.cl/documento/normas-generales/101-reglamento-de-los-organismos-de-rectoria/file).
+
 ### Su equipo
 
 #### Directora ejecutiva

@@ -8,7 +8,7 @@ La Prorrectoría de Gestión Institucional complementa la labor de la Prorrector
 
 Es la autoridad encargada de la **vinculación de la Universidad con las organizaciones relacionadas**, además de tener funciones particulares en la **gestión** y **desarrollo institucional**.
 
-**Prorrector de Gestión Institucional:** [Patricio Donoso](prorrector-de-gestion-institucional.md)
+\*\*\*\*[**Prorrector de Gestión Institucional:** Patricio Donoso](prorrector-de-gestion-institucional.md)
 
 ### Unidades de la Prorrectoría de Gestión Institucional
 

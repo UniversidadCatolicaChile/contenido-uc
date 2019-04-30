@@ -4,7 +4,7 @@
 
 ![Presb&#xED;tero Tom&#xE1;s Scherz, vice gran canciller de la Universidad.](../../../.gitbook/assets/_mg_3609.jpg)
 
-#### Su biografía:
+#### Su carrera:
 
 Sacerdote diocesano, el padre Tomás Scherz nació en Viña del Mar el 25 de junio de 1964. Sus estudios básicos y secundarios los realizó en el colegio Deutsche Schule St. Thomas Morus y en el Seminario Menor, desde donde ingresó, en 1983, a estudiar Filosofía en la Pontificia Universidad Católica de Chile.
 

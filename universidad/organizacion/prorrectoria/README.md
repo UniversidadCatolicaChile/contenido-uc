@@ -10,7 +10,7 @@ Define y supervisa las tareas de **análisis institucional**, el fomento a la **
 
 Es la autoridad unipersonal de la Universidad que **subroga al Rector en caso de ausencia** o impedimento temporal. Es nombrado por el Rector y permanece en su cargo mientras cuente con la confianza de éste. No obstante, cesa en sus funciones cumplidos tres años contados desde su nombramiento, pudiendo ser designado para un nuevo período.
 
-**Prorrector:** [Guillermo Marshall](prorrector.md)
+\*\*\*\*[**Prorrector:** Guillermo Marshall](prorrector.md)
 
 ### Unidades de la Prorrectoría
 

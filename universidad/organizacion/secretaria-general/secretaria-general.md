@@ -4,19 +4,17 @@
 
 ![Marisol Pe&#xF1;a, Secretaria General](../../../.gitbook/assets/_mg_8427.jpg)
 
-#### Su biografía
+#### Su carrera
 
-Marisol Peña **es profesora del Departamento de Derecho Público y desde 2018 se incorporó como Miembro de Número de la Academia Chilena de Ciencias Sociales Políticas y Morales del Instituto de Chile**.
+**Marisol Peña Torres es abogada y profesora del Departamento de Derecho Público y desde 2018 se incorporó como Miembro de Número de la Academia Chilena de Ciencias Sociales Políticas y Morales del Instituto de Chile**.
 
 Desde el año 1982, la profesora Peña imparte las cátedras de Derecho Político y Constitucional, y fue una de las gestoras del programa de Magíster en Derecho Constitucional UC. Ha sido distinguida con los premios "Excelencia Docente" y "Reconocimiento a la Excelencia Docente", y ha dirigido el departamento de Derecho Público UC.
 
-En el ámbito profesional, se ha desempeñado como abogado de la División de Municipalidades de la Contraloría General de la República y asesora jurídica de los ministerios Secretaría General de Gobierno y Secretaría General de la Presidencia.
+En el ámbito profesional, se ha desempeñado como abogada de la División de Municipalidades de la Contraloría General de la República y asesora jurídica de los ministerios Secretaría General de Gobierno y Secretaría General de la Presidencia.
 
 **En enero de 2006 fue designada abogada integrante del Tribunal Constitucional y, en mayo del mismo año, ministra del Tribunal Constitucional por la Excma. Corte Suprema**.
 
 En 2018, la profesora Marisol Peña se incorporó como Miembro de Número de la Academia Chilena de Ciencias Sociales Políticas y Morales del Instituto de Chile.
-
-[Más información sobre su trayectoria en este enlace](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-publico/635-pena-torres-marisol).
 
 #### Sus tareas
 

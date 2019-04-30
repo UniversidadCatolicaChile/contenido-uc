@@ -4,9 +4,9 @@
 
 ![Guillermo Marshall, Prorrector.](../../../.gitbook/assets/_mg_7223.jpg)
 
-#### Su biografía
+#### Su carrera
 
-**Licenciado en matemáticas y estadístico** UC titulado en 1984. Posteriormente realizó un **Ph.D en Bioestadística en la Universidad de Colorado** obteniendo el grado de Doctor en 1990. 
+**Guillermo Marshall Rivera es licenciado en matemáticas y estadístico** UC titulado en 1984. Posteriormente realizó un **Ph.D en Bioestadística en la Universidad de Colorado** obteniendo el grado de Doctor en 1990. 
 
 Desde 1984 hace clases en la UC, siendo actualmente **profesor titular de la Facultad de Matemáticas**, donde también fue Decano a partir del año 2004. Ha sido también Jefe de Departamento de Salud Pública de la Escuela de Medicina UC, Miembro del Consejo de la Facultad de Matemáticas, Director de docencia y Jefe del Programa de Magíster en Estadística de la misma.  
   

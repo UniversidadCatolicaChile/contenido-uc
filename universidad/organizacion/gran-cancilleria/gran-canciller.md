@@ -4,7 +4,7 @@
 
 ![Monse&#xF1;or Celestino A&#xF3;s, Pro-Gran Canciller.](../../../.gitbook/assets/celestino_aos.jpg)
 
-#### Su biografía:
+#### Su carrera:
 
 Nació el 6 de abril de 1945 en Artaiz, Navarra \(España\). En 1955 ingresó como aspirante en la Orden de los Frailes Menores Capuchinos en su tierra natal. 
 

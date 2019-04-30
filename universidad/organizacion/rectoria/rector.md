@@ -4,9 +4,9 @@
 
 \([Foto 1](https://drive.google.com/open?id=13_zapIegx2z3n5zEJophrFSufiOi0-Oq), [Foto 2](https://drive.google.com/open?id=1_fnlya4masTPDa7-YfcNjM3mdSSkkTeb), [Foto 3](https://drive.google.com/open?id=1LXAqw1ok4rmsPQFHPNziqiko3TH1h9DS) - elegir una\)
 
-#### Su biografía:
+#### Su carrera:
 
-El doctor Ignacio Sánchez es **rector de la Pontificia Universidad Católica de Chile y profesor titular de la Facultad de Medicina**. Estudió en el colegio Sagrados Corazones de Alameda en Santiago y **es médico cirujano y pediatra de la Universidad Católica, especialista en enfermedades respiratorias del niño** por la Universidad de Manitoba, en Canadá.
+**El doctor Ignacio Sánchez es rector de la Pontificia Universidad Católica de Chile y profesor titular de la Facultad de Medicina**. Estudió en el colegio Sagrados Corazones de Alameda en Santiago y **es médico cirujano y pediatra de la Universidad Católica, especialista en enfermedades respiratorias del niño** por la Universidad de Manitoba, en Canadá.
 
 Se ha desempeñado en el Hospital Clínico de la Universidad Católica como jefe de la Sección Respiratorio Pediátrico y del Servicio de Pediatría. En la Escuela de Medicina, **ocupó los cargos de jefe del Departamento de Pediatría y director de la Escuela de Medicina** desde el año 2004. En 2008 fue elegido como **decano de la Escuela de Medicina**.
 

@@ -8,7 +8,7 @@ La Vicerrectoría Académica es la **unidad encargada de elaborar y ejecutar la 
 
 Es la autoridad unipersonal de la Universidad a quien corresponde la dirección de la Vicerrectoría.
 
-**Vicerrector Académico**: [Juan Larraín](vicerrector-academico.md)
+\*\*\*\*[**Vicerrector Académico**: Juan Larraín](vicerrector-academico.md)
 
 #### Dirección Ejecutiva
 

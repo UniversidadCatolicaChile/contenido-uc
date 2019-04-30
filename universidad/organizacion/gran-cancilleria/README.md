@@ -10,7 +10,7 @@ El **Arzobispo de Santiago es por derecho propio Gran Canciller** de la Pontific
 
 Es quien tiene la **alta tuición de la Universidad**, **ejerce los actos de dirección** y es su **vínculo** directo e inmediato con las autoridades jerárquicas de la Iglesia Católica, en especial **con la Santa Sede**. 
 
-**Pro Gran Canciller:** [Monseñor Celestino Aós](gran-canciller.md)
+\*\*\*\*[**Pro Gran Canciller:** Monseñor Celestino Aós](gran-canciller.md)
 
 ### Footer
 

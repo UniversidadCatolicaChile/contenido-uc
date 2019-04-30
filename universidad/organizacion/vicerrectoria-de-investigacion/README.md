@@ -2,19 +2,17 @@
 
 ## Vicerrectoría de Investigación
 
-_Imagen: mismo fondo vista La universidad_
-
 La Vicerrectoría de Investigación es la unidad encargada de **elaborar y ejecutar las políticas de doctorado, investigación e innovación**, publicaciones académicas, creación artística, propiedad intelectual, y de coordinar toda la investigación multidisciplinaria que se desarrolla a través de centros.
 
-[\[Ir al sitio\]](http://investigacion.uc.cl/)
+Investigación [\[Ir al sitio\]](http://investigacion.uc.cl/)
 
-### **Equipo**
+### **Sobre el Vicerrector de Investigación**
 
-#### Vicerrector de investigación:
+**Propone, vela y revisa las políticas de doctorado, investigación, innovación, propiedad intelectual, transferencia tecnológica y creación artística**, además de los aspectos, éticos, bioéticos y de seguridad de los proyectos de investigación.
 
-Propone, vela y revisa las políticas de doctorado, investigación, innovación, propiedad intelectual, transferencia tecnológica y creación artística, además de los aspectos, éticos, bioéticos y de seguridad de los proyectos de investigación.
+\*\*\*\*[**Vicerrector de Investigación:** Pedro Bouchon](vicerrector-de-investigacion.md)
 
-**Vicerrector:** Pedro Bouchon \[Link a página de autoridad\]
+### Unidades de la Vicerrectoría de Investigación
 
 #### Dirección Ejecutiva:
 

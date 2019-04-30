@@ -21,7 +21,7 @@ Es quien **ejerce el gobierno de la Universidad**.
 Es **nombrado por la autoridad eclesiástica competente**, según las normas que establece la Santa Sede, y **dura cinco años** en el ejercicio de sus funciones, pudiendo ser designado nuevamente.  
 
 
-Rector: [**Ignacio Sánchez**](rector.md)\*\*\*\*
+[Rector: **Ignacio Sánchez**](rector.md)\*\*\*\*
 
 ### Unidades de la Rectoría
 

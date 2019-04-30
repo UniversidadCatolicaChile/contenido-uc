@@ -2,17 +2,13 @@
 
 ## Vicerrectoría de Comunicaciones
 
-_Imagen: misma de La Universidad_
-
 Es la unidad encargada de **elaborar y ejecutar la política de comunicaciones, extensión, educación continua, editorial, marketing y de vinculación con los exalumnos** de la Universidad. Está liderada por el Vicerrector o Vicerrectora de Comunicaciones. Debe diseñar, organizar y coordinar las políticas de comunicación y marketing.
 
-### Equipo
+### Sobre la Vicerrectora de Comunicaciones
 
-#### Vicerrectora de Comunicaciones
+Autoridad encargada de **diseñar y organizar las políticas y actividades de comunicación y marketing de la Universidad;** comunicar a la comunidad las actividades e investigaciones de las facultades; promover las actividades de extensión y educación continua; mantener la certificación del Sistema de Gestión de Calidad y dirigir las actividades editoriales de la Universidad.
 
-Autoridad encargada de diseñar y organizar las políticas y actividades de comunicación y marketing de la Universidad; comunicar a la comunidad las actividades e investigaciones de las facultades; promover las actividades de extensión y educación continua; mantener la certificación del Sistema de Gestión de Calidad y dirigir las actividades editoriales de la Universidad.
-
-**Vicerrectora de Comunicaciones:** [María Paulina Gómez ](vicerrectora-de-comunicaciones.md)
+\*\*\*\*[**Vicerrectora de Comunicaciones:** María Paulina Gómez ](vicerrectora-de-comunicaciones.md)
 
 #### Dirección Ejecutiva
 
