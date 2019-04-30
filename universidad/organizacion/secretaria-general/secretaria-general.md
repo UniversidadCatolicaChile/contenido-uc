@@ -18,7 +18,7 @@ En 2018, la profesora Marisol Peña se incorporó como Miembro de Número de la 
 
 #### Sus tareas
 
-El Secretario o Secretaria General es la autoridad que **tiene la función de ser Ministro o Ministra de Fe de la Universidad, autorizar los actos administrativos y certificar los hechos de la vida universitaria**. Algunas de sus funciones específicas son:
+El secretario o secretaria general es la autoridad que **tiene la función de ser ministro o ministra de fe de la Universidad, autorizar los actos administrativos y certificar los hechos de la vida universitaria**. Algunas de sus funciones específicas son:
 
 * Propone e interpreta la normativa interna y vela por su eficaz cumplimiento.
 * Realiza las citaciones, mantiene el registro de las sesiones y certifica los acuerdos del Honorable Consejo Superior y del Foro Universitario.
@@ -30,7 +30,7 @@ Para conocer más detalles sobre su función puedes revisar el [documento de Est
 
 ### Su equipo
 
-#### Pro Secretaria General
+#### Pro secretaria general
 
 Marisol Urrutia
 
