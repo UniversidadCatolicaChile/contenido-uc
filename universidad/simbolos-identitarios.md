@@ -4,8 +4,6 @@
 
 ![](../.gitbook/assets/fachada_casa_central.jpg)
 
-Desde sus orígenes, la Pontificia Universidad Católica de Chile ha utilizado su **escudo** como **símbolo icónico** y forma de **identificación institucional**. 
-
 Aquí te mostramos cómo se ha forjado la identidad de la Universidad a través del tiempo con símbolos que se han convertido en **íconos de nuestra institución**. 
 
 ### Escudo y Texto
@@ -24,10 +22,10 @@ Es parte fundamental de nuestra imagen institucional e identidad **reflejando as
 
 El escudo ha evolucionado desde su creación hasta una **última versión, diseñada en la rectoría de Ignacio Sánchez**. Los hitos más importantes de esta evolución han sido:
 
-* la incorporación de la corona del Sagrado Corazón en 1930 cuando la universidad fue erigida canónicamente por la Santa Sede
-* la incorporación gradual de la palabra Pontificia desde la década de los 70
-* el uso de software para delinear el nuevo boceto en la década de los noventa
-* el diseño conmemorativo de los 125 años en 2013 y el de los 130 años en 2018. 
+* La incorporación de la corona del Sagrado Corazón en 1930 cuando la universidad fue erigida canónicamente por la Santa Sede.
+* La incorporación gradual de la palabra Pontificia desde la década de los 70.
+* El uso de software para delinear el nuevo boceto en la década de los noventa.
+* El diseño conmemorativo de los 125 años en 2013 y el de los 130 años en 2018. 
 
 ### Bandera
 
@@ -36,7 +34,7 @@ Foto:
 {% embed url="https://drive.google.com/open?id=10I3u\_qhnBP9siou64RjMemfgAeFXkg\_U" %}
 
 Alt: Bandera, Pontificia Universidad Católica de Chile  
-Un fondo blanco atravesado por una franja azul, y el escudo a color de la universidad, son los elementos que caracterizan nuestra bandera institucional.  
+Los elementos que caracterizan nuestra bandera institucional son un fondo blanco atravesado por una franja azul, y el escudo a color de la universidad.  
 
 
 ### Mascota UC
@@ -45,24 +43,19 @@ Imagen: _pendiente_
 
 ![Puma, mascota UC](../.gitbook/assets/puma-mascota-uc.jpg)
 
-  
-
-
-Durante el año 2018, luego de un proceso de participación, diseño colaborativo y concursos se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado para una mascota UC. 
+Durante el año 2018, luego de un proceso de participación, diseño colaborativo y concursos, se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado para una mascota UC. 
 
 **El animal elegido fue el puma**, **mamífero típico de Chile, que se caracteriza por su astucia, valentía y autonomía**. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
 
-Fuente: http://mascotauc.cl/pagina-4.html  
-  
-
+Fuente: http://mascotauc.cl/pagina-4.html
 
 ### Himno
 
 El himno fue compuesto por Alberto Buccicardi, Charles Brown y Pedro Fornazari. La melodía original está inspirada en la canción: “Tramp, tramp, tramp, the boys are marching” del año 1864. Dicha canción fue compuesta por George F. Root durante la Guerra Civil Norteamericana, para llevar esperanza a los prisioneros de la guerra. 
 
-El himno UC **fue utilizado por primera vez en 1937 para alentar al equipo de fútbol de la universidad**. 
+**El himno UC fue utilizado por primera vez en 1937 para alentar al equipo de fútbol de la universidad.** 
 
-Con los años y tras los arreglos musicales de Vicente Bianchi, el himno tomó su versión final, popularizándose durante la rectoría de Fernando Castillo Velasco y luego con su adaptación como himno oficial tanto de la universidad como del inicio de transmisiones de Canal 13 cuando era parte de la misma.  
+Con los años y tras los arreglos musicales de Vicente Bianchi, el himno tomó su versión final. Se popularizó durante la rectoría de Fernando Castillo Velasco al usarse tanto como himno oficial de la Universidad, así como cortina musical del inicio de transmisiones de Canal 13, cuando eran instituciones conjuntas.  
 
 
 #### Letra del himno
@@ -98,7 +91,7 @@ Nuestra institución ha crecido y se ha consolidado al ritmo de los acontecimien
 En este recorrido, **la figura de nuestro patrono, el Sagrado Corazón, ha sido fundamental**. En su amor misericordioso, humilde y sencillo se funda nuestro sello como institución, la cual trabaja incansablemente en la búsqueda de la verdad y la formación integral de cada uno de sus estudiantes.  
 
 
-Para más información sobre la historia de esta devoción en la universidad, revisa el texto [Sacrado Corazón en el corazón de la UC.](http://pastoral.uc.cl/wp-content/recursos/publicaciones/Mes-del-Sagrado-Corazon-2013.pdf)
+Para más información sobre la historia de esta devoción en la universidad, revisa el texto [Sagrado Corazón en el corazón de la UC.](http://pastoral.uc.cl/wp-content/recursos/publicaciones/Mes-del-Sagrado-Corazon-2013.pdf)
 
 #### Oración al Sagrado Corazón UC:
 
@@ -157,64 +150,15 @@ Texto:
 El vitral de la caja de las escaleras en el acceso a la capilla de la Casa Central fue diseñado por Adolfo Winterlitz e inaugurado en 1931. En 1988 fue utilizado como símbolo en la celebración del Centenario.  
 
 
-### Casa Central
+### [Casa Central](campus/campus-casa-central.md)
 
-Foto: https://www.uc.cl/images/stories/simbolos/casacentral.jpg
+### [Campus Lo Contador](campus/campus-lo-contador.md)
 
-![](../.gitbook/assets/fachada_casa_central.jpg)
+### [Campus Oriente](campus/campus-oriente.md)
 
-  
-Alt: Casa Central, Pontificia Universidad Católica de Chile
+### [Campus San Joaquín](campus/campus-san-joaquin.md)
 
-Texto:  
-El Palacio Universitario fue construido entre los años 1910 y 1918. Su fachada daba a la Avenida de Las Delicias \(actual Alameda Libertador Bernardo O’Higgins\) y fue diseñado por los arquitectos Emilio Jecquier y Manuel Cifuentes. Es de estilo neoclásico y en él se albergaron todas sus facultades hasta 1960.  
-  
-  
-
-
-### Lo Contador
-
-  
-Foto: https://www.uc.cl/images/stories/simbolos/locontador.jpg
-
-![](../.gitbook/assets/lo_contador_.jpg)
-
-  
-Alt: Campus Lo Contador, Pontificia Universidad Católica de Chile
-
-Texto:  
-La historia de la casa se remonta al siglo XVIII, cuando Francisco Antonio Avaria compró para su sobrina huérfana, Mercedes Contador, una serie de pequeñas propiedades entre el Cerro San Cristóbal y el río Mapocho, constituyendo así la chacra de Lo Contador. Durante el siglo XIX, Mercedes amplió el inmueble para permitir la realización de ejercicios espirituales. Durante el siglo XX, y debido al proceso de urbanización, comienza el loteo de los terrenos, oportunidad que aprovechó la universidad, a instancias de Sergio Larraín, para comprar el inmueble y construir en aquel lugar el nuevo campus de la universidad. El edificio fue declarado Monumento Histórico en 1974.  
-
-
-### Campus Oriente
-
-Imagen:
-
-![](../.gitbook/assets/fachada-campus-oriente.JPG)
-
-Campus Oriente nace en 1926. En sus inicios albergó el convento de la Congregación y el colegio de las Monjas del Sagrado Corazón hasta que, en 1971, pasa a manos de la universidad, acogiendo en los años setenta, ochenta y parte de los noventa una diversidad muy amplia de carreras humanistas. Actualmente el Campus Oriente alberga a la Facultad de Artes y al Instituto de Estética de la Facultad de Filosofía.
-
-### Campus San Joaquín
-
-Imagen:
-
-Propuesta 1:
-
-![](../.gitbook/assets/fachada-campus-san-joaquin-uc-cesar-cortes.JPG)
-
-![](../.gitbook/assets/entrada-san-joaquin-estatua-cristo-cesar-cortes.JPG)
-
-El campus nace de la idea de desarrollar una universidad más compleja. Para ello, se hizo uso de la donación de terrenos que hiciera la familia Larraín Gandarillas, conocidos como la chacra de Macul. Su primer uso fue como estación agrícola, pero con el paso de los años, específicamente desde la década de 1960, comenzó la construcción de las instalaciones con base en el plan maestro presentado por el arquitecto Germán Brandes.  
-
-
-### Campus Villarrica
-
-Imagen:
-
-![](../.gitbook/assets/vista-exterior-campus-villarrica-karina-fuenzalida.jpg)
-
-En 1936 fue fundada la Escuela Normal en San José de la Mariquina por la Prefectura Apostólica de la Araucanía. Por tratarse de una formación docente religiosa, los títulos entregados por esta entidad impedían que los docentes se desempeñaran en escuelas públicas, por lo cual, en el año 1952, se iniciaron las gestiones para regularizar esta situación, obteniéndose el reconocimiento como institución dependiente de la Facultad de Filosofía y Letras de la Pontificia Universidad Católica de Chile el 14 de marzo de 1953. En 1968 se convierte en la sede regional de la universidad.  
-
+### [Campus Villarrica](campus/campus-villarrica.md)
 
 ### Centro de Extensión
 

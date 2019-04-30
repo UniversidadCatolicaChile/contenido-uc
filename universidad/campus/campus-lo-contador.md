@@ -8,8 +8,6 @@ El Comendador 1916, Providencia.
 
  \(2\) 2354 4000
 
-Cómo llegar:
-
 ### Estudia en Lo Contador
 
 #### [Facultad de Arquitectura, Diseño y Estudios Urbanos](http://fadeu.uc.cl/)
@@ -39,4 +37,15 @@ _Evento 3_
 ![La riqueza original de la casa ha sido complementada por las contribuciones de diversos arquitectos que han ido construyendo, alrededor suyo, el paisaje del campus.](../../.gitbook/assets/vista-patio-lo-contador-sin-alumnos-karina-fuenzalida.jpg)
 
 ![En los patios se re&#xFA;nen los estudiantes de arquitectura, dise&#xF1;o y estudios urbanos.](../../.gitbook/assets/alumnos-en-patios-de-arquitectura-lo-contador-cesar-cortes.jpg)
+
+### Historia del Campus
+
+![](../../.gitbook/assets/campus-lo-contador-1900.jpg)
+
+La historia de la casa se remonta al siglo XVIII, cuando Francisco Antonio Avaria compró para su sobrina huérfana, Mercedes Contador, una serie de pequeñas propiedades entre el Cerro San Cristóbal y el río Mapocho, constituyendo así la chacra de Lo Contador. 
+
+Durante el siglo XIX, Mercedes amplió el inmueble para permitir la realización de ejercicios espirituales. Durante el siglo XX, y debido al proceso de urbanización, comienza el loteo de los terrenos, oportunidad que aprovechó la universidad, a instancias de Sergio Larraín, para comprar el inmueble y construir en aquel lugar el nuevo campus de la universidad. 
+
+El edificio fue declarado Monumento Histórico en 1974.  
+
 

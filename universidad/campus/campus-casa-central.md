@@ -56,13 +56,15 @@ _Evento 3_
 
 Conocido en sus inicios como el Palacio Universitario, en este campus se encuentra el edificio más emblemático y antiguo de la universidad.
 
-La primera piedra se puso en 1910 y demoró siete años en terminarse.  El diseño original fue obra del arquitecto italiano Ignacio Cremonesi y fue concluido por el arquitecto Emile Jecquier. 
+La primera piedra se puso en 1910 y demoró ocho años en terminarse.  El diseño original fue obra del arquitecto italiano Ignacio Cremonesi y fue concluido por el arquitecto Emile Jecquier. Su fachada daba a la Avenida de Las Delicias \(actual Alameda Libertador Bernardo O’Higgins\)
 
 Su construcción organizó a las facultades en torno a patios centrales rodeados de anchos pasillos, siguiendo la estructura de un claustro. Desde entonces y hasta el día de hoy, en el segundo piso se ubican las oficinas del [Rector ](../organizacion/rectoria/)y [Prorrector](../organizacion/prorrectoria/), así como de otras autoridades.
 
 En 1931 Palacio Universitario sufrió un incendio que destruyó dos pisos completos. El proceso de reconstrucción demoró sólo dos años y como agradecimiento por la rapidez en la obras, el rector de entonces, Monseñor Carlos Casanueva, mandó a hacer una [estatua del Sagrado Corazón](../simbolos-identitarios.md) para ponerla sobre la fachada, la que se convirtió en un símbolo hasta  hoy.
 
-Con los años se agregaron nuevos edificios y facultades como Derecho, Ciencias Biológicas, Medicina y Comunicaciones. Además del Hospital Clínico y el Centro de Extensión.
+El Palacio Universitario albergó a todas las facultades de la Universidad hasta 1960, cuando empezaron a migrar hacia otros lugares de la ciudad.
+
+Con los años el campus creció y se agregaron nuevos edificios y facultades como Derecho, Ciencias Biológicas, Medicina y Comunicaciones. Además del Hospital Clínico y el Centro de Extensión.
 
 
 

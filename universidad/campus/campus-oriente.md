@@ -56,7 +56,7 @@ De muros sólidos, pasillos frescos y vegetación añosa, Campus Oriente, es uno
 
 Comenzó siendo convento y colegio para señoritas a cargo de las religiosas de los Sagrados Corazones. Fue proyectado en estilo neo-románico por los arquitectos Juan Lyon y Luis Azócar, e inició su construcción en 1926 en medio de un amplio terreno de seis hectáreas. 
 
-En 1971 fue adquirido por la Universidad y durante muchos años se dictaron carreras del área humanista, las que con el tiempo fueron migrando hacia otros campus de la universidad. 
+En 1971 fue adquirido por la Universidad y desde esos años hasta parte de la década de los noventa, acogió una amplia diversidad de carreras humanistas, las que con el tiempo fueron migrando hacia otros campus de la universidad. 
 
 Hoy es conocido como "Campus de las Artes" porque alberga a la [**Escuela de Arte**](http://escuelaarte.uc.cl/), el [**Instituto de Música**](http://musica.uc.cl/), la [**Escuela de Teatro**](http://escueladeteatro.uc.cl/) y el[ **Instituto de Estética**](http://estetica.uc.cl/). 
 

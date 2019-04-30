@@ -2,7 +2,7 @@
 
 ## Campus
 
-La Universidad Católica se despliega en cinco campus: cuatro en distintas comunas de Santiago y uno en la ciudad de Villarrica, ubicada en el sur de Chile. Estos campus no son solo consecuencia de necesidades académicas, sino construcciones con sentido cultural que la Universidad ha legado a la ciudad.
+La Universidad se despliega en cinco campus: cuatro en distintas comunas de Santiago y uno en la ciudad de Villarrica, ubicada en el sur de Chile. Estos campus no son solo consecuencia de necesidades académicas, sino construcciones con sentido cultural que la Universidad ha legado a la ciudad.
 
 ### [Casa Central](campus-casa-central.md)
 
@@ -26,7 +26,7 @@ Antigua hacienda del siglo XVIII cuya casona es Monumento Nacional y parte del p
 
 ![Entrada de Campus Oriente.](../../.gitbook/assets/img_0732.JPG)
 
-Construido en 1934 para el convento y colegio de las religiosas de los Sagrados Corazones, fue adquirido en 1971 por la universidad. Hoy es sede de las carreras de la Facultad de Artes y del Instituto de Estética.
+Construido en 1934 para el convento y colegio de las religiosas de los Sagrados Corazones, fue adquirido en 1971 por la Universidad. Hoy es sede de las carreras de la Facultad de Artes y del Instituto de Estética.
 
 \[Logo mapa\] [Av. Jaime Guzmán 3300, Providencia, Santiago.](https://www.google.cl/maps/place/Jaime+Guzm%C3%A1n+Err%C3%A1zuriz+3300,+%C3%91u%C3%B1oa,+Regi%C3%B3n+Metropolitana/@-33.4458333,-70.5956316,17z/data=!3m1!4b1!4m5!3m4!1s0x9662cfa321f5f359:0x44c64f9e56c6f01d!8m2!3d-33.4457885!4d-70.5937947)
 
@@ -34,7 +34,7 @@ Construido en 1934 para el convento y colegio de las religiosas de los Sagrados 
 
 ![Entrada de Campus San Joaqu&#xED;n](../../.gitbook/assets/estatua-cristo-san-joaquin-alumnos-karina-fuenzalida.JPG)
 
-Incorporado al patrimonio de la Universidad en 1891, San Joaquín comenzó la implementación de sus 82 hectáreas universitaria recién en los años 60. Es el campus más grande de la Universidad y se ha convertido en una verdadera ciudad universitaria con 13 facultades en su interior.
+Incorporado al patrimonio de la Universidad en 1891, San Joaquín comenzó la implementación de sus 82 hectáreas universitaria recién en los años 60. Es el campus más grande de la UC y se ha convertido en una verdadera ciudad universitaria con 13 facultades en su interior.
 
 \[Logo mapa\] [Av. Vicuña Mackenna 4860, Macul, Santiago. ](https://www.google.cl/maps/place/Av.+Vicu%C3%B1a+Mackenna+4860,+Macul,+La+Florida,+Regi%C3%B3n+Metropolitana/@-33.4996092,-70.6175415,17z/data=!4m5!3m4!1s0x9662d061059bdeef:0x748178e41aceefd3!8m2!3d-33.4995869!4d-70.6154386)
 

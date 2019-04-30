@@ -101,9 +101,11 @@ _Evento 3_
 
 ![](../../.gitbook/assets/patio-ingenieria-decada-1970.jpg)
 
-San Joaquín es el campus más grande de todos los de la universidad. El terreno original era conocido como la chacra de San Luis de Macul y fue donado a la universidad en 1891.
+San Joaquín es el campus más grande de todos los de la universidad. El terreno original era conocido como la chacra de San Luis de Macul y fue donado a la Universidad en 1891 por la familia Larraín Gandarillas.
 
-Siguió siendo chacra durante la primera mitad del siglo XX, pero desde 1966  comenzó su construcción como una ciudad universitaria para unificar a las facultades que se habían dispersado por la ciudad. La formación del campus fue lenta y sus primeros habitantes se sentían más aislados que unidos a la Universidad en un espacio más bien desolador: seco y sin árboles, caluroso en verano y ventoso en invierno. 
+Su primer uso fue como estación agrícola, pero con el paso de los años, específicamente desde la década de 1960, comenzó la construcción de las instalaciones con base en el plan maestro presentado por el arquitecto Germán Brandes como una ciudad universitaria que unificara a las facultades que se habían dispersado por la ciudad. 
+
+La formación del campus fue lenta y sus primeros habitantes se sentían más aislados que unidos a la Universidad en un espacio más bien desolador: seco y sin árboles, caluroso en verano y ventoso en invierno. 
 
 Pero la visión a largo plazo de las autoridades universitarias, de que era un proyecto necesario y viable, permitió que se consolidara como un campus universitario donde hoy se ubican la mayoría de las facultades.
 

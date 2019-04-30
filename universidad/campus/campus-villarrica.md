@@ -48,9 +48,11 @@ _Evento 3_
 
 La Sede Villarrica es el único campus regional de la UC. 
 
-Fue fundado en el año 1936 como Escuela Normal en el sector de San José de la Mariquina para formar profesores en la zona. Sin embargo, sus títulos no eran reconocidos por el Ministerio de Educación. 
+Fue fundado en el año 1936 como Escuela Normal en San José de la Mariquina por la Prefectura Apostólica de la Araucanía, para formar profesores en la zona.  
 
-En 1953 se le pidió a la Universidad Católica entregar su patrocinio a dicha escuela y pasó a depender de la Facultad de Filosofía y Ciencias de la Educación. En 1959, tras un incendio ocurrido mientras la escuela funcionaba en Loncoche, se optó por Villarrica como localización. Reinició sus actividades en 1963 y 5 años después se transformó en la primera sede regional de la universidad.
+Por tratarse de una formación docente religiosa, los títulos entregados no eran reconocidos por el Ministerio de Educación, lo que impedían que los docentes se desempeñaran en escuelas públicas. Para regularizar esto, en el año 1952, se le pidió a la Universidad Católica entregar su patrocinio a dicha escuela y pasó a depender de la Facultad de Filosofía y Ciencias de la Educación. 
+
+En 1959, tras un incendio ocurrido mientras la escuela funcionaba en Loncoche, se optó por Villarrica como localización. Reinició sus actividades en 1963 y 5 años después se transformó en la primera sede regional de la universidad.
 
 Desde entonces  ha desarrollado diferentes líneas de investigación y ha logrado una importante vinculación con el medio a través de proyectos orientados a la diversidad cultural y al respeto del medio ambiente.
 
