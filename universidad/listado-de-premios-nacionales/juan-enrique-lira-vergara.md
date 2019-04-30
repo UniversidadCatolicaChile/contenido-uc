@@ -24,7 +24,9 @@ En paralelo se desempeñó como reportero gráfico en medios como **El Diario Il
 
 Fue el **primer editor fotográfico de Chile**, ejerciendo dicha labor **en "El Mercurio" durante treinta años**. Durante este período fue testigo directo de parte importante de la historia de Chile. En este diario fue uno de los creadores de la Revista del Domingo.
 
-Entre 1969 y mediados de la década de los 70 fue p**rofesor de fotografía periodística en la Universidad Católica.**
+Entre 1969 y mediados de la década de los 70 fue **profesor de fotografía periodística en la Universidad Católica.**
+
+#### Premio Nacional
 
 Por su larga y múltiple trayectoria ganó el **Premio Nacional de Periodismo en 1987**, mención fotografía.
 
