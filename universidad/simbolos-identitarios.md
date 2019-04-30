@@ -156,13 +156,13 @@ Imagen: [http://centroeventos.uc.cl/wp-content/uploads/2017/05/Centro-Ext-plaza-
 
 Ubicado en las antiguas instalaciones del Instituto de Humanidades Luis Campino, el Centro de Extensión fue fundado bajo el rectorado del rector Juan de Dios Vial en la década de los ochenta. Su objetivo era servir como espacio cultural para la difusión de las artes, la transferencia de conocimiento, la capacitación de alto nivel y la perfección cultural bajo el signo de la educación continua.
 
-Mascota UC
+#### Mascota UC
 
 ![Puma, mascota UC](../.gitbook/assets/puma-mascota-uc.jpg)
 
 Durante el año 2018, luego de un proceso de participación, diseño colaborativo y concursos, se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado para una mascota UC. 
 
-**El animal elegido fue el puma**, **mamífero típico de Chile, que se caracteriza por su astucia, valentía y autonomía**. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
+**El animal elegido fue el puma**, **mamífero nativo de Chile, que se caracteriza por su astucia, valentía y autonomía**. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
 
 Fuente: http://mascotauc.cl/pagina-4.html  
 
