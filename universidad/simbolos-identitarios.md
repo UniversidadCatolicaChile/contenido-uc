@@ -37,18 +37,6 @@ Alt: Bandera, Pontificia Universidad Católica de Chile
 Los elementos que caracterizan nuestra bandera institucional son un fondo blanco atravesado por una franja azul, y el escudo a color de la universidad.  
 
 
-### Mascota UC
-
-Imagen: _pendiente_
-
-![Puma, mascota UC](../.gitbook/assets/puma-mascota-uc.jpg)
-
-Durante el año 2018, luego de un proceso de participación, diseño colaborativo y concursos, se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado para una mascota UC. 
-
-**El animal elegido fue el puma**, **mamífero típico de Chile, que se caracteriza por su astucia, valentía y autonomía**. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
-
-Fuente: http://mascotauc.cl/pagina-4.html
-
 ### Himno
 
 El himno fue compuesto por Alberto Buccicardi, Charles Brown y Pedro Fornazari. La melodía original está inspirada en la canción: “Tramp, tramp, tramp, the boys are marching” del año 1864. Dicha canción fue compuesta por George F. Root durante la Guerra Civil Norteamericana, para llevar esperanza a los prisioneros de la guerra. 
@@ -166,6 +154,16 @@ El vitral de la caja de las escaleras en el acceso a la capilla de la Casa Centr
 
 Imagen: [http://centroeventos.uc.cl/wp-content/uploads/2017/05/Centro-Ext-plaza-central-slider.jpg](http://centroeventos.uc.cl/wp-content/uploads/2017/05/Centro-Ext-plaza-central-slider.jpg)
 
-Ubicado en las antiguas instalaciones del Instituto de Humanidades Luis Campino, el Centro de Extensión fue fundado bajo el rectorado del rector Juan de Dios Vial en la década de los ochenta. Su objetivo era servir como espacio cultural para la difusión de las artes, la transferencia de conocimiento, la capacitación de alto nivel y la perfección cultural bajo el signo de la educación continua.  
+Ubicado en las antiguas instalaciones del Instituto de Humanidades Luis Campino, el Centro de Extensión fue fundado bajo el rectorado del rector Juan de Dios Vial en la década de los ochenta. Su objetivo era servir como espacio cultural para la difusión de las artes, la transferencia de conocimiento, la capacitación de alto nivel y la perfección cultural bajo el signo de la educación continua.
+
+Mascota UC
+
+![Puma, mascota UC](../.gitbook/assets/puma-mascota-uc.jpg)
+
+Durante el año 2018, luego de un proceso de participación, diseño colaborativo y concursos, se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado para una mascota UC. 
+
+**El animal elegido fue el puma**, **mamífero típico de Chile, que se caracteriza por su astucia, valentía y autonomía**. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
+
+Fuente: http://mascotauc.cl/pagina-4.html  
 
 
