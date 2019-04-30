@@ -4,11 +4,25 @@
 
 ![](../../../.gitbook/assets/_mg_5480.jpg)
 
-El prorrector de gestión institucional es la autoridad encargada de la vinculación de las organizaciones relacionadas con la Universidad, además de tener funciones particulares en la gestión y desarrollo institucional. Junto con el prorrector y la vicerrectora económica debe velar por el avance y cumplimiento del plan de desarrollo.
+Su biografía:
 
-El actual prorrector de gestión institucional es el ingeniero Patricio Donoso.
+Patricio Donoso Ibáñez es I**ngeniero Civil de la Pontificia Universidad Católica de Chile y Master of Science en Ingeniería del Massachusetts Institute of Technology \(MIT\).**
 
-[Revisa su currículum](https://escueladeadministracion.uc.cl/directorio/profesores/patricio-donoso/)
+Antes de ser Prorrector de Gestión Institucional, fue Vicerrector Económico y de Gestión de la UC, entre los años 2010 y 2015.
+
+**Es Profesor Titular de la Facultad de Economía y Administración** de la Universidad, y se desempeñó además como Director del Centro de Desarrollo Directivo y del Programa Avanzado de Alta Dirección, realizado conjuntamente con el Kellogg Business School de USA.
+
+Con anterioridad fue profesor y sub director de la Facultad de Ingeniería de la PUC. Estuvo a cargo del Proyecto Centenario de la Universidad, y de la creación de su Centro de Extensión, del cual fue Director Ejecutivo por varios años.
+
+Ha realizado investigaciones en temas de estrategia y administración de empresas, que han sido publicadas en diversas revistas académicas internacionales. El año 2008 se editó su libro “Organizaciones para la Gestión Tecnológica: Buenas prácticas internacionales” \(Fundación Copec-Universidad Católica\).
+
+**Ha sido consultor en temas de estrategia y gestión de importantes de empresas nacionales**, como: AFP Habitat, Aguas Andinas, Anglo American, Codelco, CTI, Embotelladora Andina, Entel, FASA, Grupo Arauco, LAN, Metro, Movistar, SQM, Sopraval, Unilever, etc. Ha asesorado instituciones como: Corporación de Administración del Poder Judicial, Tesorería General de la República, Carabineros, SEP \(Sistema de Empresas Públicas\), DGAC, etc. También ha prestado apoyo a organizaciones sin fines de lucro.
+
+**En la actualidad es presidente del directorio de la Fundación Duoc UC, y es miembro de los directorios de Dictuc S.A:, Red de Salud UC CHRISTUS; y CHRISTUS Health Corporation**.
+
+#### Sus tareas
+
+El Prorrector de Gestión Institucional es la **autoridad encargada de la vinculación de las organizaciones relacionadas con la Universidad**, además de tener funciones particulares en la **gestión y desarrollo institucional**. Junto con el Prorrector y la Vicerrectora Económica debe velar por el avance y cumplimiento del plan de desarrollo.
 
 ### Su equipo
 

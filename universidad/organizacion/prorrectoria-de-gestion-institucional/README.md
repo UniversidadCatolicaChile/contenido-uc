@@ -40,7 +40,7 @@ Unidad encargada de la preparación, actualización y análisis de información 
 
 #### UC online
 
-Falta descripción
+_Falta descripción_
 
 **Directora:** Luz Montero
 

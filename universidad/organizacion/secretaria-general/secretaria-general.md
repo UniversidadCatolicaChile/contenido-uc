@@ -6,13 +6,13 @@
 
 #### Su biografía
 
-Marisol Peña es profesora del Departamento de Derecho Público y recientemente se incorporó como Miembro de Número de la Academia Chilena de Ciencias Sociales Políticas y Morales del Instituto de Chile.
+Marisol Peña **es profesora del Departamento de Derecho Público y desde 2018 se incorporó como Miembro de Número de la Academia Chilena de Ciencias Sociales Políticas y Morales del Instituto de Chile**.
 
 Desde el año 1982, la profesora Peña imparte las cátedras de Derecho Político y Constitucional, y fue una de las gestoras del programa de Magíster en Derecho Constitucional UC. Ha sido distinguida con los premios "Excelencia Docente" y "Reconocimiento a la Excelencia Docente", y ha dirigido el departamento de Derecho Público UC.
 
 En el ámbito profesional, se ha desempeñado como abogado de la División de Municipalidades de la Contraloría General de la República y asesora jurídica de los ministerios Secretaría General de Gobierno y Secretaría General de la Presidencia.
 
-En enero de 2006 fue designada abogada integrante del Tribunal Constitucional y, en mayo del mismo año, ministra del Tribunal Constitucional por la Excma. Corte Suprema.
+**En enero de 2006 fue designada abogada integrante del Tribunal Constitucional y, en mayo del mismo año, ministra del Tribunal Constitucional por la Excma. Corte Suprema**.
 
 En 2018, la profesora Marisol Peña se incorporó como Miembro de Número de la Academia Chilena de Ciencias Sociales Políticas y Morales del Instituto de Chile.
 
@@ -20,18 +20,15 @@ En 2018, la profesora Marisol Peña se incorporó como Miembro de Número de la 
 
 #### Sus tareas
 
-La Secretaria General es la autoridad que tiene la función de ser Ministro de Fe de la Universidad, autorizar los actos administrativos y certificar los hechos de la vida universitaria. Además, cumple con las siguientes funciones:
+El Secretario o Secretaria General es la autoridad que **tiene la función de ser Ministro o Ministra de Fe de la Universidad, autorizar los actos administrativos y certificar los hechos de la vida universitaria**. Algunas de sus funciones específicas son:
 
-* Propone e interpreta la normativa interna y velar por su eficaz cumplimiento.
-* Realiza las citaciones, mantiene el registro de las sesiones y certifica los acuerdos del Honorable Consejo Superior.
-* Realiza las citaciones y mantiene los registros de sesiones del Foro Universitario UC.
+* Propone e interpreta la normativa interna y vela por su eficaz cumplimiento.
+* Realiza las citaciones, mantiene el registro de las sesiones y certifica los acuerdos del Honorable Consejo Superior y del Foro Universitario.
 * Preside las comisiones de Títulos y Grados, Apelación y Centros UC.
 * Autoriza el uso de espacio físico al interior de la Universidad.
 * Inicia los procesos de responsabilidad académica y disciplinaria de los miembros de la comunidad.
 
-La Secretaria General es la abogada Marisol Peña.
-
-[Revisa su currículum.](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-publico/635-pena-torres-marisol)
+Para conocer más detalles sobre su función puedes revisar el [documento de Estatutos Generales de la Universidad.](http://secretariageneral.uc.cl/documento/normas-generales/111-estatutos-generales/file)
 
 ### Su equipo
 

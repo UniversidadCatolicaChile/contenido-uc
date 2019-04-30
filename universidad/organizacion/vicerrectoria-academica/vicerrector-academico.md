@@ -4,26 +4,30 @@
 
 ![Juan Larra&#xED;n, vicerrector Acad&#xE9;mico](../../../.gitbook/assets/_mg_5371.jpg)
 
-El vicerrector académico es la autoridad encargada de elaborar y ejecutar la política académica de la Universidad. Entre algunas de sus funciones se encuentran:
+#### Su carrera
 
-* Propone las políticas académicas de docencia universitaria de pregrado, magíster, postítulos, especialidades médicas, y doctorado.
-* Propone las políticas sobre la planta de académicos, su carrera y perfeccionamiento.
-* Propone y coordina acciones y proyectados relacionados con el desarrollo académico de la Universidad.
-* Preside la Comisión Técnica de Admisión.
-* Propone las políticas de admisión estudiantil universitaria, y las políticas académicas de inclusión.
-* Aprueba convenios de la Universidad con otras instituciones.
+**Juan Agustín Larraín Correa es Bioquímico UC titulado en 1993 y Ph.D en Biología Celular y Molecular de la Pontificia Universidad Católica. Obtuvo su grado de Doctor en 1998 y realizó un postdoctorado en la Universidad de California que finalizó el año 2000.**
 
-El actual vicerrector académico es el biólogo Juan Larraín
+Desde el 2006 se desempeña como **profesor Titular del Departamento de Biología Molecular y Celular** de la UC, donde ha hecho clases desde el 2002. Su área de especialidad es la embriología molecular.
 
-[Revisa su currículum.](http://biologia.uc.cl/es/cuerpo-academico/profesor/41)
+El 2008 recibió la medalla "Pío XI", en reconocimiento a su destacada trayectoria de investigación en el campo del desarrollo embrionario y regeneración de tejidos.
+
+**Fue Vicerrector de Investigación en el primer período del rector Ignacio Sánchez \(2010-2015\)**.
+
+#### Sus tareas
+
+El vicerrector académico **es la autoridad encargada de elaborar y ejecutar la política académica de la Universidad**. Algunas de sus funciones son:
+
+* Proponer las políticas académicas de docencia universitaria de pregrado, magíster, postítulos, especialidades médicas, y doctorado.
+* Proponer las políticas sobre la planta de académicos, su carrera y perfeccionamiento.
+* Proponer las políticas de admisión estudiantil universitaria, y las políticas académicas de inclusión.
+* Aprobar convenios de la Universidad con otras instituciones.
 
 ### Su equipo
 
-#### Directora ejecutiva VRA
+#### Directora ejecutiva
 
 María José Salinas
-
-
 
 #### Director Académico de Docencia
 

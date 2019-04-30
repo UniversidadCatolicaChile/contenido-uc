@@ -20,10 +20,25 @@ El doctor Sánchez asumió la Rectoría de la Universidad Católica para el per�
 
 #### Sus tareas:
 
-El rector es quien ejerce el gobierno de la Universidad y tiene su representación. Tiene todas las facultades ejecutivas y de administración necesarias para la conducción de la Universidad. Le corresponde especialmente:
+El rector es quien **ejerce el gobierno de la Universidad y tiene su representación**. Tiene todas las facultades ejecutivas y de administración necesarias para la conducción de la Universidad. Es nombrado por la autoridad eclesiástica competente, según las normas de la Santa Sede.
+
+Algunas de las tareas que el corresponden son:
 
 * Proponer al Consejo superior las políticas, programas de actividades y planes de trabajo generales de la Universidad.
-* Proponer al consejo superior la aprobación 
+* Proponer al consejo superior la aprobación o modificación de los Estatutos y demás Reglamentos que sean competencia de este organismo.
+* Proponer al Consejo Superior el presupuesto anual.
+* Convocar y Presidir las sesiones del Consejo Superior.
+* Rendir cuenta de su gestión de manera periódica al Consejo Superior. 
+* Informar al Gran Canciller en cualquier situación que juzgue necesaria.
+* Dictar Reglamentos, Decretos, Resoluciones e Instrucciones.
+* Ejecutar los acuerdos del Consejo Superior.
+* Administrar y disponer de los bienes de la Universidad.
+* Representar a la Universidad ante cualquier autoridad nacional y extranjera. Así como representarla judicial y extrajudicialmente.
+* Designar a las autoridades académicas, al personal docente y administrativo cuando corresponda.
+* Nombrar o remover a los funcionarios que sean de su confianza.
+* Conferir los grados académicos y títulos profesionales.
+
+Para conocer todas las labores que ejerce el Rector, puedes revisar el [documento de los Estatutos Generales de la Universidad](http://secretariageneral.uc.cl/documento/normas-generales/111-estatutos-generales/file).
 
 ### **Su equipo**
 

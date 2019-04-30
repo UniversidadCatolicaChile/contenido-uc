@@ -2,15 +2,13 @@
 
 ## Vicerrectoría Académica
 
-La Vicerrectoría Académica es la unidad encargada de elaborar y ejecutar la política académica de la Universidad. Es liderada por el Vicerrector o Vicerrectora Académica. Entre algunas de sus funciones se encuentran proponer las políticas de docencia universitaria, de la carrera académica, de la admisión estudiantil, de inclusión y de convenios con otras instituciones.
+La Vicerrectoría Académica es la **unidad encargada de elaborar y ejecutar la política académica de la Universidad**. Es liderada por el Vicerrector o Vicerrectora Académica. Entre algunas de sus funciones se encuentran **proponer las políticas de docencia universitaria, de la carrera académica, de la admisión estudiantil, de inclusión y de convenios con otras instituciones**.
 
-### Equipo
+### Sobre el Vicerrector Académico
 
-#### Vicerrector académico
+Es la autoridad unipersonal de la Universidad a quien corresponde la dirección de la Vicerrectoría.
 
-Autoridad encargada de **proponer las políticas de docencia universitaria, de la carrera académica, los proyectos que tengan relación con el desarrollo académico, las políticas de admisión universitaria, de inclusión, y de convenios** con otras instituciones.
-
-Vicerrector: [Juan Larraín](vicerrector-academico.md)
+**Vicerrector Académico**: [Juan Larraín](vicerrector-academico.md)
 
 #### Dirección Ejecutiva
 
