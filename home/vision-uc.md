@@ -11,6 +11,10 @@ Visión UC es un periódico desarrollado por la Dirección de Comunicaciones, qu
 
 ### En esta edición
 
+#### Abril 2019
+
+![](../.gitbook/assets/vision-uc-abril-2019.jpg)
+
 #### Marzo 2019
 
 ![Edici&#xF3;n del mes de marzo de Visi&#xF3;n UC.](../.gitbook/assets/visionuc_marzo.jpg)
