@@ -1,7 +1,7 @@
 ---
 description: >-
-  Es Doctor Honoris Causa de la Universidad Católica de Chile. Premio Nacional
-  de Artes Musicales 1992.
+  Doctor Honoris Causa de la Universidad Católica de Chile. Premio Nacional de
+  Artes Musicales 1992.
 ---
 
 # Juan Orrego Salas
