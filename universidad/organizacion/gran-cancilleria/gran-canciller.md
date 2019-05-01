@@ -10,7 +10,7 @@
 
 Ha sido tesorero de la Asociación Chilena de Derecho canónico; promotor de justicia en el Tribunal Eclesiástico de Valparaíso, y psicólogo y juez en el Tribunal Eclesiástico Interdiocesano de Concepción. Miembro de tribunales especiales para estudiar procesos históricos en causas para beatificación y canonización, le correspondió estudiar el milagro para la canonización del sacerdote Alberto Hurtado.
 
-**2014 el Papa Francisco lo nombró obispo de la diócesis de Copiapó y el 23 de marzo de 2019 el Santo Padre lo nombró Administrador Apostólico** de la arquidiócesis de Santiago y desde entonces es el Pro Gran Canciller de la Universidad Católica. 
+**En 2014 el Papa Francisco lo nombró obispo de la diócesis de Copiapó y el 23 de marzo de 2019 el Santo Padre lo nombró Administrador Apostólico** de la arquidiócesis de Santiago y desde entonces es el Pro Gran Canciller de la Universidad Católica. 
 
 [Más información sobre Mons. Celestino Aós en el sitio de la Iglesia de Chile.](http://iglesia.cl/diocesis_detalle.php?diocesis=12)
 
