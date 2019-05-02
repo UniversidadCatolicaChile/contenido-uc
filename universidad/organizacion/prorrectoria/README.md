@@ -2,13 +2,13 @@
 
 ## Prorrectoría
 
-La Prorrectoría es una unidad ejecutiva de **apoyo directo al gobierno del Rector** y le corresponde **coordinar la labor** desarrollada por las otras unidades de la Rectoría.
+La Prorrectoría es una unidad ejecutiva de **apoyo directo al gobierno del rector** y le corresponde **coordinar la labor** desarrollada por las otras unidades de la Rectoría.
 
-Define y supervisa las tareas de **análisis institucional**, el fomento a la **calidad de vida de los alumnos**, la **gestión de los sistemas de bibliotecas** y la participación de la Universidad en las p**olíticas públicas y las relaciones internacionales**.
+Define y supervisa las tareas de **análisis institucional**, el fomento a la **calidad de vida de los alumnos**, la **gestión de los sistemas de bibliotecas** y la participación de la Universidad en las **políticas públicas y las relaciones internacionales**.
 
-### Sobre el Prorrector
+### Sobre el prorrector
 
-Es la autoridad unipersonal de la Universidad que **subroga al Rector en caso de ausencia** o impedimento temporal. Es nombrado por el Rector y permanece en su cargo mientras cuente con la confianza de éste. No obstante, cesa en sus funciones cumplidos tres años contados desde su nombramiento, pudiendo ser designado para un nuevo período.
+Es la autoridad unipersonal de la Universidad que **subroga al rector en caso de ausencia** o impedimento temporal. Es nombrado por el rector y permanece en su cargo mientras cuente con la confianza de éste. No obstante, cesa en sus funciones cumplidos tres años contados desde su nombramiento, pudiendo ser designado para un nuevo período.
 
 \*\*\*\*[**Prorrector:** Guillermo Marshall](prorrector.md)
 
