@@ -5,7 +5,7 @@
   
 El Honorable Consejo Superior \(o HCS\), es el **máximo organismo colegiado de la Universidad y determina las líneas fundamentales de la política universitaria**. Su composición busca visibilizar la **participación de todos los estamentos** de la comunidad universitaria. **Sesiona semana por medio**, a menos que haya alguna situación que amerite un consejo extraordinario.
 
-Cuando existen temas que por su profundidad y relevancia lo ameritan, el Rector forma **comisiones compuestas por ocho a diez miembros del HCS**, que son encargadas de analizar durante un tiempo \(generalmente dos a cuatro meses\) la temática, para luego presentar un informe al consejo en pleno. **Cada año se forman dos a tres comisiones**. 
+Cuando existen temas que por su profundidad y relevancia lo ameritan, el rector forma **comisiones compuestas por ocho a diez miembros del HCS**, que son encargadas de analizar durante un tiempo \(generalmente dos a cuatro meses\) la temática, para luego presentar un informe al consejo en pleno. **Cada año se forman dos a tres comisiones**. 
 
 De acuerdo a los estatutos de 1982, el Honorable Consejo Superior reemplazó al Consejo Universitario. Su primera sesión se realizó el 31 de diciembre de 1982.
 
@@ -217,13 +217,9 @@ Nombre: Paulina Carrillo
 Cargo: Representante estudiantil  
 [Ver perfil](http://consejeriasuperior.cl/)
 
-Puesto 31:  
-Nombre: Paulina Carrillo  
-Cargo: Representante estudiantil
-
 Puesto 32:  
 Nombre: Claudio Rolle  
-Cargo: Representante de académicos  
+Cargo: Representante de los académicos  
 [Ver perfil](http://historia.uc.cl/Planta-Academica/rolle-claudio.html)
 
 Puesto 33:  
@@ -233,7 +229,7 @@ Cargo: Director campus Villarrica
 
 Puesto 34:  
 Nombre: Alejandro Jara  
-Cargo: Representante de académicos  
+Cargo: Representante de los académicos  
 [Ver perfil](http://www.mat.uc.cl/~ajara/Home.html)
 
 Puesto 35:  
@@ -243,7 +239,7 @@ Cargo: Director Programa de Estudios Generales College
 
 Puesto 36:  
 Nombre: Patricia García  
-Cargo: Representante de académicos  
+Cargo: Representante de los académicos  
 [Ver perfil](https://medicina.uc.cl/persona/patricia-garcia-canete/)
 
 Puesto 37:  
