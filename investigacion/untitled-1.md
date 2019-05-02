@@ -96,6 +96,8 @@ Foto: [https://drive.google.com/file/d/1ZgO2wSOWuMXbjTNEgm59-fDUGzWD1kcB/view?us
 
 \(filtro\)
 
+[Botón Centros de investigación](http://investigacion.uc.cl/Investigacion-menu-superior/centros-de-investigacion.html)
+
 ### Financiamiento
 
 [Concursos VRI](http://investigacion.uc.cl/Fondos-concursables/fondos-concursables.html)  
