@@ -16,7 +16,7 @@ Colabora como consejero en la Fundación Cardenal Juan Francisco Fresno y en la 
 
 El doctor Sánchez asumió la Rectoría de la Universidad Católica para el período 2010, sucediendo en el cargo al doctor Pedro Pablo Rosso.
 
-**En el año 2015, asumió su segundo período como rector de la Pontificia Universidad Católica de Chile**. 
+**En el año 2015 asumió su segundo período como rector de la Pontificia Universidad Católica de Chile**. 
 
 #### Sus tareas:
 
@@ -24,21 +24,21 @@ El rector es quien **ejerce el gobierno de la Universidad y tiene su representac
 
 Algunas de las tareas que el corresponden son:
 
-* Proponer al Consejo superior las políticas, programas de actividades y planes de trabajo generales de la Universidad.
-* Proponer al consejo superior la aprobación o modificación de los Estatutos y demás Reglamentos que sean competencia de este organismo.
+* Proponer al Consejo Superior las políticas, programas de actividades y planes de trabajo generales de la Universidad.
+* Proponer al Consejo Superior la aprobación o modificación de los estatutos y demás reglamentos que sean competencia de este organismo.
 * Proponer al Consejo Superior el presupuesto anual.
-* Convocar y Presidir las sesiones del Consejo Superior.
+* Convocar y presidir las sesiones del Consejo Superior.
 * Rendir cuenta de su gestión de manera periódica al Consejo Superior. 
 * Informar al Gran Canciller en cualquier situación que juzgue necesaria.
-* Dictar Reglamentos, Decretos, Resoluciones e Instrucciones.
+* Dictar reglamentos, decretos, resoluciones e instrucciones.
 * Ejecutar los acuerdos del Consejo Superior.
 * Administrar y disponer de los bienes de la Universidad.
-* Representar a la Universidad ante cualquier autoridad nacional y extranjera. Así como representarla judicial y extrajudicialmente.
+* Representar a la Universidad ante cualquier autoridad nacional y extranjera. Representarla judicial y extrajudicialmente.
 * Designar a las autoridades académicas, al personal docente y administrativo cuando corresponda.
 * Nombrar o remover a los funcionarios que sean de su confianza.
 * Conferir los grados académicos y títulos profesionales.
 
-Para conocer todas las labores que ejerce el Rector, puedes revisar el [documento de los Estatutos Generales de la Universidad](http://secretariageneral.uc.cl/documento/normas-generales/111-estatutos-generales/file).
+Para conocer todas las labores que ejerce el rector, puedes revisar el [documento de los Estatutos Generales de la Universidad](http://secretariageneral.uc.cl/documento/normas-generales/111-estatutos-generales/file).
 
 ### **Su equipo**
 
