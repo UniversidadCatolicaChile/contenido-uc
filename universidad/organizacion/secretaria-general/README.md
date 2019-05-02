@@ -8,7 +8,7 @@ Secretaría general [Ir al sitio web](http://secretariageneral.uc.cl/)
 
 ### Sobre la Secretaria General
 
-Es la autoridad que tiene la función de ser Ministra de Fe de la Universidad, autorizar los actos administrativos y certificar los hechos de la vida universitaria.
+Es la autoridad que tiene la función de ser ministra de fe de la Universidad, autorizar los actos administrativos y certificar los hechos de la vida universitaria.
 
 #### [Secretaria General: Marisol Peña](secretaria-general.md)
 
