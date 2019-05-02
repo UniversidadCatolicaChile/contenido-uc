@@ -135,8 +135,19 @@ Foto: https://www.uc.cl/images/stories/simbolos/vitrales.jpg
 Alt. Vitral de Casa Central, Pontificia Universidad Católica de Chile
 
 Texto:  
-El vitral de la caja de las escaleras en el acceso a la capilla de la Casa Central fue diseñado por Adolfo Winterlitz e inaugurado en 1931. En 1988 fue utilizado como símbolo en la celebración del Centenario.  
+El vitral de la caja de las escaleras en el acceso a la capilla de la Casa Central fue diseñado por Adolfo Winterlitz e inaugurado en 1931. En 1988 fue utilizado como símbolo en la celebración del Centenario.
 
+### Mascota UC
+
+![Puma, mascota UC](../.gitbook/assets/puma-mascota-uc.jpg)
+
+Durante el año 2018, luego de un proceso de participación, diseño colaborativo y concursos, se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado para una mascota UC. 
+
+**El animal elegido fue el puma**, **mamífero nativo de Chile, que se caracteriza por su astucia, valentía y autonomía**. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
+
+Fuente: http://mascotauc.cl/pagina-4.html
+
+#### Campus y espacios físicos
 
 ### [Casa Central](campus/campus-casa-central.md)
 
@@ -148,22 +159,7 @@ El vitral de la caja de las escaleras en el acceso a la capilla de la Casa Centr
 
 ### [Campus Villarrica](campus/campus-villarrica.md)
 
-### Centro de Extensión
+### [Centro de Extensión](http://centroeventos.uc.cl/nuestros_centros/centro-de-extension-alameda/)
 
-![](../.gitbook/assets/centro-extensionuc-plaza-central.jpg)
-
-Imagen: [http://centroeventos.uc.cl/wp-content/uploads/2017/05/Centro-Ext-plaza-central-slider.jpg](http://centroeventos.uc.cl/wp-content/uploads/2017/05/Centro-Ext-plaza-central-slider.jpg)
-
-Ubicado en las antiguas instalaciones del Instituto de Humanidades Luis Campino, el Centro de Extensión fue fundado bajo el rectorado del rector Juan de Dios Vial en la década de los ochenta. Su objetivo era servir como espacio cultural para la difusión de las artes, la transferencia de conocimiento, la capacitación de alto nivel y la perfección cultural bajo el signo de la educación continua.
-
-#### Mascota UC
-
-![Puma, mascota UC](../.gitbook/assets/puma-mascota-uc.jpg)
-
-Durante el año 2018, luego de un proceso de participación, diseño colaborativo y concursos, se lograron recoger ideas, percepciones, simbolismos, valores y espíritu deseado para una mascota UC. 
-
-**El animal elegido fue el puma**, **mamífero nativo de Chile, que se caracteriza por su astucia, valentía y autonomía**. Su presencia en el ecosistema es clave para mantener el equilibrio natural.
-
-Fuente: http://mascotauc.cl/pagina-4.html  
-
+###  
 
