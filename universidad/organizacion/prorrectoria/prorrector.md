@@ -1,8 +1,10 @@
 # Prorrector
 
-![Guillermo Marshall, Prorrector.](../../../.gitbook/assets/_mg_7223.jpg)
-
 ### Guillermo Marshall Rivera
+
+#### Prorrector
+
+![Guillermo Marshall, Prorrector.](../../../.gitbook/assets/_mg_7223.jpg)
 
 #### Su carrera
 
@@ -13,20 +15,6 @@ Desde 1984 hace clases en la UC. Actualmente es **profesor titular de la Faculta
 Ha participado en diversas publicaciones vinculadas a la estadística y la bioestadística.
 
 **Fue prorrector en el primer período del rector Ignacio Sánchez, y ahora continúa en su cargo.** 
-
-#### Sus tareas
-
-#### Prorrector
-
-El prorrector es la autoridad a quien le corresponde **subrogar al rector en caso de ausencia o impedimento temporal**. Estas son algunas de sus tareas: 
-
-#### Su carrera
-
-**Guillermo Marshall es licenciado en matemáticas y estadístico UC** titulado en 1984. Posteriormente realizó un **Ph.D en Bioestadística en la Universidad de Colorado** obteniendo el grado de Doctor en 1990. Desde 1984 hace clases en la UC, siendo **actualmente profesor titular de la Facultad de Matemáticas**, donde también fue Decano a partir del año 2004. Ha sido también Jefe de Departamento de Salud Pública de la Escuela de Medicina UC, Miembro del Consejo de la Facultad de Matemáticas, Director de docencia y Jefe del Programa de Magíster en Estadística de la misma.  
-  
-Ha participado en diversas publicaciones vinculadas a la estadística y la bioestadística.
-
-Fue Prorrector en el primer período del rector Ignacio Sánchez, y ahora continúa en su cargo. 
 
 #### Sus tareas
 
