@@ -50,7 +50,7 @@ _Evento 3_
 
 ![Este &quot;Campus de las Artes&quot; cuenta con espacios apropiados para desarrollar sus actividades.](../../.gitbook/assets/alumna-pinta-cuadro-escuela-arte-campus-oriente.jpg)
 
-### Historia del Campus
+### Historia de Campus Oriente
 
 ![](../../.gitbook/assets/patio-campus-oriente-antes-1940.jpg)
 

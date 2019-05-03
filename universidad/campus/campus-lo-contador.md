@@ -1,5 +1,7 @@
 # Campus Lo Contador
 
+## Campus Lo Contador
+
 ![](../../.gitbook/assets/patio-de-los-naranjos-sin-alumnos-lo-contador-karina-fuenzalida.jpg)
 
 ### Contáctanos
@@ -38,7 +40,7 @@ _Evento 3_
 
 ![En los patios se re&#xFA;nen los estudiantes de arquitectura, dise&#xF1;o y estudios urbanos.](../../.gitbook/assets/alumnos-en-patios-de-arquitectura-lo-contador-cesar-cortes.jpg)
 
-### Historia del Campus
+### Historia de Lo Contador
 
 ![](../../.gitbook/assets/campus-lo-contador-1900.jpg)
 

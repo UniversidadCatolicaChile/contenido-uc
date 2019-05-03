@@ -99,7 +99,7 @@ _Evento 3_
 
 ![La escultura Grupo Humano de Mario Irarr&#xE1;zabal, es parte del patrimonio art&#xED;stico de la universidad. - Foto Karina Fuenzalida](../../.gitbook/assets/fachada-escuela-ingenieria-escultura-grupo-humano-mario-irarrazabal-san-joaquin-karina-fuenzalida.jpg)
 
-### Historia del Campus
+### Historia de San Joaquín
 
 ![](../../.gitbook/assets/patio-ingenieria-decada-1970.jpg)
 
