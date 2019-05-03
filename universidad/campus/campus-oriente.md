@@ -1,5 +1,7 @@
 # Campus Oriente
 
+## Campus Oriente
+
 ![](../../.gitbook/assets/alumna-camina-por-pasillo-campus-oriente.png)
 
 ### Contáctanos

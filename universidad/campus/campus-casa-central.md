@@ -1,5 +1,7 @@
 # Campus Casa Central
 
+## Campus Casa Central
+
 ![](../../.gitbook/assets/patio-de-la-virgen-casa-central-karina-fuenzalida.jpg)
 
 ### Contáctanos
@@ -50,7 +52,7 @@ _Evento 3_
 
 ![En el patio de la Facultad de Comunicaciones se aprecia la mezcla arm&#xF3;nica de estilos arquitect&#xF3;nicos del campus.](../../.gitbook/assets/patio-facultad-comunicaciones-casa-central-karina-fuenzalida.jpg)
 
-### Historia de Campus
+### Historia de Casa Central
 
 ![](../../.gitbook/assets/fachada-casa-central-1915.jpg)
 

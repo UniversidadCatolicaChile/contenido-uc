@@ -1,5 +1,7 @@
 # Campus San Joaquín
 
+## Campus San Joaquín
+
 ![](../../.gitbook/assets/alumnas-caminan-por-san-joaquin-en-dia-de-otono-cesar-cortes.jpg)
 
 ### Contáctanos
