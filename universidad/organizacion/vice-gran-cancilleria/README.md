@@ -6,7 +6,7 @@ La Vice Gran Cancillería es la unidad que tiene la importante tarea de **repres
 
 ### Sobre el Vice Gran Canciller
 
-Es el **representante del Gran Canciller en la universidad**. Cuando el Gran Canciller delega sus labores pastorales en él preside y dirige la Dirección de Pastoral. 
+Es el **representante del Gran Canciller en la Universidad**. Cuando el Gran Canciller delega sus labores pastorales en él preside y dirige la Dirección de Pastoral. 
 
 [Vice Gran Canciller: Tomás Scherz Take](vice-gran-canciller.md)
 

@@ -12,13 +12,13 @@ Investigación [\[Ir al sitio\]](http://investigacion.uc.cl/)
 
 \*\*\*\*[**Vicerrector de Investigación:** Pedro Bouchon](vicerrector-de-investigacion.md)
 
-### Unidades de la Vicerrectoría de Investigación
-
-#### Dirección Ejecutiva:
-
 Unidad a cargo de la **gestión administrativa, económica y financiera de la vicerrectoría**, que presta apoyo al Vicerrector de Investigación y a las direcciones asociadas.
 
 **Directora**: Pamela Fernández
+
+### Unidades de la Vicerrectoría de Investigación
+
+#### Dirección Ejecutiva:
 
 #### Dirección de Transferencia y Desarrollo:
 
@@ -57,7 +57,7 @@ Centro que busca **inspirar, potenciar y difundir** las capacidades de las disti
 
 #### Ética UC para la Investigación:
 
-Unidad cuya misión es **velar por la excelencia resguardando la ética en la investigación y las buenas prácticas científicas**, a través de la correcta conducción de las investigaciones, asesorías a los Comités Éticos y la formación de los miembros de la comunidad universitaria.
+Unidad cuya misión es **velar por la excelencia resguardando la ética en la investigación y las buenas prácticas científicas**, a través de la correcta conducción de las investigaciones, asesorías a los comités éticos y la formación de los miembros de la comunidad universitaria.
 
 **Coordinadora Ética - Bioética**: Andrea Leisewitz  
 [Ir al sitio web](http://eticayseguridad.uc.cl/)

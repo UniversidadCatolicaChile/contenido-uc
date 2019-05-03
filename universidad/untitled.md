@@ -27,7 +27,7 @@ Tenemos un compromiso permanente con la calidad, como una forma de expresión de
 
 ### Organización
 
-A continuación te presentamos el organigrama de nuestra Universidad.
+A continuación te presentamos el organigrama de nuestra universidad.
 
 [Gran Cancillería](organizacion/gran-cancilleria/)
 
