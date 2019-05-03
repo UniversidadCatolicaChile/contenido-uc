@@ -1,12 +1,14 @@
 # Prorrector de Gestión Institucional
 
-## Prorrector de Gestión Institucional
+### Patricio Donoso Ibáñez
+
+#### Prorrector de Gestión Institucional
 
 ![](../../../.gitbook/assets/_mg_5480.jpg)
 
 #### Su carrera
 
-Patricio Donoso Ibáñez es i**ngeniero civil de la Pontificia Universidad Católica de Chile y Master of Science en Ingeniería del Massachusetts Institute of Technology \(MIT\).**
+Patricio Donoso Ibáñez es **ingeniero civil de la Pontificia Universidad Católica de Chile y Master of Science en Ingeniería del Massachusetts Institute of Technology \(MIT\).**
 
 Antes de ser prorrector de Gestión Institucional, fue vicerrector Económico y de Gestión de la UC, entre los años 2010 y 2015.
 
