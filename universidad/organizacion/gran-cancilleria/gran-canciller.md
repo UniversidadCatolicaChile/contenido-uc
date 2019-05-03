@@ -1,6 +1,8 @@
 # Gran Canciller
 
-## Gran Canciller
+### Monseñor Celestino Aós Braco
+
+#### Gran Canciller
 
 ![Monse&#xF1;or Celestino A&#xF3;s, Pro-Gran Canciller.](../../../.gitbook/assets/celestino_aos.jpg)
 
