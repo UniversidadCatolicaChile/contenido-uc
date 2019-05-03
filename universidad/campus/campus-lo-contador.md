@@ -44,10 +44,20 @@ _Evento 3_
 
 ![](../../.gitbook/assets/campus-lo-contador-1900.jpg)
 
-La historia de la casa se remonta al siglo XVIII, cuando Francisco Antonio Avaria compró para su sobrina huérfana, Mercedes Contador, una serie de pequeñas propiedades entre el Cerro San Cristóbal y el río Mapocho, constituyendo así la chacra de Lo Contador. 
+La historia de la casa se remonta al siglo XVIII, cuando Francisco Antonio Avaria compró una serie de pequeñas propiedades entre el Cerro San Cristóbal y el río Mapocho, para su sobrina huérfana Mercedes Contador. Así nació la chacra de Lo Contador. 
 
-Durante el siglo XIX, Mercedes amplió el inmueble para permitir la realización de ejercicios espirituales. Durante el siglo XX, y debido al proceso de urbanización, comienza el loteo de los terrenos, oportunidad que aprovechó la universidad, a instancias de Sergio Larraín, para comprar el inmueble y construir en aquel lugar el nuevo campus de la universidad. 
+En ese período se construyó una casa colonial de adobe y maderas nativas. Ella perdura hasta hoy como un valioso ejemplo de arquitectura rural de los alrededores de Santiago. Desde 1974 está protegida como monumento histórico por el Consejo de Monumentos Nacionales. 
 
-El edificio fue declarado Monumento Histórico en 1974.  
+Durante el siglo XIX, la casa se amplió para permitir la realización de ejercicios espirituales. Más tarde, durante la Guerra del Pacífico, la casa se usó hospital de convalecientes.
+
+Hacia mediados del siglo XX, y debido al proceso de urbanización del barrio Pedro de Valdivia Norte, comenzó la venta de los terrenos de la chacra. En 1958 y a instancias del decano de la Facultad de Arquitectura, Sergio Larraín, la Universidad aprovechó de comprar el inmueble y construir en aquel lugar un nuevo campus para la universidad. 
+
+La casa no ha sufrido transformaciones conservando su carácter original, pero en sus alrededores sí se han construido distintos edificios. Es uno de los lugares donde se articulan edificaciones históricas con propuestas contemporáneas de manera especialmente armónica. 
+
+Desde hace más de 40 años el campus alberga a la Facultad de Arquitectura, Diseño y Estudios Urbanos, y ha sido testigo de la formación de algunos de los profesionales de la arquitectura, diseño y arte, más relevantes del país.
+
+Recorrer los espacios del campus, como lo hacen cotidianamente estudiantes, docentes y visitantes, permite gozar de un espacio en el que se entretejen construcciones antiguas y contemporáneas, radicales y respetuosas a las vez.
+
+  
 
 
