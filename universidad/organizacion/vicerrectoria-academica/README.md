@@ -2,9 +2,9 @@
 
 ## Vicerrectoría Académica
 
-La Vicerrectoría Académica es la **unidad encargada de elaborar y ejecutar la política académica de la Universidad**. Es liderada por el Vicerrector o Vicerrectora Académica. Entre algunas de sus funciones se encuentran **proponer las políticas de docencia universitaria, de la carrera académica, de la admisión estudiantil, de inclusión y de convenios con otras instituciones**.
+La Vicerrectoría Académica es la **unidad encargada de elaborar y ejecutar la política académica de la Universidad**. Es liderada por el vicerrector o vicerrectora académica. Entre algunas de sus funciones se encuentran **proponer las políticas de docencia universitaria, de la carrera académica, de la admisión estudiantil, de inclusión y de convenios con otras instituciones**.
 
-### Sobre el Vicerrector Académico
+### Sobre el vicerrector académico
 
 Es la autoridad unipersonal de la Universidad a quien corresponde la dirección de la Vicerrectoría.
 
@@ -18,7 +18,7 @@ Directora: María José Salinas
 
 #### Dirección Académica de Docencia
 
-Unidad encargada del e**studio y ejecución del Proyecto Educativo** de la Universidad. Para ello **revisa la calidad de los programas de estudio y el cumplimiento de las políticas académicas,** en directa coordinación con las Unidades Académicas, velando en conjunto por la calidad de los diversos planes de estudio.
+Unidad encargada del **estudio y ejecución del proyecto educativo** de la Universidad. Para ello **revisa la calidad de los programas de estudio y el cumplimiento de las políticas académicas,** en directa coordinación con las Unidades Académicas, velando en conjunto por la calidad de los diversos planes de estudio.
 
 **Director:** Gonzalo Pizarro
 

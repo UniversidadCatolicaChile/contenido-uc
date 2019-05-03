@@ -14,7 +14,7 @@ Es la autoridad encargada de la **vinculación de la Universidad con las organiz
 
 #### Dirección Ejecutiva
 
-Unidad a cargo de la gestión administrativa, económica y financiera de la Prorrectoría de Gestión Institucional, que presta apoyo al Prorrector de Gestión Institucional y a las direcciones asociadas.
+Unidad a cargo de la gestión administrativa, económica y financiera de la Prorrectoría de Gestión Institucional, que presta apoyo al prorrector de Gestión Institucional y a las direcciones asociadas.
 
 **Directora:** Paulina Dreyer
 
