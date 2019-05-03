@@ -1,6 +1,8 @@
 # Vicerrectora Económica
 
-## Vicerrectora Económica
+### María Loreto Massanés Vogel
+
+#### Vicerrectora Económica
 
 ![Mar&#xED;a Loreto Massan&#xE9;s, vicerrectora Econ&#xF3;mica.](../../../.gitbook/assets/_mg_5443.jpg)
 

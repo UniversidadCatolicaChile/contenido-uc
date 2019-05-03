@@ -1,6 +1,8 @@
 # Vicerrector Académico
 
-## Vicerrector Académico
+### Juan Larraín Correa
+
+#### Vicerrector Académico
 
 ![Juan Larra&#xED;n, vicerrector Acad&#xE9;mico](../../../.gitbook/assets/_mg_5371.jpg)
 
@@ -44,6 +46,8 @@ Juan Echeverría
 ![Juan Echeverr&#xED;a, director de Admisi&#xF3;n y financiamiento estudiantil.](../../../.gitbook/assets/_mg_1477.JPG)
 
 #### Director Centro de Desarrollo Docente
+
+Claudio Gelmi
 
 ![Claudio Gelmi, director del Centro de Desarrollo Docente.](../../../.gitbook/assets/img_1253.JPG)
 

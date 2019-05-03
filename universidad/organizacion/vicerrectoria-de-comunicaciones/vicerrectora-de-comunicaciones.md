@@ -1,8 +1,10 @@
 # Vicerrectora de Comunicaciones
 
-## Vicerrectora de Comunicaciones
+### María Paulina Gómez Lorenzini
 
-![Mar&#xED;a Paulina G&#xF3;mez, vicerrectora de Comunicaciones](../../../.gitbook/assets/_mg_1176.JPG)
+#### Vicerrectora de Comunicaciones
+
+![](../../../.gitbook/assets/paulina-gomez-vicerrectora-comunicaciones.jpg)
 
 #### Su carrera
 

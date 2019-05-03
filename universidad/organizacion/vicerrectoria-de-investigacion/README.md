@@ -12,13 +12,15 @@ Investigación [\[Ir al sitio\]](http://investigacion.uc.cl/)
 
 \*\*\*\*[**Vicerrector de Investigación:** Pedro Bouchon](vicerrector-de-investigacion.md)
 
-Unidad a cargo de la **gestión administrativa, económica y financiera de la vicerrectoría**, que presta apoyo al Vicerrector de Investigación y a las direcciones asociadas.
 
-**Directora**: Pamela Fernández
 
 ### Unidades de la Vicerrectoría de Investigación
 
 #### Dirección Ejecutiva:
+
+Unidad a cargo de la **gestión administrativa, económica y financiera de la vicerrectoría**, que presta apoyo al Vicerrector de Investigación y a las direcciones asociadas.
+
+**Directora**: Pamela Fernández
 
 #### Dirección de Transferencia y Desarrollo:
 

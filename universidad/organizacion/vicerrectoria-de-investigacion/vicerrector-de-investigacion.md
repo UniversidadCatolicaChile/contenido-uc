@@ -6,7 +6,9 @@ description: >-
 
 # Vicerrector de Investigación
 
-## Vicerrector de Investigación
+## Pedro Bouchon Aguirre
+
+#### Vicerrector de Investigación
 
 ![Pedro Bouchon, vicerrector de Investigaci&#xF3;n.](../../../.gitbook/assets/vicerrector-investigacion-pedro-bouchon.jpg)
 
@@ -22,7 +24,7 @@ Sus líneas de investigación están enfocadas en el diseño de alimentos con é
 
 #### Sus tareas
 
-Es la autoridad a quien corresponde la dirección de la Vicerrectoría. Su misión es llevar a la UC a la excelencia, aportando con una investigación de primera línea para ser un aporte al país y al mundo.  
+Es la autoridad a quien corresponde la dirección de la Vicerrectoría. **Su misión es llevar a la UC a la excelencia, aportando con una investigación de primera línea para ser un aporte al país y al mundo.**  
 
 
 * Propone las políticas de doctorado y aprueba o modifica los planes y programas de estudio que dictan las Facultades. Asimismo establece los procesos de admisión, beneficios y administración de dichos programas.

@@ -10,6 +10,8 @@ Autoridad encargada de **diseñar y organizar las políticas y actividades de co
 
 \*\*\*\*[**Vicerrectora de Comunicaciones:** María Paulina Gómez ](vicerrectora-de-comunicaciones.md)
 
+### Unidades de la Vicerrectoría de Comunicaciones
+
 #### Dirección Ejecutiva
 
 Unidad a cargo de la **gestión administrativa, económica y financiera de la vicerrectoría**, que presta apoyo a la vicerrectora y a las direcciones asociadas.
