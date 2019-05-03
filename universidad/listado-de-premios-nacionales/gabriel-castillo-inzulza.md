@@ -34,5 +34,11 @@ En 1969 asumió como **profesor Investigador del Centro de Perfeccionamiento, Ex
 
 En 1997 recibe el **Premio Nacional de Ciencias de la Educación** por haber consagrado su vida a la educación, tanto en el campo de la docencia como en el estudio. De modo particular se consideraron sus aportes a la orientación educacional de la cual es un precursor y el más alto representante en Chile.
 
+#### Fuentes
+
+[Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/7365-gabriel-castillo-inzulza-1927-)
+
+[Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/educacion/6550/gabriel-castillo-inzulza)
+
 
 
