@@ -1,6 +1,8 @@
 # Vice Gran Canciller
 
-## Vice Gran Canciller
+### Padre Tomás Scherz Take
+
+#### Vice Gran Canciller
 
 ![Presb&#xED;tero Tom&#xE1;s Scherz, vice gran canciller de la Universidad.](../../../.gitbook/assets/_mg_3609.jpg)
 

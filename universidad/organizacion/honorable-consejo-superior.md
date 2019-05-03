@@ -180,7 +180,7 @@ Cargo: Decano Facultad de Arquitectura, Diseño y Estudios Urbanos
 
 Puesto 24:  
 Nombre: Alejandro Toro-Labbé  
-Cargo: Decano Facultad de Química  
+Cargo: Decano Facultad de Química y de Farmacia  
 [Ver perfil](http://quimica.uc.cl/es/facultad/academicos/60-toro-labbe-alejandro)
 
 Puesto 25:  
