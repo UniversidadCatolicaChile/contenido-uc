@@ -642,5 +642,23 @@ Este premio es entregado anualmente, en la ceremonia de inauguración del Año A
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-|  |  |  |
+| General | Álvaro Bustos Donoso |  |
+|  | Juan Luis Goldenberg Serrano |  |
+|  | Luis Flores González |  |
+|  | Donovan Díaz Droguett |  |
+|  | María José Cot Gómez |  |
+|  | Catalina Balmaceda Errázuriz |  |
+|  | Pablo Pastén González |  |
+|  | Esteban Sáez Robert |  |
+|  | Godofredo Iommi Echeverría |  |
+|  | Cristian Sebastián Balmaceda |  |
+|  | Mario Faúndez Cáceres |  |
+|  | Rodrigo del Río Quero |  |
+|  | Daniella Leal Valenzuela |  |
+|  | Hernán Rivas Catricheo |  |
+| Jornada parcial | Julieta Suárez Cao |  |
+|  | Juan Pedro Ochoa Ricoux |  |
+|  | Julio Pertuzé Salas |  |
+|  | Rodrigo Rojas Ávila |  |
+|  | María de la Luz Marqués Rosa |  |
 
