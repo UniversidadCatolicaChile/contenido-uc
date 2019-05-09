@@ -24,12 +24,6 @@ Presbítero Guillermo Greene
 
 ![Presb&#xED;tero Guillermo Greene, capell&#xE1;n general de la UC.](../../../.gitbook/assets/padre-guillermo-greene.jpg)
 
-#### Director de Pastoral
-
-Francisco Elorrieta
-
-![Francisco Elorrieta, director de Pastoral.](../../../.gitbook/assets/img_7423.JPG)
-
 ### Footer
 
 

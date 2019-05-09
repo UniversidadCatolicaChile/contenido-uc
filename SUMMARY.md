@@ -120,7 +120,7 @@
   * [Campus Casa Central](universidad/campus/campus-casa-central.md)
   * [Campus Lo Contador](universidad/campus/campus-lo-contador.md)
   * [Campus Villarrica](universidad/campus/campus-villarrica.md)
-* [Símbolos Identitarios](universidad/simbolos-identitarios.md)
+* [Símbolos identitarios](universidad/simbolos-identitarios.md)
 * [Código de Honor](universidad/codigo-de-honor.md)
 * [Plan de Desarrollo](universidad/plan-de-desarrollo.md)
 * [Listado de Premios Nacionales](universidad/listado-de-premios-nacionales/README.md)
@@ -254,6 +254,7 @@
 * [Premios Académicos](informacion-para-academicos/premios-academicos.md)
 * [Profesores titulares](informacion-para-academicos/profesores-titulares.md)
 * [Profesores eméritos](informacion-para-academicos/profesores-emeritos.md)
+* [Nuestros profesores](informacion-para-academicos/nuestros-profesores.md)
 
 ## Información para Alumni
 

@@ -4,6 +4,8 @@
 
 #### Gran Canciller
 
+####   Gran Canciller
+
 ![Monse&#xF1;or Celestino A&#xF3;s, Pro Gran Canciller.](../../../.gitbook/assets/celestino_aos.jpg)
 
 #### Su carrera:
@@ -47,6 +49,8 @@ Presbítero Tomás Scherz
 #### Dirección de Pastoral
 
 Francisco Elorrieta
+
+![Francisco Elorrieta, Director de Pastoral](../../../.gitbook/assets/img_7423.JPG)
 
 
 

@@ -10,6 +10,8 @@ Es el **representante del Gran Canciller en la Universidad**. Cuando el Gran Can
 
 [Vice Gran Canciller: Tomás Scherz Take](vice-gran-canciller.md)
 
+
+
 #### 
 
 ### Footer

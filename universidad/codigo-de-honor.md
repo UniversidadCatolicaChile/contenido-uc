@@ -1,8 +1,8 @@
 # Código de Honor
 
-\(Introducción\)
+Desde septiembre de 2016 todos quienes forman parte de la comunidad UC deben firmar este compromiso para fortalecer y potenciar buenas prácticas,  formar mejores personas y lograr una sana convivencia. 
 
-**Código de Honor de la universidad**
+**Texto del Código de Honor de la universidad**
 
 "Como miembro de la comunidad de la Pontificia Universidad Católica de Chile, me comprometo a respetar los principios y normativas que la rigen. Asimismo, me comprometo a actuar con rectitud y honestidad en las relaciones con los demás integrantes de la comunidad y en la realización de todo trabajo, particularmente en aquellas actividades vinculadas a la docencia, al aprendizaje y la creación, difusión y transferencia del conocimiento. Además, me comprometo a velar por la dignidad e integridad de las personas, evitando incurrir en y, rechazando, toda conducta abusiva de carácter físico, verbal,  psicológico y de violencia sexual. Del mismo modo, asumo el compromiso de cuidar los bienes de la Universidad".
 
@@ -69,7 +69,13 @@ El Código de Honor se basa en los siguientes valores fundamentales
 ### Antecedentes
 
 **Referencias Internacionales**  
-El Código de Honor es una iniciativa que se ha ido adoptando de manera creciente en el mundo. ¿Por qué? Se ha demostrado que es una herramienta útil para reducir la deshonestidad académica. En Estados Unidos, una investigación que se llevó a cabo en 4 mil alumnos de 31 campus, demostró que en las universidades que contaban con este documento existían menos casos de copia en comparación con aquellas que no lo tenían \(23% contra 45%\), lo mismo en casos de plagio \(45% en comparación con un 56%\) \(McCabe y Trevino, 1995\). Por ejemplo, los alumnos de la Universidad de Palermo deben firmar este documento a su ingreso; en la Universidad de Monterrey este es un texto que rige para todos los miembros de la comunidad; y en Notre Dame, los estudiantes deben firmar el código durante las evaluaciones.  
+El Código de Honor es una iniciativa que se ha ido adoptando de manera creciente en el mundo. 
+
+¿Por qué? 
+
+Se ha demostrado que es una herramienta útil para reducir la deshonestidad académica. En Estados Unidos, una investigación que se llevó a cabo en 4 mil alumnos de 31 campus, demostró que en las universidades que contaban con este documento existían menos casos de copia en comparación con aquellas que no lo tenían \(23% contra 45%\), lo mismo en casos de plagio \(45% en comparación con un 56%\) \(McCabe y Trevino, 1995\). 
+
+Por ejemplo, los alumnos de la Universidad de Palermo deben firmar este documento a su ingreso; en la Universidad de Monterrey este es un texto que rige para todos los miembros de la comunidad; y en Notre Dame, los estudiantes deben firmar el código durante las evaluaciones.  
   
 Algunos códigos de honor en el mundo:  
   
@@ -83,15 +89,14 @@ Algunos códigos de honor en el mundo:
 La Universidad de Duke es una comunidad dedicada al conocimiento, el liderazgo y el servicio y a los principios de la honestidad, justicia, respeto y responsabilidad. Los miembros de esta comunidad se comprometen a reflexionar en estos principios en todas sus acciones académica y no-académicas y a proteger y promover una cultura de la integridad. Para defender y apoyar el estándar comunitario de Duke:
 
 * Yo no mentiré, no haré trampa, ni robaré en mis acciones académicas.
-* Yo me comportaré de forma honorable en todas mis acciones; y
+* Yo me comportaré de forma honorable en todas mis acciones.
 * Yo actuaré si el Estándar se encuentra comprometido.
 
   
 **¿Cómo ha sido el proceso?**  
-  
 Se destaca el trabajo que han llevado a cabo la Vicerrectoría Académica y la Dirección de Asuntos Estudiantiles, reuniéndose desde 2015 con distintos representantes de los estudiantes, entre ellos: Centros de alumnos, Consejeros académicos, Consejeros territoriales, Líderes de proyectos estudiantiles.
 
- Luego de estas reuniones, en mayo del 2016 el Código de Honor fue aprobado por el Honorable Consejo Superior.
+Luego de estas reuniones, en mayo del 2016 el Código de Honor fue aprobado por el Honorable Consejo Superior.
 
 **Etapa de sensibilización y comunicación.**  
 Tras su aprobación, la Vicerrectoría Académica ha realizado jornadas de trabajo en que han participado más de 120 académicos, administrativos y estudiantes, con el objetivo de compartir su visión sobre la importancia de tener este Código de Honor, y los valores que se deben promover. Así como también, trabajar en conjunto con toda la comunidad la mejor forma de generar oportunidades de formación en torno al tema.
@@ -103,7 +108,7 @@ Aquí encontrarás iniciativas y materiales para profundizar y conocer más acer
 **Iniciativas UC**  
   
 [**1.Ombuds**](http://ombudsman.uc.cl/)  
-El Ombuds \(consejero o mediador\) tiene como misión fundamental velar por una adecuada convivencia de todas las personas que conforman la comunidad de la Pontificia Universidad Católica de Chile.Las actuaciones que le corresponde realizar están siempre dirigidas a mejorar el quehacer universitario en todos sus ámbitos. No están sometidas al mandato imperativo de ninguna instancia universitaria y están regidas por los principios de independencia y autonomía. Vía de admisión: Admisión vía PSU y Admisión Especial.  
+El Ombuds \(consejero o mediador\) tiene como misión fundamental velar por una adecuada convivencia de todas las personas que conforman la comunidad de la Pontificia Universidad Católica de Chile.Las actuaciones que le corresponde realizar están siempre dirigidas a mejorar el quehacer universitario en todos sus ámbitos. No están sometidas al mandato imperativo de ninguna instancia universitaria y están regidas por los principios de independencia y autonomía.   
 [Ver más información](http://ombudsman.uc.cl/)
 
 \*\*\*\*[**2. Padeu-UC**](http://padeu.saludestudiantil.uc.cl/)  

@@ -1,4 +1,4 @@
-# Símbolos Identitarios
+# Símbolos identitarios
 
 ## **Símbolos identitarios**
 
@@ -6,7 +6,7 @@
 
 Aquí te mostramos cómo se ha forjado la identidad de la Universidad a través del tiempo con símbolos que se han convertido en **íconos de nuestra institución**. 
 
-### Escudo y Texto
+### Escudo y texto
 
 Imágenes: 
 
@@ -137,6 +137,10 @@ Alt. Vitral de Casa Central, Pontificia Universidad Católica de Chile
 Texto:  
 El vitral de la caja de las escaleras en el acceso a la capilla de la Casa Central fue diseñado por Adolfo Winterlitz e inaugurado en 1931. En 1988 fue utilizado como símbolo en la celebración del Centenario.
 
+### [Casa Central](campus/campus-casa-central.md)
+
+### [Campus Lo Contador](campus/campus-lo-contador.md)
+
 ### Mascota UC
 
 ![Puma, mascota UC](../.gitbook/assets/puma-mascota-uc.jpg)
@@ -149,10 +153,6 @@ Fuente: http://mascotauc.cl/pagina-4.html
 
 #### Campus y espacios físicos
 
-### [Casa Central](campus/campus-casa-central.md)
-
-### [Campus Lo Contador](campus/campus-lo-contador.md)
-
 ### [Campus Oriente](campus/campus-oriente.md)
 
 ### [Campus San Joaquín](campus/campus-san-joaquin.md)
@@ -160,6 +160,9 @@ Fuente: http://mascotauc.cl/pagina-4.html
 ### [Campus Villarrica](campus/campus-villarrica.md)
 
 ### [Centro de Extensión](http://centroeventos.uc.cl/nuestros_centros/centro-de-extension-alameda/)
+
+  
+
 
 ###  
 
