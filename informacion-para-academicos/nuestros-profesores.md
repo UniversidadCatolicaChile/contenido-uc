@@ -195,8 +195,8 @@ Este nombramiento es de carácter indefinido.
 #### Facultad de Arquitectura, Diseño y Estudios Urbanos:
 
 * [Pedro Bannen Lanata](http://estudiosurbanos.uc.cl/el-instituto/academicos/2127-bannen-lanata-pedro)
-* [Waldo Enrique Bustamante Gómez](http://arquitectura.uc.cl/escuela/profesores/875-bustamante-waldo.html)
-* [Alejandro Crispiani](http://arquitectura.uc.cl/escuela/profesores/885-crispiani-alejandro.html)
+* [Waldo Bustamante Gómez](http://arquitectura.uc.cl/escuela/profesores/875-bustamante-waldo.html)
+* [Alejandro Crispiani](http://arquitectura.uc.cl/escuela/profesores/885-crispiani-alejandro.html) Enríquez
 * [Teodoro Fernández Larrañaga](http://arquitectura.uc.cl/escuela/profesores/897-fernandez-teodoro.html)
 * [Margarita Greene Zúñiga](http://arquitectura.uc.cl/escuela/profesores/905-greene-margarita.html)
 * [Rodrigo Pérez de Arce Antoncich](http://arquitectura.uc.cl/escuela/profesores/957-perez-de-arce-rodrigo.html)
@@ -210,48 +210,48 @@ Este nombramiento es de carácter indefinido.
 
 * [Gina Allende Martínez](http://musica.uc.cl/cuerpo-academico.html)
 * [Magdalena Amenábar](http://escueladeteatro.uc.cl/escuela/profesores/86-magdalena-amenabar-folch)
-* [Mónica Bengoa](http://escuelaarte.uc.cl/index.php/escuela/profesores/646-monica-bengoa)
+* [Mónica Bengoa](http://escuelaarte.uc.cl/index.php/escuela/profesores/646-monica-bengoa) Wunkhaus
 * [Claudia Campaña Hancke](http://escuelaarte.uc.cl/index.php/escuela/profesores/645-claudia-campana)
 * [Sergio Candia Hidalgo](http://musica.uc.cl/cuerpo-academico.html)
 * [Pedro Celedón Bañados](http://escuelaarte.uc.cl/index.php/escuela/profesores/644-pedro-celedon)
 * Alejandro Guarello Finlay
 * [María de la Luz Hurtado Merino](http://escueladeteatro.uc.cl/escuela/profesores/64-maria-de-la-luz-hurtado)
 * [Ramón López Cauly](http://escueladeteatro.uc.cl/escuela/profesores/31-ramon-lopez-cauly)
-* [Mario Navarro](http://escuelaarte.uc.cl/index.php/escuela/profesores/632-mario-navarro)
+* [Mario Navarro](http://escuelaarte.uc.cl/index.php/escuela/profesores/632-mario-navarro) Carvacho
 * [Roberto Farriol Gispert](http://escuelaarte.uc.cl/index.php/escuela/profesores/641-roberto-farol)
 * [Hernán Miranda Castillo](http://escuelaarte.uc.cl/index.php/escuela/profesores/605-hernan-miranda)
 * [Alejandro Reyes Van Eweyk](http://musica.uc.cl/cuerpo-academico.html)
-* [Aliocha Solovera](http://musica.uc.cl/cuerpo-academico.html)
+* [Aliocha Solovera](http://musica.uc.cl/cuerpo-academico.html) Roje
 * [Inés Stranger Rodríguez](http://escueladeteatro.uc.cl/escuela/profesores/52-ines-stranger)
 * [Alejandro Vera Aguilera](http://musica.uc.cl/cuerpo-academico.html)
 * [Ignacio Villegas Vergara](http://escuelaarte.uc.cl/index.php/escuela/profesores/625-ignacio-villegas)
 
 #### Facultad de Ciencias Biológicas:
 
-* [Alejandra Álvarez](http://biologia.uc.cl/es/cuerpo-academico/profesor/1)
-* [Jorge Patricio Arce Johnson](http://biologia.uc.cl/es/cuerpo-academico/profesor/4)
+* [Alejandra Álvarez](http://biologia.uc.cl/es/cuerpo-academico/profesor/1) Rojas
+* [Jorge Arce Johnson](http://biologia.uc.cl/es/cuerpo-academico/profesor/4)
 * [Mauricio Boric Pellerano](http://biologia.uc.cl/es/cuerpo-academico/profesor/7)
 * [Francisco Bozinovic Kuscevic](http://biologia.uc.cl/es/cuerpo-academico/profesor/8)
 * [Enrique Brandan Siques](http://biologia.uc.cl/es/cuerpo-academico/profesor/9)
-* [Juan Alberto Correa Maldonado](http://biologia.uc.cl/es/cuerpo-academico/profesor/18)
-* [Luis Alberto Ebensperger Pesce](http://biologia.uc.cl/es/cuerpo-academico/profesor/22)
+* [Juan Correa Maldonado](http://biologia.uc.cl/es/cuerpo-academico/profesor/18)
+* [Luis Ebensperger Pesce](http://biologia.uc.cl/es/cuerpo-academico/profesor/22)
 * [Miriam Fernández Bergia](http://biologia.uc.cl/es/cuerpo-academico/profesor/27)
-* [Rodrigo Gutiérrez](http://biologia.uc.cl/es/cuerpo-academico/profesor/32)
-* [Katia Cecilia Gysling Caselli](http://biologia.uc.cl/es/cuerpo-academico/profesor/33)
+* [Rodrigo Gutiérrez](http://biologia.uc.cl/es/cuerpo-academico/profesor/32) Ilabaca
+* [Katia Gysling Caselli](http://biologia.uc.cl/es/cuerpo-academico/profesor/33)
 * [María Loreto Holuigue Barros](http://biologia.uc.cl/es/cuerpo-academico/profesor/34)
 * [Nibaldo Inestrosa Cantín](http://biologia.uc.cl/es/cuerpo-academico/profesor/35)
 * [Rodrigo Iturriaga Aguera](http://biologia.uc.cl/es/cuerpo-academico/profesor/36)
 * [Fabián Jaksic Andrade](http://biologia.uc.cl/es/cuerpo-academico/profesor/37)
 * [Xavier Jordana De Buen](http://biologia.uc.cl/es/cuerpo-academico/profesor/38)
-* [Claudio Latorre](http://biologia.uc.cl/es/cuerpo-academico/profesor/43)
+* [Claudio Latorre](http://biologia.uc.cl/es/cuerpo-academico/profesor/43) Hidalgo
 * [Alexis Mikes Kalergis Parra](http://biologia.uc.cl/es/cuerpo-academico/profesor/39)
-* [Juan Agustín Larraín Correa](http://biologia.uc.cl/es/cuerpo-academico/profesor/41)
+* [Juan Larraín Correa](http://biologia.uc.cl/es/cuerpo-academico/profesor/41)
 * [Mauricio Lima Arce](http://biologia.uc.cl/es/cuerpo-academico/profesor/44)
 * [Pablo Marquet Iturriaga](http://biologia.uc.cl/es/cuerpo-academico/profesor/45)
-* [Francisco Javier Melo Ledermann](http://biologia.uc.cl/es/cuerpo-academico/profesor/47)
+* [Francisco Melo Ledermann](http://biologia.uc.cl/es/cuerpo-academico/profesor/47)
 * [Sergio Navarrete Campos](http://biologia.uc.cl/es/cuerpo-academico/profesor/49)
 * [Federico Ojeda Rossi](http://biologia.uc.cl/es/cuerpo-academico/profesor/51)
-* [Eduardo Palma](http://biologia.uc.cl/es/cuerpo-academico/profesor/55)
+* [Eduardo Palma](http://biologia.uc.cl/es/cuerpo-academico/profesor/55) Vásquez
 * [Juan Carlos Sáez Carreño](http://biologia.uc.cl/es/cuerpo-academico/profesor/60)
 * [Bernabé Santelices González](http://biologia.uc.cl/es/cuerpo-academico/profesor/61)
 * [José Rafael Vicuña Errázuriz](http://biologia.uc.cl/es/cuerpo-academico/profesor/71)
@@ -264,10 +264,10 @@ Este nombramiento es de carácter indefinido.
 * [Fernando Coloma Correa](http://economia.uc.cl/profesor/fernando-coloma/)
 * [Carlos Concha Gutiérrez](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-economico-comercial-y-tributario/373-concha-gutierrez-carlos)
 * Sergio de Castro Spikula
-* Sergio De la Cuadra Fabres
+* Sergio de la Cuadra Fabres
 * Patricio Donoso Ibáñez \(página interna autoridad\)
 * [Gonzalo Edwards Guzmán](http://economia.uc.cl/profesor/gonzalo-edwards/)
-* [Rodrigo Fuentes](http://economia.uc.cl/profesor/rodrigo-fuentes/)
+* [Rodrigo Fuentes](http://economia.uc.cl/profesor/rodrigo-fuentes/) San Martín
 * [Julio Gálvez Boizard](https://escueladeadministracion.uc.cl/directorio/profesores/julio-galvez/)
 * [Mateo Koljatic Maroevic](http://centrogobiernocorporativo.uc.cl/Directorio/matko-koljatic.html)
 * [Felipe Larraín Bascuñán](http://economia.uc.cl/profesor/felipe-larrain/)
@@ -283,16 +283,16 @@ Este nombramiento es de carácter indefinido.
 
 #### Facultad de Ciencias Sociales
 
-* [Carlos Eduardo Cornejo Alarcón](http://www.psicologia.uc.cl/?persona=carlos-cornejo-alarcon)
+* [Carlos Cornejo Alarcón](http://www.psicologia.uc.cl/?persona=carlos-cornejo-alarcon)
 * [Patricio Cumsille Eltit](http://www.psicologia.uc.cl/?persona=patricio-cumsille-eltit)
 * [Chamarrita Farkas Klein](http://www.psicologia.uc.cl/?persona=chamarrita-farkas-klein)
 * [Roberto González Gutiérrez](http://www.psicologia.uc.cl/?persona=roberto-gonzalez-gutierrez)
 * [Marianne Krause Jacob](http://www.psicologia.uc.cl/?persona=mariane-krause-jacob)
-* [María Rosa Lissi](http://www.psicologia.uc.cl/?persona=maria-rosa-lissi)
+* [María Rosa Lissi](http://www.psicologia.uc.cl/?persona=maria-rosa-lissi) Adamo
 * [Jorge Manzi Astudillo](http://www.psicologia.uc.cl/?persona=jorge-manzi-astudillo)
 * [María Loreto Martínez Guzmán](http://www.psicologia.uc.cl/?persona=m-loreto-martinez-guzman)
 * [Antonio Mladinic Alonso](http://www.psicologia.uc.cl/?persona=antonio-mladinic)
-* [Marcela de Lourdes Peña Garay](http://www.psicologia.uc.cl/?persona=marcela-pena-garay)
+* [Marcela Peña Garay](http://www.psicologia.uc.cl/?persona=marcela-pena-garay)
 * [David Preiss Contreras](http://www.psicologia.uc.cl/?persona=david-preiss-contreras)
 * [Dagmar Raczynski Von Oppen](http://sociologia.uc.cl/profesor/dagmar-raczynski-von-oppen/)
 * [Ricardo Rosas Díaz](http://www.psicologia.uc.cl/?persona=ricardo-rosas-diaz)
@@ -314,7 +314,7 @@ Este nombramiento es de carácter indefinido.
 * [Carmen Domínguez Hidalgo](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-privado/431-dominguez-hidalgo-carmen-aida)
 * [Roberto Guerrero Valenzuela](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-economico-comercial-y-tributario/507-guerrero-valenzuela-roberto)
 * [Raúl Lecaros Zegers](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-privado/557-lecaros-zegers-raul)
-* [Albero Lyon Puelma](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-privado/581-lyon-puelma-alberto)
+* [Alberto Lyon Puelma](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-privado/581-lyon-puelma-alberto)
 * [Raúl Madrid Ramírez](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-fundamentos-del-derecho/583-madrid-ramirez-raul)
 * [Jaime Naquira Riveros](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-penal/611-naquira-riveros-jaime)
 * Marisol Peña Torres \[link autoridad\]
@@ -325,7 +325,7 @@ Este nombramiento es de carácter indefinido.
 
 #### Facultad de Educación
 
-* \*\*\*\*[Luis Manuel Flores González](http://educacion.uc.cl/facultad-a/cuerpo-docente-aux/14-luis-flores-gonzalez)
+* \*\*\*\*[Luis Flores González](http://educacion.uc.cl/facultad-a/cuerpo-docente-aux/14-luis-flores-gonzalez)
 
 #### Facultad de Filosofía:
 
@@ -349,7 +349,7 @@ Este nombramiento es de carácter indefinido.
 * [María Cristina Depassier Teran](http://www.fis.puc.cl/~mcdepass/)
 * [Marco Díaz Gutiérrez](http://srv2.fis.puc.cl/~atlasandino/)
 * [Mario Favre Domínguez](http://www.fis.puc.cl/~mfavre/)
-* [Gaspar Galaz](http://www.astro.puc.cl/~ggalaz/)
+* [Gaspar Galaz](http://www.astro.puc.cl/~ggalaz/) Lladser
 * [Leopoldo Infante Lira](http://www.astro.puc.cl/~linfante/)
 * [Marcelo Loewe Lobo](http://www.fis.puc.cl/~mloewe/)
 * [Nelson Padilla](http://www.astro.puc.cl/~npadilla/Home.html)
@@ -367,7 +367,7 @@ Este nombramiento es de carácter indefinido.
 * [José Ignacio González Leiva](http://geografia.uc.cl/Departamento-de-Geografia-Humana/gonzalez-leiva-jose-ignacio.html)
 * [Rodrigo Hidalgo Dattwyler](http://geografia.uc.cl/Departamento-de-Geografia-Humana/hidalgo-dattwyler-rodrigo.html)
 * [Juan Pablo Luna Farina](http://www.cienciapolitica.uc.cl/profesores/planta-academica/juan-pablo-luna-2)
-* [Fernando Purcell](http://historia.uc.cl/index.php/Planta-Academica/purcell-fernando.html)
+* [Fernando Purcell](http://historia.uc.cl/index.php/Planta-Academica/purcell-fernando.html) Torretti
 * [Johannes Rehner](http://geografia.uc.cl/Departamento-de-Geografia-Humana/rehner-johannes.html)
 * [Claudio Rolle Cruz](http://historia.uc.cl/index.php/Planta-Academica/rolle-claudio.html)
 * [Rafael Sagredo Baeza](http://historia.uc.cl/index.php/Planta-Academica/sagredo-rafael.html)
@@ -378,14 +378,14 @@ Este nombramiento es de carácter indefinido.
 
 * [Eduardo Agosin Trumper](https://www.ing.uc.cl/academicos-e-investigadores/eduardo-agosin-trumper/)
 * [Luis Fernando Alarcón Cardenas](https://www.ing.uc.cl/academicos-e-investigadores/luis-fernando-alarcon-cardenas/)
-* [Marcelo Arenas](https://www.ing.uc.cl/academicos-e-investigadores/marcelo-alejandro-arenas-saavedra/)
+* [Marcelo Arenas](https://www.ing.uc.cl/academicos-e-investigadores/marcelo-alejandro-arenas-saavedra/) Saavedra
 * [Ana María Carvajal Guerra](http://magisterenconstruccion.uc.cl/index.php?option=com_content&view=article&id=79:carvajal-guerra-ana-maria&catid=40:planta-academica&Itemid=69)
 * [Diego Celentano](https://www.ing.uc.cl/academicos-e-investigadores/diego-javier-celentano/)
 * [Luciano Chiang Sánchez](https://www.ing.uc.cl/academicos-e-investigadores/luciano-eduardo-chiang-sanchez/)
 * [Aldo Cipriano Zamorano](https://www.ing.uc.cl/academicos-e-investigadores/aldo-cipriano-zamorano/)
 * [Gonzalo Cortázar Sanz](https://www.ing.uc.cl/academicos-e-investigadores/gonzalo-cortazar-sanz/)
 * [Juan Carlos De la Llera Martin](https://www.ing.uc.cl/academicos-e-investigadores/juan-carlos-de-la-llera-martin/)
-* [Hernán De Solminihac Tampier](https://www.ing.uc.cl/academicos-e-investigadores/hernan-de-solminihac-tampier/)
+* [Hernán de Solminihac Tampier](https://www.ing.uc.cl/academicos-e-investigadores/hernan-de-solminihac-tampier/)
 * [Juan Carlos Ferrer Ortiz](https://www.ing.uc.cl/academicos-e-investigadores/juan-carlos-ferrer-ortiz/)
 * [Andrés Guesalaga Meissner](https://www.ing.uc.cl/academicos-e-investigadores/andres-rodrigo-guesalaga-meissner/)
 * [Pablo Irarrázaval Mena](https://www.ing.uc.cl/academicos-e-investigadores/pablo-irarrazaval-mena/)
@@ -430,7 +430,7 @@ Este nombramiento es de carácter indefinido.
 #### Facultad de Medicina:
 
 * [Katia Abarca Villaseca](http://redsalud.uc.cl/ucchristus/Directorio/katia_abarca_villaseca.act)
-* [Francisco Javier Aboitiz Domínguez](https://medicina.uc.cl/persona/dr-francisco-aboitiz-dominguez/)
+* [Francisco Aboitiz Domínguez](https://medicina.uc.cl/persona/dr-francisco-aboitiz-dominguez/)
 * [María Cecilia Arechabala Mantuliz](http://enfermeria.uc.cl/nuestra-escuela/academicos/89-arechabala-mantuliz-maria-cecilia)
 * [Marco Arrese Jiménez](http://redsalud.uc.cl/ucchristus/Directorio/marco_arrese_jimenez.act)
 * [Eugenio Arteaga Urzúa](http://redsalud.uc.cl/ucchristus/Directorio/eugenio_arteaga_urzua.act)
@@ -443,7 +443,7 @@ Este nombramiento es de carácter indefinido.
 * [Jorge Carvajal Cabrera](http://redsalud.uc.cl/ucchristus/Directorio/jorge_carvajal_cabrera.act)
 * [Pablo Castro Gálvez](http://redsalud.uc.cl/ucchristus/Directorio/pablo_castro_galvez.act)
 * [Jose Luis Chianale Bertolini](https://medicina.uc.cl/persona/jose-luis-chianale-bertolini/)
-* [Mauricio Cuello](https://medicina.uc.cl/persona/dr-mauricio-cuello/)
+* [Mauricio Cuello](https://medicina.uc.cl/persona/dr-mauricio-cuello/) Fredes
 * [Jorge Dagnino Sepúlveda](https://medicina.uc.cl/persona/dr-jorge-dagnino-sepulveda/)
 * [Carlos Fardella Bello](https://medicina.uc.cl/persona/dr-carlos-fardella/)
 * [Catterina Ferreccio Readi](https://medicina.uc.cl/persona/dra-catterina-ferreccio/)
@@ -453,23 +453,23 @@ Este nombramiento es de carácter indefinido.
 * [Jaime Godoy Fernández](https://facultadmedicina.uc.cl/persona/dr-jaime-godoy-fernandez/)
 * [Sergio González Bombardiere](http://redsalud.uc.cl/ucchristus/Directorio/sergio_gonzalez_bombardiere.act)
 * [Paul Harris Diez](http://redsalud.uc.cl/ucchristus/Directorio/paul_harris_diez.act)
-* [Glenn Wilson Hernández Poblete](https://medicina.uc.cl/persona/dr-glenn-hernandez-poblete/)
+* [Glenn Hernández Poblete](https://medicina.uc.cl/persona/dr-glenn-hernandez-poblete/)
 * [Felipe Heusser Risopatrón](https://facultadmedicina.uc.cl/persona/dr-felipe-heusser-risopatron/)
 * [Luis Ibáñez Anrique](https://facultadmedicina.uc.cl/persona/dr-luis-ibanez-anrique/)
 * [Jorge Jalil Milad](http://redsalud.uc.cl/ucchristus/Directorio/jorge_jalil_milad.act)
-* [Nicolás Jarufe](https://medicina.uc.cl/persona/dr-nicolas-jarufe-c/)
-* [Jaime Alejandro Labarca Labarca](https://medicina.uc.cl/persona/dr-jaime-alejandro-labarca-labarca/)
+* [Nicolás Jarufe](https://medicina.uc.cl/persona/dr-nicolas-jarufe-c/) Cassis
+* [Jaime Labarca Labarca](https://medicina.uc.cl/persona/dr-jaime-alejandro-labarca-labarca/)
 * [Guillermo Lema Fuxman](https://facultadmedicina.uc.cl/persona/dr-guillermo-lema-fuxman/)
 * [Marcelo López Campillay](https://facultadmedicina.uc.cl/persona/marcelo-lopez-campillay/)
 * [Manuel Maiz Gurruchaga](http://redsalud.uc.cl/ucchristus/Directorio/alberto_maiz_gurruchaga.act)
-* [Pedro Paulo Marín Larraín](https://facultadmedicina.uc.cl/persona/dr-pedro-paulo-marin-larrain/)
-* [José Alejandro Martínez Sepúlveda](http://redsalud.uc.cl/ucchristus/Directorio/alejandro_martinez_sepulveda.act)
+* [Pedro Marín Larraín](https://facultadmedicina.uc.cl/persona/dr-pedro-paulo-marin-larrain/)
+* [José Martínez Sepúlveda](http://redsalud.uc.cl/ucchristus/Directorio/alejandro_martinez_sepulveda.act)
 * [María Loreto Massardo Vega](http://redsalud.uc.cl/ucchristus/Directorio/maria_loreto_massardo_vega.act)
 * [Juan Francisco Miquel Poblete](http://redsalud.uc.cl/ucchristus/Directorio/juan_francisco_miquel_poblete.act)
 * [Mónica Muñoz Serrano](http://enfermeria.uc.cl/nuestra-escuela/academicos/144-munoz-serrano-monica)
 * [Rodrigo Moreno Bolton](http://redsalud.uc.cl/ucchristus/Directorio/rodrigo_moreno_bolton.act)
 * [Pablo Olmos Coehlo](http://redsalud.uc.cl/ucchristus/Directorio/pablo_olmos_coelho_.act)
-* [Ana Mireya Ortiz Mejías](http://redsalud.uc.cl/ucchristus/Directorio/ana_mireya_ortiz_mejias.act)
+* [Ana Ortiz Mejías](http://redsalud.uc.cl/ucchristus/Directorio/ana_mireya_ortiz_mejias.act)
 * [Carlos Pérez Cortés](https://medicina.uc.cl/persona/dr-carlos-miguel-perez-cortes/)
 * [Julio Pertuzé Rivera](https://medicina.uc.cl/persona/julio-pertuze-rivera/)
 * [Klaus Püschel Illanes](https://facultadmedicina.uc.cl/persona/dr-klaus-puschel-illanes/)
@@ -482,14 +482,14 @@ Este nombramiento es de carácter indefinido.
 * [Luis Alberto Sobrevía Luarte](https://medicina.uc.cl/wp-content/uploads/2017/10/Formulario-Prof-Luis-Sobrevia-Facultad-de-Medicina-Nov-12-15.pdf)
 * [Paz Soto Fuentes](http://enfermeria.uc.cl/nuestra-escuela/academicos/103-soto-fuentes-paz)
 * [José Alejandro Soza Ried](https://medicina.uc.cl/persona/dr-alejandro-soza/)
-* [Jorge Fernando Tapia Illanes](http://redsalud.uc.cl/ucchristus/Directorio/jorge_tapia_illanes.act)
+* [Jorge Tapia Illanes](http://redsalud.uc.cl/ucchristus/Directorio/jorge_tapia_illanes.act)
 * [Julio Urrutia Escobar](https://medicina.uc.cl/persona/dr-julio-urrutia-escobar/)
 * Gonzalo Valdivia Cabrera
 * [Andrés Valdivieso Dávila](https://facultadmedicina.uc.cl/persona/dr-andres-valdivieso-davila/)
 * [Nicolás Velasco Fuentes](http://redsalud.uc.cl/ucchristus/Directorio/nicolas_velasco_fuentes.act)
 * [Rommy Von Bernhardi Montgomery](https://medicina.uc.cl/persona/dra-rommy-von-bernhardi/)
 * [Ricardo Zalaquett Sepúlveda](http://redsalud.uc.cl/ucchristus/Directorio/ricardo_zalaquett_sepulveda_.act)
-* [Silvana Zanlungo](https://medicina.uc.cl/persona/dra-silvana-zanlungo/)
+* [Silvana Zanlungo](https://medicina.uc.cl/persona/dra-silvana-zanlungo/) Matsuhiro
 
 #### Facultad de Química:
 
@@ -507,9 +507,29 @@ Este nombramiento es de carácter indefinido.
 
 #### Facultad de Teología:
 
-* [Samuel José Fernández Eyzaguirre](http://teologia.uc.cl/index.php?option=com_sobipro&pid=56&sid=110&Itemid=132)
-* [Fredy Omar Parra Carrasco](http://teologia.uc.cl/index.php?option=com_sobipro&pid=56&sid=115&Itemid=132)
+* [Samuel Fernández Eyzaguirre](http://teologia.uc.cl/index.php?option=com_sobipro&pid=56&sid=110&Itemid=132)
+* [Fredy Parra Carrasco](http://teologia.uc.cl/index.php?option=com_sobipro&pid=56&sid=115&Itemid=132)
 * [Rodrigo Polanco Fermandois](http://teologia.uc.cl/index.php?option=com_sobipro&pid=56&sid=118&Itemid=132)
 
-[https://preview.uxpin.com/34b6fc1ebc1db9b8fb699e7b2c283d8e889c3b5a\#/pages/104432787/simulate/sitemap](https://preview.uxpin.com/34b6fc1ebc1db9b8fb699e7b2c283d8e889c3b5a#/pages/104432787/simulate/sitemap)
+
+
+### Premios académicos
+
+### Premio Monseñor Carlos Casanueva
+
+Reconocimiento que se entrega desde el año 2002 por la Dirección Superior, distingue a un académico de trayectoria en la UC que haya destacado por **dejar una impronta en la comunidad universitaria**. Es el **máximo reconocimiento** que puede obtener un académico durante su trayectoria en la institución.
+
+El **premio Monseñor Carlos Casanueva** es entregado **anualmente** en la **ceremonia del Día del Sagrado Corazón** de la Universidad. 
+
+#### Listado de ganadores
+
+| Año | Nombre | Unidad académica |
+| :--- | :--- | :--- |
+| 2012 | Federico Leighton Puga | Escuela de Medicina |
+| 2013 | Francisco Claro Hunneus | Facultad de Educación |
+| 2014 | Pedro Morandé Court | Instituto de Sociología |
+| 2015 | Jaime Donoso Arellano | Instituto de Música |
+| 2016 | Francisco Rosende Ramírez | Instituto de Economía |
+| 2017 | [Flavio Nervi Oddone](https://medicina.uc.cl/persona/dr-flavio-nervi/) | Escuela de Medicina |
+| 2018 | [Silvia Pellegrini Ripamonti](http://comunicaciones.uc.cl/personas/silvia-pellegrini/) | Facultad de Comunicaciones |
 
