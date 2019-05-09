@@ -582,9 +582,9 @@ Este premio es entregado anualmente, en la ceremonia de inauguración del Año A
 
 #### 2018
 
-| Categoría: General | Nombre | Unidad académica |
+| Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-|  | Jorge Tarziján Martabit |  |
+| General | Jorge Tarziján Martabit |  |
 |  | Mario Correa Bascuñan |  |
 |  | Umut Aydin |  |
 |  | María Soledad Gómez Lorenzini |  |
@@ -602,10 +602,45 @@ Este premio es entregado anualmente, en la ceremonia de inauguración del Año A
 |  | Luis Maldonado Navarro |  |
 |  | Alejandra Rasse Figueroa |  |
 |  | María Constanza Errázuriz Cruz |  |
+| Iniciación | Felipe Aldunate Anfossi |  |
+|  | Cristián Villalonga Torrijo |  |
+|  | Patricia Fernández Carvajal |  |
+|  | Jorge Muñoz Gama |  |
+|  | Luis Cáceres Maldonado |  |
 | Jornada parcial | Rodrigo Muñoz  |  |
 |  | Jorge Blake Angulo |  |
 |  | Gonzalo Gallardo Chaparro |  |
-| Iniciación |  |  |
 
+#### 2017
 
+| Categoría | Nombre | Unidad académica |
+| :--- | :--- | :--- |
+|  | José Alcalde Furber |  |
+|  | Gerardo Pulido Monckeberg |  |
+|  | Carolina Serrano Berríos |  |
+|  | Douglas Leonard Covarrubias |  |
+|  | Claudia Alcayaga Rojas |  |
+|  | Manuel Correia Machuca |  |
+|  | Luis Errázuriz Larraín |  |
+|  | Enrique Cerda Vega |  |
+|  | Carlos González Vergara |  |
+|  | Claudio Nazar Jara |  |
+|  | Patricia Valenzuela Contreras |  |
+|  | Winston Moya Cortés |  |
+|  | Uriel Montenegro |  |
+|  | Gala Fernández Fresard |  |
+|  | Eduardo Pérez-Cotapos Larraín |  |
+| Iniciación | Héctor Valdés Gómez |  |
+|  | Pablo González Muñoz |  |
+|  | Paulette Desormeaux Parra |  |
+|  | Oscar Navea Carrasco |  |
+|  | Cristián Hermosilla Valenzuela |  |
+| Jornada parcial | Yordi Norero Martínez |  |
+|  | Jean Pierre Karich Jacomet |  |
+
+#### 2016
+
+| Categoría | Nombre | Unidad académica |
+| :--- | :--- | :--- |
+|  |  |  |
 
