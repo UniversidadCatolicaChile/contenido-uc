@@ -656,9 +656,116 @@ Este premio es entregado anualmente, en la ceremonia de inauguración del Año A
 |  | Rodrigo del Río Quero |  |
 |  | Daniella Leal Valenzuela |  |
 |  | Hernán Rivas Catricheo |  |
-| Jornada parcial | Julieta Suárez Cao |  |
+| Iniciación | Julieta Suárez Cao |  |
 |  | Juan Pedro Ochoa Ricoux |  |
 |  | Julio Pertuzé Salas |  |
 |  | Rodrigo Rojas Ávila |  |
 |  | María de la Luz Marqués Rosa |  |
+| Jornada parcial | Teresita Tagle Quiroz |  |
+|  | Patricia Imbarack Dagach |  |
+|  | Luis Hernández |  |
+|  | Carolina Velasco Hodgson |  |
+
+#### 2015
+
+| Categoría | Nombre | Unidad académica |
+| :--- | :--- | :--- |
+| General | Claudia Bonomelli De Pinaga |  |
+|  | Rodrigo Tapia Vera-Cruz |  |
+|  | Pedro Alonso Zúñiga |  |
+|  | Alicia Nogueras de Minniti |  |
+|  | Fernando Acuña Díaz |  |
+|  | Patricia Masalan Apip |  |
+|  | Pablo Corro Penjean |  |
+|  | Rocío Rodríguez Ferrer |  |
+|  | Iván Pérez Hernández |  |
+|  | Solange Rivera Mercado |  |
+|  | Luciano Solovera Roje |  |
+|  | Leonor Palomer Roggerone |  |
+|  | María Martínez Ponce |  |
+|  | Fernando Berríos Medel |  |
+| Jornada parcial | Edward González Null |  |
+|  | Natalia Gana Ahumada |  |
+| Joven | Tomás Vivanco Larraín |  |
+|  | Dayann Martínez Santana |  |
+|  | Andrés Grumann Sölter |  |
+|  | Daniel Party Tolchinsky |  |
+|  | Stefan Gelcich Crossley |  |
+
+#### 2014
+
+| Categoría | Nombre | Unidad académica |
+| :--- | :--- | :--- |
+| General | Pablo Marshall Rivera |  |
+|  | Jaime Casassus Vargas |  |
+|  | Marcela Cornejo Cancino |  |
+|  | Guillermo Wormald Delpiano |  |
+|  | Alejandra Ovalle Valdés |  |
+|  | Sebastián Zárate Rojas |  |
+|  | Cecilia Ramírez Venegas |  |
+|  | Rafael Benguria Donoso |  |
+|  | María Ximena Illanes Zubieta |  |
+|  | Juan Pablo Luna Fariña |  |
+|  | Tomás Chuaqui Henderson |  |
+|  | Andrés Solas Aguirrebeita |  |
+|  | Matías Hube Ginestar |  |
+|  | Jorge Vera Andreo |  |
+|  | Carolina Becerra Osses |  |
+|  | José López Tarres |  |
+|  | Claudio Terraza Inostroza |  |
+|  | Claudia Coronata Segure |  |
+| Jornada parcial | Claudio Zamorano Díaz |  |
+|  | Ivette León Lavanchy |  |
+|  | José Pedro Silva Prado |  |
+| Joven | Juan Pablo Astaburuaga Peña |  |
+|  | Constanza Molina Carvallo |  |
+|  | Claudia Vásquez Ortiz |  |
+
+#### 2013
+
+| Categoría | Nombre | Unidad académica |
+| :--- | :--- | :--- |
+| General | Eduardo Olate Muñoz |  |
+|  | Francisco Chateau Gannon |  |
+|  | José Rosas Vera |  |
+|  | María Soledad Hoces de la Guardia Chellew |  |
+|  | María Cecilia Bralic Escríbar |  |
+|  | Alejandra Bendel Manríquez |  |
+|  | María Estela Andrés Coke |  |
+|  | Cristián Calderón Contreras |  |
+|  | Olof Page de Polo |  |
+|  | Lorena Amaro Castro |  |
+|  | Carmen Luz Fuentes Vásquez |  |
+|  | Paula Vega Vega |  |
+|  | Jorge Carvajal Cabrera |  |
+| Jornada parcial | Ernesto Rodríguez Serra |  |
+|  | Elvira López Alonso |  |
+| Joven | Francisca Folch Couyoumdjian |  |
+|  | Marcela Urrutia Egaña |  |
+
+#### 2012
+
+| Categoría | Nombre | Unidad académica |
+| :--- | :--- | :--- |
+| General | Verónica Armstrong Lattapiat |  |
+|  | Carola Sanhueza Plaza |  |
+|  | Cassandra Mehling Sweet |  |
+|  | Enzo Sauma Santis |  |
+|  | Gonzalo Cortázar Sanz |  |
+|  | Tonia Razmilic Burgos |  |
+|  | Pilar Cox Vial |  |
+|  | Luis Carvacho Bart |  |
+|  | Johannes Rehner |  |
+|  | Andreas Reiseneggeer Von Oepen |  |
+|  | Andrés Haye Molina |  |
+|  | Vladimir López Hernández |  |
+|  | Francisco Rosende Ramírez |  |
+|  | Ricardo Aravena Cuevas |  |
+|  | Ana María Celis Brunet |  |
+|  | Carlos Amunátegui Perelló |  |
+|  | Sebastián Pelayo Benavides Medina |  |
+| Jornada parcial | Susana González Ramírez |  |
+|  | Cecilia Ibáñez Vásquez |  |
+| Joven | Verónica Cabezas Gazaga |  |
+|  | Jazmine Calabrese Fernández |  |
 
