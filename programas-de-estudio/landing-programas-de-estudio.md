@@ -98,6 +98,8 @@ Javier Crisóstomo
 Estudiante UC  
 Foto: \(Imagen en diseño InVision\)
 
+Otro ejemplo: [http://vidauniversitaria.uc.cl/noticias/manuel-rodriguez.-nunca-es-tarde-para-iniciar-una-nueva-carrera](http://vidauniversitaria.uc.cl/noticias/manuel-rodriguez.-nunca-es-tarde-para-iniciar-una-nueva-carrera)
+
 ### Sigue explorando
 
 Caja 1  
