@@ -584,139 +584,139 @@ Este premio es entregado anualmente, en la ceremonia de inauguración del Año A
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Jorge Tarziján Martabit |  |
-|  | Mario Correa Bascuñan |  |
-|  | Umut Aydin |  |
-|  | María Soledad Gómez Lorenzini |  |
-|  | Carlos Rodolfo Marín Uribe |  |
-|  | Tomás Rau Binder |  |
-|  | Marta Infante Jaras |  |
-|  | Felipe Veloso Espinosa |  |
-|  | Camilo del Río López |  |
-|  | Bárbara Silva Avaria |  |
+| General | Umut Aydin |  |
 |  | Carlos Bonilla Meléndez |  |
-|  | Francisco Suárez Poch |  |
+|  | Mario Correa Bascuñan |  |
 |  | Matías Courdurier Bettancourt |  |
-|  | María Rosa Lissi Adamo |  |
-|  | Cristian Salas Sánchez |  |
-|  | Luis Maldonado Navarro |  |
-|  | Alejandra Rasse Figueroa |  |
+|  | Camilo del Río López |  |
 |  | María Constanza Errázuriz Cruz |  |
+|  | María Soledad Gómez Lorenzini |  |
+|  | Marta Infante Jaras |  |
+|  | María Rosa Lissi Adamo |  |
+|  | Luis Maldonado Navarro |  |
+|  | Carlos Rodolfo Marín Uribe |  |
+|  | Alejandra Rasse Figueroa |  |
+|  | Tomás Rau Binder |  |
+|  | Cristián Salas Sánchez |  |
+|  | Bárbara Silva Avaria |  |
+|  | Francisco Suárez Poch |  |
+|  | Jorge Tarziján Martabit |  |
+|  | Felipe Veloso Espinosa |  |
 | Iniciación | Felipe Aldunate Anfossi |  |
-|  | Cristián Villalonga Torrijo |  |
+|  | Luis Cáceres Maldonado |  |
 |  | Patricia Fernández Carvajal |  |
 |  | Jorge Muñoz Gama |  |
-|  | Luis Cáceres Maldonado |  |
-| Jornada parcial | Rodrigo Muñoz  |  |
-|  | Jorge Blake Angulo |  |
+|  | Cristián Villalonga Torrijo |  |
+| Jornada parcial | Jorge Blake Angulo |  |
 |  | Gonzalo Gallardo Chaparro |  |
+|  | Rodrigo Muñoz  |  |
 
 #### 2017
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
 |  | José Alcalde Furber |  |
-|  | Gerardo Pulido Monckeberg |  |
-|  | Carolina Serrano Berríos |  |
-|  | Douglas Leonard Covarrubias |  |
 |  | Claudia Alcayaga Rojas |  |
+|  | Enrique Cerda Vega |  |
 |  | Manuel Correia Machuca |  |
 |  | Luis Errázuriz Larraín |  |
-|  | Enrique Cerda Vega |  |
-|  | Carlos González Vergara |  |
-|  | Claudio Nazar Jara |  |
-|  | Patricia Valenzuela Contreras |  |
-|  | Winston Moya Cortés |  |
-|  | Uriel Montenegro |  |
 |  | Gala Fernández Fresard |  |
+|  | Carlos González Vergara |  |
+|  | Douglas Leonard Covarrubias |  |
+|  | Uriel Montenegro |  |
+|  | Winston Moya Cortés |  |
+|  | Claudio Nazar Jara |  |
 |  | Eduardo Pérez-Cotapos Larraín |  |
-| Iniciación | Héctor Valdés Gómez |  |
+|  | Gerardo Pulido Monckeberg |  |
+|  | Carolina Serrano Berríos |  |
+|  | Patricia Valenzuela Contreras |  |
+| Iniciación | Paulette Desormeaux Parra |  |
 |  | Pablo González Muñoz |  |
-|  | Paulette Desormeaux Parra |  |
-|  | Oscar Navea Carrasco |  |
 |  | Cristián Hermosilla Valenzuela |  |
-| Jornada parcial | Yordi Norero Martínez |  |
-|  | Jean Pierre Karich Jacomet |  |
+|  | Oscar Navea Carrasco |  |
+|  | Héctor Valdés Gómez |  |
+| Jornada parcial | Jean Pierre Karich Jacomet |  |
+|  | Yordi Norero Martínez |  |
 
 #### 2016
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
 | General | Álvaro Bustos Donoso |  |
+|  | Catalina Balmaceda Errázuriz |  |
+|  | María José Cot Gómez |  |
+|  | Rodrigo del Río Quero |  |
+|  | Donovan Díaz Droguett |  |
+|  | Mario Faúndez Cáceres |  |
 |  | Juan Luis Goldenberg Serrano |  |
 |  | Luis Flores González |  |
-|  | Donovan Díaz Droguett |  |
-|  | María José Cot Gómez |  |
-|  | Catalina Balmaceda Errázuriz |  |
-|  | Pablo Pastén González |  |
-|  | Esteban Sáez Robert |  |
 |  | Godofredo Iommi Echeverría |  |
-|  | Cristian Sebastián Balmaceda |  |
-|  | Mario Faúndez Cáceres |  |
-|  | Rodrigo del Río Quero |  |
 |  | Daniella Leal Valenzuela |  |
+|  | Pablo Pastén González |  |
 |  | Hernán Rivas Catricheo |  |
-| Iniciación | Julieta Suárez Cao |  |
+|  | Esteban Sáez Robert |  |
+|  | Cristian Sebastián Balmaceda |  |
+| Iniciación | María de la Luz Marqués Rosa |  |
 |  | Juan Pedro Ochoa Ricoux |  |
 |  | Julio Pertuzé Salas |  |
 |  | Rodrigo Rojas Ávila |  |
-|  | María de la Luz Marqués Rosa |  |
-| Jornada parcial | Teresita Tagle Quiroz |  |
+|  | Julieta Suárez Cao |  |
+| Jornada parcial | Luis Hernández |  |
 |  | Patricia Imbarack Dagach |  |
-|  | Luis Hernández |  |
+|  | Teresita Tagle Quiroz |  |
 |  | Carolina Velasco Hodgson |  |
 
 #### 2015
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Claudia Bonomelli De Pinaga |  |
-|  | Rodrigo Tapia Vera-Cruz |  |
+| General | Fernando Acuña Díaz |  |
 |  | Pedro Alonso Zúñiga |  |
-|  | Alicia Nogueras de Minniti |  |
-|  | Fernando Acuña Díaz |  |
-|  | Patricia Masalan Apip |  |
+|  | Fernando Berríos Medel |  |
+|  | Claudia Bonomelli De Pinaga |  |
 |  | Pablo Corro Penjean |  |
-|  | Rocío Rodríguez Ferrer |  |
+|  | María Martínez Ponce |  |
+|  | Patricia Masalan Apip |  |
+|  | Alicia Nogueras de Minniti |  |
+|  | Leonor Palomer Roggerone |  |
 |  | Iván Pérez Hernández |  |
 |  | Solange Rivera Mercado |  |
+|  | Rocío Rodríguez Ferrer |  |
 |  | Luciano Solovera Roje |  |
-|  | Leonor Palomer Roggerone |  |
-|  | María Martínez Ponce |  |
-|  | Fernando Berríos Medel |  |
-| Jornada parcial | Edward González Null |  |
-|  | Natalia Gana Ahumada |  |
-| Joven | Tomás Vivanco Larraín |  |
-|  | Dayann Martínez Santana |  |
+|  | Rodrigo Tapia Vera-Cruz |  |
+| Jornada parcial | Natalia Gana Ahumada |  |
+|  | Edward González |  |
+| Joven | Stefan Gelcich Crossley |  |
 |  | Andrés Grumann Sölter |  |
+|  | Dayann Martínez Santana |  |
 |  | Daniel Party Tolchinsky |  |
-|  | Stefan Gelcich Crossley |  |
+|  | Tomás Vivanco Larraín |  |
 
 #### 2014
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Pablo Marshall Rivera |  |
-|  | Jaime Casassus Vargas |  |
-|  | Marcela Cornejo Cancino |  |
-|  | Guillermo Wormald Delpiano |  |
-|  | Alejandra Ovalle Valdés |  |
-|  | Sebastián Zárate Rojas |  |
-|  | Cecilia Ramírez Venegas |  |
+| General | Carolina Becerra Osses |  |
 |  | Rafael Benguria Donoso |  |
-|  | María Ximena Illanes Zubieta |  |
-|  | Juan Pablo Luna Fariña |  |
-|  | Tomás Chuaqui Henderson |  |
-|  | Andrés Solas Aguirrebeita |  |
-|  | Matías Hube Ginestar |  |
-|  | Jorge Vera Andreo |  |
-|  | Carolina Becerra Osses |  |
-|  | José López Tarres |  |
-|  | Claudio Terraza Inostroza |  |
+|  | Jaime Casassus Vargas |  |
 |  | Claudia Coronata Segure |  |
-| Jornada parcial | Claudio Zamorano Díaz |  |
-|  | Ivette León Lavanchy |  |
+|  | Marcela Cornejo Cancino |  |
+|  | Tomás Chuaqui Henderson |  |
+|  | Matías Hube Ginestar |  |
+|  | María Ximena Illanes Zubieta |  |
+|  | José López Tarres |  |
+|  | Juan Pablo Luna Fariña |  |
+|  | Pablo Marshall Rivera |  |
+|  | Alejandra Ovalle Valdés |  |
+|  | Cecilia Ramírez Venegas |  |
+|  | Andrés Solas Aguirrebeita |  |
+|  | Claudio Terraza Inostroza |  |
+|  | Jorge Vera Andreo |  |
+|  | Guillermo Wormald Delpiano |  |
+|  | Sebastián Zárate Rojas |  |
+| Jornada parcial | Ivette León Lavanchy |  |
 |  | José Pedro Silva Prado |  |
+|  | Claudio Zamorano Díaz |  |
 | Joven | Juan Pablo Astaburuaga Peña |  |
 |  | Constanza Molina Carvallo |  |
 |  | Claudia Vásquez Ortiz |  |
@@ -725,19 +725,19 @@ Este premio es entregado anualmente, en la ceremonia de inauguración del Año A
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Eduardo Olate Muñoz |  |
-|  | Francisco Chateau Gannon |  |
-|  | José Rosas Vera |  |
-|  | María Soledad Hoces de la Guardia Chellew |  |
-|  | María Cecilia Bralic Escríbar |  |
-|  | Alejandra Bendel Manríquez |  |
+| General | Lorena Amaro Castro |  |
 |  | María Estela Andrés Coke |  |
+|  | Alejandra Bendel Manríquez |  |
+|  | María Cecilia Bralic Escríbar |  |
 |  | Cristián Calderón Contreras |  |
-|  | Olof Page de Polo |  |
-|  | Lorena Amaro Castro |  |
-|  | Carmen Luz Fuentes Vásquez |  |
-|  | Paula Vega Vega |  |
 |  | Jorge Carvajal Cabrera |  |
+|  | Francisco Chateau Gannon |  |
+|  | Carmen Luz Fuentes Vásquez |  |
+|  | María Soledad Hoces de la Guardia Chellew |  |
+|  | Eduardo Olate Muñoz |  |
+|  | Olof Page de Polo |  |
+|  | José Rosas Vera |  |
+|  | Paula Vega Vega |  |
 | Jornada parcial | Ernesto Rodríguez Serra |  |
 |  | Elvira López Alonso |  |
 | Joven | Francisca Folch Couyoumdjian |  |
@@ -747,23 +747,22 @@ Este premio es entregado anualmente, en la ceremonia de inauguración del Año A
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Verónica Armstrong Lattapiat |  |
-|  | Carola Sanhueza Plaza |  |
-|  | Cassandra Mehling Sweet |  |
-|  | Enzo Sauma Santis |  |
-|  | Gonzalo Cortázar Sanz |  |
-|  | Tonia Razmilic Burgos |  |
-|  | Pilar Cox Vial |  |
+| General | Ricardo Aravena Cuevas |  |
+|  | Verónica Armstrong Lattapiat |  |
+|  | Pelayo Benavides Medina |  |
 |  | Luis Carvacho Bart |  |
-|  | Johannes Rehner |  |
-|  | Andreas Reiseneggeer Von Oepen |  |
+|  | Ana María Celis Brunet |  |
+|  | Gonzalo Cortázar Sanz |  |
+|  | Pilar Cox Vial |  |
 |  | Andrés Haye Molina |  |
 |  | Vladimir López Hernández |  |
+|  | Tonia Razmilic Burgos |  |
+|  | Johannes Rehner |  |
+|  | Andreas Reiseneggeer Von Oepen |  |
 |  | Francisco Rosende Ramírez |  |
-|  | Ricardo Aravena Cuevas |  |
-|  | Ana María Celis Brunet |  |
-|  | Carlos Amunátegui Perelló |  |
-|  | Sebastián Pelayo Benavides Medina |  |
+|  | Carola Sanhueza Plaza |  |
+|  | Enzo Sauma Santis |  |
+|  | Cassandra Sweet |  |
 | Jornada parcial | Susana González Ramírez |  |
 |  | Cecilia Ibáñez Vásquez |  |
 | Joven | Verónica Cabezas Gazaga |  |
