@@ -525,13 +525,13 @@ El **premio Monseñor Carlos Casanueva** es entregado **anualmente** en la **cer
 
 | Año | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| 2012 | Federico Leighton Puga | Escuela de Medicina |
-| 2013 | Francisco Claro Hunneus | Facultad de Educación |
-| 2014 | Pedro Morandé Court | Instituto de Sociología |
-| 2015 | Jaime Donoso Arellano | Instituto de Música |
-| 2016 | Francisco Rosende Ramírez | Instituto de Economía |
-| 2017 | [Flavio Nervi Oddone](https://medicina.uc.cl/persona/dr-flavio-nervi/) | Escuela de Medicina |
 | 2018 | [Silvia Pellegrini Ripamonti](http://comunicaciones.uc.cl/personas/silvia-pellegrini/) | Facultad de Comunicaciones |
+| 2017 | [Flavio Nervi Oddone](https://medicina.uc.cl/persona/dr-flavio-nervi/) | Escuela de Medicina |
+| 2016 | Francisco Rosende Ramírez | Instituto de Economía |
+| 2015 | Jaime Donoso Arellano | Instituto de Música |
+| 2014 | Pedro Morandé Court | Instituto de Sociología |
+| 2013 | Francisco Claro Hunneus | Facultad de Educación |
+| 2012 | Federico Leighton Puga | Escuela de Medicina |
 
 ### Premio Abdón Cifuentes
 
@@ -543,12 +543,12 @@ El premio Abdón Cifuentes es entregado anualmente, durante la ceremonia del Dí
 
 | Año | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| 2013 | [Joaquín Montero Labbé](https://medicina.uc.cl/persona/dr-joaquin-montero-labbe/) | Escuela de Medicina |
-| 2014 | [Bonifacio Fernández Larrañaga](https://www.ing.uc.cl/academicos-e-investigadores/bonifacio-fernandez-larranaga/) | Escuela de Ingeniería |
-| 2015 | [Alejandro Aravena Mori](http://arquitectura.uc.cl/escuela/profesores/809-alejandro-aravena.html) | Escuela de Arquitectura |
-| 2016 | [José Luis Cea Egaña](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-publico/409-cea-egana-jose-luis) | Facultad de Derecho |
-| 2017 | [Jorge Manzi Astudillo](https://www.psicologia.uc.cl/?persona=jorge-manzi-astudillo) | Escuela de Psicología |
 | 2018 | [María Elena Santibáñez Torres](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-penal/687-santibanez-torres-maria-elena) | Facultad de Derecho |
+| 2017 | [Jorge Manzi Astudillo](https://www.psicologia.uc.cl/?persona=jorge-manzi-astudillo) | Escuela de Psicología |
+| 2016 | [José Luis Cea Egaña](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-publico/409-cea-egana-jose-luis) | Facultad de Derecho |
+| 2015 | [Alejandro Aravena Mori](http://arquitectura.uc.cl/escuela/profesores/809-alejandro-aravena.html) | Escuela de Arquitectura |
+| 2014 | [Bonifacio Fernández Larrañaga](https://www.ing.uc.cl/academicos-e-investigadores/bonifacio-fernandez-larranaga/) | Escuela de Ingeniería |
+| 2013 | [Joaquín Montero Labbé](https://medicina.uc.cl/persona/dr-joaquin-montero-labbe/) | Escuela de Medicina |
 
 ### Premio a la Creación Artística UC
 
@@ -560,15 +560,15 @@ Reconocimiento entregado por la ****[**Dirección de Artes y Cultura**](http://a
 
 | **Año** | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| 2012 | [Mónica Bengoa Wünkhaus](http://artesycultura.uc.cl/es/premio-a-la-creacion/495-monica-bengoa-premio-2012) | Escuela de Arte |
+| 2019 | [Rodrigo Cádiz](http://artesycultura.uc.cl/es/premio-a-la-creacion/957-rodrigo-cadiz-premio-a-la-creacion-2019-video) | Escuela de Ingeniería /Instituto de Música |
+| 2019 | [Andrea Chignoli](http://artesycultura.uc.cl/es/premio-a-la-creacion/905-andrea-chignoli-premio-a-la-creacion-2019-video) | Facultad de Comunicaciones |
+| 2018 | [Andrés Kalawski Isla](http://artesycultura.uc.cl/es/premio-a-la-creacion/905-andres-kalawski-premio-a-la-creacion-2018-video) | Escuela de Teatro |
+| 2017 | [Teodoro Fernández Larrañaga](http://artesycultura.uc.cl/es/premio-a-la-creacion/813-teodoro-fernandez-premio-a-la-creacion-2017-video) | Escuela de Arquitectura |
+| 2016 | [Voluspa Jarpa Saldías](http://artesycultura.uc.cl/es/premio-a-la-creacion/119-voluspa-jarpa-premio-2016) | Escuela de Arte |
+| 2015 | [Magdalena Atria Lemaitre](http://artesycultura.uc.cl/es/premio-a-la-creacion/117-magdalena-atria-premio-2015) | Escuela de Arte |
 | 2013 | [Alejandro Guarello Finlay](http://artesycultura.uc.cl/es/premio-a-la-creacion/113-alejandro-guarello-premio-2013) | Instituto de Música |
 | 2013 | [Mike Wilson](http://artesycultura.uc.cl/es/premio-a-la-creacion/115-mike-wilson-premio-2013) | Facultad de Letras |
-| 2015 | [Magdalena Atria Lemaitre](http://artesycultura.uc.cl/es/premio-a-la-creacion/117-magdalena-atria-premio-2015) | Escuela de Arte |
-| 2016 | [Voluspa Jarpa Saldías](http://artesycultura.uc.cl/es/premio-a-la-creacion/119-voluspa-jarpa-premio-2016) | Escuela de Arte |
-| 2017 | [Teodoro Fernández Larrañaga](http://artesycultura.uc.cl/es/premio-a-la-creacion/813-teodoro-fernandez-premio-a-la-creacion-2017-video) | Escuela de Arquitectura |
-| 2018 | [Andrés Kalawski Isla](http://artesycultura.uc.cl/es/premio-a-la-creacion/905-andres-kalawski-premio-a-la-creacion-2018-video) | Escuela de Teatro |
-| 2019 | [Andrea Chignoli](http://artesycultura.uc.cl/es/premio-a-la-creacion/905-andrea-chignoli-premio-a-la-creacion-2019-video) | Facultad de Comunicaciones |
-| 2019 | [Rodrigo Cádiz](http://artesycultura.uc.cl/es/premio-a-la-creacion/957-rodrigo-cadiz-premio-a-la-creacion-2019-video) | Escuela de Ingeniería /Instituto de Música |
+| 2012 | [Mónica Bengoa Wünkhaus](http://artesycultura.uc.cl/es/premio-a-la-creacion/495-monica-bengoa-premio-2012) | Escuela de Arte |
 
 ### Premio de Reconocimiento a la Excelencia Docente \(PRED\)
 
@@ -584,187 +584,187 @@ Este premio es entregado anualmente, en la ceremonia de inauguración del Año A
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Umut Aydin |  |
-|  | Carlos Bonilla Meléndez |  |
-|  | Mario Correa Bascuñan |  |
-|  | Matías Courdurier Bettancourt |  |
-|  | Camilo del Río López |  |
-|  | María Constanza Errázuriz Cruz |  |
-|  | María Soledad Gómez Lorenzini |  |
-|  | Marta Infante Jaras |  |
-|  | María Rosa Lissi Adamo |  |
-|  | Luis Maldonado Navarro |  |
-|  | Carlos Rodolfo Marín Uribe |  |
-|  | Alejandra Rasse Figueroa |  |
-|  | Tomás Rau Binder |  |
-|  | Cristián Salas Sánchez |  |
-|  | Bárbara Silva Avaria |  |
-|  | Francisco Suárez Poch |  |
-|  | Jorge Tarziján Martabit |  |
-|  | Felipe Veloso Espinosa |  |
-| Iniciación | Felipe Aldunate Anfossi |  |
-|  | Luis Cáceres Maldonado |  |
-|  | Patricia Fernández Carvajal |  |
-|  | Jorge Muñoz Gama |  |
-|  | Cristián Villalonga Torrijo |  |
-| Jornada parcial | Jorge Blake Angulo |  |
-|  | Gonzalo Gallardo Chaparro |  |
-|  | Rodrigo Muñoz  |  |
+| General | Umut Aydin | Instituto de Ciencia Política |
+|  | Carlos Bonilla Meléndez | Escuela de Ingeniería |
+|  | Mario Correa Bascuñan | Facultad de Derecho |
+|  | Matías Courdurier Bettancourt | Facultad de Matemáticas |
+|  | Camilo del Río López | Instituto de Geografía |
+|  | María Constanza Errázuriz Cruz | Campus Villarrica |
+|  | María Soledad Gómez Lorenzini | Escuela de Construcción Civil |
+|  | Marta Infante Jaras | Facultad de Educación |
+|  | María Rosa Lissi Adamo | Escuela de Psicología |
+|  | Luis Maldonado Navarro | Instituto de Sociología |
+|  | Carlos Marín Uribe | Escuela de Construcción Civil |
+|  | Alejandra Rasse Figueroa | Escuela de Trabajo Social |
+|  | Tomás Rau Binder | Instituto de Economía |
+|  | Cristián Salas Sánchez | Facultad de Química y de Farmacia |
+|  | Bárbara Silva Avaria | Instituto de Historia |
+|  | Francisco Suárez Poch | Escuela de Ingeniería |
+|  | Jorge Tarziján Martabit | Escuela de Administración |
+|  | Felipe Veloso Espinosa | Instituto de Física |
+| Iniciación | Felipe Aldunate Anfossi | Escuela de Administración |
+|  | Luis Cáceres Maldonado | Campus Villarrica |
+|  | Patricia Fernández Carvajal | Facultad de Educación |
+|  | Jorge Muñoz Gama | Escuela de Ingeniería |
+|  | Cristián Villalonga Torrijo | Facultad de Derecho |
+| Jornada parcial | Jorge Blake Angulo | Instituto de Sociología |
+|  | Gonzalo Gallardo Chaparro | Escuela de Psicología |
+|  | Rodrigo Muñoz  | Escuela de Administración |
 
 #### 2017
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-|  | José Alcalde Furber |  |
-|  | Claudia Alcayaga Rojas |  |
-|  | Enrique Cerda Vega |  |
-|  | Manuel Correia Machuca |  |
-|  | Luis Errázuriz Larraín |  |
-|  | Gala Fernández Fresard |  |
-|  | Carlos González Vergara |  |
-|  | Douglas Leonard Covarrubias |  |
-|  | Uriel Montenegro |  |
-|  | Winston Moya Cortés |  |
-|  | Claudio Nazar Jara |  |
-|  | Eduardo Pérez-Cotapos Larraín |  |
-|  | Gerardo Pulido Monckeberg |  |
-|  | Carolina Serrano Berríos |  |
-|  | Patricia Valenzuela Contreras |  |
-| Iniciación | Paulette Desormeaux Parra |  |
-|  | Pablo González Muñoz |  |
-|  | Cristián Hermosilla Valenzuela |  |
-|  | Oscar Navea Carrasco |  |
-|  | Héctor Valdés Gómez |  |
-| Jornada parcial | Jean Pierre Karich Jacomet |  |
-|  | Yordi Norero Martínez |  |
+| General | José Alcalde Furber | Facultad de Agronomía e Ingeniería Forestal |
+|  | Claudia Alcayaga Rojas | Escuela de Enfermería |
+|  | Enrique Cerda Vega | Carrera de Kinesiología |
+|  | Manuel Correia Machuca | Instituto de Filosofía |
+|  | Luis Errázuriz Larraín | Instituto de Estética |
+|  | Gala Fernández Fresard | Escuela de Teatro |
+|  | Carlos González Vergara | Facultad de Letras |
+|  | Douglas Leonard Covarrubias | Escuela de Diseño |
+|  | Uriel Montenegro Urbina | Escuela de Odontología |
+|  | Winston Moya Cortés | Instituto de Música |
+|  | Claudio Nazar Jara | Escuela de Medicina |
+|  | Eduardo Pérez-Cotapos Larraín | Facultad de Teología |
+|  | Gerardo Pulido Monckeberg | Escuela de Arte |
+|  | Carolina Serrano Berríos | Facultad de Ciencias Biológicas |
+|  | Patricia Valenzuela Contreras | Escuela de Medicina |
+| Iniciación | Paulette Desormeaux Parra | Facultad de Comunicaciones |
+|  | Pablo González Muñoz | Facultad de Ciencias Biológicas |
+|  | Cristián Hermosilla Valenzuela | Carrera de Nutrición |
+|  | Oscar Navea Carrasco | Escuela de Medicina |
+|  | Héctor Valdés Gómez | Facultad de Agronomía e Ingeniería Forestal |
+| Jornada parcial | Jean Pierre Karich Jacomet | Instituto de Música |
+|  | Yordi Norero Martínez | Facultad de Agronomía e Ingeniería Forestal |
 
 #### 2016
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Álvaro Bustos Donoso |  |
-|  | Catalina Balmaceda Errázuriz |  |
-|  | María José Cot Gómez |  |
-|  | Rodrigo del Río Quero |  |
-|  | Donovan Díaz Droguett |  |
-|  | Mario Faúndez Cáceres |  |
-|  | Juan Luis Goldenberg Serrano |  |
-|  | Luis Flores González |  |
-|  | Godofredo Iommi Echeverría |  |
-|  | Daniella Leal Valenzuela |  |
-|  | Pablo Pastén González |  |
-|  | Hernán Rivas Catricheo |  |
-|  | Esteban Sáez Robert |  |
-|  | Cristian Sebastián Balmaceda |  |
-| Iniciación | María de la Luz Marqués Rosa |  |
-|  | Juan Pedro Ochoa Ricoux |  |
-|  | Julio Pertuzé Salas |  |
-|  | Rodrigo Rojas Ávila |  |
-|  | Julieta Suárez Cao |  |
-| Jornada parcial | Luis Hernández |  |
-|  | Patricia Imbarack Dagach |  |
-|  | Teresita Tagle Quiroz |  |
-|  | Carolina Velasco Hodgson |  |
+| General | Álvaro Bustos Donoso | Escuela de Administración |
+|  | Catalina Balmaceda Errázuriz | Instituto de Historia |
+|  | María José Cot Gómez | Instituto de Historia |
+|  | Rodrigo del Río Quero | Facultad de Química y de Farmacia |
+|  | Donovan Díaz Droguett | Instituto de Física |
+|  | Mario Faúndez Cáceres | Facultad de Química y de Farmacia |
+|  | Juan Luis Goldenberg Serrano | Facultad de Derecho |
+|  | Luis Flores González | Facultad de Educación |
+|  | Godofredo Iommi Echeverría | Facultad de Matemáticas |
+|  | Daniella Leal Valenzuela | Instituto de Sociología |
+|  | Pablo Pastén González | Escuela de Ingeniería |
+|  | Hernán Rivas Catricheo | Campus Villarrica |
+|  | Esteban Sáez Robert | Escuela de Ingeniería |
+|  | Cristian Sebastián Balmaceda | Escuela de Psicología |
+| Iniciación | María de la Luz Marqués Rosa | Campus Villarrica |
+|  | Juan Pedro Ochoa Ricoux | Instituto de Física |
+|  | Julio Pertuzé Salas | Escuela de Ingeniería |
+|  | Rodrigo Rojas Ávila | Escuela de Psicología |
+|  | Julieta Suárez Cao | Instituto de Ciencia Política |
+| Jornada parcial | Luis Hernández | Escuela de Ingeniería |
+|  | Patricia Imbarack Dagach | Facultad de Educación |
+|  | Teresita Tagle Quiroz | Facultad de Derecho |
+|  | Carolina Velasco Hodgson | Escuela de Trabajo Social |
 
 #### 2015
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Fernando Acuña Díaz |  |
-|  | Pedro Alonso Zúñiga |  |
-|  | Fernando Berríos Medel |  |
-|  | Claudia Bonomelli De Pinaga |  |
-|  | Pablo Corro Penjean |  |
-|  | María Martínez Ponce |  |
-|  | Patricia Masalan Apip |  |
-|  | Alicia Nogueras de Minniti |  |
-|  | Leonor Palomer Roggerone |  |
-|  | Iván Pérez Hernández |  |
-|  | Solange Rivera Mercado |  |
-|  | Rocío Rodríguez Ferrer |  |
-|  | Luciano Solovera Roje |  |
-|  | Rodrigo Tapia Vera-Cruz |  |
-| Jornada parcial | Natalia Gana Ahumada |  |
-|  | Edward González |  |
-| Joven | Stefan Gelcich Crossley |  |
-|  | Andrés Grumann Sölter |  |
-|  | Dayann Martínez Santana |  |
-|  | Daniel Party Tolchinsky |  |
-|  | Tomás Vivanco Larraín |  |
+| General | Fernando Acuña Díaz | Facultad de Comunicaciones |
+|  | Pedro Alonso Zúñiga | Escuela de Arquitectura |
+|  | Fernando Berríos Medel | Facultad de Teología |
+|  | Claudia Bonomelli De Pinaga | Facultad de Agronomía e Ingeniería Forestal |
+|  | Pablo Corro Penjean | Instituto de Estética |
+|  | María Martínez Ponce | Escuela de Teatro |
+|  | Patricia Masalan Apip | Escuela de Enfermería |
+|  | Alicia Nogueras de Minniti | Facultad de Ciencias Biológicas |
+|  | Leonor Palomer Roggerone | Escuela de Odontología |
+|  | Iván Pérez Hernández | Escuela de Medicina |
+|  | Solange Rivera Mercado | Escuela de Medicina |
+|  | Rocío Rodríguez Ferrer | Facultad de Letras |
+|  | Luciano Solovera Roje | Instituto de Música |
+|  | Rodrigo Tapia Vera-Cruz | Escuela de Arquitectura |
+| Jornada parcial | Natalia Gana Ahumada | Escuela de Medicina |
+|  | Edward González | Facultad de Letras |
+| Joven | Stefan Gelcich Crossley | Facultad de Ciencias Biológicas |
+|  | Andrés Grumann Sölter | Escuela de Teatro |
+|  | Dayann Martínez Santana | Escuela de Enfermería |
+|  | Daniel Party Tolchinsky | Instituto de Música |
+|  | Tomás Vivanco Larraín | Escuela de Diseño |
 
 #### 2014
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Carolina Becerra Osses |  |
-|  | Rafael Benguria Donoso |  |
-|  | Jaime Casassus Vargas |  |
-|  | Claudia Coronata Segure |  |
-|  | Marcela Cornejo Cancino |  |
-|  | Tomás Chuaqui Henderson |  |
-|  | Matías Hube Ginestar |  |
-|  | María Ximena Illanes Zubieta |  |
-|  | José López Tarres |  |
-|  | Juan Pablo Luna Fariña |  |
-|  | Pablo Marshall Rivera |  |
-|  | Alejandra Ovalle Valdés |  |
-|  | Cecilia Ramírez Venegas |  |
-|  | Andrés Solas Aguirrebeita |  |
-|  | Claudio Terraza Inostroza |  |
-|  | Jorge Vera Andreo |  |
-|  | Guillermo Wormald Delpiano |  |
-|  | Sebastián Zárate Rojas |  |
-| Jornada parcial | Ivette León Lavanchy |  |
-|  | José Pedro Silva Prado |  |
-|  | Claudio Zamorano Díaz |  |
-| Joven | Juan Pablo Astaburuaga Peña |  |
-|  | Constanza Molina Carvallo |  |
-|  | Claudia Vásquez Ortiz |  |
+| General | Carolina Becerra Osses | Facultad de Matemáticas |
+|  | Rafael Benguria Donoso | Instituto de Física |
+|  | Jaime Casassus Vargas | Instituto de Economía |
+|  | Claudia Coronata Segure | Campus Villarrica |
+|  | Marcela Cornejo Cancino | Escuela de Psicología |
+|  | Tomás Chuaqui Henderson | Instituto de Ciencia Política |
+|  | Matías Hube Ginestar | Escuela de Ingeniería |
+|  | María Ximena Illanes Zubieta | Instituto de Historia |
+|  | José López Tarres | Facultad de Matemáticas |
+|  | Juan Pablo Luna Fariña | Instituto de Ciencia Política |
+|  | Pablo Marshall Rivera | Escuela de Administración |
+|  | Alejandra Ovalle Valdés | Facultad de Derecho |
+|  | Cecilia Ramírez Venegas | Facultad de Educación |
+|  | Andrés Solas Aguirrebeita | Escuela de Construcción Civil |
+|  | Claudio Terraza Inostroza | Facultad de Química y de Farmacia |
+|  | Jorge Vera Andreo | Escuela de Ingeniería |
+|  | Guillermo Wormald Delpiano | Instituto de Sociología |
+|  | Sebastián Zárate Rojas | Facultad de Derecho |
+| Jornada parcial | Ivette León Lavanchy | Facultad de Educación |
+|  | José Pedro Silva Prado | Facultad de Derecho |
+|  | Claudio Zamorano Díaz | Escuela de Psicología |
+| Joven | Juan Pablo Astaburuaga Peña | Instituto de Geografía |
+|  | Constanza Molina Carvallo | Escuela de Construcción Civil |
+|  | Claudia Vásquez Ortiz | Campus Villarrica |
 
 #### 2013
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Lorena Amaro Castro |  |
-|  | María Estela Andrés Coke |  |
-|  | Alejandra Bendel Manríquez |  |
-|  | María Cecilia Bralic Escríbar |  |
-|  | Cristián Calderón Contreras |  |
-|  | Jorge Carvajal Cabrera |  |
-|  | Francisco Chateau Gannon |  |
-|  | Carmen Luz Fuentes Vásquez |  |
-|  | María Soledad Hoces de la Guardia Chellew |  |
-|  | Eduardo Olate Muñoz |  |
-|  | Olof Page de Polo |  |
-|  | José Rosas Vera |  |
-|  | Paula Vega Vega |  |
-| Jornada parcial | Ernesto Rodríguez Serra |  |
-|  | Elvira López Alonso |  |
-| Joven | Francisca Folch Couyoumdjian |  |
-|  | Marcela Urrutia Egaña |  |
+| General | Lorena Amaro Castro | Instituto de Estética |
+|  | María Estela Andrés Coke | Facultad de Ciencias Biológicas |
+|  | Alejandra Bendel Manríquez | Escuela de Artes |
+|  | María Cecilia Bralic Escríbar | Escuela de Teatro |
+|  | Cristián Calderón Contreras | Facultad de Comunicaciones |
+|  | Jorge Carvajal Cabrera | Escuela de Medicina |
+|  | Francisco Chateau Gannon | Escuela de Arquitectura |
+|  | Carmen Luz Fuentes Vásquez | Facultad de Letras |
+|  | María Soledad Hoces de la Guardia Chellew | Escuela de Diseño |
+|  | Eduardo Olate Muñoz | Facultad de Agronomía e Ingeniería Forestal |
+|  | Olof Page de Polo | Instituto de Filosofía |
+|  | José Rosas Vera | Escuela de Arquitectura |
+|  | Paula Vega Vega | Escuela de Enfermería |
+| Jornada parcial | Ernesto Rodríguez Serra | Escuela de Arquitectura |
+|  | Elvira López Alonso | Escuela de Teatro |
+| Joven | Francisca Folch Couyoumdjian | Facultad de Letras |
+|  | Marcela Urrutia Egaña | Escuela de Enfermería |
 
 #### 2012
 
 | Categoría | Nombre | Unidad académica |
 | :--- | :--- | :--- |
-| General | Ricardo Aravena Cuevas |  |
-|  | Verónica Armstrong Lattapiat |  |
-|  | Pelayo Benavides Medina |  |
-|  | Luis Carvacho Bart |  |
-|  | Ana María Celis Brunet |  |
-|  | Gonzalo Cortázar Sanz |  |
-|  | Pilar Cox Vial |  |
-|  | Andrés Haye Molina |  |
-|  | Vladimir López Hernández |  |
-|  | Tonia Razmilic Burgos |  |
-|  | Johannes Rehner |  |
-|  | Andreas Reiseneggeer Von Oepen |  |
-|  | Francisco Rosende Ramírez |  |
-|  | Carola Sanhueza Plaza |  |
-|  | Enzo Sauma Santis |  |
-|  | Cassandra Sweet |  |
-| Jornada parcial | Susana González Ramírez |  |
-|  | Cecilia Ibáñez Vásquez |  |
-| Joven | Verónica Cabezas Gazaga |  |
-|  | Jazmine Calabrese Fernández |  |
+| General | Ricardo Aravena Cuevas | Facultad de Matemáticas |
+|  | Verónica Armstrong Lattapiat | Facultad de Química y de Farmacia |
+|  | Pelayo Benavides Medina | Campus Villarrica |
+|  | Luis Carvacho Bart | Instituto de Geografía |
+|  | Ana María Celis Brunet | Facultad de Derecho |
+|  | Gonzalo Cortázar Sanz | Escuela de Ingeniería |
+|  | Pilar Cox Vial | Facultad de Educación |
+|  | Andrés Haye Molina | Escuela de Psicología |
+|  | Vladimir López Hernández | Escuela de Psicología |
+|  | Tonia Razmilic Burgos | Facultad de Educación |
+|  | Johannes Rehner | Instituto de Geografía |
+|  | Andreas Reiseneggeer Von Oepen | Instituto de Astrofísica |
+|  | Francisco Rosende Ramírez | Instituto de Economía |
+|  | Carola Sanhueza Plaza | Escuela de Construcción Civil |
+|  | Enzo Sauma Santis | Escuela de Ingeniería |
+|  | Cassandra Sweet | Instituto de Ciencia Política |
+| Jornada parcial | Susana González Ramírez | Escuela de Psicología |
+|  | Cecilia Ibáñez Vásquez | Campus Villarrica |
+| Joven | Verónica Cabezas Gazaga | Facultad de Educación |
+|  | Jazmine Calabrese Fernández | Instituto de Geografía |
 
