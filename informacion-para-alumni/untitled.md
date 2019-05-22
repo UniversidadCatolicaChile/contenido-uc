@@ -67,13 +67,15 @@ En este enlace podrás revisar una [tabla comparativa](http://alumni.uc.cl/tabla
 \*\*\*\*[En este enlace](http://alumni.uc.cl/eventos/) revisa todas las novedades y actividades pensadas para el Alumni UC. 
 
 **Certificados**   
-1\) ¿Dónde puedo solicitar mi certificado de título?   
-2\) ¿Dónde puedo solicitar mi certificado de ranking?  
-3\) ¿Puedo solicitar certificados en inglés?
+1\) ¿Cuál es el listado de certificados que puedo obtener en la UC?
 
-4\) ¿Debo hacer todos los trámites presencialmente?
+2\) ¿Dónde puedo solicitar mi certificado de título?   
+3\) ¿Dónde puedo solicitar mi certificado de ranking?  
+4\) ¿Puedo solicitar certificados en inglés?
 
-5\) ¿A qué campus debo dirigirme a buscar mi certificado?
+5\) ¿Debo hacer todos los trámites presencialmente?
+
+6\) ¿A qué campus debo dirigirme a buscar mi certificado?
 
 
 
@@ -99,7 +101,7 @@ En este enlace podrás revisar una [tabla comparativa](http://alumni.uc.cl/tabla
 
 
 
-#### Mercado Laboral
+#### Networking
 
 1\) Soy alumni y me encuentro sin trabajo. ¿Hay alguna plataforma donde pueda buscar ofertas laborales?
 
