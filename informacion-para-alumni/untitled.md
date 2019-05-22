@@ -1,14 +1,12 @@
 # Landing principal
 
-
-
 ## Información para Alumni
 
-Imagen: buscar.
+![](../.gitbook/assets/cabecera-info_para_alumni.JPG)
 
-Algo similar a: La Universidad Católica busca fortalecer cada vez más el vínculo con sus ex alumnos, manteniendo un contacto permanente, ofreciéndoles oportunidades de crecimiento y de participación en el desarrollo de la Universidad.
+Queremos que nuestros exalumnos se mantengan en contacto con la Universidad. Por eso, les ofrecemos un espacio de contacto permanente, junto con oportunidades de crecimiento y de participación en su desarrollo profesional.
 
-Sacado de alumni.uc.cl
+[Conoce Alumni UC](http://alumni.uc.cl)
 
 **En esta sección**
 
@@ -21,10 +19,10 @@ Sacado de alumni.uc.cl
 
 **Lo más consultado**
 
-[Dirección de Personas](http://personas.uc.cl)  
+[Sitio de Alumni UC](http://alumni.uc.cl)  
+[Mercado Laboral UC](http://www.mercadolaboraluc.cl/)  
 [Trabaja en la UC](https://uccatolica.trabajando.cl/)  
-[Mi portal ](http://portal.uc.cl)  
-[Capacitación interna](http://personal.uc.cl/table/capacitacion/programa-de-capacitacion/)
+[Correo UC](http://correo.uc.cl)
 
 ### **Toma nota de estas fechas**
 
@@ -42,29 +40,74 @@ Descarga el calendario completo: [http://admisionyregistros.uc.cl/images/pdf/cal
 
 ### **Preguntas frecuentes**
 
-Dónde puedo revisar ofertas de prácticas profesionales o de trabajos?  
+#### Alumni UC
 
+#### 1\) ¿Cómo puedo ser parte de Alumni UC?
+
+Todo exalumno con un grado académico, tanto de pregrado como de postgrado es parte de la red Alumni. Más información [en este enlace](http://alumni.uc.cl/ya-soy-alumni-uc/).
+
+**2\) ¿Dónde puedo actualizar mis datos para conocer los beneficios de Alumni UC?**
+
+Actualiza tus datos [en este enlace](http://alumni.uc.cl/actualiza-tus-datos/), para mantenerte en contacto con la Universidad, acceder a más beneficios y recibir apoyo en tu desarrollo profesional y personal, con información de utilidad.
+
+**3\) ¿Cuáles son mis beneficios por ser Alumni UC?**
+
+Solo por ser parte de la red de Alumni UC obtendrás beneficios en cultura, deportes, formación, networking, salud, idiomas, entre otros. Revisa el listado de beneficios Alumni UC [en este enlace](http://alumni.uc.cl/beneficios/).
+
+**4\) ¿Qué significa tener la membresía Alumni UC?**
+
+Para una mayor conexión y compromiso con las actividades y beneficios que te ofrece Alumni UC, te invitamos a formar parte de nuestra [membresía Alumni UC](http://alumni.uc.cl/membresia-alumni-uc/), **con** beneficios adicionales para ti en servicios de salud, biblioteca, formación, cultura, deportes, idiomas, entre otros. También podrás sumas a tu grupo familiar, según la categoría que selecciones.
+
+**5\) ¿Cuál es la diferencia de los beneficios de Alumni UC y Membresía Alumni UC?**
+
+En este enlace podrás revisar una [tabla comparativa](http://alumni.uc.cl/tabla-comparativa/) de los distintos beneficios, para Alumni UC y para la Membresía Alumni UC. 
+
+**6\) ¿Dónde puedo revisar las novedades de Alumni UC?**
+
+\*\*\*\*[En este enlace](http://alumni.uc.cl/eventos/) revisa todas las novedades y actividades pensadas para el Alumni UC. 
+
+**Certificados**   
+1\) ¿Dónde puedo solicitar mi certificado de título?   
+2\) ¿Dónde puedo solicitar mi certificado de ranking?  
+3\) ¿Puedo solicitar certificados en inglés?
+
+4\) ¿Debo hacer todos los trámites presencialmente?
+
+5\) ¿A qué campus debo dirigirme a buscar mi certificado?
+
+
+
+**Informática**  
+1\) ¿Cómo sé si aún tengo correo UC?
 
   
-**Certificados**   
-¿Dónde puedo solicitar mi certificado de título?   
-¿Dónde puedo solicitar mi certificado de ranking?  
-¿Puedo solicitar certificados en inglés?
+2\) ¿Cómo puedo recuperar mi correo UC?
 
-**Correo UC**  
-¿Cómo sé si aún tengo correo UC?  
-¿Cómo puedo recuperar mi correo UC?
-
-**Beneficios**  
-¿Qué beneficios tengo por ser Alumni UC?
-
-**Alumni UC v/s Membresía UC**  
-¿Qué significa ser socio de Alumni UC?  
-¿Cómo puedo hacerme socio?
+3\) ¿Es verdad que me puedo conectar a la red eduroam en cualquier lado del mundo, solo con mi correo UC?
 
 **Biblioteca**  
-¿Puedo acceder de forma presencial a las Bibliotecas UC?  
-¿Puedo acceder al catálogo digital de Bibliotecas UC?
+1\) ¿Puedo acceder de forma presencial a las Bibliotecas UC?  
+2\) ¿Puedo acceder al catálogo digital de Bibliotecas UC?
+
+#### Desarrollo profesional
+
+1\) Me interesa perfeccionarme profesionalmente. ¿Dónde encuentro la oferta postgrado de la UC?
+
+2\) Quisiera seguir estudiando en la UC. ¿Dónde puedo encontrar la oferta de cursos y diplomados?
+
+3\) ¿Tengo beneficios en estudios por ser Alumni?
+
+
+
+#### Mercado Laboral
+
+1\) Soy alumni y me encuentro sin trabajo. ¿Hay alguna plataforma donde pueda buscar ofertas laborales?
+
+2\) Me interesaría contratar a estudiantes egresados o alumni de la UC. ¿Dónde puedo publicar mi aviso? ¿Tiene costo?
+
+3\) Soy alumni y me interesa trabajar en la UC. ¿Cómo puedo postular?
+
+
 
 
 

@@ -106,6 +106,7 @@
   * [Prorrectoría de Gestión Institucional](universidad/organizacion/prorrectoria-de-gestion-institucional/README.md)
     * [Prorrector de Gestión Institucional](universidad/organizacion/prorrectoria-de-gestion-institucional/prorrector-de-gestion-institucional.md)
   * [Vicerrectorías](universidad/organizacion/vicerrectorias.md)
+  * [Vicerrectorías](universidad/organizacion/vicerrectorias-1.md)
   * [Vicerrectoría Académica](universidad/organizacion/vicerrectoria-academica/README.md)
     * [Vicerrector Académico](universidad/organizacion/vicerrectoria-academica/vicerrector-academico.md)
   * [Vicerrectoría de Investigación](universidad/organizacion/vicerrectoria-de-investigacion/README.md)

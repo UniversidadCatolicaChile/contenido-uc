@@ -75,6 +75,12 @@ Potenciamos la creación artística y la investigación de la creación con sell
 Impulsamos iniciativas multidisciplinarias de innovación a través de proyectos y programas de emprendimiento de alto impacto.  
 [Ir al sitio](http://centrodeinnovacion.uc.cl/)
 
+#### Ética y seguridad
+
+\(_Foto_\) [https://drive.google.com/open?id=1H10H56bskqs\_rcwzpmWGKDZab8F6RXZ1](https://drive.google.com/open?id=1H10H56bskqs_rcwzpmWGKDZab8F6RXZ1)
+
+Nuestro quehacer se guía por estrictos estándares éticos. Para esto generamos la normativa que resguarda la correcta conducción de las investigaciones y las buenas prácticas científicas.
+
 ### Solicitudes de patentes UC activas en el mundo
 
 \(mapa\)  
