@@ -27,9 +27,17 @@ Descubre las carreras y programas de pregrado que tenemos para ti. Con más de 5
 
 **Postgrado:** 
 
-Conoce la variada oferta de programas de magíster y doctorados, pensados para licenciados y profesionales que desean complementar su formación o dedicarse a la investigación y a la docencia.  
-  
-[Más información](postgrado/)
+Conoce la variada oferta de programas de postgrados, pensados para licenciados y profesionales que desean complementar su formación o dedicarse a la investigación y a la docencia.
+
+#### [Postítulos](http://admisionyregistros.uc.cl/futuros-alumnos/admision-postgrado/descripcion/programas-de-postitulo)
+
+#### [Magísteres](http://admisionyregistros.uc.cl/futuros-alumnos/admision-postgrado/descripcion/programas-de-magister)
+
+#### [Especialidades médicas](https://medicina.uc.cl/postgrado/especialidades-medicas/)
+
+#### [Especialidades odontológicas](https://odontologia.uc.cl/postgrado/especialidades/)
+
+#### [Doctorados](http://doctorados.uc.cl/es/programas/nuestros-programas)
 
 **Diplomado**
 

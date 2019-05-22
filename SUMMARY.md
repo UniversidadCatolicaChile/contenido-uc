@@ -84,7 +84,7 @@
 * [Vinculación con el territorio](extension/vinculacion-con-el-territorio.md)
 * [Guía de expertos](extension/guia-de-expertos.md)
 * [Más encuestas y estudios](extension/mas-encuestas-y-estudios.md)
-* [Servicios profesionales UC](extension/servicios-profesionales-uc.md)
+* [Servicios profesionales](extension/servicios-profesionales-uc.md)
 * [Arriendo de espacios UC](extension/arriendo-de-espacios-uc.md)
 
 ## Universidad
@@ -105,6 +105,7 @@
     * [Prorrector](universidad/organizacion/prorrectoria/prorrector.md)
   * [Prorrectoría de Gestión Institucional](universidad/organizacion/prorrectoria-de-gestion-institucional/README.md)
     * [Prorrector de Gestión Institucional](universidad/organizacion/prorrectoria-de-gestion-institucional/prorrector-de-gestion-institucional.md)
+  * [Vicerrectorías](universidad/organizacion/vicerrectorias.md)
   * [Vicerrectoría Académica](universidad/organizacion/vicerrectoria-academica/README.md)
     * [Vicerrector Académico](universidad/organizacion/vicerrectoria-academica/vicerrector-academico.md)
   * [Vicerrectoría de Investigación](universidad/organizacion/vicerrectoria-de-investigacion/README.md)
