@@ -1,5 +1,7 @@
 # Código de Honor
 
+\(_Foto de cabecera_\) [https://drive.google.com/open?id=1MfNrWSIM\_HPshTyToJFoOriBxmdDrD6o](https://drive.google.com/open?id=1MfNrWSIM_HPshTyToJFoOriBxmdDrD6o)
+
 Desde septiembre de 2016 todos quienes forman parte de la comunidad UC deben firmar este compromiso para fortalecer y potenciar buenas prácticas,  formar mejores personas y lograr una sana convivencia. 
 
 **Texto del Código de Honor de la universidad**
