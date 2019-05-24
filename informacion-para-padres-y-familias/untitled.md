@@ -136,28 +136,38 @@ Sí. Es el documento en el que se declara el sustentador del estudiante para efe
 
 Sí, [en este enlace](http://arancelesybeneficios.uc.cl/matricula-y-certificados/descarga-de-documentos-para-matricula) podrás descargar distintos documentos que te permitirán realizar con mayor facilidad solicitudes hacia la Universidad. 
 
+#### Becas y beneficios
 
+**1\) ¿La UC ofrece algún tipo de beca de estudios?**
 
+Sí, existen los [Premios UC](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel#premios-uc), que consisten en un reconocimiento al mérito académico, a los cuales pueden acceder los estudiantes que ingresen a estudiar una carrera de pregrado. Estos premios cubren parte o el total del arancel de matrícula de la carrera. También es posible postular a las [becas de arancel](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel#becas-de-arancel-uc), a las [becas del Ministerio de Educación](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel#becas-ministerio-de-educacion) y a [becas externas](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel#becas-externas). 
 
+**2\) ¿Qué tipos de créditos universitarios aceptan para pagar los estudios de mi hijo/a?**
 
+Los créditos universitarios son un beneficio que se otorga a los estudiantes de las universidades del Consejo de Rectores para financiar parte o el total del arancel de referencia anual de la carrera. Es posible acceder a los [créditos otorgados por el Ministerio de Educación](http://arancelesybeneficios.uc.cl/beneficios/creditos-universitarios#creditos-universitarios-otorgados-por-el-ministerio-de-educacion), y a [créditos entregados por otras entidades](http://arancelesybeneficios.uc.cl/beneficios/creditos-universitarios#creditos-universitarios-otorgados-por-otras-entidades).  
 
+**3\) ¿Qué tipo de beneficios tiene la UC?**
 
+Sí, existen otros beneficios, entregados gratuitamente, tanto por el Ministerio de Educación como por la propia Universidad y también por organismos externos a ella, destinados a cubrir gastos complementarios de materiales y textos de estudio, de alimentación y de residencia. Conoce los [beneficios entregados por la UC](http://arancelesybeneficios.uc.cl/beneficios/otros-beneficios-y-servicios#otros-beneficios-otorgados-por-la-uc), y los que entrega el [Ministerio de Educación](http://arancelesybeneficios.uc.cl/beneficios/otros-beneficios-y-servicios#otros-beneficios-otorgados-por-el-ministerio-de-educacion).
 
+**4\) ¿Cómo se realiza la postulación a los beneficios estatales?**
 
+Para poder acceder a los beneficios que otorga el Estado \(Gratuidad, becas y/o créditos\), como también a los beneficios que otorga la Universidad \(beneficios complementarios a los otorgados por el Mineduc y otros\), los estudiantes deben necesariamente seguir [estos pasos](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/postulacion-a-beneficios#paso-1-postulacion-a-beneficios-estatales).
 
+**5\) ¿Dónde puedo revisar el procedimiento para que mi hijo/a obtenga el Pase Escolar?**
+
+[En este enlace](http://arancelesybeneficios.uc.cl/postulacion-a-beneficios/pase-escolar#novatos) encontrarás el procedimiento para que cada estudiante obtenga el Pase Escolar. 
+
+**6\) Mi hijo necesita acreditar nuestra situación socioeconómica. ¿Cómo lo hace?**
+
+Para que un estudiante realice la acreditación de su situación socioeconómica debe seguir los [siguientes pasos](http://arancelesybeneficios.uc.cl/acreditacion-socioeconomica/pasos-a-seguir#pasos-para-realizar-la-acreditacion-de-tu-situacion-socioeconomica). Al momento de la entrevista con el equipo de asistencia social de la Universidad, deberás presentar los [siguientes documentos](http://arancelesybeneficios.uc.cl/acreditacion-socioeconomica/documentos-que-debes-presentar-2). 
+
+###  **Lo que todo padre debe saber**
 
   
-**Becas y Beneficios \(falta información\)  
-Novatos \(falta información\)**
-
-Revisar presentacion bienvenida padres novato  
-
-
   
-**Lo que todo padre debe saber**  
-  
-Pagos y Matrículas  
-Procedimiento de Matrícula
+_Pagos y Matrículas  
+Procedimiento de Matrícula_
 
 Apoyo al Futuro Alumno   
 ¿Tu hijo no sabe qué estudiar? Conoce el Programa Vocacional UC"
@@ -178,54 +188,23 @@ Ediciones UC
 Manuales PSU  
 
 
-**Más información para ti**  
-  
-ARACELES Y PAGOS   
-Aranceles de pregrado [http://arancelesybeneficios.uc.cl/aranceles/aranceles-pregrado](http://arancelesybeneficios.uc.cl/aranceles/aranceles-pregrado)   
-Calendario de Pago [http://arancelesybeneficios.uc.cl/pagos/calendario-de-pago](http://arancelesybeneficios.uc.cl/pagos/calendario-de-pago) Documentos Necesarios para Pagos y Matrículas [http://arancelesybeneficios.uc.cl/matricula-y-certificados/descarga-de-documentos-para-matricula](http://arancelesybeneficios.uc.cl/matricula-y-certificados/descarga-de-documentos-para-matricula)   
-Medios de Pago [http://arancelesybeneficios.uc.cl/pagos/medios-de-pago](http://arancelesybeneficios.uc.cl/pagos/medios-de-pago) Procedimiento de Matrícula [http://arancelesybeneficios.uc.cl/matricula-y-certificados/procedimiento-de-matricula](http://arancelesybeneficios.uc.cl/matricula-y-certificados/procedimiento-de-matricula)   
-Emisión de cupón de pago [https://www12.uc.cl/MediosDePagos/jsp/mdp\_inicio.jsp](https://www12.uc.cl/MediosDePagos/jsp/mdp_inicio.jsp)
+### **¿Aún no encuentras lo que buscas?** 
 
-CERTIFICADOS  
-Certificados de Información Financiera [http://arancelesybeneficios.uc.cl/matricula-y-certificados/solicitud-certificado-de-matricula](http://arancelesybeneficios.uc.cl/matricula-y-certificados/solicitud-certificado-de-matricula)   
-Lista de todos los certificados que se pueden pedir. [http://admisionyregistros.uc.cl/alumnos/servicios-academicos/certificacion-estudiantil](http://admisionyregistros.uc.cl/alumnos/servicios-academicos/certificacion-estudiantil)
+[Accesos directos para **padres y familia** ](https://docs.google.com/spreadsheets/d/1lfbp7vHFJOHRDrquSWplyKeDYIfhtlQf6O6DXayOmxQ/edit?usp=sharing)
 
-BECAS Y BENEFICIOS  
-Premios y Becas de Arancel [http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel](http://arancelesybeneficios.uc.cl/beneficios/becas-de-arancel)   
-Créditos Universitarios [http://arancelesybeneficios.uc.cl/beneficios/creditos-universitarios](http://arancelesybeneficios.uc.cl/beneficios/creditos-universitarios)   
-Becas Para la Vida Estudiantil [http://arancelesybeneficios.uc.cl/beneficios/otros-beneficios-y-servicios](http://arancelesybeneficios.uc.cl/beneficios/otros-beneficios-y-servicios)   
-Solicitud de certificado de beneficios [http://arancelesybeneficios.uc.cl/beneficios/solicitud-certificado-de-beneficios](http://arancelesybeneficios.uc.cl/beneficios/solicitud-certificado-de-beneficios)  
-  
-SALUD ESTUDIANTIL   
-Atención Dental [http://dental.saludestudiantil.uc.cl/](http://dental.saludestudiantil.uc.cl/)   
-Atención Médica [http://medica.saludestudiantil.uc.cl/index.php/horas-medicas](http://medica.saludestudiantil.uc.cl/index.php/horas-medicas) Apoyo a estudiantes que son padres y madres UC: [http://campussaludable.uc.cl/es/contenidos/Programa-Padres-y-Madres-UC/Actividades.html](http://campussaludable.uc.cl/es/contenidos/Programa-Padres-y-Madres-UC/Actividades.html)   
-Centro de Apoyo al Rendimiento Académico \(CARA\) [http://rendimientoacademico.uc.cl/](http://rendimientoacademico.uc.cl/)   
-Unidad de Apoyo Psicológico [http://apoyo.saludestudiantil.uc.cl/](http://apoyo.saludestudiantil.uc.cl/)
+Consulta el Directorio de Sitios UC
 
-APOYO AL ALUMNO FUTURO   
-Expo Futuro Novato [http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/expo-futuro-novato](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/expo-futuro-novato)   
-Preuniversitario UC \([http://preuniversitario.uc.cl](http://preuniversitario.uc.cl)\)   
-Programa Vocacional UC \([http://programavocacional.uc.cl](http://programavocacional.uc.cl)\)   
-Semana del Postulante [http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/semana-del-postulante](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/semana-del-postulante)   
-Tour a los campus [http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/los-colegios-en-la-uc/visita-los-campus](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/los-colegios-en-la-uc/visita-los-campus)   
-Visita las Carreras [http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/los-colegios-en-la-uc/visita-las-carreras](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/los-colegios-en-la-uc/visita-las-carreras)   
-Venta de material PSU \([https://ediciones.uc.cl/textosuniversitarios/textos-psu.html](https://ediciones.uc.cl/textosuniversitarios/textos-psu.html)\) Ensayo PSU [http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/ensayos-psu](http://admisionyregistros.uc.cl/futuros-alumnos/conoce-la-uc/ensayos-psu)
+### **¿Tienes dudas? Contáctanos**
 
-Tiendas UC   
-Almacén UC \([http://facebook.com/almacenUC](http://facebook.com/almacenUC)   
-Ediciones UC [https://ediciones.uc.cl/](https://ediciones.uc.cl/)   
-Librería UC [https://ediciones.uc.cl/librerias-uc](https://ediciones.uc.cl/librerias-uc)  
-  
-**¿Aún no encuentras lo que buscas?**  
-\(falta información\)  
-  
-**¿Tienes dudas? Contáctanos**  
-\(falta información\)
+* Ícono teléfono: Mesa central  `<a href="tel:%56223544000">+56223544000 </a>` \(+56\)2 2 3544000
+* Ícono consultas: [Consultas en línea](http://www3.puc.cl/consultasucweb/index.php?a=add)
+* Ícono [Facebook](http://facebook.com/ucatolica)
+* Ícono [Twitter](http://twitter.com/ucatolica)
+* Ícono [Instagram](http://instagram.com/ucatolicaoficial)
+* Ícono [Linkedin](https://www.linkedin.com/school/pontificia-universidad-cat-lica-de-chile/)
+* Ícono [YouTube](http://youtube.com/pucatolica)
 
-  
-  
-  
-
+###  **Footer**    
 
 
 

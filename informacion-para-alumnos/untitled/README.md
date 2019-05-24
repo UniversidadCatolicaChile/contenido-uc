@@ -223,9 +223,11 @@ Para cualquier problema relacionado con Mi Portal UC, puedes llamar a la Mesa de
 
 Para cualquier problema relacionado con Mi Portal UC, puedes llamar a la Mesa de Ayuda de la Dirección de Informática, al teléfono \(56\) 2 23545555, o escribir un correo a 5555@uc.cl.
 
-**3\) Tengo problemas para ingresar a Mi Correo UC, ¿a quién puedo dirigirme?** Para cualquier problema relacionado con Mi Portal UC, puedes llamar a la Mesa de Ayuda de la Dirección de Informática, al teléfono \(56\) 2 23545555, o escribir un correo a 5555@uc.cl.
+**3\) Tengo problemas para ingresar a Mi Correo UC, ¿a quién puedo dirigirme?** 
 
-### Lo que todo alumno debe saber
+Para cualquier problema relacionado con Mi Portal UC, puedes llamar a la Mesa de Ayuda de la Dirección de Informática, al teléfono \(56\) 2 23545555, o escribir un correo a 5555@uc.cl.
+
+### Lo que todo estudiante debe saber
 
 [Noticia 1: Programas académicos](lo-que-todo-alumno-debe-saber/noticia-1-info-para-alumnos.md)
 
