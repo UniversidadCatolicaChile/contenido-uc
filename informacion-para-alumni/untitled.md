@@ -34,7 +34,10 @@ Fecha 3
 
 Fecha 4
 
-Descarga el calendario completo: [http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario\_academico\_2019.pdf](http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario_academico_2019.pdf)
+Descarga también:
+
+* [Descarga el calendario académico](http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario_academico_2019.pdf)
+* [Instructivo calendario académico](../informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
 
 
 
