@@ -4,8 +4,6 @@
 
 Imagen: buscar
 
-Texto introductorio
-
 ### En esta sección
 
 * Lo más consultado

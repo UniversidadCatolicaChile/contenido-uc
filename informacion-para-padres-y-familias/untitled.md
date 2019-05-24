@@ -44,18 +44,20 @@ La Universidad ofrece a sus estudiantes y padres múltiples medios para pagar lo
 Los estudiantes pueden revisar el calendario de pagos directamente en [Mi Portal UC](http://portal.uc.cl) o en el [siguiente enlace](http://arancelesybeneficios.uc.cl/pagos/calendario-de-pago). 
 
 **3\) ¿Cómo obtengo el cupón de pago?**   
-Todos los alumnos tienen acceso a descargar los cupones de pago directamente desde Mi Portal UC o en el siguiente link. [https://www12.uc.cl/MediosDePagos/jsp/mdp\_inicio.jsp](https://www12.uc.cl/MediosDePagos/jsp/mdp_inicio.jsp)
+Todos los alumnos tienen acceso a descargar los cupones de pago directamente desde [Mi Portal UC](http://portal.uc.cl) o en el [siguiente enlace](https://www12.uc.cl/MediosDePagos/jsp/mdp_inicio.jsp).
 
-Tengo problemas con los pagos de la mensualidad ¿a dónde puedo dirigirme?   
-Los alumnos que tengan algún inconveniente con los pagos pueden dirigirse al Hall Universitario ubicado en Casa Central o Campus San Joaquín, o escribir a dase@uc.cl  
+**4\) Tengo problemas con los pagos de la mensualidad ¿a dónde puedo dirigirme?**   
+Los alumnos que tengan algún inconveniente con los pagos pueden dirigirse al [Hall Universitario](http://admisionyregistros.uc.cl/alumnos/servicios-academicos/certificacion-estudiantil#oficinas-atenci%C3%B3n-de-p%C3%BAblico) ubicado en Casa Central o Campus San Joaquín, o escribir a dase@uc.cl  
   
-Tengo dudas sobre el funcionamiento del CAE ¿a dónde puedo dirigirme?   
-Para resolver las dudas relativas al CAE te sugerimos revisar el portal Ingresa. [http://portal.ingresa.cl/](http://portal.ingresa.cl/)
+**5\) Tengo dudas sobre el funcionamiento del CAE ¿a dónde puedo dirigirme?**   
+Para resolver las dudas relativas al CAE te sugerimos revisar el [portal Ingresa](http://portal.ingresa.cl/). 
 
 **Certificados \(falta información\)  
 Admisión \(falta información\)  
 Becas y Beneficios \(falta información\)  
-Novatos \(falta información\)**  
+Novatos \(falta información\)**
+
+Revisar presentacion bienvenida padres novato  
 
 
   
