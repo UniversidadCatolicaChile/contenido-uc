@@ -87,7 +87,7 @@ Esta facultad ofrece distintas opciones en pedagogía: en [**Inglés para Educac
 
 _Imagen_: [https://drive.google.com/open?id=1Xb9e3RLt59TwSTjRsGxr52BnSPi0KkHh](https://drive.google.com/open?id=1Xb9e3RLt59TwSTjRsGxr52BnSPi0KkHh)
 
-Dentro de esta facultad se encuentran dos institutos: el de [**Filosofía**](http://filosofia.uc.cl/) que ofrece los grados de [licenciatura](http://filosofia.uc.cl/pregrado/licenciatura) y [doctorado](http://filosofia.uc.cl/doctorado/programa-doctorado)., y el de [**Estética**](http://estetica.uc.cl/), cuyo [programa de licenciatura](http://estetica.uc.cl/licenciatura/descripcion-y-perfil-de-egreso) es único tanto en Chile como en Iberoamérica.  
+Dentro de esta facultad se encuentran dos institutos: el de [**Filosofía**](http://filosofia.uc.cl/) que ofrece los grados de [licenciatura](http://filosofia.uc.cl/pregrado/licenciatura) y [doctorado](http://filosofia.uc.cl/doctorado/programa-doctorado); y el de [**Estética**](http://estetica.uc.cl/), cuyo [programa de licenciatura](http://estetica.uc.cl/licenciatura/descripcion-y-perfil-de-egreso) es único tanto en Chile como en Iberoamérica.  
   
 [Campus San Joaquín](../universidad/campus/campus-san-joaquin.md)  
 [Campus Oriente](../universidad/campus/campus-oriente.md)
