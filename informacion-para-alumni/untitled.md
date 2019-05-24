@@ -2,7 +2,7 @@
 
 ## Información para Alumni
 
-![](../.gitbook/assets/cabecera-info_para_alumni.JPG)
+Imagen: [https://drive.google.com/open?id=1jrZAG\_HvdDlpt1QOJTQRcEaut9fp-z9n](https://drive.google.com/open?id=1jrZAG_HvdDlpt1QOJTQRcEaut9fp-z9n)
 
 Queremos que nuestros exalumnos se mantengan en contacto con la Universidad. Por eso, les ofrecemos un espacio de contacto permanente, junto con oportunidades de crecimiento y de participación en su desarrollo profesional.
 

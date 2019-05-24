@@ -4,7 +4,9 @@ description: Contenido del landing principal de Información para alumnos.
 
 # Landing principal
 
-![](../../.gitbook/assets/foto_inicio3.JPG)
+## Información para estudiantes
+
+Imagen: [https://drive.google.com/open?id=1lQYR3u3Jlh1ukEnJvNYiMfH\_jsce3O5I](https://drive.google.com/open?id=1lQYR3u3Jlh1ukEnJvNYiMfH_jsce3O5I)
 
 Sabemos que la vida universitaria puede ser confusa, pero también llena de oportunidades. En esta página te entregamos toda la información y los enlaces directos que necesitas para no perderte en el camino. 
 

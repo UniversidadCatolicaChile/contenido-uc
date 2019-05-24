@@ -1,15 +1,13 @@
 # Landing principal
 
-### Información para Padres
+## Información para Padres y Familia
 
-Imagen: buscar
+Imagen: [https://drive.google.com/open?id=1uujBZY2WSq1gG47WpPOtAmo7jrkRxRco](https://drive.google.com/open?id=1uujBZY2WSq1gG47WpPOtAmo7jrkRxRco)
 
-Texto introductorio:  
+  
 En la Universidad Católica los alumnos crecen personal, intelectual y espiritualmente. Ellos son los gestores de su futuro, y la Universidad fomenta su independencia haciéndolos responsables de todos sus procesos, pero sabemos que los padres y apoderados también quieren estar informados.
 
-
-
-**En esta sección**
+### **En esta sección**
 
 * Lo más consultado
 * Toma nota de estas fechas
@@ -18,33 +16,34 @@ En la Universidad Católica los alumnos crecen personal, intelectual y espiritua
 * Más información para ti
 * ¿Tienes dudas? Contáctanos
 
-**Lo más consultado**  
-Calendario de Pagos \([http://arancelesybeneficios.uc.cl/pagos/calendario-de-pago](http://arancelesybeneficios.uc.cl/pagos/calendario-de-pago)\) Calendario Académico [http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario\_academico\_2019.pdf](http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario_academico_2019.pdf)\)   
-Ediciones UC \([http://ediciones.uc.cl](http://ediciones.uc.cl)\)   
-Pago en línea \([https://www12.uc.cl/MediosDePagos/jsp/mdp\_inicio.jsp](https://www12.uc.cl/MediosDePagos/jsp/mdp_inicio.jsp)\)
+### **Lo más consultado**
 
+* [Calendario de Pagos](http://arancelesybeneficios.uc.cl/pagos/calendario-de-pago)
+* [Calendario Académico](http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario_academico_2019.pdf) 
+* [Pago en línea](https://www12.uc.cl/MediosDePagos/jsp/mdp_inicio.jsp)
+* [Ediciones UC](http://ediciones.uc.cl)
+* [Carreras de pregrado](http://admisionyregistros.uc.cl/futuros-alumnos/admision-via-psu/carreras)
 
+### Toma nota de estas fechas
 
-**Toma nota de estas fechas**  
-Evento 1  
-Evento 2  
-Evento 3  
-Evento 4  
-Evento 5
+* Evento 1
+* Evento 2
+* Evento 3
+* Evento 4
+* Evento 5
 
+### **Preguntas frecuentes**
 
+#### **Pagos**
 
-**Preguntas frecuentes**  
+#### **1\)** ¿Se puede pagar la universidad de manera online? 
+
+La Universidad ofrece a sus estudiantes y padres múltiples medios para pagar los aranceles de matrícula. Puedes revisarlos [en este enlace](http://arancelesybeneficios.uc.cl/pagos/medios-de-pago).  
   
-**Pagos**  
-¿Se puede pagar la universidad de manera online?   
-La Universidad ofrece a sus alumnos múltiples medios para pagar los aranceles de matrícula. Puedes revisarlos aquí  
-[http://arancelesybeneficios.uc.cl/pagos/medios-de-pago](http://arancelesybeneficios.uc.cl/pagos/medios-de-pago)  
-  
-¿En qué fecha se deben pagar los aranceles?   
-Los alumnos pueden revisar el calendario de pagos directamente en Mi Portal UC o en el siguiente link. [http://arancelesybeneficios.uc.cl/pagos/calendario-de-pago](http://arancelesybeneficios.uc.cl/pagos/calendario-de-pago)
+**2\) ¿En qué fecha se deben pagar los aranceles?**   
+Los estudiantes pueden revisar el calendario de pagos directamente en [Mi Portal UC](http://portal.uc.cl) o en el [siguiente enlace](http://arancelesybeneficios.uc.cl/pagos/calendario-de-pago). 
 
-¿Cómo obtengo el cupón de pago?   
+**3\) ¿Cómo obtengo el cupón de pago?**   
 Todos los alumnos tienen acceso a descargar los cupones de pago directamente desde Mi Portal UC o en el siguiente link. [https://www12.uc.cl/MediosDePagos/jsp/mdp\_inicio.jsp](https://www12.uc.cl/MediosDePagos/jsp/mdp_inicio.jsp)
 
 Tengo problemas con los pagos de la mensualidad ¿a dónde puedo dirigirme?   

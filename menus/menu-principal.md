@@ -1,10 +1,6 @@
 # Menú Principal
 
-## Programas de Estudio
+Programas de Estudio
 
-### Carreras y programas de pregrado
-
-## Investigación
-
-
+[https://www.mindmeister.com/1272100326?t=98b1mgJNZd\#](https://www.mindmeister.com/1272100326?t=98b1mgJNZd#)
 

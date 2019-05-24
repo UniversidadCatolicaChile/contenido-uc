@@ -128,7 +128,7 @@ En esta facultad encontrarás dos programas de pregrado: [**Letras Hispánicas**
 
 _Imagen_: [https://drive.google.com/open?id=14fslmq2IfXj499W5bKULAq0C9wv9FLeT](https://drive.google.com/open?id=14fslmq2IfXj499W5bKULAq0C9wv9FLeT)
 
-La facultad imparte las carreras de **Matemática** y **Estadística**, además de diversos programas de magíster y doctorado que buscan formar profesionales capaces de aplicar modelos teóricos en situaciones prácticas.  
+La facultad imparte las carreras de [Matemática](https://matematica.uc.cl/) y [Estadística](https://estadistica.uc.cl/), además de diversos programas de magíster y doctorado que buscan formar profesionales capaces de aplicar modelos teóricos en situaciones prácticas.  
   
 [Campus San Joaquín](../universidad/campus/campus-san-joaquin.md)  
   
@@ -153,7 +153,7 @@ Las carreras de pregrado que imparte esta facultad son [**Química** ](http://qu
 
 _Imagen_: [https://drive.google.com/open?id=1Om5IeJpGIbM-1qX9gdDK34oRDBNYJk9m](https://drive.google.com/open?id=1Om5IeJpGIbM-1qX9gdDK34oRDBNYJk9m)
 
-La Facultad de Teología ofrece la **licenciatura en Teología** en pregrado, el **magíster en Teología**, y el **doctorado en Teología**, y también pone a disposición distintos **cursos y diplomados** para todos los interesados en esta disciplina.
+La Facultad de Teología ofrece la [Licenciatura en Teología](http://teologia.uc.cl/es/licenciatura-en-teologia/licenciatura-en-teologia-1.html) en pregrado, el [magíster en Teología](http://teologia.uc.cl/es/magister/magister-1.html), y el [doctorado en Teología](http://teologia.uc.cl/es/doctorado/doctorado.html), pero también ofrece distintos [cursos](http://teologia.uc.cl/es/cursos/cursos-edcont.html) y [diplomados](http://teologia.uc.cl/es/diplomados/diplomados-teologia-uc.html) para todos los interesados en esta disciplina**.**
 
 [Campus San Joaquín](../universidad/campus/campus-san-joaquin.md)  
   
@@ -161,9 +161,9 @@ La Facultad de Teología ofrece la **licenciatura en Teología** en pregrado, el
 
 _Imagen_: [https://drive.google.com/open?id=1Ai7LAkOfP9r45COJd-aNt0Xt6OYXnHQ5](https://drive.google.com/open?id=1Ai7LAkOfP9r45COJd-aNt0Xt6OYXnHQ5)
 
-Es el único campus fuera de la Región Metropolitana y su objetivo es contribuir al desarrollo de la Región de la Araucanía a través de la educación y el desarrollo sustentable. Ofrece las carreras de **Pedagogía en Educación General Básica** y **Pedagogía en Educación Parvularia**  
-  
-[Casa Central](../universidad/campus/campus-casa-central.md)
+Es el único campus fuera de la Región Metropolitana y su objetivo es contribuir al desarrollo de la Región de la Araucanía a través de la educación y el desarrollo sustentable. Ofrece las carreras de [Pedagogía en Educación General Básica](http://estudiaenvillarrica.uc.cl/inicio/pedagogia_general_basica_uc//) y [Pedagogía en Educación Parvularia](http://estudiaenvillarrica.uc.cl/inicio/pedagogia-en-educacion-parvularia-uc/).  
+****  
+[Campus Villarrica](../universidad/campus/campus-villarrica.md)
 
 20 [**College**](http://college.uc.cl)
 
