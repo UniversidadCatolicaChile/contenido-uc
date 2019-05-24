@@ -1,2 +1,0 @@
-# Escuelas: sigue explorando
-

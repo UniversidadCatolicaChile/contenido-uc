@@ -1,2 +1,0 @@
-# Facultades: sigue explorando
-

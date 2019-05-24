@@ -68,13 +68,6 @@
 ## Facultades, escuelas e institutos
 
 * [Landing de Facultades](facultades-escuelas-e-institutos/listado-de-facultades.md)
-* [Facultades: sigue explorando](facultades-escuelas-e-institutos/facultades-sigue-explorando/README.md)
-  * [noticia 1](facultades-escuelas-e-institutos/facultades-sigue-explorando/noticia-1.md)
-  * [noticia 2](facultades-escuelas-e-institutos/facultades-sigue-explorando/noticia-2.md)
-  * [noticia 3](facultades-escuelas-e-institutos/facultades-sigue-explorando/noticia-3.md)
-  * [noticia 4](facultades-escuelas-e-institutos/facultades-sigue-explorando/noticia-4.md)
-  * [noticia 5](facultades-escuelas-e-institutos/facultades-sigue-explorando/noticia-5.md)
-* [Escuelas: sigue explorando](facultades-escuelas-e-institutos/escuelas-sigue-explorando.md)
 
 ## Extensión
 
