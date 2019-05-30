@@ -33,45 +33,45 @@ Para revisar el detalle de las funciones del vicerrector académico puedes revis
 
 María José Salinas
 
+[https://drive.google.com/open?id=1ovfXaJZnHT6yDPycqrp5t8rLC509QkRm](https://drive.google.com/open?id=1ovfXaJZnHT6yDPycqrp5t8rLC509QkRm)
+
 #### Director Académico de Docencia
 
 Gonzalo Pizarro
 
-![Gonzalo Pizarro, director Acad&#xE9;mico de Docencia.](../../../.gitbook/assets/_mg_5482.JPG)
+[https://drive.google.com/open?id=1uLf-OXb88GxzY7nAPRsw4wM0Oe1l2qaz](https://drive.google.com/open?id=1uLf-OXb88GxzY7nAPRsw4wM0Oe1l2qaz)
 
 #### Director de Admisión y Financiamiento estudiantil
 
 Juan Echeverría
 
-![Juan Echeverr&#xED;a, director de Admisi&#xF3;n y financiamiento estudiantil.](../../../.gitbook/assets/_mg_1477.JPG)
+[https://drive.google.com/open?id=191k7qsrKRQWwPJEId1HLkA8UD9uE\_ZZN](https://drive.google.com/open?id=191k7qsrKRQWwPJEId1HLkA8UD9uE_ZZN)
 
 #### Director Centro de Desarrollo Docente
-
-Claudio Gelmi
-
-![Claudio Gelmi, director del Centro de Desarrollo Docente.](../../../.gitbook/assets/img_1253.JPG)
 
 #### Directora de Desarrollo Académico
 
 Silvana Zanlungo
 
-![Silvana Zanlungo, directora de Desarrollo Acad&#xE9;mico.](../../../.gitbook/assets/_mg_0775.JPG)
+[https://drive.google.com/open?id=1QttsZ93i\_6Kzxaxcfwg9XpC5aZhr9e5W](https://drive.google.com/open?id=1QttsZ93i_6Kzxaxcfwg9XpC5aZhr9e5W)
 
 #### Directora de Inclusión
 
 Catalina García
 
-![Catalina Garc&#xED;a, directora de Inclusi&#xF3;n.](../../../.gitbook/assets/img_0042.JPG)
+[https://drive.google.com/open?id=1ddNgF0C0fiqgFnnL9RnVOFq4I6JPn2cB](https://drive.google.com/open?id=1ddNgF0C0fiqgFnnL9RnVOFq4I6JPn2cB)
 
 #### Director Programa de Estudios Generales College UC
 
 Fernando Purcell
 
-![Fernando Purcell, director de College UC.](../../../.gitbook/assets/_mg_4463.JPG)
+[https://drive.google.com/open?id=1jZZWTzuWoAyc-NWQtxDazz2XPW6avXWM](https://drive.google.com/open?id=1jZZWTzuWoAyc-NWQtxDazz2XPW6avXWM)
 
 #### Directora de Sistemas y Registros Académicos
 
 Paulina Rodríguez
+
+[https://drive.google.com/open?id=1mrYPduMH5jk5lzSp-ksMgN-8KQW1jTLz](https://drive.google.com/open?id=1mrYPduMH5jk5lzSp-ksMgN-8KQW1jTLz)
 
 
 

@@ -2,7 +2,9 @@
 
 ## Información para académicos
 
-Imagen: buscar
+_Imagen de cabecera \(elegir una\)_: [https://drive.google.com/open?id=1YqxKp4fjjDzHbNavvxOnKgjwg3DkFklr](https://drive.google.com/open?id=1YqxKp4fjjDzHbNavvxOnKgjwg3DkFklr)
+
+Encuentra las informaciones prácticas que todos los docentes deben conocer.
 
 ### En esta sección
 
@@ -46,7 +48,7 @@ Evento 10
 * [Académico](https://calendar.google.com/calendar/ical/uc.cl_b2monugqiq34gpg74jdkfma0e4%40group.calendar.google.com/public/basic.ics)
 * [Facultad](https://calendar.google.com/calendar/ical/uc.cl_o7rrti3u6von41j58esmo5mmis%40group.calendar.google.com/public/basic.ics)
 * [Comunidad UC](http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario_academico_2019.pdf)
-* [Instructivo calendario académico](../informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
+* [Instructivo calendario académico](../informacion-para-futuros-estudiantes/instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
 
 ### Preguntas frecuentes
 

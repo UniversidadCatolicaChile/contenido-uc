@@ -35,7 +35,7 @@ En la Universidad Católica los alumnos crecen personal, intelectual y espiritua
 #### Descarga los calendarios
 
 * [Comunidad UC](http://admisionyregistros.uc.cl/images/pdf/calendarioUC/calendario_academico_2019.pdf)
-* [Instructivo calendario académico](../informacion-para-futuros-alumnos/instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
+* [Instructivo calendario académico](../informacion-para-futuros-estudiantes/instructivo-para-descargar-y-sincronizar-calendario-moviles.md)
 
 ### **Preguntas frecuentes**
 

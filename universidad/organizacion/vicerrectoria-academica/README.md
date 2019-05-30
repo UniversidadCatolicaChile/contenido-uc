@@ -36,8 +36,6 @@ _Falta descripción_
 
 Unidad que tiene como misión **fortalecer el rol docente de los profesores** de modo que logren aprendizajes profundos y significativos en todos sus estudiantes. Para ello, ofrecen programas de capacitación, consultoría educativa y apoyo en la incorporación de nuevas metodologías de enseñanza para unidades académicas, docentes y ayudantes.
 
-**Director:** Claudio Gelmi
-
 [Ir al sitio web](http://desarrollodocente.uc.cl/)
 
 #### Dirección de Desarrollo Académico
