@@ -110,6 +110,14 @@ Foto: [https://drive.google.com/open?id=1RKu5kSqQaYtz0Njp2NJAehgxAZvN86U4](https
 
 Opción 2:
 
+> "Al egresar me veo de vuelta en La Araucanía haciendo clases a los niños que no pueden acceder a una educación de calidad. Si acá hay -en Santiago- hay desigualdad en ese ámbito, allá es peor. Mi abuela a veces me reta por no conocer más palabras en mapudungún, pero estoy contenta porque en la UC enseñan el idioma. Me interesa estar en permanente contacto con mi cultura desde Santiago. Siempre comparo la vida del sur y la de acá. Me quedo con lo bueno y lo malo de cada lugar".
+
+Karla Neculqueo Painequeo,  novata de Letras 2019.
+
+Foto: [https://drive.google.com/open?id=10o0GDBkd0tbNA7O7Js7qPs9u7AmCrTGY](https://drive.google.com/open?id=10o0GDBkd0tbNA7O7Js7qPs9u7AmCrTGY)
+
+Opción 3:
+
 Francisca Zavala, mejor deportista UC 2018, estudiante de Ingeniería Comercial.
 
 > La futura ingeniera comercial quien cursa 5º año aconseja trasladar la disciplina del deporte a los estudios. "He buscado el equilibrio entre ambas actividades y para ello la disciplina ha sido fundamental. Mi facultad era bastante rígida, pero, pero me han ido comprendiendo y sólo he reprobado un ramo en toda la carrera. Yo le recomiendo a los deportistas que ingresan mantener el apoyo de Deportes UC y cultivar la relación cara a cara con los profesores y autoridades universitarias para flexibilizar exámenes y fechas de entrega según las contingencias deporitvas".
