@@ -100,13 +100,23 @@ Para personas que se desempeñan en torno a la conservación, difusión y valora
 
 ### Yo estudio en la UC
 
-“Lo que más me gusta de la Universidad es la diversidad que tiene de personas y campos de estudio. Uno sale al patio y se encuentra con gente que está estudiando el Major en Ciencias de la Ingeniería, mientras yo estoy en el de Letras. Ese encuentro de gente tan distinta es lo que más me atrae.”  
-  
-Javier Crisóstomo  
-Estudiante UC  
-Foto: \(Imagen en diseño InVision\)
+Opción 1:
 
-Otro ejemplo: [http://vidauniversitaria.uc.cl/noticias/manuel-rodriguez.-nunca-es-tarde-para-iniciar-una-nueva-carrera](http://vidauniversitaria.uc.cl/noticias/manuel-rodriguez.-nunca-es-tarde-para-iniciar-una-nueva-carrera)
+> "Mis compañeros tienen 18 años y yo tengo varias décadas más. Durante mi vida estudié Ingeniería Comercial, Auditoría y un magíster. Me casé y formé una familia y tuve 3 hijos y 3 nietas. Pero a los 64 años todavía me faltaba un sueño por cumplir: hace varios años atrás el tema de las políticas públicas, el sueño de aportar a hacer un país más justo, más moderno, me instó a estudiar Derecho”.
+
+Manuel Rodríguez, novato de Derecho 2019.
+
+Foto: [https://drive.google.com/open?id=1RKu5kSqQaYtz0Njp2NJAehgxAZvN86U4](https://drive.google.com/open?id=1RKu5kSqQaYtz0Njp2NJAehgxAZvN86U4)
+
+Opción 2:
+
+Francisca Zavala, mejor deportista UC 2018, estudiante de Ingeniería Comercial.
+
+> La futura ingeniera comercial quien cursa 5º año aconseja trasladar la disciplina del deporte a los estudios. "He buscado el equilibrio entre ambas actividades y para ello la disciplina ha sido fundamental. Mi facultad era bastante rígida, pero, pero me han ido comprendiendo y sólo he reprobado un ramo en toda la carrera. Yo le recomiendo a los deportistas que ingresan mantener el apoyo de Deportes UC y cultivar la relación cara a cara con los profesores y autoridades universitarias para flexibilizar exámenes y fechas de entrega según las contingencias deporitvas".
+
+Fuente: Visión UC, abril 2019, "¿Cómo equilibrar deporte y estudio?, Francisca Zavala, la mejor deportista de la UC en 2018 responde.
+
+Foto: pedirla a Visión UC
 
 ### Sigue explorando
 
