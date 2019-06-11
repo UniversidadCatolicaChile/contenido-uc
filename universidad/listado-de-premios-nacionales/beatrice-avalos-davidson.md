@@ -31,6 +31,16 @@ Fue además, académica invitada y colaboradora de numerosas universidades en Ch
 
 En [esta entrevista](https://ciperchile.cl/2013/10/03/la-devastadora-noticia-que-opaco-la-celebracion-de-la-premio-nacional-de-educacion-2013/) ella misma ahonda en su trayectoria y en la dolorosa experiencia de su hermano detenido durante la dictadura.
 
+#### Publicaciones
+
+_¿Héroes o Villanos? La profesión docente en Chile_ \(2013\).
+
+_Reform Environment and Teacher Identity in Chile_ \(en inglés. 2013\).
+
+_La formación inicial docente en Chile: Tensiones entre políticas de apoyo y control_ \(2014\).
+
+\_\_
+
 #### Premios
 
 Son cuantiosas las [contribuciones](http://ww2.educarchile.cl/UserFiles/P0001/File/entrevista_educativa/avalos_bio.pdf) que ha hecho en su área. Entre ellas la **creación del Programa Interdisciplinario de Investigaciones en Educación \(PIIE\)**; su aporte a las políticas de profesionalización docente durante la década de 1990, desde los **Programas MECE-Media y Fortalecimiento de la Formación Inicial Docente**; y la **Dirección del Núcleo Milenio sobre La Profesión Docente en Chile**, en el centro de estudios CIAE de la Universidad de Chile.
