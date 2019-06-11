@@ -14,7 +14,7 @@ Nació el 6 de febrero de 1927
 
 Cursó su enseñanza primaria y secundaria en el Instituto Alonso de Ercilla.
 
-Siendo muy joven, [formó una biblioteca](http://www.memoriachilena.gob.cl/602/w3-article-81537.html) en la casa familiar, de la que enseñaba orgulloso sus títulos de Salgari y otros clásicos de la literatura juvenil.
+Siendo muy joven, [formó una biblioteca](http://www.memoriachilena.gob.cl/602/w3-article-81537.html) en la casa familiar. Le gustaba mostrar orgulloso sus títulos de Salgari y otros clásicos de la literatura juvenil.
 
 Por esa misma época empezó a tener sus primeros acercamientos a la literatura, con páginas pulcramente mecanografiadas con versos.
 
