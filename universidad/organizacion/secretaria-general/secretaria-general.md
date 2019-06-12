@@ -34,37 +34,35 @@ Para conocer más detalles sobre su función puedes revisar el [documento de Est
 
 Marisol Urrutia
 
-![Marisol Urrutia, Pro Secretaria General.](../../../.gitbook/assets/_mg_8479_1.jpg)
+{% embed url="https://drive.google.com/open?id=1S2gaIwSGQeT9M\_UAXeCpZeydaxOBQwZh" %}
 
-#### Abogada
 
-Ignacia Zalaquett 
 
 #### Abogada
 
 Estefanía Vergara
 
-![Estefan&#xED;a Vergara, abogada.](../../../.gitbook/assets/_mg_8435_1.jpg)
+[https://drive.google.com/open?id=1QhEUkHhuZodqLjXC3Uh0LnetuDzyDPES](https://drive.google.com/open?id=1QhEUkHhuZodqLjXC3Uh0LnetuDzyDPES)
+
+
 
 #### Abogada
 
 María Graciela Donoso
 
-![Maria Graciela Donoso, abogada.](../../../.gitbook/assets/_mg_8340_1.jpg)
+[https://drive.google.com/open?id=1HlRGnbRqSY-2q9Hu9ngpZtEBjmqjzTB0](https://drive.google.com/open?id=1HlRGnbRqSY-2q9Hu9ngpZtEBjmqjzTB0)
 
 #### Abogada
 
 María José Wilson
 
-![Mar&#xED;a Jos&#xE9; Wilson, abogada.](../../../.gitbook/assets/_mg_8372_1.jpg)
+[https://drive.google.com/open?id=1qsqUraMvS0lwzGMda9OHwmXxOtTLn8iB](https://drive.google.com/open?id=1qsqUraMvS0lwzGMda9OHwmXxOtTLn8iB)
 
 #### Abogada
 
 Catalina Salem
 
-![Catalina Salem, abogada.](../../../.gitbook/assets/_mg_8386_1.jpg)
-
-
+[https://drive.google.com/open?id=1IVkGQ8nTOVU31\_WWKtcbWWJrt1MsCms6](https://drive.google.com/open?id=1IVkGQ8nTOVU31_WWKtcbWWJrt1MsCms6)
 
 #### Abogada
 
@@ -73,6 +71,12 @@ María Teresa Bravo
 #### Abogada
 
 Darinka Barrueto
+
+#### Abogada
+
+Ignacia Zalaquett 
+
+[https://drive.google.com/open?id=14Ok6thsuR8e4In6BiLloF0Kq6l8wB3J3](https://drive.google.com/open?id=14Ok6thsuR8e4In6BiLloF0Kq6l8wB3J3)
 
 ### Footer
 

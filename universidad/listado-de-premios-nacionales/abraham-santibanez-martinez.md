@@ -30,7 +30,7 @@ Hizo clases de periodismo interpretativo en la Facultad de Comunicaciones de la 
 
 En [esta nota de San Antonio TV](https://www.youtube.com/watch?v=g_OXrY5H0C8) se puede apreciar un resúmen de su trayectoria.
 
-Y en esta [charla en la PUCV](https://www.youtube.com/watch?v=kjZM3ajvDzo), se puede apreciar de su propia voz, un compendio de su ideario y su acercamiento al periodimos
+Y en esta [charla en la PUCV](https://www.youtube.com/watch?v=kjZM3ajvDzo), se puede escuchar de su propia voz, un compendio de su ideario y su acercamiento al periodismo.
 
 #### Publicaciones
 
