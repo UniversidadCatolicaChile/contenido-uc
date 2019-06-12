@@ -4,7 +4,7 @@
 
 #### Vicerrector Académico
 
-![Juan Larra&#xED;n, vicerrector Acad&#xE9;mico](../../../.gitbook/assets/_mg_5371.jpg)
+[https://drive.google.com/open?id=1Vhfze7ysWTNqhhJ1S-MmJzOnGkh-RSEl](https://drive.google.com/open?id=1Vhfze7ysWTNqhhJ1S-MmJzOnGkh-RSEl)
 
 #### Su carrera
 

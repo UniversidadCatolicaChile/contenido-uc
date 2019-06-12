@@ -10,7 +10,7 @@ description: >-
 
 #### Vicerrector de Investigación
 
-![Pedro Bouchon, vicerrector de Investigaci&#xF3;n.](../../../.gitbook/assets/vicerrector-investigacion-pedro-bouchon.jpg)
+[https://drive.google.com/open?id=1LzJszOww0SBrJVWWtGCemG7f5cSxjK4K](https://drive.google.com/open?id=1LzJszOww0SBrJVWWtGCemG7f5cSxjK4K)
 
 #### Su carrera
 
@@ -38,49 +38,44 @@ Para revisar el detalle de las funciones del Vicerrector de Investigación puede
 
 #### Directora ejecutiva VRI
 
-Pamela Fernández  
+Pamela Fernández
 
-
-![](../../../.gitbook/assets/pamela_fernandez-directora-ejecutiva-vicerrectoria-investigacion.jpg)
+{% embed url="https://drive.google.com/open?id=1HBA3xFvSnylVudKi38u6K2RFm6DQMX6p" %}
 
 #### Director de Transferencia y Desarrollo
 
 Álvaro Ossa  
 
 
-![](../../../.gitbook/assets/alvaro-ossa-director-transferencia-y-desarrollo.jpg)
+{% embed url="https://drive.google.com/open?id=1B2npAFUM8ZkR7uSCQ\_hYkG9xwFh2Mhzl" %}
+
+
 
 #### Directora de Investigación
 
-María Elena Boisier  
+María Elena Boisier
 
-
-![](../../../.gitbook/assets/maria-elena-boisier-directora-investigacion.jpg)
+  
+[https://drive.google.com/open?id=1xxWwJx3XDHt4VQuJN5c8mXbDsuJuXdR4](https://drive.google.com/open?id=1xxWwJx3XDHt4VQuJN5c8mXbDsuJuXdR4)
 
 #### Director de Doctorado y Escuela de Graduados
 
 Diego Cosmelli  
-
-
-![](../../../.gitbook/assets/diego-cosmelli_direccion_doctorado.jpg)
+[https://drive.google.com/open?id=1FwJ9vEXlGQOTW0IRmp2Y8ipQQsGLSry8](https://drive.google.com/open?id=1FwJ9vEXlGQOTW0IRmp2Y8ipQQsGLSry8)
 
 #### Directora de Artes y Cultura
 
 Miryam Singer  
-
-
-![Myriam Singer, Directora de Artes y Cultura](../../../.gitbook/assets/myriam-singer-directora-artes-ycultura.jpg)
+[https://drive.google.com/open?id=1-x3gCJyNPeeN3\_C\_Tzxyvhcye-Mih0QD](https://drive.google.com/open?id=1-x3gCJyNPeeN3_C_Tzxyvhcye-Mih0QD)
 
 #### Director Ejecutivo del Centro de Innovación UC Anacleto Angelini
 
 Conrad von Igel  
-
-
-![Conrad Von Iguel, Director del Centro de Innovaci&#xF3;n UC](../../../.gitbook/assets/conrad-von-igel-director-centro-innovacion-uc.jpg)
+[https://drive.google.com/open?id=155ZXjzlqJAbZ7b3olpsDiNeb7K8Qt9Up](https://drive.google.com/open?id=155ZXjzlqJAbZ7b3olpsDiNeb7K8Qt9Up)
 
 #### Directora Ética UC para la investigación
 
 Andrea Leisewitz
 
-![Andrea Leisewitz, Directora de &#xC9;tica para la Inviestigaci&#xF3;n](../../../.gitbook/assets/andrea-leisewitz-directora-etica-para-la-investigacion.jpg)
+[https://drive.google.com/open?id=1jbkWgueMEdy30L5JdawK-nMFwdhn560L](https://drive.google.com/open?id=1jbkWgueMEdy30L5JdawK-nMFwdhn560L)
 
