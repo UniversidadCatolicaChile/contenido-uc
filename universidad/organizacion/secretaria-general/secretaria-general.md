@@ -2,7 +2,7 @@
 
 ## Secretaria General
 
-![Marisol Pe&#xF1;a, Secretaria General](../../../.gitbook/assets/_mg_8427.jpg)
+Imagen: [https://drive.google.com/open?id=13pVzwH\_7BGwQdTz2MzfkcnQSbVKVDCFS](https://drive.google.com/open?id=13pVzwH_7BGwQdTz2MzfkcnQSbVKVDCFS)
 
 #### Su carrera
 

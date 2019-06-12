@@ -31,6 +31,8 @@ Fue además, académica invitada y colaboradora de numerosas universidades en Ch
 
 En [esta entrevista](https://ciperchile.cl/2013/10/03/la-devastadora-noticia-que-opaco-la-celebracion-de-la-premio-nacional-de-educacion-2013/) ella misma ahonda en su trayectoria y en la dolorosa experiencia de su hermano detenido durante la dictadura.
 
+Y aquí una [interesante entrevista](https://www.youtube.com/watch?v=lNNabWytuk0) en la que ahonda sobre la Formación docente.
+
 #### Publicaciones
 
 _¿Héroes o Villanos? La profesión docente en Chile_ \(2013\).
