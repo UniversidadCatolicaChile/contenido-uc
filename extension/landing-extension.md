@@ -2,15 +2,15 @@
 
 ## Extensión
 
-Foto: buscar 
+Foto: 
 
-Propuestas de imagen:
+{% embed url="https://drive.google.com/open?id=115nh2ti1XXdCjkuzxrkfROijazGmaECj" %}
 
-![](../.gitbook/assets/concierto-campus-casa-central-kfuenzalida.jpg)
+{% embed url="https://drive.google.com/open?id=1GtX29Vuk437RAZK8YmuGsGgyK0rxasVV" %}
 
-![](../.gitbook/assets/concierto-de-navidad-campus-oriente-cesar-cortes-2015.JPG)
 
-La UC busca ser un actor relevante en el desarrollo del país, generando conocimiento de calidad que promueva el progreso. Para lograrlo, ha establecido instancias que buscan canalizar el aporte de la universidad a la agenda nacional.
+
+La UC busca ser un actor relevante en el desarrollo del país a través de la generación conocimiento y de la oferta cultural. Te invitamos a conocer las distintas iniciativas con que las que aportamos a la agenda nacional y nos vinculamos con el país.
 
 #### En esta sección:
 
@@ -21,83 +21,61 @@ La UC busca ser un actor relevante en el desarrollo del país, generando conocim
 
 ### Cultura y arte
 
-La Universidad entrega una oferta cultural de excelencia para aportar a la formación de las personas desde la apreciación artística y todas sus potencialidades.
+La Universidad entrega una oferta cultural de excelencia para aportar a la formación de las personas desde la apreciación artística en todas sus expresiones.
 
-Evento 1
-
-Evento 2
-
-Evento 3
-
-Evento 4
-
-Evento 5
-
-Evento 6
-
-Evento 7
-
-Evento 8
-
-Evento 9
-
-Evento 10
+\(_10 Eventos de la guía de las artes_\)
 
 #### Cine
 
-Imagen
+Foto: 
 
-[Cine UC](http://cine.uc.cl)
+{% embed url="https://drive.google.com/open?id=1VRM7o\_V0fwIZ6MPjtDwYJcMfap7m4d96" %}
+
+Enlace: [http://extension.uc.cl/cine/cartelera](http://extension.uc.cl/cine/cartelera)
 
 #### Ediciones UC
 
-Imagen \(propuesta\)
+Foto: 
 
-![](../.gitbook/assets/ediciones-uc-casa-central-cesar-cortes.JPG)
+{% embed url="https://drive.google.com/open?id=1eHRINrlB9aB-ImWdQ0UP5I8GzlbvY3dz" %}
 
-[Ediciones UC](http://ediciones.uc.cl)
+Enlace: [https://ediciones.uc.cl/](https://ediciones.uc.cl/)
 
 #### Teatro
 
-Imagen \(propuesta\)
+#### Teatro UC
 
-![](../.gitbook/assets/teatro-atacama-artifica-uc-kfuenzalida.JPG)
+Fotos: 
 
-![](../.gitbook/assets/teatro-uc-obra-ohiggins-teuc-cesar-cortes.JPG)
+{% embed url="https://drive.google.com/open?id=1IeEmy9Ym4GHO5i1pGVDr7OnlhHKLi1Lr" %}
 
-[Teatro infantil](http://extension.uc.cl/teatro-infantil/cartelera)
+Enlace: [http://teatrouc.uc.cl/](http://teatrouc.uc.cl/)
 
-Imagen \(propuesta\)
+Teatro infantil
 
-![](../.gitbook/assets/teatro-infantil-uc-estela-estelar-cesar-cortes.JPG)
+Fotos: 
 
-[Teatro UC](http://teatrouc.uc.cl/)
+{% embed url="https://drive.google.com/open?id=1Q8XX\_POT8gHJhgsKGJUfx9Iure52AKNP" %}
+
+Enlace: [http://extension.uc.cl/teatro-infantil/cartelera](http://extension.uc.cl/teatro-infantil/cartelera)
 
 #### Creación e investigación
 
-Imagen \(propuesta\)
-
-![](../.gitbook/assets/investigacion-medicina-casa-central-uc-cesar-cortes.JPG)
-
-![](../.gitbook/assets/investigacion-uc-lab-ciencias-biologicas-kfuenzalida.JPG)
-
 [Dirección de Artes y Cultura](http://artesycultura.uc.cl/es/)
 
-Imagen \(propuesta\)
+Foto: 
 
-![](../.gitbook/assets/artes-y-cultura-ciclo-imuc-uc-kfuenzalida.JPG)
-
-![](../.gitbook/assets/concierto-de-navidad-campus-oriente-cesar-cortes.JPG)
-
-
+{% embed url="https://drive.google.com/open?id=11jCwbpboudW0pBFUvV6kB28-\_WJvvLkh" %}
 
 [Catálogo de proyectos](http://artesycultura.uc.cl/es/creacion-investigacion/catalogo-de-proyectos)
 
-Imagen \(Propuesta Gandarillas\)
+Foto:
 
-![](../.gitbook/assets/exposicion-gandarillas-museo-bellas-artes-kfuenzalida.jpg)
+{% embed url="https://drive.google.com/open?id=1Ro14Joh4nK9\_OZPYMDYUyHZ4p-yLnVc-" %}
 
+Enlace:
 
+[http://artesycultura.uc.cl/es/creacion-investigacion/catalogo-de-proyectos/buscador](http://artesycultura.uc.cl/es/creacion-investigacion/catalogo-de-proyectos/buscador)
 
 [Guía para las Artes UC](http://artesycultura.uc.cl/es/guia-para-las-artes)
 

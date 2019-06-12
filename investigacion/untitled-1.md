@@ -10,7 +10,7 @@ Opción 2
 
 ![](../.gitbook/assets/landing-investigacion-cabecera_2.JPG)
 
-Nuestra pasión es crear conocimiento y compartirlo entre académicos, alumnos y profesionales, para luego traspasarlo a la sociedad a través de proyectos que atiendan las necesidades prioritarias del país en lo social, económico, político y cultural.
+Nuestra pasión es crear conocimiento y compartirlo entre académicos, investigadores, estudiantes y profesionales, para luego traspasarlo a la sociedad a través de proyectos que atiendan las necesidades prioritarias del país en lo social, económico, político y cultural.
 
 [Explora la investigación en la UC](http://investigacion.uc.cl)
 
@@ -24,13 +24,13 @@ Nuestra pasión es crear conocimiento y compartirlo entre académicos, alumnos y
   
 **Caja 3**  
 Proyectos ingresados en la plataforma de visibilización académica VIVO  
-\(falta enlace\)  
+\(_falta enlace_\)  
   
 **Caja 4**  
 26 Proyectos de Creación Artística  
   
 **Caja 5**  
-37 Centros de Investigación  
+\(_Falta cifra_\) Centros de Investigación  
   
 **Destacado**  
 INGENIERÍA BIOLOGÍA Y MÉDICA  
