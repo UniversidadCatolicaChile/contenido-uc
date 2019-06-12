@@ -4,7 +4,7 @@
 
 #### Vicerrectora Económica
 
-![Mar&#xED;a Loreto Massan&#xE9;s, vicerrectora Econ&#xF3;mica.](../../../.gitbook/assets/_mg_5443.jpg)
+[https://drive.google.com/open?id=1HfGeXa3gimHqSw8A8pKfXepoeFKkoI77](https://drive.google.com/open?id=1HfGeXa3gimHqSw8A8pKfXepoeFKkoI77)
 
 #### Su carrera
 
@@ -34,27 +34,37 @@ Para revisar el detalle de las funciones del Vicerrectora Económica puedes revi
 
 Ingrid Rosales
 
+[https://drive.google.com/open?id=1z0LyZsfnhrjtDVMiUy\_gGw7WYgE2BTyu](https://drive.google.com/open?id=1z0LyZsfnhrjtDVMiUy_gGw7WYgE2BTyu)
+
 #### Director de Auditoría
 
 Ramón Castillo
+
+[https://drive.google.com/open?id=147\_LxJ5deCHZJI7ti3uLD7lQ\_BX8-OBS](https://drive.google.com/open?id=147_LxJ5deCHZJI7ti3uLD7lQ_BX8-OBS)
 
 #### Director de Informática
 
 Roberto Price
 
+[https://drive.google.com/open?id=1P0AGwTkJfK3xgx2tZT3v5BM85ycGhMpz](https://drive.google.com/open?id=1P0AGwTkJfK3xgx2tZT3v5BM85ycGhMpz)
+
 #### Director de Infraestructura
 
 Tomás Dalla Porta
+
+[https://drive.google.com/open?id=1-SqaQHIKOMaXt67YOUTES-\_b-DOBTahU](https://drive.google.com/open?id=1-SqaQHIKOMaXt67YOUTES-_b-DOBTahU)
 
 #### Directora de Personas
 
 María Fernanda Vicuña
 
-![Mar&#xED;a Fernanda Vicu&#xF1;a, Directora de Personas.](../../../.gitbook/assets/_mg_1882.jpg)
+[https://drive.google.com/open?id=1Rgv2jLEznF2FDsCpSS1sB55NPRVOMdXk](https://drive.google.com/open?id=1Rgv2jLEznF2FDsCpSS1sB55NPRVOMdXk)
 
 #### Director de Presupuesto y Finanzas
 
 Francisco Bravo
+
+[https://drive.google.com/open?id=1EMs61ZktKvGUXFOBiWyoR7up8lPHrt9C](https://drive.google.com/open?id=1EMs61ZktKvGUXFOBiWyoR7up8lPHrt9C)
 
 
 
