@@ -72,7 +72,17 @@ Maryon Urbina
 
 ![](../../../.gitbook/assets/img_7353.JPG)
 
+#### Dirección de Aseguramiento de la Calidad
 
+Manuel Villalón
+
+#### Ombuds UC
+
+José Ignacio González
+
+#### Centro Latinoamericano de Políticas Económicas y Sociales
+
+Hernán de Solminihac
 
 ### Footer
 

@@ -14,7 +14,7 @@ Es la autoridad encargada de la **vinculación de la Universidad con las organiz
 
 #### Dirección Ejecutiva y Estudios y Control de Gestión.
 
-Unidad que lidera y coordina la realización del presupuesto anual y llevar el control de gastos de las diferentes direcciones internas junto asesorar a las autoridades superiores en el seguimiento del desempeño esperado.
+Unidad que **lidera y coordina la realización del presupuesto anual y llevar el control de gastos de las diferentes direcciones internas** junto asesorar a las autoridades superiores en el seguimiento del desempeño esperado.
 
 **Directora:** Paulina Dreyer
 
@@ -40,7 +40,7 @@ Unidad **encargada de la preparación, actualización y análisis de informació
 
 #### UC online
 
-_Unidad que provee y facilita a la Universidad de las capacidades de comercialización, desarrollo y ejecución de cursos y programas e-learning, coordinando los diferentes esfuerzos en este ámbito y formulando estrategias de desarrollo y posicionamiento de la Universidad._
+Unidad que **coordina los diferentes esfuerzos para el desarrollo, promoción y comercialización de los programas de e-learning**. Formula estrategias de desarrollo y posicionamiento de la Universidad en este ámbito.
 
 **Directora:** Luz Montero
 
@@ -48,7 +48,7 @@ _Unidad que provee y facilita a la Universidad de las capacidades de comercializ
 
 #### English UC
 
-_El Centro de Lenguaje English UC entrega formación en el idioma inglés de excelencia a los alumnos de la universidad, de pre y posgrado y también a alumnos externos, de forma de prepararlos para una sociedad globalizada, además de entregar servicios especiales relacionados con el idioma inglés a las unidades académicas y otros._
+Unidad **encargada de la formación en el idioma inglés de excelencia** para los estudiantes de pre y posgrado. Entrega servicios de **formación continua** a unidades internas, entidades externas y público general, además de **servicios especiales** relacionados con el idioma inglés.
 
 **Director:** Christopher MacGuire
 
