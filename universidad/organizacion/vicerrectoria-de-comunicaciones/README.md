@@ -34,7 +34,7 @@ Unidad busca **fortalecer el vínculo de la Universidad con sus ex alumnos**, ma
 
 #### Dirección de Comunicaciones
 
-_Falta descripción_
+Unidad que elabora y ejecuta la política de comunicaciones de la Universidad, así como la comunicación de las actividades internas y de las investigaciones de la UC.
 
 **Directora:** María Verónica Guarda
 
@@ -89,6 +89,12 @@ Unidad que nace con el objetivo de prestar un servicio educacional con los más 
 **Director:** Ariel Aguilar
 
 [Ir al sitio web](http://preuniversitario.uc.cl/)
+
+#### Centro de Eventos
+
+Esta unidad disponibiliza la infraestructura al servicio de  la extensión académica, artística y cultural de la Universidad y del país. Así contribuye a la transferencia de conocimiento y a la vinculación de la UC con la sociedad.
+
+**Directora:** Alejandra Carrazana
 
 ### Footer
 
