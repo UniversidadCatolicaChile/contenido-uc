@@ -62,7 +62,9 @@ Luz Montero
 
 ![](../../../.gitbook/assets/img_0036.JPG)
 
+#### Director de English UC
 
+Christopher MacGuire
 
 ### Footer
 

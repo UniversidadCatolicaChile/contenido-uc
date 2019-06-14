@@ -46,3 +46,11 @@ _Falta descripción_
 
 [Ir al sitio web](http://uconline.uc.cl)
 
+#### English UC
+
+Falta descripción
+
+**Director:** Christopher MacGuire
+
+[Ir al sitio web](http://english.uc.cl)
+
