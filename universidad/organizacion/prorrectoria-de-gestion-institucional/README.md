@@ -12,21 +12,23 @@ Es la autoridad encargada de la **vinculación de la Universidad con las organiz
 
 ### Unidades de la Prorrectoría de Gestión Institucional
 
-#### Dirección Ejecutiva
+#### Dirección Ejecutiva y Estudios y Control de Gestión.
 
-Unidad a cargo de la gestión administrativa, económica y financiera de la Prorrectoría de Gestión Institucional, que presta apoyo al prorrector de Gestión Institucional y a las direcciones asociadas.
+_Unidad que tiene a cargo liderar y coordinar la realización del presupuesto anual y llevar el control de gastos de las diferentes direcciones internas junto con responder a todas las funciones y tareas señaladas por el Prorrector._
+
+_A la Dirección de Estudios y Control de Gestión le corresponde asesorar a las autoridades superiores en el seguimiento del desempeño esperado de las entidades vinculadas con información y análisis sobre su gestión._
 
 **Directora:** Paulina Dreyer
 
 #### Dirección de Asuntos Jurídicos
 
-_\(Falta descripción\)_
+_Unidad que presta apoyo a las autoridades superiores y unidades de la Universidad en aquellas materias legales que sean necesarias para realizar el quehacer propio de la institución o que surjan como consecuencia de éste._
 
 **Directora:** Cristina Fernández
 
 #### Dirección de Desarrollo Patrimonial
 
-_\(Falta descripción\)_
+_Unidad encargada de administrar los bienes asignados para fines de gestión patrimonial y de aquellos que permitan el desarrollo futuro de la institución._
 
 **Director:** Hans Muhr
 
@@ -40,7 +42,7 @@ Unidad encargada de la preparación, actualización y análisis de información 
 
 #### UC online
 
-_Falta descripción_
+_Unidad que provee y facilita a la Universidad de las capacidades de comercialización, desarrollo y ejecución de cursos y programas e-learning, coordinando los diferentes esfuerzos en este ámbito y formulando estrategias de desarrollo y posicionamiento de la Universidad._
 
 **Directora:** Luz Montero
 
@@ -48,7 +50,7 @@ _Falta descripción_
 
 #### English UC
 
-Falta descripción
+_El Centro de Lenguaje English UC entrega formación en el idioma inglés de excelencia a los alumnos de la universidad, de pre y posgrado y también a alumnos externos, de forma de prepararlos para una sociedad globalizada, además de entregar servicios especiales relacionados con el idioma inglés a las unidades académicas y otros._
 
 **Director:** Christopher MacGuire
 
