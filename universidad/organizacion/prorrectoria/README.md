@@ -82,6 +82,32 @@ Unidad que busca **integrar la sustentabilidad dentro de los procesos educativos
 
 [Ir al sitio web](http://sustentable.uc.cl/)
 
+#### Dirección de Aseguramiento de la Calidad
+
+_Falta descripción_
+
+**Director:** Manuel Villalón
+
+#### Ombudsman
+
+El Ombuds \(consejero o mediador\) tiene como misión fundamental velar por una adecuada convivencia de todas las personas que conforman la comunidad de la Pontificia Universidad Católica de Chile. Esta convivencia está fundada en el cumplimiento de los derechos que emanan de la Declaración de Principios de la Universidad, sus Estatutos y Reglamentos, así como los documentos que conforman el Magisterio de la Iglesia Católica.
+
+**Ombuds:** José Ignacio González
+
+[Ir al sitio web](http://ombudsman.uc.cl/)
+
+#### Centro Latinoamericano de Políticas Económicas y Sociales
+
+En el Centro Latinoamericano de Políticas Económicas y Sociales de la Pontificia Universidad Católica de Chile, Clapes UC, se investigan, presentan y discuten ideas relacionadas con los incentivos para el crecimiento económico, el mejoramiento de la productividad, la creación de empleos y el aumento de la inversión. Analizamos además el aumento de la competencia en los mercados y la disminución de la pobreza y la desigualdad de ingresos compatible con el crecimiento económico. La misión de Clapes UC es el estudio, generación de conocimiento y difusión de materias que permitan analizar políticas de carácter económico y social para Chile, Latinoamérica y el mundo emergente.
+
+**Director:** Hernán de Solminihac
+
+[Ir al sitio web](http://www.clapesuc.cl/)
+
+
+
+
+
 ### \[Footer\]
 
 

@@ -99,6 +99,10 @@ Ariel Aguilar
 
 ![Ariel Aguilar, director de Preuniversitario UC.](../../../.gitbook/assets/_mg_8067.JPG)
 
+#### Directora de Centro de Eventos UC
+
+Alejandra Carrazana
+
 ### Footer
 
 
