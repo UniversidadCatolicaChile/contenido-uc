@@ -76,7 +76,7 @@ Es la unidad que tiene como misión **promover, gestionar y apoyar la internacio
 
 #### Dirección de Sustentabilidad
 
-Unidad que busca **integrar la sustentabilidad dentro de los procesos educativos, la investigación y las operaciones de la universidad. La** universidad entiende a la sustentabilidad como un desafío urgente y transversal que requiere de profesionales que desarrollen e implementen soluciones que nos permitan afrontar y mitigar las consecuencias del cambio climático.
+Unidad que busca **integrar la sustentabilidad dentro de los procesos educativos, la investigación y las operaciones de la universidad.** La ****universidad entiende a la sustentabilidad como un desafío urgente y transversal que requiere de profesionales que desarrollen e implementen soluciones que nos permitan afrontar y mitigar las consecuencias del cambio climático.
 
 **Directora:** Maryon Urbina
 
@@ -84,13 +84,13 @@ Unidad que busca **integrar la sustentabilidad dentro de los procesos educativos
 
 #### Dirección de Aseguramiento de la Calidad
 
-_Falta descripción_
+Unidad encargada de **asegurar la calidad** de la oferta universitaria **de acuerdo a estándares internacionales de educación superior**.
 
 **Director:** Manuel Villalón
 
 #### Ombudsman
 
-El Ombuds \(consejero o mediador\) tiene como misión fundamental velar por una adecuada convivencia de todas las personas que conforman la comunidad de la Pontificia Universidad Católica de Chile. Esta convivencia está fundada en el cumplimiento de los derechos que emanan de la Declaración de Principios de la Universidad, sus Estatutos y Reglamentos, así como los documentos que conforman el Magisterio de la Iglesia Católica.
+El Ombuds \(consejero o mediador\) tiene como misión fundamental **velar por una adecuada convivencia de todas las personas que conforman la comunidad UC**. Esta convivencia está fundada en el cumplimiento de los derechos que emanan de la Declaración de Principios de la Universidad, sus Estatutos y Reglamentos, así como los documentos que conforman el Magisterio de la Iglesia Católica.
 
 **Ombuds:** José Ignacio González
 
@@ -98,7 +98,7 @@ El Ombuds \(consejero o mediador\) tiene como misión fundamental velar por una 
 
 #### Centro Latinoamericano de Políticas Económicas y Sociales
 
-En el Centro Latinoamericano de Políticas Económicas y Sociales de la Pontificia Universidad Católica de Chile, Clapes UC, se investigan, presentan y discuten ideas relacionadas con los incentivos para el crecimiento económico, el mejoramiento de la productividad, la creación de empleos y el aumento de la inversión. Analizamos además el aumento de la competencia en los mercados y la disminución de la pobreza y la desigualdad de ingresos compatible con el crecimiento económico. La misión de Clapes UC es el estudio, generación de conocimiento y difusión de materias que permitan analizar políticas de carácter económico y social para Chile, Latinoamérica y el mundo emergente.
+El Centro Latinoamericano de Políticas Económicas y Sociales, Clapes UC, se encarga de **generar conocimiento y difundir materias que permitan analizar políticas de carácter económico y social** para Chile, Latinoamérica y el mundo emergente. 
 
 **Director:** Hernán de Solminihac
 

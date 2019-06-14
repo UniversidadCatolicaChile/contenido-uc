@@ -68,9 +68,13 @@ Catalina Salem
 
 María Teresa Bravo
 
+[https://drive.google.com/open?id=1YCuVKObk2E4rYgkdBFSffC\_ARjjcnrWu](https://drive.google.com/open?id=1YCuVKObk2E4rYgkdBFSffC_ARjjcnrWu)
+
 #### Abogada
 
 Darinka Barrueto
+
+[https://drive.google.com/open?id=1PQHQlxgHRna8BXm\_705yI9g\_uQKHTFiO](https://drive.google.com/open?id=1PQHQlxgHRna8BXm_705yI9g_uQKHTFiO)
 
 #### Abogada
 

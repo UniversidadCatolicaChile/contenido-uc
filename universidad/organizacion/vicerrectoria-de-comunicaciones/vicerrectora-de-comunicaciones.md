@@ -4,7 +4,7 @@
 
 #### Vicerrectora de Comunicaciones
 
-![](../../../.gitbook/assets/paulina-gomez-vicerrectora-comunicaciones.jpg)
+[https://drive.google.com/open?id=1qLqGWFIzKLitsnBIeLfY4xl9HSRfcMFw](https://drive.google.com/open?id=1qLqGWFIzKLitsnBIeLfY4xl9HSRfcMFw)
 
 #### Su carrera
 
@@ -35,73 +35,73 @@ Dictó el curso Semiología, en el plan común de pregrado en la Facultad de Com
 
 Rosa Íñiguez
 
-![Rosa &#xCD;&#xF1;iguez, directora ejecutiva.](../../../.gitbook/assets/_mg_3308.JPG)
+[https://drive.google.com/open?id=1Y2oELSQhx04AXXVQa4X\_fVBfoBSmfnm\_](https://drive.google.com/open?id=1Y2oELSQhx04AXXVQa4X_fVBfoBSmfnm_)
 
-#### Directora ejecutiva de desarrollo
+#### Directora de desarrollo
 
 Camila Rendic
 
-![Camila Rendic, directora ejecutiva de desarrollo](../../../.gitbook/assets/_mg_3714.JPG)
+[https://drive.google.com/open?id=1hYqNCz-ZQzI5ihi6sONTUasxU-WhDlEL](https://drive.google.com/open?id=1hYqNCz-ZQzI5ihi6sONTUasxU-WhDlEL)
 
 #### Directora de Alumni
 
 Rosa Íñiguez
 
-![Rosa &#xCD;&#xF1;iguez, directora de Alumni.](../../../.gitbook/assets/_mg_3308.JPG)
+[https://drive.google.com/open?id=1Y2oELSQhx04AXXVQa4X\_fVBfoBSmfnm\_](https://drive.google.com/open?id=1Y2oELSQhx04AXXVQa4X_fVBfoBSmfnm_)
 
 #### Directora de Comunicaciones
 
 María Verónica Guarda
 
-![Mar&#xED;a Ver&#xF3;nica Guarda, directora de Comunicaciones.](../../../.gitbook/assets/_mg_3791.jpg)
+[https://drive.google.com/open?id=1kDZ\_vltEELswXOs-XcxAWGEoM1WsYoaL](https://drive.google.com/open?id=1kDZ_vltEELswXOs-XcxAWGEoM1WsYoaL)
 
 #### Directora de Diseño Corporativo
 
 María Soledad Hola
 
-![Mar&#xED;a Soledad Hola, directora de Dise&#xF1;o Corporativo.](../../../.gitbook/assets/_mg_3758.jpg)
+[https://drive.google.com/open?id=1MX8C0\_sLGDE4WmnXxqItTWZId4G6vl7W](https://drive.google.com/open?id=1MX8C0_sLGDE4WmnXxqItTWZId4G6vl7W)
 
 #### Directora de Ediciones UC
 
 María Angélica Zegers
 
-![Mar&#xED;a Ang&#xE9;lica Zegers, directora de Ediciones UC.](../../../.gitbook/assets/_mg_1863.JPG)
+[https://drive.google.com/open?id=1LYlhjDd63Wle-cf9wM1XUAcmw0vtP01e](https://drive.google.com/open?id=1LYlhjDd63Wle-cf9wM1XUAcmw0vtP01e)
 
 #### Directora de Educación Continua
 
 Margarita Guarello
 
-![Margarita Guarello, directora de Educaci&#xF3;n Continua.](../../../.gitbook/assets/_mg_1937.JPG)
-
-#### 
+[https://drive.google.com/open?id=1coWQI3q9ct8G6692wfiJGIlQoSCTfoks](https://drive.google.com/open?id=1coWQI3q9ct8G6692wfiJGIlQoSCTfoks)
 
 #### Directora de Extensión Cultural
 
 Daniela Rosenfeld
 
-![Daniela Rosenfeld, directora de Extensi&#xF3;n Cultural](../../../.gitbook/assets/_mg_1981.JPG)
+[https://drive.google.com/open?id=1OJH9o7aYF6Ao\_4YZXLqT3uPC62DIYcER](https://drive.google.com/open?id=1OJH9o7aYF6Ao_4YZXLqT3uPC62DIYcER)
 
 #### Directora de Marketing
 
 Magdalena del Río
 
-![Magdalena del R&#xED;o, directora de Marketing.](../../../.gitbook/assets/_mg_1838.JPG)
+[https://drive.google.com/open?id=1UIeT3FPgaL8SfAo2DdLMKEeHJzoRUZeE](https://drive.google.com/open?id=1UIeT3FPgaL8SfAo2DdLMKEeHJzoRUZeE)
 
 #### Director de Capacitación y Desarrollo
 
 Jorge Herrera
 
-![Jorge Herrera, director de Capacitaci&#xF3;n y Desarrollo.](../../../.gitbook/assets/_mg_1487.JPG)
+[https://drive.google.com/open?id=16K-sz0\_LMtk-y\_EiIum4Y5FCEsREcgJM](https://drive.google.com/open?id=16K-sz0_LMtk-y_EiIum4Y5FCEsREcgJM)
 
 #### Director de Preuniversitario UC
 
 Ariel Aguilar
 
-![Ariel Aguilar, director de Preuniversitario UC.](../../../.gitbook/assets/_mg_8067.JPG)
+[https://drive.google.com/open?id=1Cgg8Tm3cshsEmcpVOsw3kZ-u8\_l4dOU5](https://drive.google.com/open?id=1Cgg8Tm3cshsEmcpVOsw3kZ-u8_l4dOU5)
 
 #### Directora de Centro de Eventos UC
 
 Alejandra Carrazana
+
+[https://drive.google.com/open?id=1M25fgpmjPtoxrtm6UfZsG-GAk9MtBJpT](https://drive.google.com/open?id=1M25fgpmjPtoxrtm6UfZsG-GAk9MtBJpT)
 
 ### Footer
 
