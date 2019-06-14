@@ -14,27 +14,25 @@ Es la autoridad encargada de la **vinculación de la Universidad con las organiz
 
 #### Dirección Ejecutiva y Estudios y Control de Gestión.
 
-_Unidad que tiene a cargo liderar y coordinar la realización del presupuesto anual y llevar el control de gastos de las diferentes direcciones internas junto con responder a todas las funciones y tareas señaladas por el Prorrector._
-
-_A la Dirección de Estudios y Control de Gestión le corresponde asesorar a las autoridades superiores en el seguimiento del desempeño esperado de las entidades vinculadas con información y análisis sobre su gestión._
+Unidad que lidera y coordina la realización del presupuesto anual y llevar el control de gastos de las diferentes direcciones internas junto asesorar a las autoridades superiores en el seguimiento del desempeño esperado.
 
 **Directora:** Paulina Dreyer
 
 #### Dirección de Asuntos Jurídicos
 
-_Unidad que presta apoyo a las autoridades superiores y unidades de la Universidad en aquellas materias legales que sean necesarias para realizar el quehacer propio de la institución o que surjan como consecuencia de éste._
+Unidad que presta **apoyo** a las autoridades superiores y unidades de la Universidad **en aquellas materias legales que sean necesarias para realizar el quehacer propio de la institución.**
 
 **Directora:** Cristina Fernández
 
 #### Dirección de Desarrollo Patrimonial
 
-_Unidad encargada de administrar los bienes asignados para fines de gestión patrimonial y de aquellos que permitan el desarrollo futuro de la institución._
+Unidad que **administra los bienes asignados para fines de gestión patrimonial y de aquellos que permitan el desarrollo futuro de la institución**_**.**_
 
 **Director:** Hans Muhr
 
 **Dirección de Proyectos y Filantropía**
 
-Unidad encargada de la preparación, actualización y análisis de información relevante para la gestión de Fundraising. También se encarga de la generación de bases de datos de las donaciones centrales, y mantiene el registro de fundaciones nacionales e internacionales de apoyo al desarrollo y sus áreas de interés.
+Unidad **encargada de la preparación, actualización y análisis de información relevante para la gestión del fondo de reserva de la Universidad**. Mantiene y actualiza el registro de donaciones centrales y realiza el seguimiento de 
 
 **Directora:** Mónica Arellano
 
