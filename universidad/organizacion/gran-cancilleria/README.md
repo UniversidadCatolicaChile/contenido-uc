@@ -12,5 +12,17 @@ Es quien tiene la **alta tuición de la Universidad**, **ejerce los actos de dir
 
 \*\*\*\*[**Pro Gran Canciller:** Monseñor Celestino Aós](gran-canciller.md)
 
+### Unidades de la Gran Cancillería
+
+#### Dirección de Pastoral
+
+_Es conducida por el Capellán general, sacerdote delegado por el Gran Canciller, y tiene la potestad para liderar y coordinar a todas las direcciones que componen la pastoral universitaria, buscando implementar las líneas de acción pastoral._
+
+\_\_[_http://pastoral.uc.cl/que-hacemos/_](http://pastoral.uc.cl/que-hacemos/)\_\_
+
+**Director:** Francisco Elorrieta
+
+[Ir al sitio web](http://pastoral.uc.cl)
+
 ### Footer
 
