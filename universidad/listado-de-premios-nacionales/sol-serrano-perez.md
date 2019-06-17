@@ -1,22 +1,30 @@
 # Sol Serrano Pérez
 
-![Sol Serrano, Premio Nacional de Historia 2018](../../.gitbook/assets/_mg_8520.jpg)
+Sol Serrano Pérez
 
-### Sol Serrano Pérez
+Es académica e investigadora del Instituto de Historia UC. Premio Nacional del Historia en 2018.
 
-Historiadora chilena de gran trayectoria. 
+Foto
 
-#### Carrera académica
+{% embed url="https://drive.google.com/open?id=1V2VcQUdR9ygHl1BNkBAreq9jMb-oSEhw" %}
 
-**Se licenció en Historia en 1977, en la Pontificia Universidad Católica. Luego cursó un Master of Arts en la Universidad de Yale \(1982\)**. 
+#### Sus inicios
 
-En 1993 obtuvo su doctorado en Historia en la UC. Desde entonces es [**profesora del Instituto de Historia**](http://historia.uc.cl/Planta-Academica/serrano-sol.html), en donde ha desarrollado su labor docente e investigadora.
+Nació el 25 de marzo de 1954.
 
-Sol Serrano ha formado a muchas generaciones de  estudiantes de pre y posgrado que hoy tienen prominentes carreras. Ha dirigido veinte tesis de licenciatura, seis de magíster y ocho de doctorados. 
+ Estudió en el colegio Villa María Academy junto a s
 
-**Entre 2015 y 2018 fue vicerrectora de Investigación de la UC.** 
+#### Su carrera
 
-#### Temas de investigación
+**Se licenció en Historia en 1977, en la Pontificia Universidad Católica. Luego cursó un Master of Arts en la Universidad de Yale \(1982\)**. En 1993 obtuvo su doctorado en Historia en la UC. 
+
+Desde entonces es [**profesora del Instituto de Historia**](http://historia.uc.cl/Planta-Academica/serrano-sol.html), en donde ha desarrollado su labor docente e investigadora.
+
+Sol Serrano ha formado a muchas generaciones de  estudiantes de pre y posgrado que hoy tienen prominentes carreras. Ha dirigido innumerables tesis de licenciatura,  magíster y doctorados. 
+
+**Entre 2015 y 2017 se desempeñó como Vicerrectora de Investigación de la Universidad Católica de Chile.** 
+
+#### Sus investigaciones y publicaciones
 
 Las principales líneas de investigación han sido la historia politica, intelectual, educacional y religiosa del siglo XIX en Chile, comparándola con latinoamérica. 
 
