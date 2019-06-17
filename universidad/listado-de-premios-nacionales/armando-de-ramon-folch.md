@@ -8,15 +8,15 @@ description: >-
 
 ![Armando de Ram&#xF3;n Folch. Foto: Memoria Chilena.](../../.gitbook/assets/armando-de-ramon-folch.jpg)
 
-Nació el 6 de febrero de 1927
+Nació el 6 de febrero de 1927 y murió en febrero de 2004, pocos días después de haber cumplido 77 años.
 
-#### Inicios
+#### Sus inicios
 
 Cursó su enseñanza primaria y secundaria en el Instituto Alonso de Ercilla.
 
 Siendo muy joven, [formó una biblioteca](http://www.memoriachilena.gob.cl/602/w3-article-81537.html) en la casa familiar. Le gustaba mostrar orgulloso sus títulos de Salgari y otros clásicos de la literatura juvenil.
 
-Por esa misma época empezó a tener sus primeros acercamientos a la literatura, con páginas pulcramente mecanografiadas con versos.
+Por esa misma época empezó a tener sus primeros acercamientos a la literatura, con páginas llenas de versos escritos a máquina. 
 
 Estudió en la **Facultad de Derecho de la Universidad** **de Chile** de donde [se licenció en Ciencias Jurídicas y Sociales en 1953](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/historia/6541/jose-armando-de-ramon-folch).
 
@@ -24,13 +24,15 @@ Aunque alcanzó a ejercer el derecho, la práctica de la profesión no llenó su
 
 Cursó estudios de postgrado en **Derecho en la Universidad de Madrid entre** 1955 y 1956 y en **Sociología en la Facultad Latinoamericana de Ciencias Sociales \(FLACSO\)** en 1963.
 
-**Carrera**
+**Su carrera**
 
 A partir de 1956 ejerció la docencia en la **Facultad de Derecho de la Universidad Católica de Chile** y luego en la **Facultad de Filosofía y Educación** de esta misma universidad.
 
-Desde 1980 y hasta su muerte se desempeñó como profesor titular del Instituto de Historia de la Pontificia Universidad Católica de Chile.
+\*\*\*\*[**Desde 1980 y hasta su muerte se desempeñó como profesor titular del Instituto de Historia de la Pontificia Universidad Católica de Chile.**](http://historia.uc.cl/Nuestro-Instituto/historia.html)\*\*\*\*
 
-Creó su propia metodología de trabajo e investigación al cruzar la mirada descriptiva de la historiografía, con corrientes de las ciencias sociales hasta ese entonces muy poco explotadas por investigadores locales. Con esto, a fines de los 50 **sentó las bases de nuevas áreas temáticas como la historia urbana, el género biográfico y la historia económica**, tal como se menciona [en su página oficial](http://armandoderamon.cl/biografia/Biografia_Armando_de_Ramon.html), reconfigurando la interpretación del derecho positivo, acercándolo a la historia social. 
+Creó su propia metodología de trabajo e investigación al cruzar la mirada descriptiva de la historiografía, con corrientes de las ciencias sociales hasta ese entonces muy poco explotadas por investigadores locales. 
+
+Con esto, a fines de los 50 **sentó las bases de nuevas áreas temáticas como la historia urbana, el género biográfico y la historia económica**, tal como se menciona [en su página oficial](http://armandoderamon.cl/biografia/Biografia_Armando_de_Ramon.html), reconfigurando la interpretación del derecho positivo, acercándolo a la historia social. 
 
 #### Publicaciones
 
@@ -40,17 +42,17 @@ Sus trabajos sobre la ciudad de Santiago fueron compendiadas en dos obras signif
 
 Más recientemente, en los cinco volúmenes de _**Biografías de Chilenos: miembros Poderes Ejecutivo Legislativo**_, De Ramón abordó referencias familiares, formación académica y aspectos ligados a la carrera política de gran parte de los miembros de los poderes de Estado, entre 1876 y 1973.
 
-Cabe resaltar también su aporte en ****_**Historia de América**_ **\(con Ricardo Couyoumdjian y Samuel Vial\) y su** _**Historia de Chile: desde la invasión incaica hasta nuestros días \(1500-2000**\)_, estudios generales donde optó por sintetizar con claridad la historicidad de los grupos de poder.
+Cabe resaltar también su aporte con el libro _**Historia de América**_ **\(coautor con Ricardo Couyoumdjian y Samuel Vial\) y su** _**Historia de Chile: desde la invasión incaica hasta nuestros días \(1500-2000**\)._ Ambos estudios generales donde optó por sintetizar con claridad la historicidad de los grupos de poder.
 
-#### Premios
+#### Premios y reconocimientos
 
-Fue miembro de la **Academia Chilena de la Historia y de la Real Academia Española de la Historia**.
+Durante gran parte de su vida profesional fue miembro de la[ **Academia Chilena de la Historia**](https://www.institutodechile.cl/) **y de la** [**Real Academia Española de la Historia**](http://www.rah.es/).
 
 En 1994 recibió el **premio Archibald C. Gerlach, del Instituto Panamericano de Historia y Geografía**.
 
-En 1998, obtuvo el **Premio Nacional de Historia por su importante contribución al estudio de la historia urbana y social**, así como también de la historia económica y biográfica, especialmente la republicana del siglo XX.
+El reconocimiento nacional llegó en 1998 cuando obtuvo el **Premio Nacional de Historia.**
 
-Murió el 29 de febrero de 2004.
+**Fue reconocido por su importante contribución al estudio de la historia urbana y social**, así como también de la historia económica y biográfica, especialmente la republicana del siglo XX.
 
 
 

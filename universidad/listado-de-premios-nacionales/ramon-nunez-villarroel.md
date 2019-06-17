@@ -1,7 +1,7 @@
 ---
 description: >-
   Ha estado ligado al Teatro de la Universidad Católica por más de 50 años.
-  Premio Nacional de Arte 2009.
+  Premio Nacional de Artes de la Representación 2009.
 ---
 
 # Ramón Nuñez Villarroel
