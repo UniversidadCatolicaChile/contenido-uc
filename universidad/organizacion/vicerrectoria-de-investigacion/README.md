@@ -33,8 +33,7 @@ Unidad que tiene como objetivo **fomentar, facilitar y aumentar la investigació
 
 Unidad que promueve el **desarrollo de la investigación en todas las áreas del saber**, potencia el desarrollo interdisciplinario y fomenta la internacionalización de las investigaciones. Apoya la postulación de proyectos en agencias nacionales e internacionales y ofrece fondos concursables a los académicos.
 
-Directora: María Elena Boisier.  
-[Ir al sitio web](http://investigacion.uc.cl/)
+Directora: María Elena Boisier.
 
 #### Dirección de Doctorado y Colegio de Programas Doctorales:
 

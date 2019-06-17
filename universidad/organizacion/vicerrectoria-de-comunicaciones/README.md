@@ -44,7 +44,7 @@ Unidad que **vela por la integridad de la imagen gráfica** de la Universidad. E
 
 **Directora:** María Soledad Hola
 
-#### Dirección de Ediciones UC
+#### Ediciones UC
 
 Sello editorial de la Universidad, fue creado con el objetivo de prestar **servicio editorial de apoyo a la docencia, la investigación y la creación literaria realizada en la universidad** y a la publicación de obras de la literatura general.
 

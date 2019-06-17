@@ -26,8 +26,6 @@ Unidad a cargo de la **gestión de la información** universitaria, la elaboraci
 
 **Directora:** Bárbara Prieto
 
-[Ir al sitio web](http://acreditacion.uc.cl)
-
 #### Dirección de Asuntos Estudiantiles
 
 Unidad que busca **contribuir a la formación integral de los estudiantes** y **velar por la calidad de vida** mediante el desarrollo de actividades de apoyo, fomento y prevención, en el ámbito de salud, deportes y vida universitaria, durante todas las etapas de su vida universitaria \(en pre y postgrado\). 
