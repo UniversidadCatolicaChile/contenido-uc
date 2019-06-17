@@ -10,9 +10,11 @@ description: >-
 
 Se graduó con honores como profesora de estado con mención en castellano de la Universidad Católica. Recibió el Premio Nacional de Literatura en 2018.
 
-Foto: [https://drive.google.com/open?id=1BODtiC8iOx3sixCwH-dF1q8icT\_4DSTo](https://drive.google.com/open?id=1BODtiC8iOx3sixCwH-dF1q8icT_4DSTo)
+Foto: 
 
-#### Sus inicios
+{% embed url="https://drive.google.com/open?id=111zSqr3dpooE8tKzglb75bZF9UpH6BwK" %}
+
+### Sus inicios
 
 Diamela Eltit nació en Santiago, en agosto de 1949.
 
