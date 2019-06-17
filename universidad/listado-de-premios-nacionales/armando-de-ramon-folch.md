@@ -6,6 +6,10 @@ description: >-
 
 # Armando de Ramón Folch
 
+## Armando de Ramón Folch
+
+Fue profesor titular del Instituto de Historia de la Universidad Católica de Chile. Premio Nacional de Historia 1998.
+
 ![Armando de Ram&#xF3;n Folch. Foto: Memoria Chilena.](../../.gitbook/assets/armando-de-ramon-folch.jpg)
 
 Nació el 6 de febrero de 1927 y murió en febrero de 2004, pocos días después de haber cumplido 77 años.
