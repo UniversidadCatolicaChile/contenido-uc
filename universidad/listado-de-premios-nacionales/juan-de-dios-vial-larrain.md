@@ -6,7 +6,7 @@ description: >-
 
 # Juan de Dios Vial Larraín
 
-![](../../.gitbook/assets/juandediosvial_big.png)
+![Juan de Dios Vial Larra&#xED;n. Foto: Facultad de Filosof&#xED;a UC.](../../.gitbook/assets/juandediosvial_big.png)
 
 Nació el 10 de agosto de 1924.
 
