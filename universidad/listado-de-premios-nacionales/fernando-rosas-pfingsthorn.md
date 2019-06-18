@@ -32,7 +32,7 @@ En 1991 Organiza la **Orquesta de Cámara de Chile.**
 
 En 1992 Creó el **Programa Nacional de Creación y Apoyo a las Orquestas Sinfónicas Juveniles y la Orquesta Sinfónica Nacional Juvenil**, con jóvenes músicos de hasta 25 años, que él mismo dirigió hasta 2001.
 
-En 1994 fundó la **Orquesta Sinfónica Nacional Juvenil**.
+En 1994 fundó la [**Orquesta Sinfónica Nacional Juvenil**](http://www.orquestajuvenilchile.com).
 
 Fue el principal impulsor de la **Fundación de Orquestas Juveniles e Infantiles de Chile \(FOJI\)**, junto a Luisa Durán y otros colaboradores, donde fue el director ejecutivo hasta su fallecimiento y donde llegó a tener a más de 12 mil niños y jóvenes en orquestas digregadas en 190 comunas de Chile.
 
@@ -42,7 +42,7 @@ Revisa un perfil en mayor profundidad en este enlace del sitio [Música Popular]
 
 Fue precisamente por su labor con jóvenes y niños, con especial énfasis en los de escasos recursos, que el año 2006 fue galardonado con el Premio Nacional de Artes Musicales como reconocimiento a su incesante trabajo en la difusión de la música clásica entre los más jóvenes.
 
-Al momento de su muerte, en 2007 contaba en su trayectoria la fundación de 230 orquestas.
+Al momento de [su muerte, en 2007](https://www.pucv.cl/uuaa/derecho/noticias/auditorio-del-cea-pucv-en-santiago-fue-bautizado-en-honor-a-ex-alumno-de/2016-11-03/122636.html) contaba en su trayectoria la fundación de 230 orquestas.
 
 En este video de la [Fundación de Orquestas Juveniles](https://www.youtube.com/watch?v=lG8n4zfCA7o), él mismo cuenta parte de su trayectoria.
 
