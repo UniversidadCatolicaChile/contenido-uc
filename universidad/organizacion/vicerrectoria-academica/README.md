@@ -26,7 +26,7 @@ Unidad encargada del **estudio y ejecución del proyecto educativo** de la Unive
 
 #### Dirección de Admisión y Financiamiento Estudiantil
 
-_Falta descripción_
+Unidad que tiene como objetivo apoyar al futuro estudiante en la misión de iniciar su paso por la Universidad.
 
 **Director:** Juan Echeverría
 
@@ -62,7 +62,7 @@ Es un programa que busca ser de **excelencia en la formación de pregrado, innov
 
 #### Dirección de Sistemas y Registros Académicos
 
-_Falta descripción_
+Unidad encargada de todos los servicios y registros de estudiantes, académicos y exalumnos de la Universidad. Además, cuenta con distintos proyectos que apoyan al estudiante en su paso por la Universidad. 
 
 **Directora:** Paulina Rodríguez
 
