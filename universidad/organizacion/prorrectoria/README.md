@@ -94,11 +94,9 @@ El Ombuds \(consejero o mediador\) tiene como misión fundamental **velar por un
 
 [Ir al sitio web](http://ombudsman.uc.cl/)
 
-#### Centro Latinoamericano de Políticas Económicas y Sociales
+#### Cátedra de Sustentabilidad
 
-El Centro Latinoamericano de Políticas Económicas y Sociales, Clapes UC, se encarga de **generar conocimiento y difundir materias que permitan analizar políticas de carácter económico y social** para Chile, Latinoamérica y el mundo emergente. 
-
-**Director:** Hernán de Solminihac
+Director: Juan Carlos Muñoz
 
 [Ir al sitio web](http://www.clapesuc.cl/)
 
