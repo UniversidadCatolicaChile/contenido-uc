@@ -23,7 +23,7 @@ Cajas:
 **Pregrado:** 
 
 Descubre las carreras y programas de pregrado que tenemos para ti. Con más de 50 opciones, aquí encontrarás la guía para no perderte y descubrir cómo convertirte en uno de los mejores profesionales del país.   
-[Más información](pregrado.md)
+[Más información](http://admisionyregistros.uc.cl/alumnos/programas-estudio/carreras-y-programas2)
 
 **Postgrado:** 
 

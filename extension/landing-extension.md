@@ -4,11 +4,7 @@
 
 Foto: 
 
-{% embed url="https://drive.google.com/open?id=115nh2ti1XXdCjkuzxrkfROijazGmaECj" %}
-
-{% embed url="https://drive.google.com/open?id=1GtX29Vuk437RAZK8YmuGsGgyK0rxasVV" %}
-
-
+{% embed url="https://drive.google.com/open?id=1YUYa9WkUkDmR43IcsRdXhRNjiNMvSdxx" %}
 
 La UC busca ser un actor relevante en el desarrollo del país a través de la generación conocimiento y de la oferta cultural. Te invitamos a conocer las distintas iniciativas con que las que aportamos a la agenda nacional y nos vinculamos con el país.
 

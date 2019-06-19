@@ -17,20 +17,27 @@ Nuestra pasión es crear conocimiento y compartirlo entre académicos, investiga
 ### Nuestra Investigación
 
 **Caja 1**  
-1.220 Publicaciones  
+809 proyectos de investigación ingresados a la plataforma VIVO
+
+Enlace a Vivo
+
+[http://vivo.uc.cl/vivo/research\#http://vivoweb.org/ontology/core\#Grant%20](http://vivo.uc.cl/vivo/research#http://vivoweb.org/ontology/core#Grant%20)  
   
 **Caja 2**  
-2.510 Publicaciones Scopus  
+118 patentes concedidas hasta 2017
+
+[http://transferenciaydesarrollo.uc.cl/es/empresas](http://transferenciaydesarrollo.uc.cl/es/empresas)  
   
 **Caja 3**  
-Proyectos ingresados en la plataforma de visibilización académica VIVO  
-\(_falta enlace_\)  
+43 revistas indizadas  
   
 **Caja 4**  
-26 Proyectos de Creación Artística  
+224 Proyectos de Creación Artística  
   
 **Caja 5**  
-\(_Falta cifra_\) Centros de Investigación  
+37 Centros de Investigación \(enlace a Vivo\)
+
+[http://vivo.uc.cl/vivo/organizations\#http://vivo.uc.cl/vivo/ontology/vivo-UC\#centro%20](http://vivo.uc.cl/vivo/organizations#http://vivo.uc.cl/vivo/ontology/vivo-UC#centro%20)  
   
 **Destacado**  
 INGENIERÍA BIOLOGÍA Y MÉDICA  
