@@ -8,9 +8,9 @@ description: >-
 
 ![Rafael Benguria Donoso. Foto: Banco de Im&#xE1;genes UC.](../../.gitbook/assets/rafael-benguria-donoso.jpg)
 
-Nació en Santiago, el 25 de octubre de 1951.
+#### Inicios
 
-#### Estudios
+Nació en Santiago, el 25 de octubre de 1951.
 
 Se tituló de **Ingeniero Civil Eléctrico y de Magíster en Física en la Universidad de Chile** en 1974. En 1976 obtuvo el grado de **Master y luego en 1979 el de Doctor en Física, ambos en la Universidad de Princeton**, Estados Unidos.
 
@@ -24,11 +24,13 @@ En 2003 se incorporó como **Miembro de Número de la Academia Chilena de Cienci
 
 Ha tenido una extensa participación en proyectos de investigación CONICYT tanto nacionales como de cooperación internacional. Tiene a su haber más de **13 proyectos como investigador responsable y co-investigador y ha sido tutor de tesis de doctorado en el Fondo Nacional de Desarrollo Científico y Tecnológico**, FONDECYT de CONICYT.
 
+#### Publicaciones
+
+Al momento de la premiación se desempeñaba como editor de dos de **las más importantes revistas internacionales de Física Matemática**. Entre sus publicaciones, se cuentan más de 100 artículos y libros, 70 de ellos publicados en revistas internacionales \(ISI\).
+
 #### Premio Nacional
 
 Recibió el **Premio Nacional de Ciencias Exactas en 2005 por sus condiciones de científico integral**, con resultados profundos y de alto impacto en disciplinas como la **Física, Matemáticas y Química, incluyendo la mecánica cuántica, ecuaciones en derivadas parciales no lineales**, geometría espectral y en análisis matemático del movimiento browniano. El Premio es también reconocimiento a su labor docente en distintas universidades del país. Más de cinco mil alumnos han pasado por sus clases.
-
-Al momento de la premiación se desempeñaba como editor de dos de **las más importantes revistas internacionales de Física Matemática**. Entre sus publicaciones, se cuentan más de 100 artículos y libros, 70 de ellos publicados en revistas internacionales \(ISI\).
 
 #### Fuentes
 
