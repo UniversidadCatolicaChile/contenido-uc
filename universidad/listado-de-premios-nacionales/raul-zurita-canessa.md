@@ -8,17 +8,15 @@ description: >-
 
 ![Ra&#xFA;l Zurita Canessa. Foto: Banco de Im&#xE1;genes UC.](../../.gitbook/assets/raulzurita.jpg)
 
+#### Inicios
+
 Nació en Santiago el 10 de enero de 1950.
 
-A los ocho años ingresó al **Liceo José Victorino Lastarria**. Fue durante los últimos años de humanidades que empezó a escribir sus primeros poemas. En paralelo participaba activamente en las movilizaciones de los estudiantes secundarios chilenos durante los 60.
+A los ocho años ingresó al **Liceo José Victorino Lastarria**. En los últimos años de humanidades empezó a escribir sus primeros poemas. Participó activamente en las movilizaciones de los estudiantes secundarios chilenos durante los 60.
 
-#### Estudios y trayectoria
+En 1967 entró a estudiar **Ingeniería Civil en la Universidad Técnica Federico Santa María de Valparaíso**. Fue parte de las grandes movilizaciones universitarias de finales de los 60 por la reforma y el cogobierno universitario. **Ingresó a las Juventudes Comunistas en 1969**. 
 
-En 1967 entró a estudiar **Ingeniería Civil en la Universidad Técnica Federico Santa María de Valparaíso**. En junio de ese año participó en la huelga de estudiantes y en la toma de la Universidad en lo que sería el comienzo de las grandes movilizaciones universitarias de finales de los 60 por la reforma y el cogobierno universitario. En ese contexto realizó una huelga de hambre que duró tres semanas. **Ingresó a las Juventudes Comunistas en 1969**. Por esos años, la poesía ya se había establecido como esencial en su vida.
-
-Durante 1973 asisitó al mítico **taller literario que realizaba Enrique Lihn en la Universidad Católica de Chile**. En el transcurso de ese año publicó la serie de poemas _El amor de Dios_ que, junto con los anteriores _Áreas Verdes_, formaron parte de _Purgatorio_, una de sus obras cúlmine, que publicó seis años después.
-
-En 1976 trabajó esporádicamente como **jefe de obra en construcciones**. Al año siguiente cambió a **vendedor de máquinas de calcular**. En ese contexto fue que concibió un poema escrito en el cielo y otro en el desierto. También los nombres para una trilogía: _**Purgatorio**_**,** _**Anteparaíso**_ **y** _**La Vida Nueva**_**. Trilogía que completó 19 años después.**
+Durante 1973 asistió al mítico **taller literario que realizaba Enrique Lihn en la Universidad Católica de Chile**. Ese año publicó la serie de poemas _El amor de Dios_ que, junto con los anteriores _Áreas Verdes_, formaron parte de _Purgatorio_, una de sus obras cúlmine, que publicó seis años después.
 
 #### Acciones de arte
 
@@ -43,6 +41,8 @@ Fue un férreo opositor a la dictadura.
 Durante 1984 participó activamente en la lucha democrática contra la dictadura leyendo su poesía en múltiples actos a lo largo de Chile.
 
 En 1987 participó en la **exposición** _**Chile Vive en Madrid**_, muestra de la cultura de resistencia que se hacía en Chile.
+
+
 
 En 1990, Patricio Aylwin, primer presidente de Chile tras la recuperación de la democracia, lo nombró **Agregado Cultural de la Embajada de Chile en Italia.** En ese país vivió hasta 1995.
 
