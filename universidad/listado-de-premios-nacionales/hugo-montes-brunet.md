@@ -46,13 +46,5 @@ Recibió otras distinciones como el **Premio Alerce de la Sociedad de Escritores
 
 En 1965 se integró como **Miembro de Número de la Academia Chilena de la Lengua.**
 
-#### Fuentes
-
-
-
-
-
-[Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/7363-hugo-montes-brunet-1926-)
-
 
 
