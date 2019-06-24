@@ -8,19 +8,19 @@ description: >-
 
 ![Ernesto Livacic Gazzano. Foto: Memoria Chilena.](../../.gitbook/assets/ernesto-livacic-gazzano.jpg)
 
-Nació el 22 de marzo de 1929. Hijo de croatas pioneros que llegaron a Punta Arenas a principios del siglo 20.
+#### Inicios
 
-#### Estudios
+Nació el 22 de marzo de 1929. Hijo de croatas pioneros que llegaron a Punta Arenas a principios del siglo 20.
 
 Cursó sus estudios en el colegio **salesiano San José y en el Liceo de Hombres de Punta Arenas**.
 
-Terminado el colegio, a los 17 años viajó a Santiago a estudiar **Pedagogía en Castellano en el Instituto Pedagógico de la Universidad de Chile**. Se recibió como Profesor de Estado en Castellano en 1951. Luego se tituló de **Planificador Educacional de la Unesco y obtuvo el grado de Magíster en Educación en la Universidad Católica**.
+Terminado el colegio, a los 17 años viajó a Santiago a estudiar **Pedagogía en Castellano en el Instituto Pedagógico de la** [Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/educacion/6580/ernesto-livacic-gazzano). Se recibió como Profesor de Estado en Castellano en 1951. Luego se tituló de **Planificador Educacional de la Unesco y obtuvo el grado de Magíster en Educación en la Universidad Católica**.
+
+Revisa el perfil de Livacic en [Memoria Chilena](http://www.memoriachilena.gob.cl/602/w3-article-78633.html)
 
 #### Trayectoria
 
 En la década de 1950 desempeñó cargos en el **Ministerio de Educación**.
-
-Por esa época publicó su obra más importante: _Literatura Chilena. Manual y Antología,_ publicado en  __1955.
 
 Fue **decano de la Facultad de Filosofía y Letras de la UC,** secretario técnico de la **Superintendencia de Educación Pública** \(1965-1969\) y **subsecretario de Educación** \(1969-1970\). Además integró el **Consejo Nacional de Educación** \(1965-1973\).
 
@@ -30,19 +30,19 @@ Fue secretario de la **Corporación de Santiago** de 1984 a 1988 y fue primer vi
 
 En 1990 fue miembro de la junta **directiva de la Universidad Metropolitana de Ciencias de la Educación** y en 1992 fue parte del **Consejo Nacional de Televisión.**
 
+#### Publicaciones
+
+Su obra más importante fue _Literatura Chilena. Manual y Antología,_ publicada en 1955.
+
 #### Premios
 
 En 1989 recibió la **Orden al Mérito del Consejo Mundial de Educación.**
 
 En 1993 fue distinguido con el **Premio Nacional de Educación .**
 
-Murió el año 2007.
+[Murió el año 2007](http://www.asale.org/noticias/fallece-don-ernesto-livacic-gazzano).
 
-#### Fuentes
 
-[Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/7359-ernesto-livacic-gazzano-1929-2007)
 
-[Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/educacion/6580/ernesto-livacic-gazzano)
 
-[Memoria Chilena](http://www.memoriachilena.gob.cl/602/w3-article-78633.html)
 

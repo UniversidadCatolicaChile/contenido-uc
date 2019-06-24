@@ -42,8 +42,6 @@ Durante 1984 participó activamente en la lucha democrática contra la dictadura
 
 En 1987 participó en la **exposición** _**Chile Vive en Madrid**_, muestra de la cultura de resistencia que se hacía en Chile.
 
-
-
 En 1990, Patricio Aylwin, primer presidente de Chile tras la recuperación de la democracia, lo nombró **Agregado Cultural de la Embajada de Chile en Italia.** En ese país vivió hasta 1995.
 
 Recorrió Chile junto al en ese entonces candidato presidencial **Ricardo Lagos en señal de apoyo** para su campaña.
