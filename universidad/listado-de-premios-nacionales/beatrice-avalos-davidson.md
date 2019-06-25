@@ -7,6 +7,10 @@ description: >-
 
 # Beatrice Ávalos Davidson
 
+## Beatrice Ávalos Davidson
+
+Fue profesora de Pedagogía General y de Filosofía de la Educación en la Escuela de Pedagogía de la Universidad Católica de Chile. Premio Nacional de Educación 2013.
+
 ![Beatrice &#xC1;valos Davidson. Foto: CONICYT](../../.gitbook/assets/beatrice-avalos.jpg)
 
 Nacida en Santiago el 23 de febrero de 1935.
@@ -40,8 +44,6 @@ _¿Héroes o Villanos? La profesión docente en Chile_ \(2013\).
 _Reform Environment and Teacher Identity in Chile_ \(en inglés. 2013\).
 
 _La formación inicial docente en Chile: Tensiones entre políticas de apoyo y control_ \(2014\).
-
-\_\_
 
 #### Premios
 
