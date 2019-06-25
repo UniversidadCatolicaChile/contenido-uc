@@ -8,49 +8,25 @@ description: >-
 
 ![Roberto Matta Echaurren. Foto: Arslatino.](../../.gitbook/assets/matta.jpg)
 
-#### Su infancia
-
-Nació el 11 de noviembre de 1911 en Santiago de Chile. Fue uno de los cuatro **hijos de Roberto Matta Tagle y de Mercedes Echaurren Herboso**, una familia de gran raigambre social y recursos económicos. La inusual fecha de su nacimiento \(11.11.11\) la utilizó con frecuencia en su carrera artística.
-
-Estudió en el **Colegio de los Sagrados Corazones de Santiago**, donde comenzó a destacar por sus dibujos y su caligrafía. Por esa época era vecino de Nemesio Antúnez.
-
-Su principal **fuente de inspiración artística y estética, fue su abuelo materno, Víctor Echaurren**, un diseñador aficionado de tramoyas de obras de teatro y óperas. Su familia era de origen vasco-francés.
-
 #### Sus inicios
 
-Su acercamiento a la pintura fue en un principio autodidacta, pero luego **asistió a los Talleres Libres de la Escuela de Bellas Artes de la Universidad de Chile** donde fue alumno del pintor Hernán Gazmuri.
+Nació el 11 de noviembre de 1911 en Santiago de Chile. Su familia era de origen vasco-francés. La inusual fecha de su nacimiento \(11.11.11\) la utilizó con frecuencia en su carrera artística.
+
+Estudió en el **Colegio de los Sagrados Corazones de Santiago**, donde comenzó a destacar por sus dibujos y su caligrafía.
+
+**Asistió a los Talleres Libres de la Escuela de Bellas Artes de la Universidad de Chile** donde fue alumno del pintor Hernán Gazmuri.
 
 A inicios de la década de 1930, participó en algunas manifestaciones contra el entonces presidente Carlos Ibáñez del Campo. Posteriormente **realizó el servicio militar en el «Regimiento Coraceros» de Viña del Mar**, reprimiendo las manifestaciones en las que antes había participado. Esto le provocó un gran sentimiento anti-militar.
 
-Cursó sus estudios en la **Escuela de Arquitectura de la Universidad Católica de Chile**. Su tesis de título fue un proyecto llamado _La liga de las religiones_, que consistía en bocetos de edificios con forma de mujer en diversas posiciones. Por esa época trabajó como **ilustrador en la revista satírica** _**Topaze**_. Se tituló de arquitecto en 1935.
+Cursó sus estudios en la **Escuela de Arquitectura de la Universidad Católica de Chile**. Por esa época trabajó como **ilustrador en la revista satírica** _**Topaze**_. Se tituló de arquitecto en 1935.
 
 Ese mismo año viajó a Europa en un barco mercante. Cuando estuvo **en Portugal, conoció a Gabriela Mistral**, por esa época cónsul en dicho país. Mistral ayudó a Matta y lo acogió en su casa durante tres meses. Según el pintor, durante aquel tiempo se enamoró de Mistral. Llegó incluso a pedirle la mano, pero la poeta lo rechazó.
 
-#### París
+Vivió en París, Londres y Nueva York, donde conoció, trabajó y se hizo amigo de los más grandes artistas de esa época: **Le Courbusier, André Breton**, **Pablo Picasso y Marcel Duchamp, Gropius,  Moholy Nagy, Henry Moore y Magritt, Federico García Lorca, Salvador Dalí**, **Max Ernst, Yves Tanguy y André Masson**, Jackson Pollock, Arshile Gorky y Robert Motherwell, **entre muchos otros**..
 
-Luego se instaló en París, donde **trabajó como delineador en el taller del arquitecto suizo - francés Le Courbusier**.
+En Nueva York **realizó su primera exposición individual** en 1940.
 
-Estando en Francia **entró en contacto con los representantes del movimiento surrealista, principalmente con André Breton**, quien lo introdujo en el círculo del grupo. 
-
-Matta produjo **ilustraciones y artículos para el periódico surrealista** _**Minotaure**_. Durante este periodo trabó amistad con prominentes artistas contemporáneos europeos, como **Pablo Picasso y Marcel Duchamp**.
-
-Durante su estancia en París viajó a España y conoció **al poeta Federico García Lorca y al pintor surrealista Salvador Dalí.**
-
-#### Londres
-
-En 1936 se mudó a Londres, Inglaterra, donde residió brevemente y trabajó con **Gropius y Moholy Nagy. También conoció a Henry Moore y a Magritte**. Sus primeras obras de orientación surrealista datan de esos años y pertenecen a la serie _Morfologías psicológicas_ \(1938\). Por esos días pasa del dibujo al óleo, una transición fundamental para el desarrollo de su obra.
-
-#### Nueva York
-
-Tras el estallido de la II Guerra Mundial se trasladó a Estados Unidos. **De 1939 a 1948 vivió en Nueva York**, donde entabló una estrecha relación con numerosos artistas e intelectuales de vanguardia que huyeron de Europa a inicios de la Segunda Guerra Mundial, entre ellos, **Max Ernst, Yves Tanguy y André Masson**. Se vinculó también con jóvenes pintores de la Escuela de Nueva York, entre ellos Jackson Pollock, Arshile Gorky y Robert Motherwell.
-
-En Nueva York desarrolló una intensa actividad artística. En la galería **Julien Levyn de esa ciudad realizó su primera exposición individual** en 1940.
-
-Ejerció una influencia decisiva en la obra de Arshile Gorky y en **la creación del expresionismo abstracto**. Sus obras de esos años están pobladas de extraños autómatas híbridos y de criaturas parecidas a insectos, como en Eros precipitado \(1944, Museo de Arte Moderno, Nueva York\).
-
-#### En Italia
-
-Diez años después, en 1948, Matta regresa a vivir a Europa, alejado del grupo de artistas norteamericanos. De vuelta en París se entera de que **fue expulsado del movimiento surrealista, no obstante, fue reincorporado en 1959**.
+En 1948, Matta regresó a vivir a Europa, alejado del grupo de artistas norteamericanos. De vuelta en París se entera de que **fue expulsado del movimiento surrealista, no obstante, fue reincorporado en 1959**.
 
 Entre 1950 y 1954 vivió en Roma antes de regresar, una vez más, a la capital francesa. En 1957 fijó su morada en Tarquinia, Italia.
 
