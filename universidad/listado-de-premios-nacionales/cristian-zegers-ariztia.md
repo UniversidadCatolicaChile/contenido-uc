@@ -8,6 +8,8 @@ description: >-
 
 ![Cristi&#xE1;n Zegers Arizt&#xED;a. Foto: Banco de Im&#xE1;genes UC.](../../.gitbook/assets/cristianzegers.jpg)
 
+#### Inicios
+
 Nació el 14 de febrero del año 1940.
 
 Estudió **Derecho en la Universidad Católica** donde también participó activamente, en 1961, en la **formación de la Escuela de Periodismo** de esta casa de estudios.
@@ -28,7 +30,9 @@ También, fue profesor en la Universidad de Chile y la Universidad Católica.
 
 #### Publicaciones
 
-Ha escrito numerosos libros y publicaciones, entre ellas _Historia política del gobierno de Aníbal Pinto_, publicado por el Instituto de Historia de la Universidad Católca en 1967.
+Ha escrito numerosos libros y publicaciones, entre ellas
+
+_Historia política del gobierno de Aníbal Pinto_, publicado por el Instituto de Historia de la Universidad Catóilca en 1967.
 
 #### Premios
 
