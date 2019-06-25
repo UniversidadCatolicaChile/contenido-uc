@@ -6,6 +6,10 @@ description: >-
 
 # Raquel Correa Prats
 
+## Raquel Correa Prats
+
+Alumna y profesora de Periodismo en la Universidad Católica. Premio Nacional de Periodismo 1991.
+
 ![Raquel Correa Prats. Foto: Banco de Im&#xE1;genes UC.](../../.gitbook/assets/raquelcorrea.jpg)
 
 La primera vocación de Raquel Teresa Correa Prats \(1934 - 2012\) quedó trunca a los 17 años. Siempre inquieta, rebelde y obstinada, se matriculó en secreto en la academia de Hugo Miller persiguiendo el sueño de la actuación. Pero su madre asistió a su debut en la polémica obra “Esquina Peligrosa” –donde fumaba con boquilla e interpretaba a la esposa de un homosexual— y, **para suerte del periodismo nacional, la hizo jurar que abandonaría las tablas.**
