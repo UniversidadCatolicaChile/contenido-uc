@@ -8,9 +8,11 @@ description: >-
 
 ![B&#xE9;lgica Castro Sierra. Foto: Sidarte.](../../.gitbook/assets/belgica.jpg)
 
-#### Su nombre
+#### Sus inicios y su nombre
 
-Bélgica Castro Sierra \(1921-\), antes de ser Bélgica Castro, se cuestionó muchas veces por qué sus papás –inmigrantes españoles que se declaraban anarquistas y apolíticos— la llamaron así. “El día en que le pregunté a mi padre, un obrero medio bruto que se ganaba la vida levantando casas, por qué me había llamado así, dijo que era porque **Bélgica había sido el país más valiente de la Primera Guerra Mundial**. Valiente. Creo que cargué toda mi vida con eso”, reveló la actriz a [La Tercera.](http://www2.latercera.com/noticia/belgica-castro-75-anos-de-teatro/)
+Nació el 6 de marzo de 1921 en Temuco.
+
+Antes de ser Bélgica Castro, se cuestionó muchas veces por qué sus papás —inmigrantes españoles que se declaraban anarquistas y apolíticos— la llamaron así. “El día en que le pregunté a mi padre, un obrero medio bruto que se ganaba la vida levantando casas, por qué me había llamado así, dijo que era porque **Bélgica había sido el país más valiente de la Primera Guerra Mundial**. Valiente. Creo que cargué toda mi vida con eso”, reveló la actriz a [La Tercera.](http://www2.latercera.com/noticia/belgica-castro-75-anos-de-teatro/)
 
 #### Sus estudios
 
