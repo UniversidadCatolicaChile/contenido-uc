@@ -10,7 +10,7 @@
 
 #### Su carrera
 
-**Guillermo Marshall Rivera es licenciado en matemáticas y estadístico** UC titulado en 1984. Posteriormente realizó un **Ph.D. en Bioestadística en la Universidad de Colorado** u obtuvo el grado de doctor en 1990. 
+**Guillermo Marshall Rivera es licenciado en matemáticas y estadístico** UC titulado en 1984. Posteriormente realizó un **Ph.D. en Bioestadística en la Universidad de Colorado** y obtuvo el grado de doctor en 1990. 
 
 Desde 1984 hace clases en la UC. Actualmente es **profesor titular de la Facultad de Matemáticas**, donde también fue decano a partir del año 2004. Ha sido también jefe de departamento de Salud Pública de la Escuela de Medicina UC, miembro del Consejo de la Facultad de Matemáticas, director de docencia y jefe del programa de Magíster en Estadística de la misma.  
   
