@@ -20,13 +20,15 @@ Fue el **primer Director de la Escuela de Periodismo de la Universidad Católica
 
 Fue **secretario de redacción de El Diario Ilustrado**; jefe de redacción y comentarista político del diario El Sur; **cofundador de las revistas Portada y Qué Pasa**; Director de la Revista del Domingo, y subdirector de El Mercurio.
 
-Fue durante 25 años **Director del diario La Segunda**. Posteriormente estuvo 12 años \(entre 2006 y 2018\) en similar cargo pero **del Diario El Mercurio**.
+Fue durante 25 años **Director del diario La Segunda**. Posteriormente [estuvo 12 años \(entre 2006 y 2018\) en similar cargo pero **del Diario El Mercurio**](https://www.capital.cl/la-semana-de-despedida-de-cristian-zegers-de-el-mercurio/).
 
 Ex **Presidente de la Asociación Nacional de Prensa en dos períodos** \(1968-1998 y 1998-2000\).y de la Federación de Medios de Comunicación Social de Chile.
 
 En 1998 se incorporó como  **miembro de número de la Academia Chilena de Ciencias Sociales, Políticas y Morales del Instituto de Chile**; y Director Secretario del Consejo Chileno para la Relaciones Internacionales \(CCRI\).
 
-También, fue profesor en la Universidad de Chile y la Universidad Católica.
+También, fue profesor en la [Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/periodismo/6617/cristian-zegers-ariztia) y la Universidad Católica.
+
+Revisa aquí una entrevista de [Eliana Rozas a Cristián Zegers](https://www.youtube.com/watch?v=5cwdeNdIL-Q) en _Viernes de medios_ en la Universidad Católica.
 
 #### Publicaciones
 
@@ -42,9 +44,5 @@ También fue premiado con el **Premio Luca de Tena**, que entrega el Diario ABC 
 
 Recibió el **Premio Nacional de Periodismo en 1989**.
 
-#### Fuentes
 
-[Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/7437-cristian-zegers-ariztia-1940-)
-
-[Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/periodismo/6617/cristian-zegers-ariztia)
 
