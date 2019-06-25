@@ -16,7 +16,7 @@ Este musicólogo y compositor estudió entre 1936 y 1943 en el **Conservatorio N
 
 **Fundó el Coro de la Universidad Católica en 1938**. Con esta agrupación realizó varias giras nacionales hasta 1944.
 
-Becado por las **fundaciones Rockefeller y Guggenheim** entre 1944 y 1946, viajó a perfeccionarse a Estados Unidos. **En la Universidad de Columbia, estudió musicología** con el destacado musicólogo Paul Henry Lang, Etnomusicología con George Herzog y Contrapunto con William Mitchell. **En la Universidad de Princeton, estudió con el compositor Randall Thompson**. El contacto con estos y otro músicos, como el compositor argentino Alberto Ginastera, permitieron a Orrego Salas romper la rigidez academicista con la que él se había formado, lo que lo hizo valorar de otro modo el folclor chileno y del continente.
+Becado por las **fundaciones Rockefeller y Guggenheim** entre 1944 y 1946, viajó a perfeccionarse a Estados Unidos. **Estudió en la Universidad de Columbia y Princeton.**
 
 Viaja a Europa y **representa a Chile en el Festival de la Sociedad Internacional de Música Contemporánea**. También presenta algunas de sus obras en Estados Unidos. 
 
@@ -36,7 +36,9 @@ Aquí el perfil del compositor en [Memoria Chilena](http://www.memoriachilena.go
 
 #### Obras
 
-Ha sido uno de los **compositores chilenos más interpretados y grabados en el extranjero**. Su catálogo incluye más de 120 obras en todos los ámbitos y un estilo que ha influido en autores latinoamericanos. Ha hecho además una vasta contribución de artículos musicales para diarios, revistas y estudios musicológicos. Su obra se ha caracterizado por combinar **elementos neoclásicos y procedimientos formales de todos los periodos**, desde la Edad Media hasta el siglo XX. 
+Ha sido uno de los **compositores chilenos más interpretados y grabados en el extranjero**. Su catálogo incluye más de 120 obras en todos los ámbitos y un estilo que ha influido en autores latinoamericanos. Ha hecho además una vasta contribución de artículos musicales para diarios, revistas y estudios musicológicos.
+
+Su obra se ha caracterizado por combinar **elementos neoclásicos y procedimientos formales de todos los periodos**, desde la Edad Media hasta el siglo XX. 
 
 En este enlace puedes escuchar [Serenata Concertante op.40](https://www.youtube.com/watch?v=YCWhCyLtxUY) \(1954\).
 
