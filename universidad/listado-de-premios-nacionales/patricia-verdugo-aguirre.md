@@ -2,7 +2,7 @@
 
 ## Patricia Verdugo Aguirre
 
-Periodista y escritora conocida por sus libros y reportajes de investigación sobre el régimen militar. Recibió el Premio Nacional de Periodismo en 1997.
+Periodista y escritora exalumna de la Escuela de Periodismo UC. Recibió el Premio Nacional de Periodismo en 1997.
 
 ![](../../.gitbook/assets/patriciaverdugo.jpg)
 

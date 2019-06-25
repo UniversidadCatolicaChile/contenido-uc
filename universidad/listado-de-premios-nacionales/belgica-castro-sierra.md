@@ -6,6 +6,10 @@ description: >-
 
 # Bélgica Castro Sierra
 
+## Bélgica Castro Sierra
+
+Consagró su vida al Teatro de la Universidad Católica. Premio Nacional de Artes de la Representación y Audiovisual 1995.
+
 ![B&#xE9;lgica Castro Sierra. Foto: Sidarte.](../../.gitbook/assets/belgica.jpg)
 
 #### Sus inicios y su nombre
@@ -28,7 +32,7 @@ Desde el flechazo, la carrera del uno no se entiende sin la del otro. Bélgica h
 
 “Después de eso, no paramos más, y hemos hecho mucho juntos. Fundamos la compañía _Teatro del Ángel_ e incluso nos fuimos a Costa Rica por muchos años. Ya ni me acuerdo de todas las obras que hemos realizado. Alejando siempre escribió personajes para mí y me ayudó a ampliar mi registro, gracias a él pude hacer roles más variados como el de _Ánimas de día claro_”,[ contó Bélgica en una entrevista de revista Cosas.](http://cosas.com/belgica-castro-el-teatro-es-nuestra-vida/)
 
-#### Trayectoria
+#### Su carrera
 
 En 1971, con la actriz [Ana González](https://www.uc.cl/es/component/content/article/244-noticia-principal/30547-ana-gonzalez-actriz-multifacetica-y-diva-popular) y otros artistas compraron **una pequeña sala en el centro de Santiago para llevar a las tablas un teatro de calidad**, alejado de la vanguardia y las modas experimentales. Ese fue el inicio del _**Teatro del Ángel**_**,** que funcionó hasta 1984.
 
@@ -36,7 +40,7 @@ En su extensa carrera ha interpretado textos de los más importantes dramaturgos
 
 Ha actuado en numerosas películas chilenas como _Hollywood es así_, de Jorge Délano, _El final del juego_ de Luis Cornejo; _Palomita blanca_,  _Días de campo_ y la miniserie _La recta provincia_ de Raúl Ruiz; _El desquite_ y _La buena vida_, de Andrés Wood. **Su última aparición cinematográfica fue en 2013, en la cinta** _**Gatos viejos**_**, de Sebastián Silva, que le valió el quinto premio Altazor de su carrera** y el premio a la Mejor Actriz en el XVI Festivalísimo, Festival de Cine Ibero-latinoamericano de Montreal. 
 
-#### Premios
+#### Premios y reconocimientos
 
 **En 1995 recibió el Premio Nacional de Artes de la Representación y Audiovisuales**. En 2001, el APES otorgado por la Asociación de Periodistas de Espectáculos a su trayectoria. Ganó el Premio Paoa del Festival Internacional de Cine de Viña del Mar a la Mejor Actriz Protagónica Nacional y el premio APES a Mejor Actriz de Reparto. Pero son solo algunos de sus reconocimientos.
 
