@@ -50,7 +50,7 @@ Premio Anual del Círculo de Críticos de Arte, Santiago, Chile. 1959
 
 Concurso de ejecución de mural Hospital del Trabajador de Concepción, Chile. 1979 
 
-**Premio Nacional de Arte mención Pintura**, Santiago, Chile. 1982 
+Premio Nacional de Arte mención Pintura, Santiago, Chile. 1982 
 
 Medalla de Oro, Universidad Católica de Chile, Santiago, Chile. 1982 
 
