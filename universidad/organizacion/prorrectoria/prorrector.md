@@ -72,17 +72,14 @@ Maryon Urbina
 
 ![](../../../.gitbook/assets/img_7353.JPG)
 
-#### Dirección de Aseguramiento de la Calidad
+#### Director de Aseguramiento de la Calidad
 
 Manuel Villalón
 
-#### Ombuds UC
+#### Director de Cátedra de Sustentabilidad
 
-José Ignacio González
-
-#### Centro Latinoamericano de Políticas Económicas y Sociales
-
-Hernán de Solminihac
+  
+Juan Carlos Muñoz
 
 ### Footer
 
