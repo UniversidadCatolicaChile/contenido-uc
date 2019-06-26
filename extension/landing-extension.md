@@ -157,7 +157,7 @@ Conoce los servicios de DESUC: [http://sociologia.uc.cl/desuc/](http://sociologi
 
 **Centro de Extensión Alameda**
 
-Con más de 30 años de trayectoria, el Centro de Extensión UC es uno de los espacios multidisciplinarios más completos y emblemáticos de Santiago.
+Con más de 30 años de trayectoria, el Centro de Extensión Alameda es uno de los espacios multidisciplinarios más completos y emblemáticos de Santiago.
 
 Foto: [https://drive.google.com/open?id=19XrnmkTs442lQLIPNIk-FhAzBUcubM0\_](https://drive.google.com/open?id=19XrnmkTs442lQLIPNIk-FhAzBUcubM0_)
 
