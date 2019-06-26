@@ -32,7 +32,7 @@ Unidad que **administra los bienes asignados para fines de gestión patrimonial 
 
 **Dirección de Proyectos y Filantropía**
 
-Unidad **encargada de la preparación, actualización y análisis de información relevante para la gestión del fondo de reserva de la Universidad**. Mantiene y actualiza el registro de donaciones centrales y realiza el seguimiento de 
+Unidad **encargada de la preparación, actualización y análisis de información relevante para la gestión del fondo de reserva de la Universidad**. También tiene como objetivo prestar apoyo a las autoridades superiores y unidades de la Universidad en los esfuerzos de fundraising o búsqueda de recursos, el fomento de la filantropía y la gestión de proyectos especiales.
 
 **Directora:** Mónica Arellano
 
