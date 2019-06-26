@@ -113,7 +113,7 @@ Imagen \(propuesta\)
 
 Conoce nuestras distintas iniciativas, en que diferentes ámbitos de acción aportan a la sociedad y a las problemáticas que enfrenta nuestro país, reforzando el rol público de la UC.
 
-\*\*\*\*[**Listado de iniciativas de compromiso público**](vinculacion-con-el-territorio.md)\*\*\*\*
+\*\*\*\*[**Ver como listado**](https://drive.google.com/open?id=1_kvAj3zIYuTKM5lg7IO87bvoL_nqTqHEwMR5FDGpBF4)\*\*\*\*
 
 ### Encuestas y Estudios
 
