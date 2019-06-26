@@ -129,17 +129,51 @@ Encuesta 3
 
 Desde consultorías profesionales hasta el arriendo de espacios, la Universidad Católica se vincula con la comunidad a través una amplia oferta.
 
-#### **Servicios profesionales**
+#### **Servicios destacados**
 
-Conoce los servicios en distintas áreas que las unidades académicas ofrecen, con el sello de calidad UC.
+**DICTUC**
 
-[**Servicios UC**](servicios-profesionales-uc.md)\*\*\*\*
+Empresa de servicios de ingeniería multidisciplinarios, enfocada en resolver problemas específicos o desarrollar proyectos de gran envergadura, en diferentes sectores productivos y en áreas de interés para el país.
 
-#### **Arriendo de espacios**
+Conoce más del DICTUC: [https://www.dictuc.cl/](https://www.dictuc.cl/)
 
-Encuentra el espacio para tu evento, ya sea una actividad académica, gubernamental, corporativa o personal.
+#### CITUC
 
-\*\*\*\*[**Ver lista de espacios**](arriendo-de-espacios-uc.md)
+El Centro de Información Toxicológica de la Universidad Católica \(CITUC\), es una organización sin fines de lucro, cuyo fin es servir a la comunidad cubriendo la necesidad de información científica actualizada en casos de emergencias toxicológicas y emergencias químicas en nuestro país. Cuenta con asistencia telefónica 24/7 para situaciones de emergencia.
+
+Visita el sitio de CITUC: [http://cituc.uc.cl/](http://cituc.uc.cl/)
+
+#### DESUC
+
+La Dirección de Estudios Sociales UC desarrolla estudios de opinión pública, imagen, servicio, poíticas públicas y tendencias sociales para agencias públicas y medios de comunicación.
+
+Conoce los servicios de DESUC: [http://sociologia.uc.cl/desuc/](http://sociologia.uc.cl/desuc/)
+
+#### \(Botón\): [Revisa el listado completo de servicios profesionales de la UC](servicios-profesionales-uc.md)
+
+### **Arriendo de espacios**
+
+**Espacios destacados**
+
+**Centro de Extensión Alameda**
+
+Con más de 30 años de trayectoria, el Centro de Extensión UC es uno de los espacios multidisciplinarios más completos y emblemáticos de Santiago.
+
+Foto: [https://drive.google.com/open?id=19XrnmkTs442lQLIPNIk-FhAzBUcubM0\_](https://drive.google.com/open?id=19XrnmkTs442lQLIPNIk-FhAzBUcubM0_)
+
+#### Centro de Extensión Campus Oriente
+
+Este tradicional edificio propiedad de la Universidad desde 1971, cuenta con tradicionales espacios para matrimonios y eventos. 
+
+Foto: [https://drive.google.com/open?id=11TNG8S3cPq2IvlO4qNC6NqQmsLYX9V7s](https://drive.google.com/open?id=11TNG8S3cPq2IvlO4qNC6NqQmsLYX9V7s)
+
+#### Centro de Extensión Pirque
+
+Construcciones patrimoniales renovadas, en medio de varias hectáreas de parque, hoy están a disposición de la comunidad para la realización de todo tipo de eventos. 
+
+Foto: [https://drive.google.com/open?id=16KxNiVTQ-5Cs3KMoeR\_lYVPDC3slfsGx](https://drive.google.com/open?id=16KxNiVTQ-5Cs3KMoeR_lYVPDC3slfsGx)
+
+\(Botón\): [**Organiza tu evento con nosotros**](http://centroeventos.uc.cl/)\*\*\*\*
 
 ### **Sigue explorando**
 
