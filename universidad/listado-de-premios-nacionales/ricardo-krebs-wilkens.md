@@ -49,5 +49,3 @@ En 1982 le fue otorgado el **Premio Nacional de Historia**.
 
 Ricardo Krebs [falleció a la edad de 93 años](http://www.lasegunda.com/Noticias/CulturaEspectaculos/2011/12/707412/Esta-tarde-fallecio-el-historiador-Ricardo-Krebs-Wilckens), el 23 de diciembre de 2011.
 
-[¿](http://www.memoriachilena.gob.cl/602/w3-article-3685.html)
-
