@@ -36,11 +36,5 @@ En este enlace una entrevista con el Doctor Croxatto a raíz de la [despenalizac
 
 #### Premio Nacional
 
-En 2016 recibió el [**Premio Nacional de Ciencias**](https://www.mineduc.cl/2016/08/27/horacio-croxatto-avoni-gana-premio-nacional-ciencias-aplicadas-tecnologicas-2016/) **por su contribución al desarrollo de importantes métodos anticonceptivos** que han revolucionado el campo de la reproducción humana y han beneficiado a millones de personas”.
-
-
-
-#### 
-
-[Museo Interactivo Mirador](https://mim.cl/index.php/pnc-51)
+En 2016 recibió el [**Premio Nacional de Ciencias**](https://www.mineduc.cl/2016/08/27/horacio-croxatto-avoni-gana-premio-nacional-ciencias-aplicadas-tecnologicas-2016/) **por su contribución al desarrollo de importantes métodos anticonceptivos** que han revolucionado el campo de la reproducción humana y han beneficiado a millones de personas.
 
