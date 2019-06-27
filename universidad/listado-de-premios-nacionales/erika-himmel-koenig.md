@@ -8,11 +8,13 @@ description: >-
 
 ![Erika Himmel K&#xF6;nig. Foto: Banco de Im&#xE1;genes UC.](../../.gitbook/assets/erika-himmel.jpg)
 
+#### Inicios
+
 Nació en el 27 de agosto de 1930.
 
-#### Estudios y formación
-
 Se formó como **profesora de Estado en Matemática** en el Instituto Pedagógico de la Universidad de Chile.
+
+#### Trayectoria
 
 Entre 1953 a 1956 ejerció como **profesora de los Colegios Santo Tomas Moro y Dunalastair**.
 
@@ -25,6 +27,10 @@ Participó en la construcción de los principales sistemas de evaluación educat
 Fue **vicerrectora académica de la Universidad Católica** y luego decana de la Facultad de Educación. Asimismo ha asesorado a distintos gobiernos latinoamericanos y organismos internacionales en evaluación educativa.
 
 Ha participado activamente en numerosas organizaciones nacionales vinculadas a la educación \(**Consejo Asesor presidencial, Consejo Superior de Educación, CONICYT**\). Asimismo, ha asesorado en numerosas oportunidades a distintos gobiernos latinoamericanos y organismos internacionales en la formulación de sistemas de evaluación educativa.
+
+En este enlace [un perfil de la investigadora ](http://www.diarioelheraldo.cl/noticia/erika-himmel-konig)en Diario El Heraldo, del Maule.
+
+Aquí un video con una [entrevista a la profesora Himmel](https://www.youtube.com/watch?v=UE2eg_RfxjI) exhibido durante la ceremonia de bienvenida de los novatos de la Facultad de Educación, el 03 de marzo de 2012. El documental recoge algunas de las ideas inspiradoras del oficio de educar
 
 **Premios y distinciones**
 
@@ -42,19 +48,11 @@ En 2008 recibió la **Medalla Reconocimiento de 50 años al Servicio de la Educa
 
 La Universidad Católica de Chile la nombró **Profesor Emérito el año 2011.**
 
-El 2011 recibió el **Premio Nacional de Ciencias de la Educación** por sus significativos aportes que la galardonada ha efectuado al desarrollo de las ciencias de la educación, principalmente en el área de la evaluación educacional, contribuyendo específicamente a establecer un verdadero Sistema Nacional de Evaluación.
+El 2011 recibió el [**Premio Nacional de Ciencias de la Educación**](https://www.conicyt.cl/mujeres-en-ciencia-y-tecnologia/mujeres-destacadas/premios-nacionales/erika-himmel-konig/) por sus significativos aportes que la galardonada ha efectuado al desarrollo de las ciencias de la educación, principalmente en el área de la evaluación educacional, contribuyendo específicamente a establecer un verdadero Sistema Nacional de Evaluación.
 
-#### Fuentes
+En este enlace una [nota en La Tercera ](https://www.latercera.com/noticia/erika-himmel-konig-recibio-el-premio-nacional-de-ciencias-de-la-educacion-2011/)con motivo del Premio Nacional.
 
-[Conicyt](https://www.conicyt.cl/mujeres-en-ciencia-y-tecnologia/mujeres-destacadas/premios-nacionales/erika-himmel-konig/)
 
-[Universidad Católica](https://www.uc.cl/es/component/content/article/275-premios-nacionales/7369-erika-himmel-koenig)
-
-[Educación UC](http://educacion.uc.cl/facultad-a/cuerpo-docente-aux/20-erika-himmel-koenig#premios-y-distinciones)
-
-[Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/educacion/75091/erika-himmel-konig)
-
-[Universidad de Playa Ancha](https://www.upla.cl/noticias/2011/10/04/erika-himmel-konig-recibe-el-premio-nacional-de-educacion/)
 
 
 

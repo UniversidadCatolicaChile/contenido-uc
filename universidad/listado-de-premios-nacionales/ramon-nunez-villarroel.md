@@ -8,9 +8,9 @@ description: >-
 
 ![Ram&#xF3;n Nu&#xF1;ez Villarroel. Foto: Escuela de Teatro UC.](../../.gitbook/assets/ramon-nuez.jpg)
 
-Nació en Santiago de Chile el 30 de noviembre de 1941.
+#### Inicios
 
-#### Formación
+Nació en Santiago de Chile el 30 de noviembre de 1941.
 
 Desde niño fue un asiduo asistente al Teatro. Tanto el de la Universidad Católica, como el Teatro Experimental de la Universidad de Chile.
 
@@ -26,7 +26,7 @@ Ha **dictado cátedras en el pregrado como en el post-título y en magister** ta
 
 #### Trayectoria
 
-Ha estado ligado al **Teatro de la Universidad Católica por más de 50 años**, siendo su miembro más antiguo. Fue **Director de la Escuela de Teatro desde 1983 a 1987**.
+Ha estado ligado al [**Teatro de la Universidad Católica**](http://teatrouc.uc.cl/) **por más de 50 años**, siendo su miembro más antiguo. Fue **Director de la Escuela de Teatro desde 1983 a 1987**.
 
 Ha participado como director, actor o profesor en **más de 200 obras, tanto en Chile como en el exterior.**
 
@@ -35,6 +35,10 @@ Con una sólida trayectoria en teatro, entró a la televisión, donde tuvo gran 
 Con **170 obras como trayectoria**, ha dirigido piezas como _**La viuda de Apablaza**,_ de Germán Luco; _**Traición,**_ de Harold Pinter y _**El derrumbe**_, de Arthur Miller, entre otras. Protagonizó _**La pérgola de las flores**_, _El burgués gentilhombre_, _**El rey Lear**_, _Esperando a Godot_, _El vestidor_, y _Ardiente paciencia_, entre otras.
 
 Desde el año 2001 es **miembro activo de la Academia Chilena de Bellas Artes**, de la que  actualmente es secretario.
+
+En este video, el montaje [El Burgués Gentilhombre](https://www.youtube.com/watch?v=6X0YgW4ImLc), transmitido por Canal 13, con Ramón Nuñez en uno de los roles principales.
+
+Aquí un homenaje de la [Facultad de Artes de la Universidad Católica](https://www.youtube.com/watch?v=NLF-FUUNdRs), por una vida dedicada al teatro.
 
 #### Premios
 
@@ -52,13 +56,7 @@ En 2009 fue invitado por el **Departamento de Drama de la Universidad de New Yor
 
 Ese mismo año recibió el ganador del **Premio Nacional de Artes de la Representación** por su larga e invaluable trayectoria artística.
 
-#### Fuentes
-
-[Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/7375-ramon-nunez-villarroel-1941)
-
-[Escuela de Teatro UC](http://escueladeteatro.uc.cl/escuela/profesores/56-ramon-nunez-villarroel)
-
-[Academia Chilena de Bellas Artes](http://www.academiachilenadebellasartes.cl/premios-nacionales/#toggle-id-27)
+En este enlace puedes revisar el [perfil de Ramón Nuñez](http://www.academiachilenadebellasartes.cl/premios-nacionales/#toggle-id-27) en la Academia Chilena de Bellas Artes.
 
 
 
