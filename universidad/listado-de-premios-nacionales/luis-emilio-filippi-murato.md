@@ -48,7 +48,7 @@ Premio Internacional de **Periodismo Rey de España** y el María Moors Cabot, a
 
 En 2005 fue nombrado, por iniciativa de colegas italianos y chilenos, Presidente Honorario de la Asociación bi-nacional de los profesionales de la información. 
 
-Filippi falleció [el 12 de agosto a los 85 años](https://www.24horas.cl/tendencias/espectaculosycultura/fallece-el-premio-nacional-de-periodismo-emilio-filippi-1371316).
+Falleció [el 12 de agosto de 2014 a los 85 años](https://www.24horas.cl/tendencias/espectaculosycultura/fallece-el-premio-nacional-de-periodismo-emilio-filippi-1371316).
 
 
 
