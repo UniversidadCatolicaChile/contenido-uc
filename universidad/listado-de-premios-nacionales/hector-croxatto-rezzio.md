@@ -26,7 +26,7 @@ En 1966 fue designado primer **Director del Centro de Perfeccionamiento y Experi
 
 Aquí puedes leer un texto homenaje publicado en la [Revista Médica](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0034-98872011000100017).
 
-Y aquí un [perfil del doctor](https://www.youtube.com/watch?v=7SO4u8kl6eI) desarollado por Explora Conycit.
+Y aquí un [perfil del doctor](https://www.youtube.com/watch?v=7SO4u8kl6eI) desarrollado por Explora Conycit.
 
 #### Premios
 
@@ -42,9 +42,9 @@ Recibió el Premio Juan Gómez Millas, de la [Universidad de Chile](http://www.u
 
 En 2002 obtuivo el grado de Doctor Sciencia et Honoris Causa de Universidad Metropolitana de Ciencias de la Educación.
 
-En febrero de 2000 y por unanimidad de los miembros del directorio, la Fundación Chilena de Hipertensión Arterial, que ayudó a fundar en Mayo de 1994, pasó a llamarse, [**Fundación Chilena de Hipertensión Arterial**](http://www.presionaldia.cl/pages/homenaje/)  **“Dr. Héctor Croxatto Rezzio”,** en reconocimiento a su trayectoria.
+En febrero de 2000 y por unanimidad de los miembros del directorio, la Fundación Chilena de Hipertensión Arterial, que ayudó a fundar en Mayo de 1994, pasó a llamarse, [**Fundación Chilena de Hipertensión Arterial**](http://www.presionaldia.cl/pages/homenaje/)  **Dr. Héctor Croxatto Rezzio,** en reconocimiento a su trayectoria.
 
 En 2005 fue nombrado profesor honorario de la Facultad de Medicina de la Universidad de Chile.
 
-Murió en Santiago en 2010.
+Murió en Santiago el 28 de septiembre de 2010.
 
