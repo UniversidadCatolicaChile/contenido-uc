@@ -8,75 +8,67 @@ description: >-
 
 ![Roberto Matta Echaurren. Foto: Arslatino.](../../.gitbook/assets/matta.jpg)
 
-#### Sus inicios
+#### Inicios
 
 Nació el 11 de noviembre de 1911 en Santiago de Chile. Su familia era de origen vasco-francés. La inusual fecha de su nacimiento \(11.11.11\) la utilizó con frecuencia en su carrera artística.
 
-Estudió en el **Colegio de los Sagrados Corazones de Santiago**, donde comenzó a destacar por sus dibujos y su caligrafía.
+Estudió en el **Colegio de los Sagrados Corazones de Santiago**, donde destacó por sus dibujos y su caligrafía.
 
-**Asistió a los Talleres Libres de la Escuela de Bellas Artes de la Universidad de Chile** donde fue alumno del pintor Hernán Gazmuri.
+**Asistió a los Talleres Libres de la Escuela de Bellas Artes de la** [Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/artes/6614/roberto-matta-echaurren) donde fue alumno del pintor Hernán Gazmuri.
 
-A inicios de la década de 1930, participó en algunas manifestaciones contra el entonces presidente Carlos Ibáñez del Campo. Posteriormente **realizó el servicio militar en el «Regimiento Coraceros» de Viña del Mar**, reprimiendo las manifestaciones en las que antes había participado. Esto le provocó un gran sentimiento anti-militar.
+Cursó estudios en la **Escuela de Arquitectura de la Universidad Católica de Chile**. Trabajó como **ilustrador en la revista**_**Topaze**_. Se tituló de arquitecto en 1935.
 
-Cursó sus estudios en la **Escuela de Arquitectura de la Universidad Católica de Chile**. Por esa época trabajó como **ilustrador en la revista satírica** _**Topaze**_. Se tituló de arquitecto en 1935.
+#### Trayectoria
 
-Ese mismo año viajó a Europa en un barco mercante. Cuando estuvo **en Portugal, conoció a Gabriela Mistral**, por esa época cónsul en dicho país. Mistral ayudó a Matta y lo acogió en su casa durante tres meses. Según el pintor, durante aquel tiempo se enamoró de Mistral. Llegó incluso a pedirle la mano, pero la poeta lo rechazó.
+Tras titularse viajó a Europa en un barco mercante. Vivió en París, Londres y Nueva York, donde conoció de cerca a los más grandes artistas de la época: **Le Courbusier, André Breton**, **Pablo Picasso, Marcel Duchamp, Federico García Lorca, Salvador Dalí**, **Max Ernst**, entre muchos otros.
 
-Vivió en París, Londres y Nueva York, donde conoció, trabajó y se hizo amigo de los más grandes artistas de esa época: **Le Courbusier, André Breton**, **Pablo Picasso y Marcel Duchamp, Gropius,  Moholy Nagy, Henry Moore y Magritt, Federico García Lorca, Salvador Dalí**, **Max Ernst, Yves Tanguy y André Masson**, Jackson Pollock, Arshile Gorky y Robert Motherwell, **entre muchos otros**..
+En Europa pasó a formar parte del movimiento surrealista.
 
 En Nueva York **realizó su primera exposición individual** en 1940.
 
-En 1948, Matta regresó a vivir a Europa, alejado del grupo de artistas norteamericanos. De vuelta en París se entera de que **fue expulsado del movimiento surrealista, no obstante, fue reincorporado en 1959**.
+En 1957 fijó su residencia en Tarquinia, Italia.
 
-Entre 1950 y 1954 vivió en Roma antes de regresar, una vez más, a la capital francesa. En 1957 fijó su morada en Tarquinia, Italia.
+Hizo siete viajes a Chile entre 1948 y 1972. En una de ellas pintó **en colaboración con jóvenes de la Brigada Ramona Parra, el mural** _**El primer gol del pueblo chileno**_ **en la piscina municipal de la comuna de La Granja**, en 1971.
 
-Hasta sus últimos días alternó su residencia entre esa ciudad, Londres, Milán y París.
-
-#### Chile
-
-A pesar de que desarrolló su carrera y la mayor parte de su fuera de Chile, siempre hizo **evidente su interés por mantener el vínculo con su país de origen**. Son considerados emblemáticos los siete viajes de visita que realizó a Chile entre 1948 y 1972. Estadías en el país que incluyeron exhibiciones, conferencias, donaciones de obras, entre otras actividades. Una de las más recordadas, cuando pintó, **en colaboración con jóvenes de la Brigada Ramona Parra, el mural** _**El primer gol del pueblo chileno**_ **en la piscina municipal de la comuna de La Granja**, en Santiago, en 1971.
-
-El golpe de Estado de 1973 lo mantuvo alejado del país. **La dictadura le negó la renovación de su pasaporte y le impidió volver**. Pese a ello, utilizó su prestigio internacional para denunciar las violaciones a los derechos humanos y organizó variadas muestras de apoyo a las víctimas de la dictadura.
-
-En 1990, tras el retorno a la democracia, el gobierno chileno le concedió el Premio Nacional de Arte mención Pintura
+**La dictadura le negó la renovación de su pasaporte y le impidió volver**. 
 
 #### Su obra
 
-Entre 1942 y 1944 aparecieron **los primeros personajes en las obras de Matta**. Su pintura se acercaba al humanismo, buscando la esencia contradictoria del hombre. La angustia, el dolor, la soledad y la incomunicación se hicieron temas recurrentes. Hizo patente una **analogía entre la vastedad del espacio y la soledad del individuo**, con múltiples posibilidades y direcciones, sin que ninguna sea una verdadera salida.
+Entre 1942 y 1944 aparecieron **los primeros personajes en su pintura.** 
 
-Durante las décadas de 1940 y 1950, su pintura reflejó e**l perturbador estado de la política internacional,** utilizando imágenes de máquinas eléctricas y personas atormentadas. **Al agregar arcilla a sus obras, desde los años 1960** en adelante, le agregó dimensión a su distorsión.
+Durante las décadas de 1940 y 1950, su pintura reflejó **el perturbador estado de la política internaciona**.
 
-Surge en su obra intentos de representación de un espacio multidimensional \(Abrir el cubo y encontrar la vida\). Fue un intento por **representar la idea del espacio total, del espacio tal como se muestra en la vida.** Esta representación multidimensional está figurada en la obra del artista por medio de la abertura del cubo que muestra de una sola vez sus seis caras.
+En su etapa en Italia, **su trabajo fue una denuncia** de los poderes que esclavizan al ser humano en la sociedad moderna. 
 
-En esta etapa de Matta en Italia, **su trabajo intentó ser una denuncia de los poderes maquinales que esclavizan al ser humano en la sociedad moderna**. Hubo una notable influencia del arte primitivo, especialmente de Africa y Oceanía.
+A fines de la década de los cincuenta, Matta ya era **un artista consagrado** que presentaba sus obras en importantes galerias y museos ****del mundo.
 
-En esa época la crítica política influye en el contenido de su obra, la revolución cubana, como factor social, sin dejar de lado su preocupación por el hombre y la sociedad que lo rodea.
+Durante los años **sesenta reapareció la figuración de sus primeras obras**.
 
-A fines de la década de los cincuenta, Matta ya era **un artista consagrado presentando sus obras en importantes lugares** de Londres, Nueva York, Venecia, Chicago, Roma, Washington y París.
+En los 70 sus pinturas, **de grandes dimensiones, se alejan de la temática política, para dar paso nuevamente a los temas metafísicos**.
 
-Durante los años **sesenta reapareció la figuración de sus primeras obras**, pero la expresión dramática se transformó en una glorificación a la vida y a sus transformaciones.
+Experimentó también distintas formas de expresión artísticas, incluyendo **producciones de videos, fotografía y otros medios de expresión**.
 
-En la siguiente década, sus pinturas, **de grandes dimensiones, abandonan paulatinamente la temática política, para dar paso nuevamente a los temas metafísicos** y a un cauce profundo.
+En este enlace, [las obras de Matta](https://www.museoreinasofia.es/coleccion/autor/matta-echaurren-roberto) que son parte de la colección del Museo Reina Sofía, de España.
 
-El trabajo de Matta agregó nuevas dimensiones a la pintura contemporánea. Experimentó distintas formas de expresión artísticas, incluyendo **producciones de videos como Système 88, la fotografía y otros medios de expresión**.
+En este enlace, un [interesante recorrido por su vida y su trayectoria](https://trianarts.com/roberto-matta-el-ultimo-surrealista/#sthash.VYJrt1dg.dpbs) acompañada de las obras de cada época.
+
+Y aquí, [Matta un siglo D mente](https://www.youtube.com/watch?v=A1y3qK-EzJc), documental que registra una larga conversación entre Matta y Volodia Teitelboim, en la que recorrieron toda su vida, su obra y su pensamiento.
 
 #### Premios
 
-Una trayectoria rutilante como la de Roberto Matta, le ha significado al artista una enorme cantidad de premios y reconocimientos. Estos son algunos de ellos:
+Ha recibido una gran cantidad de premios y reconocimientos. Estos son algunos de ellos:
 
-**Medalla de Oro de las Bellas Artes Españolas** \(1985\). En 1990, recibió **el Premio Nacional de Arte**; En 1992, se le otorgó el Premio Príncipe de Asturias de las Artes y en 1995 obtuvo el Premium Imperiale de Pintura, Asociación de Arte de Japón. **Premio Gabriela Mistral, Orden al Mérito Cultural y Docente del Estado de Chile** \(1997\) Nombramiento como Vocal del Patronato del Instituto Cervantes, España \(1998\)
+**Medalla de Oro de las Bellas Artes Españolas** \(1985\).
 
-Falleció en Civitavecchia el 23 de noviembre de 2002. Tras su fallecimiento, el presidente de Chile **Ricardo Lagos Escobar decretó tres días de duelo nacional**. El pintor fue sepultado en Tarquinia, en una cripta ubicada bajo su casa, donde fue enterrado con **altos honores del gobierno italiano**.
+En 1990, en cuanto se recuperó la democracia, Chile lo galardonó con el **el Premio Nacional de Arte.**
 
-#### Fuentes
+En 1992, se le otorgó el Premio Príncipe de Asturias de las Artes
 
-[Universidad Católica](https://www.uc.cl/es/la-universidad/premios-nacionales/7371-roberto-matta-echaurren-1911-2002)
+En 1995 obtuvo el Premium Imperiale de Pintura, Asociación de Arte de Japón
 
-[Universidad de Chile](http://www.uchile.cl/portal/presentacion/historia/grandes-figuras/premios-nacionales/artes/6614/roberto-matta-echaurren)
+**En 1997 Premio Gabriela Mistral, Orden al Mérito Cultural y Docente del Estado de Chile** 
 
-[EcuRed](https://www.ecured.cu/Roberto_Matta)
+Vocal del Patronato del Instituto Cervantes, España \(1998\)
 
-[ArsLatino](https://www.arslatino.com/roberto-matta)
-
-[Fundación Telefónica](http://espacio.fundaciontelefonica.cl/noticia/roberto-matta/)
+Falleció en Civitavecchia el [23 de noviembre de 2002](https://elpais.com/diario/2002/11/25/cultura/1038178801_850215.html). En Chile se decretaron **tres días de duelo nacional**. Fue sepultado en Tarquinia, Italia,  con **altos honores del gobierno italiano**.
 
