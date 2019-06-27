@@ -36,7 +36,9 @@ Con **170 obras como trayectoria**, ha dirigido piezas como _**La viuda de Apabl
 
 Desde el año 2001 es **miembro activo de la Academia Chilena de Bellas Artes**, de la que  actualmente es secretario.
 
-En este video, el montaje [El Burgués Gentilhombre](https://www.youtube.com/watch?v=6X0YgW4ImLc), transmitido por Canal 13, con Ramón Nuñez en uno de los roles principales.
+En 2009 fue invitado por el **Departamento de Drama de la Universidad de New York** a hacer una lectura dramatizada de _Becket y Godot_ de Juan Radrigán en inglés.
+
+En este video, el montaje [El Burgués Gentilhombre](https://www.youtube.com/watch?v=6X0YgW4ImLc), transmitido por Canal 13 en la década de los 90, con Ramón Nuñez en uno de los roles principales.
 
 Aquí un homenaje de la [Facultad de Artes de la Universidad Católica](https://www.youtube.com/watch?v=NLF-FUUNdRs), por una vida dedicada al teatro.
 
@@ -52,9 +54,7 @@ En 2002 la Pontificia Universidad Católica de Chile lo premió como **uno de lo
 
 En 2005 recibió el **Premio de la Crítica Especializada** como la figura de más larga y exitosa trayectoria en el teatro chileno.
 
-En 2009 fue invitado por el **Departamento de Drama de la Universidad de New York** a hacer una lectura dramatizada de _Becket y Godot_ de Juan Radrigán en inglés.
-
-Ese mismo año recibió el ganador del **Premio Nacional de Artes de la Representación** por su larga e invaluable trayectoria artística.
+En 2009 recibió el **Premio Nacional de Artes de la Representación** por su larga e invaluable trayectoria artística.
 
 En este enlace puedes revisar el [perfil de Ramón Nuñez](http://www.academiachilenadebellasartes.cl/premios-nacionales/#toggle-id-27) en la Academia Chilena de Bellas Artes.
 
