@@ -40,7 +40,7 @@ En 1989 recibió la **Orden al Mérito del Consejo Mundial de Educación.**
 
 En 1993 fue distinguido con el **Premio Nacional de Educación .**
 
-[Murió el año 2007](http://www.asale.org/noticias/fallece-don-ernesto-livacic-gazzano).
+[Murió el 30 de mayo de 2007](http://www.asale.org/noticias/fallece-don-ernesto-livacic-gazzano).
 
 
 

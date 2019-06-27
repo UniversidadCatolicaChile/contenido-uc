@@ -6,6 +6,8 @@ description: >-
 
 # Fernando Debesa Marín
 
+![Fernando Debesa Mar&#xED;n. Foto: Primera edici&#xF3;n de El Guerrero de la paz en Editorial Universitaria.](../../.gitbook/assets/debesa.jpg)
+
 #### Inicios
 
 Nació en Santiago el 14 de abril de 1921. Hijo menor de tres hermanos de una familia de clase media alta. Fue criado por una __nana llamada Juana Ramos, a quien le dedicará nada menos que su obra más importante.
@@ -26,17 +28,17 @@ Años después viaja a perfeccionarse a París, donde termina de escribir su pri
 
 En este enlace, el registro de una [presentación en televisión](https://www.youtube.com/watch?v=VKg7iuBwMzo) de Mama Rosa.
 
-Escribió también El árbol Pepe \(1959\)
+Escribió también _El árbol Pepe_ \(1959\)
 
-Bernardo O'Higgins \(1961\)
+_Bernardo O'Higgins_ \(1961\)
 
-El guerrero de la paz \(1962\)
+_El guerrero de la paz_ \(1962\)
 
-Persona y perro \(1963\)
+_Persona y perro_ \(1963\)
 
-Primera persona singular \(1964\)
+_Primera persona singular_ \(1964\)
 
-El guardapelo \(1965\).
+_El guardapelo_ \(1965\).
 
 En toda su obra, buscó explorar el comportamiento del ser humano frente a sus conflictos sociales e individuales.
 
@@ -44,7 +46,7 @@ En toda su obra, buscó explorar el comportamiento del ser humano frente a sus c
 
 **Recibió el Premio Nacional de Arte en 1981**.
 
-Murió el año 2006.
+Murió el [20 de junio de 2006](https://www.emol.com/noticias/magazine/2006/06/20/222625/murio-el-destacado-dramaturgo-nacional-fernando-debesa.html).
 
 #### 
 
