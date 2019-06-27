@@ -14,7 +14,7 @@ description: >-
 
 #### Inicios
 
-Nació en Valparaíso el 8 de noviembre de 1928. Su vocación viene desde niño. **En el colegio dirigió el periódico estudiantil** _El Segundino_, en Valparaíso. Ese primer encuentro con el reporteo marcaría el resto de su trayectoria. Por esa misma época comenzó a trabajar como ayudante en _La voz de la comuna_, un **periódico de Villa Alemana del cual llegó a ser subdirector.**
+Nació en Valparaíso el 8 de noviembre de 1928. Su vocación viene desde niño. **En el colegio dirigió el periódico estudiantil** _El Segundino_, en Valparaíso. Por esa misma época comenzó a trabajar como ayudante en _La voz de la comuna_, un **periódico de Villa Alemana del cual llegó a ser subdirector.**
 
 Al finalizar el colegio, rindió bachillerato y entró a la Escuela de Leyes de los SS.CC., hoy Escuela de Derecho de la Universidad Católica de Valparaíso. Fue dirigente del Centro de Alumnos y delegado en la Federación de Estudiantes de la UCV. De esa época datan sus primeros textos teóricos sobre comunicaciones y periodismo.
 
@@ -26,9 +26,9 @@ En 1968 fue nombrado **director de la revista** _**Ercilla**_, en Santiago, uno 
 
 Dejó la dirección de revista Ercilla en 1976 por presiones de la dictadura.
 
-La multitudinaria cena que se organizó con motivo de su salida de ~~Ercilla~~, fue el virtual lanzamiento de la revista _Hoy_, fundada en 1977, **la primera publicación contraria al régimen de Pinochet**, y como tal, referente indiscutido del periodismo chileno en dictadura
+La multitudinaria cena que se organizó con motivo de su salida de _Ercilla_, fue el virtual lanzamiento de la revista _Hoy_, fundada en 1977, **la primera publicación contraria al régimen de Pinochet.**
 
-Una década después, junto a un grupo de políticos de lo que posteriormente se conoció como Concertación, **fundó el diario** _**La Época**_, donde también cubrió con valentía el acontecer nacional de ese período en el que los grandes medios de comunicación, estaban controlados por Pinochet.
+Una década después, junto a un grupo de políticos de lo que posteriormente se conoció como _Concertación_, **fundó el diario** _**La Época**_, donde también cubrió con valentía el acontecer nacional de ese período en el que los grandes medios de comunicación, estaban controlados por Pinochet.
 
 Fue **embajador de Chile en Portugal**, durante el gobierno de Eduardo Frei Ruiz-Tagle.
 
