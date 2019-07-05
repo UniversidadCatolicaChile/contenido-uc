@@ -4,6 +4,8 @@ description: Este contenido debe ser validado por la VRC.
 
 # Listado de Premios Nacionales
 
+La universidad destaca a sus ex-alumnos y académicos que han recibido premios nacionales. 
+
 ## Listado de premios nacionales
 
 | Año | Nombre | Premio |

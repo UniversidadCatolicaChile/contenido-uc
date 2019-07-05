@@ -10,16 +10,19 @@ La UC busca ser un actor relevante en el desarrollo del país a través de la ge
 
 #### En esta sección:
 
+* Eventos para todo público
 * Cultura y arte
 * Compromiso público
 * Encuestas y estudios
 * Servicios y asesorías
 
-### Cultura y arte
+### Eventos para todo público
 
-La Universidad entrega una oferta cultural de excelencia para aportar a la formación de las personas desde la apreciación artística en todas sus expresiones.
+La Universidad ofrece actividades de excelencia para aportar a la formación de todas las personas.
 
-\(_10 Eventos de la guía de las artes_\)
+\(_10 Eventos para todo público_\)
+
+### Cultura y Arte
 
 #### Cine
 
@@ -111,7 +114,7 @@ Imagen \(propuesta\)
 
 ### **Compromiso público**
 
-Conoce nuestras distintas iniciativas, en que diferentes ámbitos de acción aportan a la sociedad y a las problemáticas que enfrenta nuestro país, reforzando el rol público de la UC.
+Conoce nuestras distintas iniciativas que aportan a la sociedad y a las problemáticas que enfrenta nuestro país, en que diferentes ámbitos de acción.
 
 \*\*\*\*[**Ver como listado**](https://drive.google.com/open?id=1_kvAj3zIYuTKM5lg7IO87bvoL_nqTqHEwMR5FDGpBF4)\*\*\*\*
 

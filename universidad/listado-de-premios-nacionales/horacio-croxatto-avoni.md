@@ -1,7 +1,7 @@
 ---
 description: >-
   Doctor en medicina de la Universidad Católica. Premio Nacional de Ciencias
-  2016.
+  2016. (quedará pendiente porque su relación con la UC es polémica)
 ---
 
 # Horacio Croxatto Avoni

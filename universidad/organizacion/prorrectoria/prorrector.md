@@ -18,11 +18,11 @@ Ha participado en diversas publicaciones vinculadas a la estadística y la bioes
 
 **Fue prorrector en el primer período del rector Ignacio Sánchez, y ahora continúa en su cargo.** 
 
+#### Sus tareas
+
 * **Colabora con el rector** en el gobierno de la Universidad.
 * Coordina el proceso de planificación estratégica de la Universidad. Vela por el grado de avance y cumplimiento del plan de desarrollo.
 * Define las políticas y tareas de análisis y estudio de información institucional, de fomento de la calidad de vida y desarrollo de los alumnos, de gestión del sistema de bibliotecas, y de la promoción de la participación de la Universidad en las políticas públicas y relaciones internacionales.
-
-#### Sus tareas
 
 Para revisar el detalle de las funciones del prorrector puedes revisar el [Reglamento de los Organismos de la Rectoría](http://secretariageneral.uc.cl/documento/normas-generales/101-reglamento-de-los-organismos-de-rectoria/file).
 

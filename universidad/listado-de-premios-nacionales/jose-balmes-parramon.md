@@ -6,7 +6,7 @@ description: >-
 
 # José Balmes Parramón
 
-![Jos&#xE9; Balmes Parram&#xF3;n. Foto: Consejos de las Culturas y las Artes.](../../.gitbook/assets/balmes.png)
+![Jos&#xE9; Balmes Parram&#xF3;n. Foto: Consejo de las Culturas y las Artes.](../../.gitbook/assets/balmes.png)
 
 Nació el 20 de enero de 1927, en Montesquiu, Cataluña, España.
 

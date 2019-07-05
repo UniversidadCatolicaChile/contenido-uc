@@ -6,15 +6,17 @@ description: >-
 
 # Ramón Nuñez Villarroel
 
+## Ramón Núñez Villarroel
+
+Ha estado ligado al Teatro de la Universidad Católica por más de 50 años. Premio Nacional de Artes de la Representación 2009.
+
 ![Ram&#xF3;n Nu&#xF1;ez Villarroel. Foto: Escuela de Teatro UC.](../../.gitbook/assets/ramon-nuez.jpg)
 
 #### Inicios
 
-Nació en Santiago de Chile el 30 de noviembre de 1941.
+Nació en Santiago de Chile el 30 de noviembre de 1941 y pasó su primera infancia en Melipilla. Su padre era actor y director de teatro amateur.
 
-Desde niño fue un asiduo asistente al Teatro. Tanto el de la Universidad Católica, como el Teatro Experimental de la Universidad de Chile.
-
-Estudió en el **Liceo Barros Arana**. Tenía claro que su vocación era el teatro.
+Desde niño mostró interés por el teatro. Estudió en el Internado Barros Arana en Santiago donde participaba de las obras de teatro escolares.
 
 Según propia confesión, se inclinó por estudiar en la **Academia de Arte dramático del Teatro de Ensayo de la Universidad Católica**, porque allí vio actuando a **Sylvia Piñeiro**, quien tendría un rol clave en su vocación por las tablas. Ahí realizó una destacada labor como **actor, director, docente** y administrativo.
 
