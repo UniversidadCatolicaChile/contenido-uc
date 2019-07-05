@@ -4,11 +4,15 @@ description: Periodista de la Universidad Católica. Premio Nacional de Periodis
 
 # María Olivia Mönckeberg Pardo
 
+## María Olivia Mönckeberg Pardo
+
+Periodista de la Universidad Católica. Premio Nacional de Periodismo 2009.
+
 ![Mar&#xED;a Olivia Monckeberg Pardo. Foto: Observatorio Fucatel.](../../.gitbook/assets/monckeberg.jpg)
 
-Nació en Santiago el 29 de mayo de 1944.
-
 #### Inicios
+
+Nació en Santiago el 29 de mayo de 1944.
 
 Inició su carrera profesional en 1971 en la desaparecida revista _**Debate Universitario**_ **de esta casa de estudios.**
 
@@ -58,7 +62,7 @@ _**El poder de la UDI. 50 años de gremialismo en Chile**_ \(2017\), es su más 
 
 #### Premios
 
-En 1984 recibió el **Premio Internacional de Periodismo Louis Lyon**, otorgado por la Nieman Foundation de la U. de Harvard, que destaca anualmente a un periodista en el mundo.
+En 1984 recibió el [**Premio Internacional de Periodismo Louis Lyon**](https://nieman.harvard.edu/news/1984/05/1984-louis-lyons-award/), otorgado por la Nieman Foundation de la Universidad de Harvard, que destaca anualmente a un periodista en el mundo por su conciencia e integridad en el periodismo.
 
 En **2009 obtuvo el Premio Nacional de Periodismo** por su trabajo en el área de la investigación y la publicación de varios libros de alto impacto social.
 
