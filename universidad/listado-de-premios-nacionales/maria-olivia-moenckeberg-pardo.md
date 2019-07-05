@@ -52,7 +52,7 @@ A partir del año 2000 cada dos años remece a la opinión pública con sus inve
 
 En 1984 recibió el [**Premio Internacional de Periodismo Louis Lyon**](https://nieman.harvard.edu/news/1984/05/1984-louis-lyons-award/), otorgado por la Nieman Foundation de la Universidad de Harvard, que destaca anualmente a un periodista en el mundo por su conciencia e integridad en el periodismo.
 
-En ****[**2009 obtuvo el Premio Nacional de Periodismo**](https://www.uc.cl/es/la-universidad/noticias/30765-maria-olivia-moenckeberg-temeraria-investigadora-tras-los-mecanismos-del-poder) por su trabajo en el área de la investigación y la publicación de varios libros de alto impacto social.
+En ****[**2009 obtuvo el Premio Nacional de Periodismo**](https://www.emol.com/noticias/magazine/2009/08/24/372968/maria-olivia-monckeberg-gana-el-premio-nacional-de-periodismo-2009.html) por su trabajo en el área de la investigación y la publicación de varios libros de alto impacto social.
 
 Recibió el **Premio Municipal de Literatura en la categoría Investigación Periodística** el año 2016 por su libro _La máquina para defraudar._
 
