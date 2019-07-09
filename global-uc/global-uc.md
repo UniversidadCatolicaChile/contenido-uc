@@ -38,14 +38,14 @@ Enlace: [https://www.webometrics.info/es/Latin\_America\_es](https://www.webomet
 
 #### Somos parte de redes universitarias globales
 
-* Universitas 21
-* Red Magalhaes
-* Red G9
-* Centro Interuniversitario de Desarrollo
-* La Tríada
-* Organización de Universidades Católicas de América Latina y el Caribe \(ODUCAL\)
-* Partnership in International Management \(PIM\)
-* Universidades Católicas de Chile
+* [Universitas 21](http://relacionesinternacionales.uc.cl/alumnos-uc/pregrado/universidades-con-convenios/redes-universitarias/universitas-21)
+* [Red Magalhaes](http://relacionesinternacionales.uc.cl/alumnos-uc/pregrado/universidades-con-convenios/redes-universitarias/red-magalhaes)
+* [Red G9](http://relacionesinternacionales.uc.cl/alumnos-uc/pregrado/universidades-con-convenios/redes-universitarias/red-g9)
+* [Centro Interuniversitario de Desarrollo](http://cinda.cl/)
+* [La Tríada](http://portal.uc.asimov.cl/noticias/la-triada-una-plataforma-para-enfrentar-problemas-y-desafios-comunes-en-america-latina/)
+* [Organización de Universidades Católicas de América Latina y el Caribe \(ODUCAL\)](http://relacionesinternacionales.uc.cl/alumnos-internacionales/redes-y-universidades-con-convenio/redes/universidades-catolicas-de-america-latina#%C3%A1reas-acad%C3%A9micas-restringidas)
+* [Partnership in International Management \(PIM\)](https://pimnetwork.org/)
+* [Universidades Católicas de Chile](http://relacionesinternacionales.uc.cl/alumnos-internacionales/redes-y-universidades-con-convenio/redes/universidades-catolicas-de-chile)
 
 
 
