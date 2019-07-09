@@ -4,6 +4,61 @@ description: La UC se enmarca dentro de un escenario global
 
 # Global UC
 
+La UC ha incorporado la internacionalización como uno de sus principales ejes de desarrollo. Esto le ha permitido profundizar su proyecto académico en el ámbito internacional, promoviendo iniciativas de apertura, colaboración, formación y creación de conocimiento que le aseguren una participación global. Conoce cómo la UC se abre al mundo, genera nuevas oportunidades y consolida redes académicas internacionales de las que puedes ser parte.
+
+### **Somos una institución reconocida y conectada internacionalmente**
+
+Cifra 1:
+
+\#1 en Latinoamérica según ranking QS
+
+y puesto \#127 a nivel mundial con 32 áreas académicas consideradas entre las mejores del mundo según ranking QS.
+
+Enlace: [https://www.topuniversities.com/universities/pontificia-universidad-cat%C3%B3lica-de-chile-uc](https://www.topuniversities.com/universities/pontificia-universidad-cat%C3%B3lica-de-chile-uc)
+
+Cifra 2:
+
+\#1 en Latinoamérica según Ranking Times Higher Education.
+
+Enlace: [https://www.timeshighereducation.com/world-university-rankings/2019/latin-america-university-rankings\#!/page/0/length/25/sort\_by/rank/sort\_order/asc/cols/undefined](https://www.timeshighereducation.com/world-university-rankings/2019/latin-america-university-rankings#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/undefined)
+
+Cifra 3:
+
+\#10 a nivel latinoamericano según ranking de investigación Scimago.
+
+Enlace: [https://www.scimagoir.com/rankings.php?country=Latin%20America](https://www.scimagoir.com/rankings.php?country=Latin%20America)
+
+Cifra 4:
+
+\#11 a nivel latinoamericano en ranking Webometrics.
+
+Enlace: [https://www.webometrics.info/es/Latin\_America\_es](https://www.webometrics.info/es/Latin_America_es)
+
+#### 
+
+#### Somos parte de redes universitarias globales
+
+* Universitas 21
+* Red Magalhaes
+* Red G9
+* Centro Interuniversitario de Desarrollo
+* La Tríada
+* Organización de Universidades Católicas de América Latina y el Caribe \(ODUCAL\)
+* Partnership in International Management \(PIM\)
+* Universidades Católicas de Chile
+
+
+
+
+
+## 
+
+## 
+
+## 
+
+
+
 Cifras de UC Global
 
 ### Oportunidades en el mundo

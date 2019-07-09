@@ -28,7 +28,7 @@ Unidad a cargo de la **gestión de la información** universitaria, la elaboraci
 
 #### Dirección de Asuntos Estudiantiles
 
-Unidad que busca **contribuir a la formación integral de los estudiantes** y **velar por la calidad de vida** mediante el desarrollo de actividades de apoyo, fomento y prevención, en el ámbito de salud, deportes y vida universitaria, durante todas las etapas de su vida universitaria \(en pre y postgrado\). 
+Unidad que busca **contribuir a la formación integral de los estudiantes** y **velar por la calidad de vida** mediante el desarrollo de actividades de apoyo, fomento y prevención, en el ámbito de salud, deportes y vida universitaria, durante todas las etapas de su vida universitaria \(en pre y postgrado\).  Adicionalmente, esta dirección se preocupa por el respeto de los derechos estudiantiles, potenciando el buen trato y buenas prácticas dentro de la comunidad.
 
 **Directora:** Carolina Méndez 
 
@@ -36,7 +36,7 @@ Unidad que busca **contribuir a la formación integral de los estudiantes** y **
 
 #### Dirección de Bibliotecas
 
-Sistema de servicios y recursos integrados de información, compuesto por 11 bibliotecas. Tiene como misión **contribuir al logro de la misión de la UC y ser parte del proceso de aprendizaje, enseñanza e investigación de la comunidad universitaria**, con servicios y recursos de información presenciales y virtuales de excelencia, en un entorno colaborativo y global, facilitando a los usuarios el descubrimiento, acceso y uso de la información. 
+Unidad responsable de asegurar que las Bibliotecas sean gestionadas, integrándose a los **procesos de enseñanza, aprendizaje, investigación y extensión de la Universidad, respondiendo a sus necesidades, otorgando el acceso oportuno y eficiente a sus recursos de información** y velando por una adecuada gestión de sus recursos humanos, físicos, financieros y tecnológicos.
 
 **Directora:** Evelyn Didier
 
@@ -58,7 +58,7 @@ Unidad responsable de **establecer políticas de gobernanza de datos, procesos, 
 
 #### Centro de Políticas Públicas
 
-Es la unidad que tiene como misión **el desarrollo del país vinculando el quehacer académico de la Universidad con los principales desafíos de la sociedad**.
+Es la unidad responsable contribuir a responder a los p**rincipales desafíos retos del país en materia de políticas públicas**, vinculando el quehacer académico de la Universidad Católica con los principales retos de la sociedad.
 
 **Director:** Ignacio Irarrázaval
 
@@ -95,6 +95,8 @@ El Ombuds \(consejero o mediador\) tiene como misión fundamental **velar por un
 [Ir al sitio web](http://ombudsman.uc.cl/)
 
 #### Cátedra de Sustentabilidad
+
+Es un espacio de articulación y coordinación de iniciativas que apunten a incrementar las oportunidades de **formación e investigación en sustentabilidad dentro de la UC** transformándola en un sello distintivo de nuestra universidad.
 
 Director: Juan Carlos Muñoz
 
