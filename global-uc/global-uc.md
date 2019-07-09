@@ -47,7 +47,74 @@ Enlace: [https://www.webometrics.info/es/Latin\_America\_es](https://www.webomet
 * [Partnership in International Management \(PIM\)](https://pimnetwork.org/)
 * [Universidades Católicas de Chile](http://relacionesinternacionales.uc.cl/alumnos-internacionales/redes-y-universidades-con-convenio/redes/universidades-catolicas-de-chile)
 
+### Somos una comunidad sin fronteras
 
+Los convenios de intercambio de pre y postgrado, de doble título y doble grado, amplían las oportunidades de internacionalización para académicos y estudiantes tanto de la Universidad como de instituciones extranjeras.
+
+#### Testimonios
+
+\[Video\]
+
+["La UC me ha gustado por su diversidad y porque he aprendido español" ](http://relacionesinternacionales.uc.cl/alumnos-internacionales/programas-de-intercambio-y-movilidad/testimonios-alumnos-de-intercambio)
+
+Jama 
+
+University Stockholm, Suecia.
+
+[Ver más](http://relacionesinternacionales.uc.cl/alumnos-internacionales/programas-de-intercambio-y-movilidad/testimonios-alumnos-de-intercambio)
+
+Recuadros:
+
+* 240 profesores de nacionalidad extranjera 
+* 320 alumnos extranjeros en pregrado 
+* 744 alumnos extranjeros en postgrado 
+* 583 alumnos UC cursan intercambio
+
+Existen 361 convenios de pre y postgrado con instituciones de 47 países y convenios de doble título y doble grado en 12 países. [Ver más](http://relacionesinternacionales.uc.cl/alumnos-internacionales/redes-y-universidades-con-convenio)
+
+#### Oportunidades de intercambio y colaboración internacional
+
+#### Para estudiantes
+
+Nuestros estudiantes pueden postular a distintas opciones de internacionalización y estudiantes extranjeros pueden optar por distintos programas de movilidad e intercambio para venir a estudiar a la UC.
+
+[Soy estudiante UC y quiero estudiar en el extranjero ](http://relacionesinternacionales.uc.cl/alumnos-uc/pregrado)
+
+[Soy estudiante extranjero y quiero estudiar en la UC](http://relacionesinternacionales.uc.cl/alumnos-internacionales/programas-de-intercambio-y-movilidad)
+
+#### Para académicos
+
+La UC pone a disposición de su comunidad académicos diversas vías para apoyar su internacionalización y ofrece a profesores extranjeros la posibilidad de aportar con su experiencia en nuestra Universidad.
+
+[Oportunidades para académicos UC](http://relacionesinternacionales.uc.cl/academicos/academico-uc)
+
+[Soy extranjero y quiero ser académico de la UC](http://relacionesinternacionales.uc.cl/academicos/academico-extranjero/academico-extranjero-uc)
+
+[Soy académico y quiero visitar la UC](http://relacionesinternacionales.uc.cl/academicos/academico-extranjero/academico-extranjero-uc)
+
+### Formar en un mundo globalizado
+
+Desarrollamos oportunidades de formación para ampliar horizontes en un mundo globalizado.
+
+#### Pregrado
+
+**Intercambio para estudiantes UC de pregrado** 
+
+Actualmente, la UC cuenta con convenios de intercambio académico con más de 300 universidades en 45 países de los cinco continentes.
+
+\[Botón\] [Ir a información de intercambio](http://relacionesinternacionales.uc.cl/alumnos-uc/pregrado)
+
+**Estudiante extranjero de pregrado** 
+
+Si quieres visitar la UC como alumno de intercambio, consulta en la oficina internacional de tu universidad de origen los requisitos de postulación.
+
+\[Botón\] [Ir a admisión estudiante internacional](http://admisionyregistros.uc.cl/futuros-alumnos/alumno-internacional/admision-pregrado)
+
+**Programa de Estudios Latinoamericanos** 
+
+Cursos en las áreas de las ciencias sociales, humanidades y artes, enseñados en inglés, con la finalidad otorgar un amplio conocimiento de Latinoamérica.
+
+\[Botón\] [Ir a Programas de Estudios Latinoamericanos](http://relacionesinternacionales.uc.cl/alumnos-internacionales/programas-de-intercambio-y-movilidad/programa-de-estudios-latinoamericanos)
 
 
 
