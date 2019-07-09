@@ -53,7 +53,7 @@ Los convenios de intercambio de pre y postgrado, de doble título y doble grado,
 
 #### Testimonios
 
-\[Video\]
+\[Video\] \[Imagen\]
 
 ["La UC me ha gustado por su diversidad y porque he aprendido español" ](http://relacionesinternacionales.uc.cl/alumnos-internacionales/programas-de-intercambio-y-movilidad/testimonios-alumnos-de-intercambio)
 
@@ -150,22 +150,114 @@ Consiste en 5 especialidades que responden a las exigencias y demandas del entor
 
 ### Educación Continua
 
-#### [Diplomados](http://www.educacioncontinua.uc.cl/diplomados-por-area-tematica.php)
+#### Diplomados
 
-#### [UC Online](http://uconline.uc.cl/)
+[Ir al sitio](http://educacioncontinua.uc.cl)
 
-#### [Moocs](https://es.coursera.org/ucchile)
+#### UC online
+
+[Ir al sitio](http://uconline.uc.cl)
+
+#### Moocs
+
+[Ir al sitio](https://es.coursera.org/ucchile)
 
 ### Idioma y cultura
 
 Chino - Instituto Confucio UC
 
+[Ir al sitio](http://confucio.uc.cl)
+
 Inglés - English UC
+
+[Ir al sitio](http://english.uc.cl)
 
 Español para extranjeros - Facultad de Letras
 
+[Ir al sitio](http://programas.letras.uc.cl/index.php/descripcion-del-programa/descripcion)
+
 Otros idiomas
 
+[Ir al sitio](http://extension.letras.uc.cl/index.php/cursos-de-idiomas)
+
+
+
+### Realizamos investigación, innovación y transferencia de nivel mundial
+
+Generamos conocimiento con impacto global.
+
+Recuadro 1:
+
+Imagen:
+
+#### Tenemos una sólida producción académica y publicaciones en las principales revistas indexadas del mundo.
+
+La investigación es una de las actividades principales de nuestra universidad y una de las áreas más significativas desde la cual efectuamos nuestro compromiso con la sociedad. Visita los siguientes espacios para acceder a las investigaciones y publicaciones realizadas por académicos UC.
+
+* El [Repositorio UC](https://repositorio.uc.cl/) reúne y preserva la producción académica y de investigación de la Universidad. 
+* Las [revistas UC](http://guiastematicas.bibliotecas.uc.cl/editoresUC/editoresuc/listadorevistas) divulgan las investigaciones que realizan profesores de nuestra universidad y de otras instituciones. 
+* [Scholar](http://vivo.uc.cl/vivo/) es la plataforma de visibilización de la producción académica de la Universidad
+
+Recuadro 2:
+
+Imagen:
+
+#### Innovación para grandes desafíos 
+
+Impulsamos iniciativas multidisciplinarias de innovación a través de proyectos y programas de emprendimiento de alto impacto.
+
+[Ir a Centro de Innovación UC Anacleto Angelini](http://centrodeinnovacion.uc.cl/)
+
+Recuadro 3:
+
+Imagen:
+
+#### Patentes
+
+Somos la institución en Chile con el mayor número de solicitudes de patentes en el país y la segunda en solicitudes en modelos de utilidad y en diseños industriales en Chile. A su vez contamos con 38 solicitudes activas de patentes de invención presentadas en países de los cinco continentes.
+
+[Ir a sitio de Transferencia y Desarrollo](http://transferenciaydesarrollo.uc.cl/es/)
+
+Recuadro 4:
+
+Imagen
+
+#### Desarrollamos tecnología y soluciones para problemas globales
+
+La transferencia tecnológica permite a las invenciones salir del espacio académico para poder ser utilizadas por quienes se encuentren interesados en ellas, ya sea empresas, organizaciones no gubernamentales o agencias públicas. Asimismo, la transferencia de tecnología puede ser una importante fuente de recursos que permita llevar a cabo una innovación y financiar futuros desarrollos.
+
+[Conoce más de las tecnologías UC](http://transferenciaydesarrollo.uc.cl/es/tecnologias/)
+
+### Nuestra agenda internacional
+
+#### Eventos destacados
+
+\[sección-agenda UC\] Ver en [https://docs.google.com/document/d/1CJ5WYew8flHKBeOBVIRacgSHpKxzcfY0wACxsqDkQyc/edit\#](https://docs.google.com/document/d/1CJ5WYew8flHKBeOBVIRacgSHpKxzcfY0wACxsqDkQyc/edit#)
+
+#### Está pasando
+
+\[card-noticias\] Ver en [https://docs.google.com/document/d/1CJ5WYew8flHKBeOBVIRacgSHpKxzcfY0wACxsqDkQyc/edit\#](https://docs.google.com/document/d/1CJ5WYew8flHKBeOBVIRacgSHpKxzcfY0wACxsqDkQyc/edit#)
+
+### ¿Tienes dudas? Contácatanos
+
+#### Dirección de Relaciones Internacionales
+
+* Intercambio Académico: +56 2 2354 2549 
+* Alumnos Internacionales: +56 2 2354 2739 
+* Dirección: Avda. Lib. Bernardo O'Higgins 340, Of. 13. Santiago, Chile.
+
+#### Dirección de Doctorados
+
+* ícono teléfono Tel: +5622354 21 08 }
+* ícono dirección Alameda 340, piso 4, Santiago
+* ícono email doctorados@uc.cl
+
+### Footer
+
+
+
+
+
 
 
 
@@ -178,53 +270,7 @@ Otros idiomas
 
 
 
-Cifras de UC Global
 
-### Oportunidades en el mundo
-
-Convenios
-
-Intercambios de estudiantes de pregrado
-
-Intercambios de estudiantes de PhD y Postdoc
-
-Pasantías de profesores UC
-
-Pasantías y oportunidades de investigación de profesores extranjeros
-
-Universitas 21
-
-### **Por qué la UC**
-
-Video testimonial de estudiantes que han venido a la UC  o de la UC que se han ido fuera
-
-Links a postulación de intercambios para profesores y alumnos
-
-Link a Campus UC
-
-### Investigación en el mundo
-
-Ficha de un profesor de VIVO que está investigando con otras universidades 
-
-Link a patentes \(sitio de Transferencia y Desarrollo\)
-
-### Ex alumnos en el mundo
-
-Testimonios de ex alumnos por el mundo \(video\)
-
-### Links de interés
-
-English UC
-
-MOOCs UC
-
-Instituto Confucio
-
-Programa de Estudios Latinoamericanos
-
-Friends UC
-
-U21
 
 
 
