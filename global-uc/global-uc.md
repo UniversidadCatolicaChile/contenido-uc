@@ -96,7 +96,7 @@ La UC pone a disposición de su comunidad académicos diversas vías para apoyar
 
 Desarrollamos oportunidades de formación para ampliar horizontes en un mundo globalizado.
 
-#### Pregrado
+### Pregrado
 
 **Intercambio para estudiantes UC de pregrado** 
 
@@ -115,6 +115,58 @@ Si quieres visitar la UC como alumno de intercambio, consulta en la oficina inte
 Cursos en las áreas de las ciencias sociales, humanidades y artes, enseñados en inglés, con la finalidad otorgar un amplio conocimiento de Latinoamérica.
 
 \[Botón\] [Ir a Programas de Estudios Latinoamericanos](http://relacionesinternacionales.uc.cl/alumnos-internacionales/programas-de-intercambio-y-movilidad/programa-de-estudios-latinoamericanos)
+
+### Postgrado
+
+**Magíster** 
+
+Programas conducentes a grado académico, con énfasis tanto en la investigación, como en la especialización o profundización profesional.
+
+\[Botón\] [Conoce nuestros magísteres](http://admisionyregistros.uc.cl/alumnos/programas-estudio/carreras-y-programas2/programas-de-magister-2)
+
+**Doctorado**
+
+La UC ofrece 37 programas doctorales que van desde las Artes a la Neurociencia.
+
+\[Botón\] [Ir a nuestros programas doctorales](http://doctorados.uc.cl/es/programas/nuestros-programas)
+
+**Postítulos**
+
+Programas conducentes a un título que complementa la formación profesional o académica anterior.
+
+\[Botón\] [Ver información de postítulos](http://admisionyregistros.uc.cl/alumnos/programas-estudio/carreras-y-programas2/programas-de-postitulo-2)
+
+**Especialidades médicas**
+
+Tienen objetivo formar especialistas de excelencia en las distintas áreas de la Medicina.
+
+\[Botón\] [Ir a información de especialidades médicas](https://medicina.uc.cl/postgrado/especialidades-medicas/)
+
+**Especialidades odontológicas**
+
+Consiste en 5 especialidades que responden a las exigencias y demandas del entorno profesional de la salud dental.
+
+\[Botón\] [Conoce las especialidades odontológicas](https://odontologia.uc.cl/postgrado/especialidades/)
+
+### Educación Continua
+
+#### [Diplomados](http://www.educacioncontinua.uc.cl/diplomados-por-area-tematica.php)
+
+#### [UC Online](http://uconline.uc.cl/)
+
+#### [Moocs](https://es.coursera.org/ucchile)
+
+### Idioma y cultura
+
+Chino - Instituto Confucio UC
+
+Inglés - English UC
+
+Español para extranjeros - Facultad de Letras
+
+Otros idiomas
+
+
 
 
 
