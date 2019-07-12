@@ -25,3 +25,19 @@ En esta edición:
 
 Edición n°153
 
+![](../.gitbook/assets/ru153.JPG)
+
+Enlazado a [https://issuu.com/visionuniversitaria/docs/ru153](https://issuu.com/visionuniversitaria/docs/ru153)
+
+Edición n° 152
+
+![](../.gitbook/assets/ru152.JPG)
+
+Imagen enlazada a [https://issuu.com/visionuniversitaria/docs/ru152](https://issuu.com/visionuniversitaria/docs/ru152)
+
+Edición n° 151
+
+Edición n°150
+
+Edición n°149
+
