@@ -37,7 +37,19 @@ Imagen enlazada a [https://issuu.com/visionuniversitaria/docs/ru152](https://iss
 
 Edición n° 151
 
+![](../.gitbook/assets/ru151.JPG)
+
+Imagen enlazada a [https://issuu.com/visionuniversitaria/docs/ru151](https://issuu.com/visionuniversitaria/docs/ru151)
+
 Edición n°150
 
+![](../.gitbook/assets/ru150.JPG)
+
+Imagen enlazada a [https://issuu.com/visionuniversitaria/docs/ru150\_](https://issuu.com/visionuniversitaria/docs/ru150_)
+
 Edición n°149
+
+![](../.gitbook/assets/ru149.JPG)
+
+Imagen enlazada a [https://issuu.com/visionuniversitaria/docs/ru149](https://issuu.com/visionuniversitaria/docs/ru149)
 
