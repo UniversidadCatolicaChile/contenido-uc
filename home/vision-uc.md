@@ -11,25 +11,46 @@ Visión UC es un periódico desarrollado por la Dirección de Comunicaciones, qu
 
 ### En esta edición
 
+#### Julio 2019
+
+![](../.gitbook/assets/vision285.jpg)
+
+Imagen enlazada a [https://issuu.com/visionuniversitaria/docs/vu285](https://issuu.com/visionuniversitaria/docs/vu285)
+
+* Ranking QS: UC avanza más de 200 puestos en diez años.
+* Siete estudiantes representarán a Chile en los Panamericanos.
+* Más de 20 actividades se realizarán adportas del gran encuentro medioambiental COP25.
+* Artistas de la UC llegan al MAAC de Guayaquil.
+* Sindicatos afianzan vocación de diálogo con el plantel.
+* Las razones para realizar un curso online.
+* Ediciones UC y sus diez recomendados para este invierno. 
+
+### Ediciones anteriores
+
+#### Junio 2019
+
+![](../.gitbook/assets/vision284.jpg)
+
+Imagen enlazada a [https://issuu.com/visionuniversitaria/docs/vu284](https://issuu.com/visionuniversitaria/docs/vu285)
+
+#### Mayo 2019
+
+![](../.gitbook/assets/vu283.JPG)
+
+Imagen enlazada a [https://issuu.com/visionuniversitaria/docs/vu283](https://issuu.com/visionuniversitaria/docs/vu285)
+
 #### Abril 2019
 
 ![](../.gitbook/assets/vision-uc-abril-2019.jpg)
+
+Imagen enlazada a [https://issuu.com/visionuniversitaria/docs/vu\_282](https://issuu.com/visionuniversitaria/docs/vu_282
+)
 
 #### Marzo 2019
 
 ![Edici&#xF3;n del mes de marzo de Visi&#xF3;n UC.](../.gitbook/assets/visionuc_marzo.jpg)
 
-Imagen enlazada a [https://issuu.com/visionuniversitaria/docs/vu281](https://issuu.com/visionuniversitaria/docs/vu281)
-
-* Uno de cada cinco matriculados estudiará con gratuidad. 
-* Plan maestro deportivo comienza a tomar forma. 
-* Facultades eligen a los nuevos representantes de los académicos. 
-* Cineasta Dominga Sotomayor recomienda qué películas ver para alivianar el semestre. 
-* Trabajadores de la universidad pueden acceder a más de 10 beneficios de salud.
-* Las razones para visitar las Bibliotecas de la UC.
-* Guía para emergencias: qué hacer en caso de accidentes o robos.
-
-### Ediciones anteriores
+Enlazado a [https://issuu.com/visionuniversitaria/docs/vu281](https://issuu.com/visionuniversitaria/docs/vu280)
 
 #### Diciembre 2018 - enero 2019
 

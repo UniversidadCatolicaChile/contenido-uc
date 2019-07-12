@@ -20,6 +20,7 @@
 * [UC en los medios](home/uc-en-los-medios.md)
 * [Medios de prensa](home/medios-de-prensa.md)
 * [Visión UC](home/vision-uc.md)
+* [Revista Universitaria](home/revista-universitaria.md)
 * [Listado de redes sociales](home/listado-de-redes-sociales.md)
 * [Te invitamos](home/te-invitamos/README.md)
   * [evento 1](home/te-invitamos/evento-1.md)
