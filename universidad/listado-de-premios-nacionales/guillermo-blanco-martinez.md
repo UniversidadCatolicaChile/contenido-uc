@@ -65,7 +65,7 @@ En 1973, fue nombrado **miembro de la Academia Chilena de la Lengua** y miembro 
 
 Recibió el **Premio Nacional de Periodismo en 1999**, por su “amplia y respetada trayectoria” y por haber sido reconocido por muchas generaciones como “un maestro de periodistas”.
 
-Fue nombrado **Hijo Ilustre de Talca en 2006** y ese mismo año, condecorado por el Ministerio de Educación con la[ Orden al Mérito Docente y Cultural Gabriela Mistral](../../home/ver-mas-noticias.md).
+Fue nombrado **Hijo Ilustre de Talca en 2006** y ese mismo año, condecorado por el Ministerio de Educación con la[ Orden al Mérito Docente y Cultural Gabriela Mistral](../../home/ver-mas-noticias/).
 
 Recibió la **Encomienda de la Orden de Isabel La Católica**, otorgada por el Rey de España y se le otorgó la ciudadanía española, por la vinculación de su obra con la cultura de ese país.
 

@@ -19,7 +19,7 @@ A través de esta página queremos responder al interés de los medios en los co
 
 ### Lo más consultado
 
-* Noticias de la UC \(enlace a [noticias UC](../../home/ver-mas-noticias.md)\)
+* Noticias de la UC \(enlace a [noticias UC](../../home/ver-mas-noticias/)\)
 * [Contactos de prensa](../contacos-de-prensa.md)
 * Pauta de prensa \(enlace a drive Pauta de prensa, por definir\)
 * [Suscríbete a la UC en los medios](../../home/uc-en-los-medios.md)

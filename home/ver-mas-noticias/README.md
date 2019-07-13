@@ -4,7 +4,7 @@ description: Listado de noticias
 
 # Ver más noticias
 
-![](../.gitbook/assets/encabezado_listadodenoticias.jpg)
+![](../../.gitbook/assets/encabezado_listadodenoticias.jpg)
 
 Ordenar por: Más Recientes / Más vistas
 
@@ -80,7 +80,7 @@ Buscar
 
 ### Se reiniciaron las actividades en Campus Oriente
 
-![](../.gitbook/assets/_mg_7911.JPG)
+![](../../.gitbook/assets/_mg_7911.JPG)
 
 #### Humanidades
 
@@ -88,7 +88,7 @@ Buscar
 
 ### “Homo Dolens”, el libro que explora interpretaciones y dimensiones del dolor
 
-![](../.gitbook/assets/simple_bodily_pain.jpg)
+![](../../.gitbook/assets/simple_bodily_pain.jpg)
 
 #### Ciencias Naturales
 
@@ -96,7 +96,7 @@ Buscar
 
 ### Nuevo Núcleo Milenio buscará generar alternativas al petróleo a partir de biomasa
 
-![](../.gitbook/assets/bubbles-chemistry-close-up-220989.jpg)
+![](../../.gitbook/assets/bubbles-chemistry-close-up-220989.jpg)
 
 #### Ornitología
 
@@ -104,7 +104,7 @@ Buscar
 
 ### “Aves de las costas y mares de Chile”: nueva edición de la guía incluye aves oceánicas
 
-![](../.gitbook/assets/animal-beach-beak-298314.jpg)
+![](../../.gitbook/assets/animal-beach-beak-298314.jpg)
 
 #### Deportes
 
@@ -112,7 +112,7 @@ Buscar
 
 ### Setenta deportistas destacados llegan a la UC para reforzar las distintas selecciones
 
-![](../.gitbook/assets/70deportistas-destacados-llegan-a-la-uc.JPG)
+![](../../.gitbook/assets/70deportistas-destacados-llegan-a-la-uc.JPG)
 
 #### 
 
@@ -128,9 +128,9 @@ Buscar
 
 ### Centro UC de Desarrollo Local del Campus Villarrica se adjudica PAR Explora Araucanía
 
-![](../.gitbook/assets/centro-desarrollo-local-campus-villarrica-adjudica-explora-araucania.jpg)
+![](../../.gitbook/assets/centro-desarrollo-local-campus-villarrica-adjudica-explora-araucania.jpg)
 
-![](../.gitbook/assets/macarena_lizama.png)
+![](../../.gitbook/assets/macarena_lizama.png)
 
 #### Premio Abdón Cifuentes
 
@@ -138,7 +138,7 @@ Buscar
 
 ### Comienza convocatoria al Premio Abdón Cifuentes 2019 por el aporte al desarrollo del país
 
-![](../.gitbook/assets/premio-abdon-cifuentes-2019.jpg)
+![](../../.gitbook/assets/premio-abdon-cifuentes-2019.jpg)
 
 #### Colección Gandarillas
 
@@ -146,27 +146,27 @@ Buscar
 
 ### Terremotos y Cristos milagrosos: testimonios de arte y devoción de los habitantes de los siglos XVII y XVIII
 
-![](../.gitbook/assets/terremotos-y-cristos-milagrosos.jpg)
+![](../../.gitbook/assets/terremotos-y-cristos-milagrosos.jpg)
 
 ### Medios de prensa
 
-[Visión UC](vision-uc.md) 
+[Visión UC](../vision-uc.md) 
 
-![](../.gitbook/assets/mediosdeprensa_visionuc.jpg)
+![](../../.gitbook/assets/mediosdeprensa_visionuc.jpg)
 
 Revista Universitaria
 
-![](../.gitbook/assets/mediosdeprensa_ru.jpg)
+![](../../.gitbook/assets/mediosdeprensa_ru.jpg)
 
 [Radio UC](http://www.radiouc.cl/)
 
-![](../.gitbook/assets/mediosdeprensa_radiouc.jpg)
+![](../../.gitbook/assets/mediosdeprensa_radiouc.jpg)
 
 [Extensión Cultural](http://extension.uc.cl)
 
-![](../.gitbook/assets/mediosdeprensa_extensioncultural.jpg)
+![](../../.gitbook/assets/mediosdeprensa_extensioncultural.jpg)
 
-[Conoce nuestros Contactos de prensa](../informacion-para-medios/contacos-de-prensa.md)
+[Conoce nuestros Contactos de prensa](../../informacion-para-medios/contacos-de-prensa.md)
 
 
 
