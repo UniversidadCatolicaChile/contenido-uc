@@ -22,103 +22,6 @@ Este nombramiento **es de carácter indefinido.**
 
 Fuente: [http://secretariageneral.uc.cl/documento/normas-generales/107-reglamento-del-academico/file](http://secretariageneral.uc.cl/documento/normas-generales/107-reglamento-del-academico/file)
 
-### Profesores titulares 2018
-
-#### Facultad de Arquitectura, Diseño y Estudios Urbanos:
-
-[Alejandro Crispiani](http://arquitectura.uc.cl/escuela/profesores/885-crispiani-alejandro.html)  
-Imagen: _Falta_
-
-#### Facultad de Artes:
-
-[Magdalena Amenábar](http://escueladeteatro.uc.cl/escuela/profesores/86-magdalena-amenabar-folch)  
-Imagen: [https://drive.google.com/open?id=17bbGSwiejpLYA9pJmtUGqetkjbVaKTmS](https://drive.google.com/open?id=17bbGSwiejpLYA9pJmtUGqetkjbVaKTmS)
-
-[Mónica Bengoa](http://escuelaarte.uc.cl/index.php/escuela/profesores/646-monica-bengoa)  
-Imagen: [https://drive.google.com/open?id=1HJGrkOJt18SYJrE3ED0wgY383TrVzDuo](https://drive.google.com/open?id=1HJGrkOJt18SYJrE3ED0wgY383TrVzDuo)
-
-[Mario Navarro](http://escuelaarte.uc.cl/index.php/escuela/profesores/632-mario-navarro)  
-Imagen: [https://drive.google.com/open?id=1AQvuAYU6ugtYFq1JE4nEngS7wZDRNBbr](https://drive.google.com/open?id=1AQvuAYU6ugtYFq1JE4nEngS7wZDRNBbr)
-
-#### Facultad de Ciencias Sociales:
-
-[Chamarrita Farkas](http://www.psicologia.uc.cl/?persona=chamarrita-farkas-klein)  
-Imagen: [https://drive.google.com/open?id=1ivDgmdll4ha5dxCzXU2PyjtGuZWoj\_bG](https://drive.google.com/open?id=1ivDgmdll4ha5dxCzXU2PyjtGuZWoj_bG)
-
-[María Rosa Lissi](http://www.psicologia.uc.cl/?persona=maria-rosa-lissi)  
-Imagen: [https://drive.google.com/open?id=10WaSFE7MoXgLaUY2RpNGC5-KBAxJ0Q17](https://drive.google.com/open?id=10WaSFE7MoXgLaUY2RpNGC5-KBAxJ0Q17)
-
-[David Preiss](http://www.psicologia.uc.cl/?persona=david-preiss-contreras)  
-Imagen: [https://drive.google.com/open?id=1LGrd-\_6FS59iy3CshRqamOaNMESkWY5j](https://drive.google.com/open?id=1LGrd-_6FS59iy3CshRqamOaNMESkWY5j)
-
-#### Facultad de Filosofía:
-
-[Lorena Amaro](http://estetica.uc.cl/academicos/planta-ordinaria/481-amaro-castro-lorena)  
-Imagen: [https://drive.google.com/open?id=1hbjUkirxrmcot4G5oq0zOrM69pKYzoTK](https://drive.google.com/open?id=1hbjUkirxrmcot4G5oq0zOrM69pKYzoTK)
-
-[Pablo Corro](http://estetica.uc.cl/academicos/planta-ordinaria/487-corro-penjean-pablo)  
-Imagen: [https://drive.google.com/open?id=1G1v58T-hG-bkMX8Xs5Y4PXsve9RwGcgc](https://drive.google.com/open?id=1G1v58T-hG-bkMX8Xs5Y4PXsve9RwGcgc)
-
-#### Facultad de Física:
-
-[Gaspar Galaz](http://www.astro.puc.cl/~ggalaz/)  
-Imagen: [https://drive.google.com/open?id=19yZySu1YJLXlgJXHwDrr7qaT-BqxDUXr](https://drive.google.com/open?id=19yZySu1YJLXlgJXHwDrr7qaT-BqxDUXr)
-
-#### Facultad de Historia, Geografía y Ciencia Política:
-
-[Fernando Purcell](http://historia.uc.cl/index.php/Planta-Academica/purcell-fernando.html)  
-Imagen: [https://drive.google.com/open?id=1DOky5vfqOG5\_-MM1T054YZ7LJOmBVA7g](https://drive.google.com/open?id=1DOky5vfqOG5_-MM1T054YZ7LJOmBVA7g)
-
-[Johannes Rehner](http://geografia.uc.cl/Departamento-de-Geografia-Humana/rehner-johannes.html)  
-Imagen: _Falta_
-
-#### Facultad de Ingeniería:
-
-[Enzo Sauma](https://www.ing.uc.cl/academicos-e-investigadores/enzo-enrique-sauma-santis/)  
-Imagen: [https://drive.google.com/open?id=1OLuHM9YqMRloxuil1A2Vr0o-k5S0AC5J](https://drive.google.com/open?id=1OLuHM9YqMRloxuil1A2Vr0o-k5S0AC5J)
-
-#### Facultad de Matemáticas:
-
-[Jan Kiwi](http://www.mat.uc.cl/personas/perfil/jkiwi)  
-Imagen: _Falta_
-
-#### Facultad de Medicina:
-
-[Mauricio Besio](https://medicina.uc.cl/persona/dr-mauricio-francisco-besio-rollero/)  
-Imagen: [https://drive.google.com/open?id=1ATqpxiIXB899iGCV0yYZbuOly5E0D5vc](https://drive.google.com/open?id=1ATqpxiIXB899iGCV0yYZbuOly5E0D5vc)
-
-[Alejandro Bruhn](https://medicina.uc.cl/persona/dr-alejandro-bruhn/)  
-Imagen: [https://drive.google.com/open?id=1g4GW\_RLMeWI3pQaFVlBm3BeWeZo-Mu5K](https://drive.google.com/open?id=1g4GW_RLMeWI3pQaFVlBm3BeWeZo-Mu5K)
-
-[Gisella Borzone](https://medicina.uc.cl/persona/dra-gisella-borzone/)  
-Imagen: [https://drive.google.com/open?id=1biVCMNnvxsW4DlRAnx2iK5Q2MkKWXZwg](https://drive.google.com/open?id=1biVCMNnvxsW4DlRAnx2iK5Q2MkKWXZwg)
-
-[Jorge Carvajal](https://medicina.uc.cl/persona/dr-jorge-carvajal/)  
-Imagen: [https://drive.google.com/open?id=1\_5hSGOoI5JFL4BL4D2lrhGYmdna\_kFAH](https://drive.google.com/open?id=1_5hSGOoI5JFL4BL4D2lrhGYmdna_kFAH)
-
-[Marcelo López](https://medicina.uc.cl/persona/dr-marcelo-lopez/)  
-Imagen: [https://drive.google.com/open?id=1FqepSQlWy-7tIZPE2Ku1ovXUzV\_rpNrC](https://drive.google.com/open?id=1FqepSQlWy-7tIZPE2Ku1ovXUzV_rpNrC)
-
-[Arnoldo Riquelme](https://facultadmedicina.uc.cl/persona/dr-arnoldo-riquelme/)  
-Imagen: [https://drive.google.com/open?id=1vd0BWkEY093cD-XAHN9IOV\_Km50rRx9b](https://drive.google.com/open?id=1vd0BWkEY093cD-XAHN9IOV_Km50rRx9b)
-
-[Alejandro Soza](https://medicina.uc.cl/persona/dr-alejandro-soza/)  
-Imagen: [https://drive.google.com/open?id=1RluEOk-Nf78QH9sT3EQ0ro\_osPeoiI9v](https://drive.google.com/open?id=1RluEOk-Nf78QH9sT3EQ0ro_osPeoiI9v)
-
-[Julio Urrutia](https://medicina.uc.cl/persona/dr-julio-urrutia-escobar/)  
-Imagen: [https://drive.google.com/open?id=1rxxwzKnlF\_q1fwSmvpEYkoyG-tYqOKWJ](https://drive.google.com/open?id=1rxxwzKnlF_q1fwSmvpEYkoyG-tYqOKWJ)
-
-#### Facultad de Química:
-
-[Mauricio Isaacs](http://quimica.uc.cl/es/facultad/academicos/31-isaacs-c-mauricio)  
-Imagen: [https://drive.google.com/open?id=1Mrj3Llur\_WZanJ5pnPZDkeuizcTALBm2](https://drive.google.com/open?id=1Mrj3Llur_WZanJ5pnPZDkeuizcTALBm2)
-
-[Camilo López](http://quimica.uc.cl/es/facultad/academicos/34-lopez-a-camilo)  
-Imagen: [https://drive.google.com/open?id=1y5C9VcGCKeOlZDagjT9\_f0Hr37Xp\_Aaf](https://drive.google.com/open?id=1y5C9VcGCKeOlZDagjT9_f0Hr37Xp_Aaf)
-
-[Claudio Terraza](http://quimica.uc.cl/es/facultad/academicos/59-terraza-i-claudio)  
-Imagen: [https://drive.google.com/open?id=1KjrgDp5nGH29zYB4vJSA9SJs1ZXsEl68](https://drive.google.com/open?id=1KjrgDp5nGH29zYB4vJSA9SJs1ZXsEl68)
-
 ### Listado de profesores titulares
 
 #### Facultad de Agronomía e Ingeniería Forestal:
@@ -251,6 +154,7 @@ Imagen: [https://drive.google.com/open?id=1KjrgDp5nGH29zYB4vJSA9SJs1ZXsEl68](htt
 #### Facultad de Derecho:
 
 * [Enrique Alcalde Rodríguez](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-privado/303-alcalde-rodriguez-enrique)
+* [Carlos Amunátegui Perelló](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-privado/309-amunategui-perello-carlos)
 * [Carlos Concha Gutiérrez](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-economico-comercial-y-tributario/373-concha-gutierrez-carlos)
 * [Mario Correa Bascuñán](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-privado/381-correa-bascunan-mario)
 * [Carmen Domínguez Hidalgo](http://derecho.uc.cl/es/profesores/nomina-por-departamento/departamento-de-derecho-privado/431-dominguez-hidalgo-carmen-aida)
@@ -267,11 +171,13 @@ Imagen: [https://drive.google.com/open?id=1KjrgDp5nGH29zYB4vJSA9SJs1ZXsEl68](htt
 
 #### Facultad de Educación
 
+* [Andrés Bernasconi Ramírez](http://educacion.uc.cl/facultad-a/cuerpo-docente-aux/4-andres-bernasconi-ramirez)
 * \*\*\*\*[Luis Manuel Flores González](http://educacion.uc.cl/facultad-a/cuerpo-docente-aux/14-luis-flores-gonzalez)
 
 #### Facultad de Filosofía:
 
 * [Lorena Amaro Castro](http://estetica.uc.cl/academicos/planta-ordinaria/481-amaro-castro-lorena)
+* [Marcelo Boeri](http://filosofia.uc.cl/planta-ordinaria/boeri-marcelo)
 * [Gabriel Castillo Fadic](http://estetica.uc.cl/academicos/planta-ordinaria/475-castillo-fadic-gabriel)
 * [Manuel Correia Machuca](http://filosofia.uc.cl/planta-ordinaria/correia-machuca-manuel)
 * [Pablo Corro Pemjean](http://estetica.uc.cl/academicos/planta-ordinaria/487-corro-penjean-pablo)
@@ -294,6 +200,7 @@ Imagen: [https://drive.google.com/open?id=1KjrgDp5nGH29zYB4vJSA9SJs1ZXsEl68](htt
 * [Gaspar Galaz](http://www.astro.puc.cl/~ggalaz/)
 * [Leopoldo Infante Lira](http://www.astro.puc.cl/~linfante/)
 * [Marcelo Loewe Lobo](http://www.fis.puc.cl/~mloewe/)
+* [José Mejía López](http://www.fis.puc.cl/~jmejia/Portada.html)
 * [Nelson Padilla](http://www.astro.puc.cl/~npadilla/Home.html)
 * [Andreas Reisenegger Von Oepen](http://www2.astro.puc.cl/answers/)
 * [Georg Volkmann Laube](http://www.fis.puc.cl/~surflab/)
@@ -321,6 +228,8 @@ Imagen: [https://drive.google.com/open?id=1KjrgDp5nGH29zYB4vJSA9SJs1ZXsEl68](htt
 * [Eduardo Agosin Trumper](https://www.ing.uc.cl/academicos-e-investigadores/eduardo-agosin-trumper/)
 * [Luis Fernando Alarcón Cardenas](https://www.ing.uc.cl/academicos-e-investigadores/luis-fernando-alarcon-cardenas/)
 * [Marcelo Arenas](https://www.ing.uc.cl/academicos-e-investigadores/marcelo-alejandro-arenas-saavedra/)
+* [Carlos Bonilla Meléndez](https://www.ing.uc.cl/academicos-e-investigadores/carlos-alberto-bonilla-melendez/)
+* Pedro Bouchon Aguirre \(enlace interno a página de autoridad\)
 * [Ana María Carvajal Guerra](http://magisterenconstruccion.uc.cl/index.php?option=com_content&view=article&id=79:carvajal-guerra-ana-maria&catid=40:planta-academica&Itemid=69)
 * [Diego Celentano](https://www.ing.uc.cl/academicos-e-investigadores/diego-javier-celentano/)
 * [Luciano Chiang Sánchez](https://www.ing.uc.cl/academicos-e-investigadores/luciano-eduardo-chiang-sanchez/)
@@ -350,7 +259,10 @@ Imagen: [https://drive.google.com/open?id=1KjrgDp5nGH29zYB4vJSA9SJs1ZXsEl68](htt
 #### Facultad de Letras:
 
 * [Rodrigo Cánovas Emhart](http://letras.uc.cl/index.php/facultad/academicos?view=article&id=56:canovas-emhart-rodrigo)
+* [Rubí Carreño Bolívar](http://letras.uc.cl/index.php/facultad/academicos?view=article&id=61:carreno-bolivar-rubi)
 * [Patricio Lizama Améstica](http://letras.uc.cl/index.php/facultad/academicos?view=article&id=51:lizama-patricio)
+* [Magda Sepúlveda Eriz](http://letras.uc.cl/index.php/facultad/departamento-de-ciencias-lenguaje/departamento-de-ciencias-lenguaje-academicos?view=article&id=84:sepulveda-eriz-magda-leonor)
+* [María Inés Zaldívar Ovalle](http://letras.uc.cl/index.php/facultad/departamento-de-literatura/academicos-literatura?view=article&id=60:zaldivar-ovalle-maria-ines)
 
 #### Facultad de Matemáticas:
 
@@ -449,6 +361,7 @@ Imagen: [https://drive.google.com/open?id=1KjrgDp5nGH29zYB4vJSA9SJs1ZXsEl68](htt
 
 #### Facultad de Teología:
 
+* [Fernando Berríos](http://teologia.uc.cl/es/?option=com_sobipro&pid=56&sid=107&Itemid=0)
 * [Samuel José Fernández Eyzaguirre](http://teologia.uc.cl/index.php?option=com_sobipro&pid=56&sid=110&Itemid=132)
 * [Fredy Omar Parra Carrasco](http://teologia.uc.cl/index.php?option=com_sobipro&pid=56&sid=115&Itemid=132)
 * [Rodrigo Polanco Fermandois](http://teologia.uc.cl/index.php?option=com_sobipro&pid=56&sid=118&Itemid=132)
