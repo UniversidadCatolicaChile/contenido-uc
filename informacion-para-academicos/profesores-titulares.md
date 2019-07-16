@@ -112,7 +112,7 @@ Fuente: [http://secretariageneral.uc.cl/documento/normas-generales/107-reglament
 * Sergio De la Cuadra Fabres
 * Patricio Donoso Ibáñez \(página interna autoridad\)
 * [Gonzalo Edwards Guzmán](http://economia.uc.cl/profesor/gonzalo-edwards/)
-* [Rodrigo Fuentes](http://economia.uc.cl/profesor/rodrigo-fuentes/)
+* [Juan Rodrigo Fuentes San Martín](https://economia.uc.cl/?profesor=rodrigo-fuentes)
 * [Julio Gálvez Boizard](https://escueladeadministracion.uc.cl/directorio/profesores/julio-galvez/)
 * [Mateo Koljatic Maroevic](http://centrogobiernocorporativo.uc.cl/Directorio/matko-koljatic.html)
 * [Felipe Larraín Bascuñán](http://economia.uc.cl/profesor/felipe-larrain/)

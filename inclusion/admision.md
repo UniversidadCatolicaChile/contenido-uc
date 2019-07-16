@@ -1,70 +1,18 @@
-# Admisión
+# Inicio
 
-### Admisión
+## Inicio
 
-**De acuerdo a su Plan de Desarrollo 2015- 2020, la UC ha implementado un programa especial que incluye vías de admisión, financiamiento y apoyos académicos** para garantizar el ingreso y la permanencia de los alumnos talentosos en nuestra Universidad, independiente de su situación socioeconómica o condición física. Nuestro objetivo es ser una universidad cada vez más inclusiva y por ello apoyamos también la incorporación del ranking de notas a la batería de selección.
+De acuerdo al Plan de Desarrollo 2015 – 2020, buscamos **ampliar oportunidades de acceso y aprendizaje, disminuyendo barreras para una participación plena y con equidad**, reflejando a nuestra sociedad y valorando la riqueza de la diversidad en la UC.
 
-![](https://www.uc.cl/images/RelatosDeInclusionMITAD.gif)
+Video de YouTube. Ver en [https://www.uc.cl/es/inclusion-en-la-uc](https://www.uc.cl/es/inclusion-en-la-uc)
 
-[DESCARGA LAS BASES](https://www.uc.cl/images/BasesRI2018.pdf)
+### Experiencias inclusivas
 
-[MÁS INFORMACIÓN SOBRE CONVOCATORIA Y LA DIRECCIÓN DE INCLUSIÓN](https://www.uc.cl/es/inclusion-en-la-uc/31353-relatos-inclusion-uc)
+_“Crecí en la comuna de La Pintana, donde no tuve una enseñanza de mucha calidad. Donde la universidad no era un tema tan profundo, y tal vez lo posible era imaginar otras opciones para mi vida. No contaba con ningún referente en mi familia que haya estudiado en la universidad, por lo que pensé que tal vez esta opción tampoco era para mí.  Luego me cambié de colegio, al Instituto Claudio Matte donde me mostraron otras vías por las que podría ingresar a la Universidad. Una de ellas era Talento e Inclusión. Postulé sin muchas expectativas, y cuando me dijeron que había sido seleccionada en por el programa y que había quedado en la UC en Derecho, no lo podía creer. Hoy egresé, y estoy ad portas de titularme para trabajar como abogada. Mirando hacia atrás, puedo rescatar muchas cosas de lo que fue mi vida universitaria”_, **Katherine Pinto, estudiante de Derecho UC**.
 
-HAZ TU ENVÍO O COMUNÍCATE A relatosinclusion@uc.cl
+_“’Nada unilateral es católico’ solía decir Alberto Hurtado en sus clases. Esto me da a pensar que la inclusión es importante para la UC como acción que permite continuar profundizando el sentido y valor de ser Universidad Católica. Pienso que esto es anterior al deber de incluir a estudiantes con capacidades distintas o la exigencia moral-legal de no dejar a nadie fuera de la oportunidad de aprender. Interpreto a Hurtado diciéndonos ‘La UC no tendría sentido y perdería gran parte de su valor si no buscara decididamente desafiarse y enriquecerse con la mayor diversidad de miradas posibles’. En lo personal, encontré en los alumnos PACE una sed por aprender y hacerse cargo de su propia vida que me emocionó. Quisiera más de PACE en mis propias clases_”, **Guillermo Marini, Secretario Académico de la Facultad de Educación**.
 
-### Vías especiales de Admisión
+_Comencé a trabajar cuando el término mejor utilizado en temas de inclusión era 'Integración'. Nunca me gustó mucho, por la idea que existe tras la palabram de incluirnos en algo de lo que no somos parte. Sin embargo, dicho concepto contribuyó a poner la mirada en un grupo de estudiantes que requerían un apoyo más cercano; materiales específicos para aprender en condiciones de equidad; y estrategias claras para poder acceder a la misma información queel resto de los estudiantes. Hoy, cuando hablamos de Inclusión, me hace sentido una mirada más amplia: que respeta la diversidad y también respeta lo especifico de cada cual. Vibro cada día con ver cómo es realmente posible enseñar buscando condiciones de equidad, y cómo una sociedad se transforma y se hace consiente de que existe un/a otro/a tan particular como yo”_, **Victoria Ramírez, Educadora Diferencial, Programa para la Inclusión de Estudiantes con Necesidades Especiales \(PIANE\)**.
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">
-        <ul>
-          <li><b>Vacantes Cupos Supernumerarios BEA:</b>  <b>Son cupos adicionales que dispone cada carrera para alumnos</b>que,
-            estando bajo el puntaje de selecci&#xF3;n, por su rendimiento acad&#xE9;mico,
-            en la Educaci&#xF3;n Media, han obtenido la condici&#xF3;n de alumnos Beca
-            de Excelencia Acad&#xE9;mica (BEA) que otorga el MINEDUC. <a href="http://admisionyregistros.uc.cl/futuros-alumnos/admision-equidad/cupos-supernumerarios-bea">M&#xE1;s informaci&#xF3;n en este enlace. </a>
-            <br
-            />
-            <br />
-          </li>
-          <li><b>Programa Talento e Inclusi&#xF3;n UC:</b> Es una v&#xED;a especial e
-            ingreso a la Pontificia Universidad Cat&#xF3;lica de Chile <b>estudiantes que provengan del 10% superior de su generaci&#xF3;n seg&#xFA;n ranking de notas</b> al
-            menos los dos &#xFA;ltimos a&#xF1;os antes de haber egresado de cuarto
-            medio<b>.</b> Este <a href="http://talento.uc.cl/">programa </a>considera
-            cupos extraordinarios en distintas carreras, y ofrece financiamiento al
-            alumno por medio de becas y cr&#xE9;ditos.
-            <br />
-            <br />- M&#xE1;s informaci&#xF3;n en: <a href="http://talento.uc.cl/">http://talento.uc.cl</a>
-          </li>
-        </ul>
-        <p></p>
-        <ul>
-          <li><b>Sistema de Admisi&#xF3;n Especial para Alumnos con Discapacidad:</b> La
-            UC cuenta con un sistema de admisi&#xF3;n especial para todas sus carreras
-            destinado a postulantes con discapacidad auditiva, motora o visual que
-            les impidan o dificulten su admisi&#xF3;n por la v&#xED;a ordinaria (PSU). <b>Estos alumnos pueden participar del </b>
-            <a
-            href="http://piane.uc.cl/"><b>Programa de Inclusi&#xF3;n de Alumnos con Necesidades Especiales (PIANE)</b>
-              </a><b>, </b>que entrega los apoyos necesarios para que puedan desarrollar
-              sus actividades acad&#xE9;micas en condiciones de equidad.
-              <br />
-              <br />- M&#xE1;s informaci&#xF3;n en: <a href="http://piane.uc.cl/">http://piane.uc.cl/</a>
-              <br
-              />
-          </li>
-          <li><b>Admisi&#xF3;n Especial para Artistas, Cient&#xED;ficos y Deportistas Destacados:</b> Asimismo,
-            la UC cuenta con sistemas de admisi&#xF3;n especial para <b>postulantes que tengan desempe&#xF1;o destacado en &#xE1;reas art&#xED;sticas, cient&#xED;ficas y deportivas.</b> 
-            <br
-            />
-            <br />- M&#xE1;s informaci&#xF3;n sobre estas v&#xED;as de admisi&#xF3;n en
-            <a
-            href="http://admisionyregistros.uc.cl/futuros-alumnos/admision-especial/casos-de-postulacion">admision.uc.cl</a>y en <a href="http://deportes.uc.cl/">deportes.uc.cl</a>
-          </li>
-        </ul>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>La UC abre vacantes especiales para alumnos provenientes de establecimientos municipales o particulares subvencionados: vacantes Cupos Supernumerarios BEA y Programa Talento e Inclusión en la UC. Entérate más del proceso de admisión a través del Facebook de Admisión UC.
+[D](https://www.uc.cl/images/BasesRI2018.pdf)
 

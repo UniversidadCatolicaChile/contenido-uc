@@ -323,12 +323,12 @@
 
 ## Inclusión
 
-* [Admisión](inclusion/admision.md)
-* [Financiamiento](inclusion/financiamiento.md)
-* [Talento e Inclusión](inclusion/talento-e-inclusion.md)
-* [Acompañamiento](inclusion/untitled-1.md)
-* [Glosario](inclusion/glosario.md)
-* [Ranking](inclusion/ranking.md)
+* [Inicio](inclusion/admision.md)
+* [Vías de equidad](inclusion/financiamiento.md)
+* [Graduación efectiva](inclusion/talento-e-inclusion.md)
+* [PACE UC](inclusion/untitled-1.md)
+* [Nosotros](inclusion/glosario.md)
+* [Contacto](inclusion/ranking.md)
 
 ## Laudato sí
 
