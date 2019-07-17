@@ -2,42 +2,39 @@
 
 ## UC Dialoga
 
-![Imagen La UC Dialoga versi&#xF3;n 2018](../.gitbook/assets/uc-dialoga-2018.png)
+![Gr&#xE1;fica de la versi&#xF3;n 2019.](../.gitbook/assets/header-uc-dialoga-2019.png)
 
-La UC Dialoga es una iniciativa de la Universidad Católica, creada en el año 2014, y que busca **desarrollar la capacidad de que estudiantes, académicos, profesionales, administrativos y exalumnos conversen** con argumentos en torno a **distintos temas al interior de nuestra comunidad.**
+## Inicio
 
-* Inscripciones y contacto
-* Objetivos y metodología
-* Versiones anteriores
+{% embed url="https://www.youtube.com/watch?v=vtMzxLOv9C0" %}
 
-### Presentación
 
-{% embed url="https://www.youtube.com/watch?v=vtMzxLOv9C0" caption="Video con el resumen de la versión 2018." %}
 
-**“La mujer en la UC: avances y desafíos actuales”**, es el tema que reunió a la comunidad universitaria en la **quinta versión de La UC Dialoga**. Los participantes reflexionaron en torno a las siguientes mesas: **Cómo avanzar en equidad; Chile: el cambio cultural que queremos; Formación y preparación para el liderazgo; Perspectivas de desarrollo de la Mujer en la UC y Mujeres, abusos y violencia sexual.**
+Educar y aprender suponen convivir, vincularse, discutir y alcanzar acuerdos con otras personas, en un marco de respeto, diálogo, escucha genuina, tolerancia y buen trato. Es en tales circunstancias que los prejuicios se reducen, las relaciones humanas pueden volverse mutuamente nutritivas, se fomenta el bienestar del conjunto y la diversidad interindividual alcanza en mayor medida su potencial promotor del aprendizaje para todos.
 
-El proyecto La UC Dialoga **nació en 2014** a partir de una idea tan simple como inusual: reunir a **académicos, estudiantes, administrativos, profesionales y exalumnos** en torno a una mesa con el objetivo de **compartir distintos puntos de vista**. La primera versión tuvo más de 600 participantes, quienes reflexionaron respecto de tres temas: sustentabilidad, ética profesional y docencia universitaria.
+La convivencia social en contextos educativos “no es algo estable, sino que es una construcción colectiva y dinámica, sujeta a modificaciones conforme varían las interrelaciones de los actores en el tiempo” \(Banz, 2008, p.2\). En educación superior, la comunidad construye la convivencia universitaria en que se generan las condiciones para alcanzar los aprendizajes esperados, tanto de contenidos como de interacción humana.
 
-En 2015 se usó la metodología para tratar los ejes del Plan Estratégico 2015-2020 de la UC, los cuales fueron: Inclusión, Creación de conocimiento, Innovación en docencia, Interdisciplina y Compromiso Público. Más de 800 personas participaron en total.
+Este año queremos incorporarnos como Comunidad UC a la reflexión que nos compete como comunidad universitaria y que debiese movilizarnos en nuestra relación con nuestro entorno más cercano, nuestras comunidades vecinas, la ciudad y el país. Se trata de la convivencia universitaria, con sus distintos ámbitos de acción y con las discusiones que se requieren abordar en nuestros escenarios actuales.
 
-Al año siguiente, el tema fue la Reforma de la Educación Superior. Junto a las “Mesas al patio” y encuentros focalizados, se creó un nuevo espacio, “Debate público”, donde representantes de distintas universidades ampliaron la discusión con cada una de sus miradas. En total, el ciclo contó con más de 2.200 participaciones.
+### Participa en La UC Dialoga
 
-En 2017, un total de 816 estudiantes, académicos, administrativos, profesionales y exalumnos UC, reunidos en 92 mesas, aportaron con sus ideas y propuestas en el proceso de Acreditación Instituciona. Cinco fueron los temas abordados: Formación integral, Docencia de pre y postgrado, Proyección de la investigación en la docencia, Vinculación con el medio e Impacto país.
+* Campus Lo Contador – martes 4 de junio
+* Casa Central – jueves 6 de junio
+* Campus Oriente – martes 11 de junio
+* Campus Villarrica – martes 11 de junio
+* Campus San Joaquín – jueves 13 de junio
 
-Toda la reflexión realizada en La UC Dialoga es recogida en un informe, que es entregado a la Dirección Superior, convirtiéndose en un importante insumo para la toma de decisiones.
-
-### Inscríbete
-
-Pronto se publicarán las fechas de la versión 2019 de La UC Dialoga.
+[Inscríbete aquí ](https://docs.google.com/forms/d/e/1FAIpQLScSb3HWLXdMGKhKUScQC4J0bU5Rl-czZuUqOUoBSn99OiY62A/viewform)
 
 ### Contacto
 
-* Dirección de Comunicaciones
-* Vicerrectoría de Comunicaciones
-* Tel: \(+56\) 2 23542777
-* dcomunicaciones@uc.cl
+Magdalena Cobo V.  
+Coordinadora de Gestión y Producción  
+Vicerrectoría de Comunicaciones  
+Tel: \(+56\) 22354 2777   
+magdalena.cobo@uc.cl
 
-### Objetivos y metodología
+## Qué es
 
 #### Objetivos
 
@@ -59,7 +56,33 @@ Diálogos que se realizan en espacios abiertos y centrales de los cinco campus d
 
 Diálogos realizados para obtener visiones y aportes desde diversos grupos internos y externos. En sesiones de una hora y media se realizan mesas de discusión en encuentros con representantes estudiantiles, autoridades internas, amigos y ex alumnos de la universidad. Al igual que en la etapa I, cada mesa cuenta con un moderador/facilitador y un secretario de actas. Las conclusiones de esta etapa también son incorporadas a los aportes finales del proceso.
 
-### **Versiones anteriores**
+[Inscríbete en las Mesas al Patio en el campus que más te acomode aquí](https://forms.gle/reMX18ZhYb2vWmr38)
+
+### Contacto
+
+Magdalena Cobo V.  
+Coordinadora de Gestión y Producción  
+Vicerrectoría de Comunicaciones  
+Tel: \(+56\) 22354 2777   
+magdalena.cobo@uc.cl
+
+## **Inscripciones**
+
+[Inscríbete en las Mesas al Patio en el campus que más te acomode aquí](https://forms.gle/reMX18ZhYb2vWmr38)
+
+### Contacto
+
+Magdalena Cobo V.  
+Coordinadora de Gestión y Producción  
+Vicerrectoría de Comunicaciones  
+Tel: \(+56\) 22354 2777   
+magdalena.cobo@uc.cl
+
+## **Antecedentes**
+
+#### Versión 2019
+
+* [Temas de reflexión para las Mesas, La UC Dialoga 2019](https://www.uc.cl/images/stories/La_UC_dialoga/2019/la-uc-dialoga-2019.pdf)
 
 #### **Versión 2018**
 
